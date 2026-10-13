@@ -11,8 +11,15 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AdminRouteImport } from './routes/admin'
+import { Route as CgvRouteImport } from './routes/cgv'
 import { Route as CompteRouteImport } from './routes/compte'
 import { Route as ConnexionRouteImport } from './routes/connexion'
+import { Route as FaqRouteImport } from './routes/faq'
+import { Route as FideliteRouteImport } from './routes/fidelite'
+import { Route as LivraisonRouteImport } from './routes/livraison'
+import { Route as MagasinsRouteImport } from './routes/magasins'
+import { Route as PanierRouteImport } from './routes/panier'
+import { Route as RetoursRouteImport } from './routes/retours'
 import { Route as CategorieSlugRouteImport } from './routes/categorie.$slug'
 import { Route as ProduitIdRouteImport } from './routes/produit.$id'
 
@@ -26,6 +33,11 @@ const AdminRoute = AdminRouteImport.update({
   path: '/admin',
   getParentRoute: () => rootRouteImport,
 } as any)
+const CgvRoute = CgvRouteImport.update({
+  id: '/cgv',
+  path: '/cgv',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const CompteRoute = CompteRouteImport.update({
   id: '/compte',
   path: '/compte',
@@ -34,6 +46,36 @@ const CompteRoute = CompteRouteImport.update({
 const ConnexionRoute = ConnexionRouteImport.update({
   id: '/connexion',
   path: '/connexion',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const FaqRoute = FaqRouteImport.update({
+  id: '/faq',
+  path: '/faq',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const FideliteRoute = FideliteRouteImport.update({
+  id: '/fidelite',
+  path: '/fidelite',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LivraisonRoute = LivraisonRouteImport.update({
+  id: '/livraison',
+  path: '/livraison',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MagasinsRoute = MagasinsRouteImport.update({
+  id: '/magasins',
+  path: '/magasins',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PanierRoute = PanierRouteImport.update({
+  id: '/panier',
+  path: '/panier',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const RetoursRoute = RetoursRouteImport.update({
+  id: '/retours',
+  path: '/retours',
   getParentRoute: () => rootRouteImport,
 } as any)
 const CategorieSlugRoute = CategorieSlugRouteImport.update({
@@ -50,16 +92,30 @@ const ProduitIdRoute = ProduitIdRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/admin': typeof AdminRoute
+  '/cgv': typeof CgvRoute
   '/compte': typeof CompteRoute
   '/connexion': typeof ConnexionRoute
+  '/faq': typeof FaqRoute
+  '/fidelite': typeof FideliteRoute
+  '/livraison': typeof LivraisonRoute
+  '/magasins': typeof MagasinsRoute
+  '/panier': typeof PanierRoute
+  '/retours': typeof RetoursRoute
   '/categorie/$slug': typeof CategorieSlugRoute
   '/produit/$id': typeof ProduitIdRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/admin': typeof AdminRoute
+  '/cgv': typeof CgvRoute
   '/compte': typeof CompteRoute
   '/connexion': typeof ConnexionRoute
+  '/faq': typeof FaqRoute
+  '/fidelite': typeof FideliteRoute
+  '/livraison': typeof LivraisonRoute
+  '/magasins': typeof MagasinsRoute
+  '/panier': typeof PanierRoute
+  '/retours': typeof RetoursRoute
   '/categorie/$slug': typeof CategorieSlugRoute
   '/produit/$id': typeof ProduitIdRoute
 }
@@ -67,8 +123,15 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/admin': typeof AdminRoute
+  '/cgv': typeof CgvRoute
   '/compte': typeof CompteRoute
   '/connexion': typeof ConnexionRoute
+  '/faq': typeof FaqRoute
+  '/fidelite': typeof FideliteRoute
+  '/livraison': typeof LivraisonRoute
+  '/magasins': typeof MagasinsRoute
+  '/panier': typeof PanierRoute
+  '/retours': typeof RetoursRoute
   '/categorie/$slug': typeof CategorieSlugRoute
   '/produit/$id': typeof ProduitIdRoute
 }
@@ -77,24 +140,45 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/admin'
+    | '/cgv'
     | '/compte'
     | '/connexion'
+    | '/faq'
+    | '/fidelite'
+    | '/livraison'
+    | '/magasins'
+    | '/panier'
+    | '/retours'
     | '/categorie/$slug'
     | '/produit/$id'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
     | '/admin'
+    | '/cgv'
     | '/compte'
     | '/connexion'
+    | '/faq'
+    | '/fidelite'
+    | '/livraison'
+    | '/magasins'
+    | '/panier'
+    | '/retours'
     | '/categorie/$slug'
     | '/produit/$id'
   id:
     | '__root__'
     | '/'
     | '/admin'
+    | '/cgv'
     | '/compte'
     | '/connexion'
+    | '/faq'
+    | '/fidelite'
+    | '/livraison'
+    | '/magasins'
+    | '/panier'
+    | '/retours'
     | '/categorie/$slug'
     | '/produit/$id'
   fileRoutesById: FileRoutesById
@@ -102,8 +186,15 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AdminRoute: typeof AdminRoute
+  CgvRoute: typeof CgvRoute
   CompteRoute: typeof CompteRoute
   ConnexionRoute: typeof ConnexionRoute
+  FaqRoute: typeof FaqRoute
+  FideliteRoute: typeof FideliteRoute
+  LivraisonRoute: typeof LivraisonRoute
+  MagasinsRoute: typeof MagasinsRoute
+  PanierRoute: typeof PanierRoute
+  RetoursRoute: typeof RetoursRoute
   CategorieSlugRoute: typeof CategorieSlugRoute
   ProduitIdRoute: typeof ProduitIdRoute
 }
@@ -124,6 +215,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AdminRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/cgv': {
+      id: '/cgv'
+      path: '/cgv'
+      fullPath: '/cgv'
+      preLoaderRoute: typeof CgvRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/compte': {
       id: '/compte'
       path: '/compte'
@@ -136,6 +234,48 @@ declare module '@tanstack/react-router' {
       path: '/connexion'
       fullPath: '/connexion'
       preLoaderRoute: typeof ConnexionRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/faq': {
+      id: '/faq'
+      path: '/faq'
+      fullPath: '/faq'
+      preLoaderRoute: typeof FaqRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/fidelite': {
+      id: '/fidelite'
+      path: '/fidelite'
+      fullPath: '/fidelite'
+      preLoaderRoute: typeof FideliteRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/livraison': {
+      id: '/livraison'
+      path: '/livraison'
+      fullPath: '/livraison'
+      preLoaderRoute: typeof LivraisonRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/magasins': {
+      id: '/magasins'
+      path: '/magasins'
+      fullPath: '/magasins'
+      preLoaderRoute: typeof MagasinsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/panier': {
+      id: '/panier'
+      path: '/panier'
+      fullPath: '/panier'
+      preLoaderRoute: typeof PanierRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/retours': {
+      id: '/retours'
+      path: '/retours'
+      fullPath: '/retours'
+      preLoaderRoute: typeof RetoursRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/categorie/$slug': {
@@ -158,8 +298,15 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AdminRoute: AdminRoute,
+  CgvRoute: CgvRoute,
   CompteRoute: CompteRoute,
   ConnexionRoute: ConnexionRoute,
+  FaqRoute: FaqRoute,
+  FideliteRoute: FideliteRoute,
+  LivraisonRoute: LivraisonRoute,
+  MagasinsRoute: MagasinsRoute,
+  PanierRoute: PanierRoute,
+  RetoursRoute: RetoursRoute,
   CategorieSlugRoute: CategorieSlugRoute,
   ProduitIdRoute: ProduitIdRoute,
 }
