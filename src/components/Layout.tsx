@@ -2,6 +2,7 @@ import { Link } from "@tanstack/react-router";
 import type { ReactNode } from "react";
 import { categories, products, euro, type Product, productImage, type Status } from "@/lib/data";
 import { useStore } from "@/lib/store";
+import { ChatWidget } from "./ChatWidget";
 
 export function Logo() {
   return (
@@ -61,6 +62,7 @@ export function Layout({ children }: { children: ReactNode }) {
           </ul></div>
         </div>
       </footer>
+      <ChatWidget />
     </div>
   );
 }

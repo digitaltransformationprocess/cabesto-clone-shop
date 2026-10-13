@@ -3,6 +3,33 @@ import { useState } from "react";
 import { Layout, StatusBadge, productName } from "@/components/Layout";
 import { categories, euro, orderTotal, products, statuses, testUsers, type Status } from "@/lib/data";
 import { useStore } from "@/lib/store";
+import { useEffect } from "react";
+import { useServerFn } from "@tanstack/react-start";
+import { testAiConnection, type AiConfig } from "@/lib/chat.functions";
+import { defaultModels, readAiConfig, saveAiConfig } from "@/lib/ai-config";
+
+function AiSettings() {
+  const test = useServerFn(testAiConnection);
+  const [c, setC] = useState<AiConfig>({ provider: "google", apiKey: "", model: defaultModels.google });
+  const [res, setRes] = useState<{ ok: boolean; message: string } | null>(null);
+  const [busy, setBusy] = useState(false);
+  const [saved, setSaved] = useState(false);
+  useEffect(() => { const r = readAiConfig(); if (r) setC(r); }, []);
+  return (
+    <div className="max-w-xl space-y-4 rounded-lg border bg-card p-6">
+      <h2 className="text-2xl font-bold">Assistant IA</h2>
+      <p className="text-sm text-muted-foreground">Connectez le chatbot client à Google Gemini ou OpenRouter.</p>
+      <div className="flex gap-2">{(["google", "openrouter"] as const).map((p) => <button key={p} onClick={() => { setC({ ...c, provider: p, model: defaultModels[p] }); setRes(null); }} className={`rounded px-4 py-2 text-sm font-bold ${c.provider === p ? "bg-primary text-primary-foreground" : "bg-muted"}`}>{p === "google" ? "Google Gemini" : "OpenRouter"}</button>)}</div>
+      <label className="block text-sm font-semibold">Clé API<input type="password" value={c.apiKey} onChange={(e) => setC({ ...c, apiKey: e.target.value.trim() })} placeholder={c.provider === "google" ? "AIza… (aistudio.google.com/apikey)" : "sk-or-… (openrouter.ai/keys)"} className="mt-1 w-full rounded border px-3 py-2 font-normal" /></label>
+      <label className="block text-sm font-semibold">Modèle<input value={c.model} onChange={(e) => setC({ ...c, model: e.target.value })} className="mt-1 w-full rounded border px-3 py-2 font-normal" /></label>
+      <div className="flex gap-2">
+        <button onClick={() => { saveAiConfig(c); setSaved(true); setTimeout(() => setSaved(false), 2000); }} className="rounded bg-primary px-4 py-2 text-sm font-bold text-primary-foreground">{saved ? "Enregistré ✓" : "Enregistrer"}</button>
+        <button disabled={busy || !c.apiKey} onClick={async () => { setBusy(true); setRes(null); try { setRes(await test({ data: c })); } catch (e) { setRes({ ok: false, message: (e as Error).message }); } setBusy(false); }} className="rounded bg-accent px-4 py-2 text-sm font-bold text-accent-foreground disabled:opacity-50">{busy ? "Test en cours…" : "Tester la connexion"}</button>
+      </div>
+      {res && <p className={`rounded p-3 text-sm ${res.ok ? "bg-success/15 text-success" : "bg-destructive/15 text-destructive"}`}>{res.ok ? `✓ Connecté — réponse du modèle : « ${res.message} »` : `✗ Échec : ${res.message}`}</p>}
+    </div>
+  );
+}
 
 export const Route = createFileRoute("/admin")({
   head: () => ({ meta: [
@@ -18,7 +45,7 @@ function Admin() {
   const [q, setQ] = useState(""); const [f, setF] = useState<Status | "">("");
   if (!user || user.role === "client") return <Layout><p className="p-10 text-center">Accès réservé. <Link to="/connexion" className="text-accent underline">Se connecter</Link></p></Layout>;
   const isAdmin = user.role === "admin";
-  const tabs = ["Tableau de bord", "Commandes", "Support", ...(isAdmin ? ["Stock", "Clients"] : [])];
+  const tabs = ["Tableau de bord", "Commandes", "Support", ...(isAdmin ? ["Stock", "Clients", "Assistant IA"] : [])];
   const valid = orders.filter((o) => o.status !== "Annulée");
   const revenue = valid.reduce((s, o) => s + orderTotal(o), 0);
   const filtered = orders.filter((o) => (!f || o.status === f) && `${o.id} ${o.customer} ${o.email}`.toLowerCase().includes(q.toLowerCase()));
@@ -73,6 +100,7 @@ function Admin() {
           </>)}
           {tab === "Support" && (<div className="space-y-3">{tickets.length === 0 && <p className="text-muted-foreground">Aucun ticket.</p>}{tickets.map((t) => <div key={t.id} className="flex items-start justify-between gap-4 rounded-lg border bg-card p-4"><div><p className="font-semibold">{t.id} · {t.subject}</p><p className="text-xs text-muted-foreground">{t.email} · {t.date}</p><p className="mt-1 text-sm">{t.message}</p></div><button onClick={() => setTicketStatus(t.id, t.status === "Ouvert" ? "Résolu" : "Ouvert")} className={`rounded px-3 py-1 text-xs font-bold ${t.status === "Ouvert" ? "bg-accent text-accent-foreground" : "bg-muted"}`}>{t.status}</button></div>)}</div>)}
           {tab === "Stock" && isAdmin && <ul className="divide-y rounded-lg border bg-card">{products.map((p) => <li key={p.id} className="flex justify-between p-3 text-sm"><span>{p.name} <span className="text-muted-foreground">· {p.brand} · {euro(p.price)}</span></span><span className={p.stock < 8 ? "font-bold text-destructive" : ""}>{p.stock} en stock</span></li>)}</ul>}
+          {tab === "Assistant IA" && isAdmin && <AiSettings />}
           {tab === "Clients" && isAdmin && <ul className="divide-y rounded-lg border bg-card">{[...testUsers.map((u) => ({ n: u.name, e: u.email, r: u.role })), ...[...new Set(orders.map((o) => o.email))].filter((e) => !testUsers.some((u) => u.email === e)).map((e) => ({ n: orders.find((o) => o.email === e)!.customer, e, r: "client" }))].map((u) => <li key={u.e} className="flex justify-between p-3 text-sm"><span>{u.n} · {u.e}</span><span className="capitalize text-muted-foreground">{u.r} · {orders.filter((o) => o.email === u.e).length} cmd</span></li>)}</ul>}
         </section>
       </div>
