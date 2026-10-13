@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0000918",
+  "url": "https://www.cabesto.com/fr/plongee-bloque-plomb-pl-12632.html",
+  "title": "Bloque plomb chasse sous-marine INOX IMERSION",
+  "brand": "IMERSION",
+  "category": "lestage",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bloque plomb chasse sous-marine INOX IMERSION"
+  ],
+  "description": "détaillée 6,99 € Quantité Ajouter au panier En stock Livraison estimée entre le 15/10/2026 et le 19/10/2026 Selon le mode de livraison choisi et les délais du transporteur. Vérifie la disponibilité... Vérifier la disponibilité dans votre magasin Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation.",
+  "supplierRef": "B720.",
+  "price": {
+    "amount": 6.99,
+    "currency": "EUR",
+    "formatted": "6.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0000918",
+      "sku": "SU-0000918",
+      "supplierRef": "B720.",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/l/bloc-plomb-a-dent-inox-imersion_7md3nbo0houi4ydz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-12632-pl-12632-picture_1-pl-12632-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:17.984Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bloc-plomb-a-dent-inox-imersion_7md3nbo0houi4ydz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000918/01-bloc-plomb-a-dent-inox-imersion_7md3nbo0houi4ydz.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-12632-pl-12632-picture_1-pl-12632-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000918/02-pl-12632-pl-12632-picture_1-pl-12632-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "lestage"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "lestage"
+  ]
+}

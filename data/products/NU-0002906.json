@@ -1,0 +1,77 @@
+{
+  "sku": "NU-0002906",
+  "url": "https://www.cabesto.com/fr/unite-d-energie-minnkota.html",
+  "title": "Unité d'énergie MinnKota - MINNKOTA",
+  "brand": "MINN KOTA",
+  "category": "Accessoires pour batterie",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Nautisme",
+    "Electricité",
+    "Batteries",
+    "Accessoires pour batterie"
+  ],
+  "categories": [
+    "Nautisme",
+    "Electricité",
+    "Batteries",
+    "Accessoires pour batterie"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Unité d'énergie MinnKota - MINNKOTA"
+  ],
+  "description": "Achetez Unité d'énergie MinnKota - MINNKOTA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "MK-1820175",
+  "price": {
+    "amount": 139,
+    "currency": "EUR",
+    "formatted": "139 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0002906",
+      "sku": "NU-0002906",
+      "supplierRef": "MK-1820175",
+      "price": {
+        "amount": 139,
+        "currency": "EUR",
+        "formatted": "139 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/2/424658.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/2/424655.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/2/424656.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:03:37.845Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/2/424658.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0002906/01-424658.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/2/424655.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0002906/02-424655.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/2/424656.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0002906/03-424656.jpg",
+      "skipped": true
+    }
+  ]
+}

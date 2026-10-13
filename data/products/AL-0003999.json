@@ -1,0 +1,64 @@
+{
+  "sku": "AL-0003999",
+  "url": "https://www.cabesto.com/fr/soupe-de-poissons-de-roche-6-assiettes-720ml.html",
+  "title": "SOUPE DE POISSONS DE ROCHE 6 ASSIETTES 720ML",
+  "brand": "AZAIS POLITO",
+  "category": "alimentation",
+  "description": "Notre Soupe de poisson de Roche est l'une des plus concentrée du marché avec 52% de poisson ! Composée de poisson, légumes et huile d'olive de première qualité, elle reflète l'univers Méditerranéen et la gastronomie Sétoise. Elaborée dans la tradition et de façon artisanale, notre Soupe de Roche est une véritable merveille à déguster... **Liste des ingrédients :** **poissons** de roche de Méditerranée (52%), eau, concentré de tomates, sel, oignon, carotte, poireau, Huile d'olive vierge extra, vin blanc, épices, plantes aromatiques et safran. | valeurs nutritionnelles moyennes | Pour 100g | | | --- | --- | --- | | Energie | 55 / 230.27 | kcal / kJ | | Matières grasses | 2,2 | g | | Acides gras saturés | 0,5 | g | | Glucides | 0,6 | g | | Sucres | 0,6 | g | | Protéines | 7,8 | g | | Sel | 1,34 | g | | Fibres | 1 | g |",
+  "price": {
+    "amount": 7.39,
+    "currency": "EUR",
+    "formatted": "7.39 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "In stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003999",
+      "sku": "AL-0003999",
+      "price": {
+        "amount": 7.39,
+        "currency": "EUR",
+        "formatted": "7.39 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "In stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/0/3/0346767-0346767-picture_1-0346767_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/0/3/0346767-0346767-picture_1-0346767_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/3/0346767-0346767-picture_1-0346767_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003999/01-0346767-0346767-picture_1-0346767_1.jpg",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:11:28.235Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/0/3/0346767-0346767-picture_1-0346767_1.jpg?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "7.39",
+    "currency": "EUR",
+    "availability": "in stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "offre-alimentation"
+  ],
+  "categories": [
+    "alimentation",
+    "offre-alimentation"
+  ]
+}

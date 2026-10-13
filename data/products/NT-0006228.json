@@ -1,0 +1,93 @@
+{
+  "sku": "NT-0006228",
+  "url": "https://www.cabesto.com/fr/verticalite-lampe-frontale-duo-s-petzl-nt-0006228.html",
+  "title": "Lampe frontale Duo S PETZL",
+  "brand": "PETZL",
+  "category": "Lampes frontales",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Spéléologie",
+    "Eclairage",
+    "Eclairages sur casques",
+    "Lampes frontales"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Eclairage",
+    "Eclairages sur casques",
+    "Lampes frontales"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montagne",
+    "Montagne",
+    "Randonnée",
+    "Randonnée",
+    "Lampe frontale Duo S PETZL"
+  ],
+  "description": "Achetez Lampe frontale Duo S PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "E80CHR",
+  "price": {
+    "amount": 250.9,
+    "currency": "EUR",
+    "formatted": "250.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006228",
+      "sku": "NT-0006228",
+      "supplierRef": "E80CHR",
+      "price": {
+        "amount": 250.9,
+        "currency": "EUR",
+        "formatted": "250.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/u/duo_s_ok.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe63_4-lampe-frontale-duo-s-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe63_1-lampe-frontale-duo-s-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe63_3-lampe-frontale-duo-s-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe63_2-lampe-frontale-duo-s-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:15:58.674Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/duo_s_ok.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006228/01-duo_s_ok.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe63_4-lampe-frontale-duo-s-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006228/02-pe63_4-lampe-frontale-duo-s-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe63_1-lampe-frontale-duo-s-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006228/03-pe63_1-lampe-frontale-duo-s-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe63_3-lampe-frontale-duo-s-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006228/04-pe63_3-lampe-frontale-duo-s-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe63_2-lampe-frontale-duo-s-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006228/05-pe63_2-lampe-frontale-duo-s-petzl.jpg",
+      "skipped": true
+    }
+  ]
+}

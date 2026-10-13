@@ -1,0 +1,67 @@
+{
+  "sku": "PI-0001347",
+  "url": "https://www.cabesto.com/fr/piscine-epuisette-de-fond-blue-line-pi-1244.html",
+  "title": "Epuisette de fond blue line",
+  "brand": "ASTRAL",
+  "category": "Épuisette",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Nettoyage manuel",
+    "Épuisette"
+  ],
+  "categories": [
+    "Nettoyage manuel",
+    "Épuisette"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Epuisette de fond blue line"
+  ],
+  "description": "Achetez Epuisette de fond blue line chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "69666",
+  "price": {
+    "amount": 16.99,
+    "currency": "EUR",
+    "formatted": "16.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001347",
+      "sku": "PI-0001347",
+      "supplierRef": "69666",
+      "price": {
+        "amount": 16.99,
+        "currency": "EUR",
+        "formatted": "16.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/p/epuisette-de-fond-blue-line-32088_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/p/epuisette-de-fond-blue-line-piscine-center-1531314676.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:39:18.099Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/epuisette-de-fond-blue-line-32088_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001347/01-epuisette-de-fond-blue-line-32088_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/epuisette-de-fond-blue-line-piscine-center-1531314676.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001347/02-epuisette-de-fond-blue-line-piscine-center-1531314676.jpg",
+      "skipped": false
+    }
+  ]
+}

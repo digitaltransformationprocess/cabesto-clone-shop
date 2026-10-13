@@ -1,0 +1,139 @@
+{
+  "sku": "PCNT-0002390",
+  "url": "https://www.cabesto.com/fr/verticalite-assureur-escalade-birdie-beal-be88.html",
+  "title": "Assureur Escalade Birdie - BEAL",
+  "brand": "BEAL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Escalade",
+    "Descendeurs, système d'assurage",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Escalade",
+    "Descendeurs, système d'assurage",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Assureur Escalade Birdie - BEAL"
+  ],
+  "description": "Compact et facile d'utilisation, l'assureur - descendeur à blocage assisté Birdie Beal est conçu pour une pratique facilitée en salle, falaise, couenne.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0002390",
+      "sku": "PCNT-0002390",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/i/birdie_7_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bl89_1-harnais-escalade-aero-classic-ii-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bl07_1-longe-dynaclip-50-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/r/orient20express20bi-matic20blue_1b526541-01bd-48ea-8f5b-2a157e953802.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/i/birdie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/i/birdie_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/i/birdie_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/i/birdie_6_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/i/birdie_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/i/birdie_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/i/birdie_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2023-05-05_14_52_55-birdie_10x10cm_03_2019.indd.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2023-05-05_14_31_11-birdie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:29:18.800Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/birdie_7_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/01-birdie_7_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl89_1-harnais-escalade-aero-classic-ii-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/02-bl89_1-harnais-escalade-aero-classic-ii-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl07_1-longe-dynaclip-50-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/03-bl07_1-longe-dynaclip-50-cm-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/r/orient20express20bi-matic20blue_1b526541-01bd-48ea-8f5b-2a157e953802.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/04-orient20express20bi-matic20blue_1b526541-01bd-48ea-8f5b-2a157e953802.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/birdie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/05-birdie.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/birdie_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/06-birdie_2_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/birdie_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/07-birdie_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/birdie_6_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/08-birdie_6_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/birdie_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/09-birdie_3_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/birdie_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/10-birdie_5_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/birdie_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/11-birdie_4_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2023-05-05_14_52_55-birdie_10x10cm_03_2019.indd.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/12-2023-05-05_14_52_55-birdie_10x10cm_03_2019.indd.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2023-05-05_14_31_11-birdie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002390/13-2023-05-05_14_31_11-birdie.jpg",
+      "skipped": false
+    }
+  ]
+}

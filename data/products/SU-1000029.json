@@ -1,0 +1,143 @@
+{
+  "sku": "SU-1000029",
+  "url": "https://www.cabesto.com/fr/montre-ordinateur-de-plongee-descent-mk3i-noir-garmin-su-1000029.html",
+  "title": "Montre ordinateur de plongée DESCENT™ Mk3i Ø 51 mm titane carbone noir GARMIN",
+  "brand": "GARMIN",
+  "category": "Montres ordinateurs",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Ordinateurs de plongée",
+    "Montres ordinateurs"
+  ],
+  "categories": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Ordinateurs de plongée",
+    "Montres ordinateurs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montre ordinateur de plongée DESCENT™ Mk3i Ø 51 mm titane carbone noir GARMIN"
+  ],
+  "description": "Plongez connectés et découvrez les profondeurs avec la montre ordinateur de plongée haut de gamme DESCENT™ Mk3i de GARMIN, la montre pensée pour le suivi sous-marin précis, la lisibilité instantanée et la sécurité à chaque immersion, avec, en option, la g",
+  "supplierRef": "010-02752-16",
+  "price": {
+    "amount": 1549.99,
+    "currency": "EUR",
+    "formatted": "1549.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-1000029",
+      "sku": "SU-1000029",
+      "supplierRef": "010-02752-16",
+      "price": {
+        "amount": 1549.99,
+        "currency": "EUR",
+        "formatted": "1549.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/k/mk3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/i/titane_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/x/3/x302.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/x/5/x50_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk3si.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/2/g2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/e/descentt2_3__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk31.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/3/k3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/3/k31.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/3/k32.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/3/k34.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/3/k35.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/3/k36.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:19:07.304Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/01-mk3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/i/titane_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/02-titane_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/3/x302.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/03-x302.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/5/x50_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/04-x50_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk3si.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/05-mk3si.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/2/g2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/06-g2_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/e/descentt2_3__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/07-descentt2_3__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk31.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/08-mk31.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/3/k3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/09-k3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/3/k31.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/10-k31.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/3/k32.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/11-k32.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/3/k34.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/12-k34.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/3/k35.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/13-k35.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/3/k36.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000029/14-k36.jpg",
+      "skipped": false
+    }
+  ]
+}

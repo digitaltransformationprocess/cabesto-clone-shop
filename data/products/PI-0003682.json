@@ -1,0 +1,75 @@
+{
+  "sku": "PI-0003682",
+  "url": "https://www.cabesto.com/fr/robot-piscine-hydraulique-t3-zodiac.html",
+  "title": "ROBOT PISCINE HYDRAULIQUE T3 ZODIAC",
+  "brand": "ZODIAC",
+  "category": "Robot fond et parois",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Robot hydraulique",
+    "Robot fond",
+    "Robot fond et parois"
+  ],
+  "categories": [
+    "Robot hydraulique",
+    "Robot fond",
+    "Robot fond et parois"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROBOT PISCINE HYDRAULIQUE T3 ZODIAC"
+  ],
+  "description": "Pour un nettoyage efficace de votre piscine de petite et/ou moyenne dimensions, choisissez le robot nettoyeur pour piscine hydraulique Zodiac T3 !",
+  "supplierRef": "W70674",
+  "price": {
+    "amount": 178,
+    "currency": "EUR",
+    "formatted": "178 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003682",
+      "sku": "PI-0003682",
+      "supplierRef": "W70674",
+      "price": {
+        "amount": 178,
+        "currency": "EUR",
+        "formatted": "178 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/1/513hHDJzqcL._AC_SL1012_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/41GzVxIf81L._AC_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/1/51q8oxwFCHL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:29:57.998Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/1/513hHDJzqcL._AC_SL1012_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003682/01-513hHDJzqcL._AC_SL1012_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/41GzVxIf81L._AC_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003682/02-41GzVxIf81L._AC_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/1/51q8oxwFCHL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003682/03-51q8oxwFCHL._AC_SL1500_.jpg",
+      "skipped": false
+    }
+  ]
+}

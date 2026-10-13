@@ -1,0 +1,67 @@
+{
+  "sku": "PI-0002058",
+  "url": "https://www.cabesto.com/fr/piscine-manchon-mixte-d50-x-1-1-2-16-bars-pi-789.html",
+  "title": "Manchon mixte D50 x 1\"1/2 - 16 bars",
+  "brand": "INTERPLAST",
+  "category": "Pièces PVC",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Manchon mixte D50 x 1\"1/2 - 16 bars"
+  ],
+  "description": "Achetez Manchon mixte D50 x 1\"1/2 - 16 bars chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SMA350F",
+  "price": {
+    "amount": 2,
+    "currency": "EUR",
+    "formatted": "2 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002058",
+      "sku": "PI-0002058",
+      "supplierRef": "SMA350F",
+      "price": {
+        "amount": 2,
+        "currency": "EUR",
+        "formatted": "2 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/9/8/98774062_1_xbrglz1gacnv119y.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/manchon-mixte-50-x-1-1-2-16698.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:37:28.621Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/9/8/98774062_1_xbrglz1gacnv119y.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002058/01-98774062_1_xbrglz1gacnv119y.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/manchon-mixte-50-x-1-1-2-16698.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002058/02-manchon-mixte-50-x-1-1-2-16698.jpg",
+      "skipped": false
+    }
+  ]
+}

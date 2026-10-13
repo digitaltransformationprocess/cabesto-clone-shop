@@ -1,0 +1,109 @@
+{
+  "sku": "PCNT-0006389",
+  "url": "https://www.cabesto.com/fr/verticalite-harnais-newton-fast-petzl-pr19.html",
+  "title": "Harnais Newton Fast - PETZL",
+  "brand": "PETZL",
+  "category": "Harnais antichute",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Harnais antichute"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Harnais antichute"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Harnais Newton Fast - PETZL"
+  ],
+  "description": "Achetez Harnais Newton Fast - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 149.95,
+    "currency": "EUR",
+    "formatted": "149.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0006389",
+      "sku": "PCNT-0006389",
+      "supplierRef": null,
+      "price": {
+        "amount": 149.95,
+        "currency": "EUR",
+        "formatted": "149.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/r/pr19_1_l-harnais-newton-fast-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr19_6_l-harnais-newton-fast-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr19_5_l-harnais-newton-fast-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr19_3_l-harnais-newton-fast-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr19_2_l-harnais-newton-fast-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr19_1_l-harnais-newton-fast-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr19_1_l-harnais-newton-fast-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr19_1_l-harnais-newton-fast-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:36:21.926Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr19_1_l-harnais-newton-fast-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006389/01-pr19_1_l-harnais-newton-fast-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr19_6_l-harnais-newton-fast-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006389/02-pr19_6_l-harnais-newton-fast-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr19_5_l-harnais-newton-fast-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006389/03-pr19_5_l-harnais-newton-fast-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr19_3_l-harnais-newton-fast-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006389/04-pr19_3_l-harnais-newton-fast-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr19_2_l-harnais-newton-fast-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006389/05-pr19_2_l-harnais-newton-fast-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr19_1_l-harnais-newton-fast-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006389/06-pr19_1_l-harnais-newton-fast-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr19_1_l-harnais-newton-fast-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006389/07-pr19_1_l-harnais-newton-fast-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr19_1_l-harnais-newton-fast-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006389/08-pr19_1_l-harnais-newton-fast-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

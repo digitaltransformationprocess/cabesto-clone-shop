@@ -1,0 +1,77 @@
+{
+  "sku": "PCNT-0006346",
+  "url": "https://www.cabesto.com/fr/bonnet-beanie-pp75.html",
+  "title": "Bonnet Beanie - PETZL",
+  "brand": "PETZL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Bonnets, cagoules",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Bonnets, cagoules",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bonnet Beanie - PETZL"
+  ],
+  "description": "Achetez Bonnet Beanie - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 46.8,
+    "currency": "EUR",
+    "formatted": "46.8 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0006346",
+      "sku": "PCNT-0006346",
+      "supplierRef": null,
+      "price": {
+        "amount": 46.8,
+        "currency": "EUR",
+        "formatted": "46.8 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/p/pp75_1_d-bonnet-beanie-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp75_1_d-bonnet-beanie-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp75_1_d-bonnet-beanie-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:28:44.278Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp75_1_d-bonnet-beanie-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006346/01-pp75_1_d-bonnet-beanie-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp75_1_d-bonnet-beanie-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006346/02-pp75_1_d-bonnet-beanie-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp75_1_d-bonnet-beanie-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006346/03-pp75_1_d-bonnet-beanie-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

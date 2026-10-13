@@ -1,0 +1,77 @@
+{
+  "sku": "NT-0004810",
+  "url": "https://www.cabesto.com/fr/verticalite-claie-de-portage-alu-frame-ferrino-nt-0004810.html",
+  "title": "Claie de portage Alu Frame - TATONKA",
+  "brand": "FERRINO",
+  "category": "Claies de portage",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Portage",
+    "Sacs à dos, rangement",
+    "Claies",
+    "Claies de portage"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Portage",
+    "Sacs à dos, rangement",
+    "Claies",
+    "Claies de portage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montagne",
+    "Montagne",
+    "Randonnée",
+    "Randonnée",
+    "Claie de portage Alu Frame - TATONKA"
+  ],
+  "description": "Achetez Claie de portage Alu Frame - TATONKA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "TK1130040",
+  "price": {
+    "amount": 239.95,
+    "currency": "EUR",
+    "formatted": "239.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0004810",
+      "sku": "NT-0004810",
+      "supplierRef": "TK1130040",
+      "price": {
+        "amount": 239.95,
+        "currency": "EUR",
+        "formatted": "239.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/l/claie1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/l/claie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:10:18.068Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/l/claie1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0004810/01-claie1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/l/claie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0004810/02-claie.jpg",
+      "skipped": true
+    }
+  ]
+}

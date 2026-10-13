@@ -1,0 +1,73 @@
+{
+  "sku": "PI-0002480",
+  "url": "https://www.cabesto.com/fr/pierre-d-alun-100-g-alepposoap.html",
+  "title": "PIERRE D'ALUN 100 G - ALEPPOSOAP",
+  "brand": "ALEPPOSOAP",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Bien être oriental",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Bien être oriental",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PIERRE D'ALUN 100 G - ALEPPOSOAP"
+  ],
+  "description": "Achetez PIERRE D'ALUN 100 G - ALEPPOSOAP chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "ASALUN09",
+  "price": {
+    "amount": 9.9,
+    "currency": "EUR",
+    "formatted": "9.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002480",
+      "sku": "PI-0002480",
+      "supplierRef": "ASALUN09",
+      "price": {
+        "amount": 9.9,
+        "currency": "EUR",
+        "formatted": "9.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/i/pierre-dalun-deodorant_zn0rmaooz8ajsqm4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/918-large_default/pierre-dalun-deodorant.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/pierre-dalun-deodorant_5t8w6hv50kir8k9q.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:50:59.251Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/pierre-dalun-deodorant_zn0rmaooz8ajsqm4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002480/01-pierre-dalun-deodorant_zn0rmaooz8ajsqm4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/918-large_default/pierre-dalun-deodorant.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002480/02-pierre-dalun-deodorant.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/pierre-dalun-deodorant_5t8w6hv50kir8k9q.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002480/03-pierre-dalun-deodorant_5t8w6hv50kir8k9q.jpg",
+      "skipped": false
+    }
+  ]
+}

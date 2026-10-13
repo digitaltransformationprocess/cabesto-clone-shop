@@ -1,0 +1,71 @@
+{
+  "sku": "NT-0006508",
+  "url": "https://www.cabesto.com/fr/verticalite-lot-de-36-stickers-transparent-pour-casque-vertex-strato-petzl-nt-0006508.html",
+  "title": "Lot de 36 Stickers transparent pour casque Vertex Strato - PETZL",
+  "brand": "PETZL",
+  "category": "Accessoires pour casques pro",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Casques",
+    "Accessoires pour casques pro"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Casques",
+    "Accessoires pour casques pro"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lot de 36 Stickers transparent pour casque Vertex Strato - PETZL"
+  ],
+  "description": "Achetez Lot de 36 Stickers transparent pour casque Vertex Strato - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "A10100",
+  "price": {
+    "amount": 5.95,
+    "currency": "EUR",
+    "formatted": "5.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006508",
+      "sku": "NT-0006508",
+      "supplierRef": "A10100",
+      "price": {
+        "amount": 5.95,
+        "currency": "EUR",
+        "formatted": "5.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/u/pu02_1-lot-de-36-stickers-transparent-pour-casque-vertex-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/u/pu02_1-lot-de-36-stickers-transparent-pour-casque-vertex-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:19:28.251Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/u/pu02_1-lot-de-36-stickers-transparent-pour-casque-vertex-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006508/01-pu02_1-lot-de-36-stickers-transparent-pour-casque-vertex-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/u/pu02_1-lot-de-36-stickers-transparent-pour-casque-vertex-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006508/02-pu02_1-lot-de-36-stickers-transparent-pour-casque-vertex-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

@@ -1,32 +1,77 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Layout, StatusBadge, productName } from "@/components/Layout";
 import { categories, euro, orderTotal, products, statuses, testUsers, type Status } from "@/lib/data";
 import { useStore } from "@/lib/store";
-import { useEffect } from "react";
-import { useServerFn } from "@tanstack/react-start";
-import { testAiConnection, type AiConfig } from "@/lib/chat.functions";
-import { defaultModels, readAiConfig, saveAiConfig } from "@/lib/ai-config";
+import { getAiStatus, testAiConnection, type AiPublicStatus } from "@/lib/chat.functions";
 
 function AiSettings() {
-  const test = useServerFn(testAiConnection);
-  const [c, setC] = useState<AiConfig>({ provider: "google", apiKey: "", model: defaultModels.google });
+  const [status, setStatus] = useState<AiPublicStatus | null>(null);
   const [res, setRes] = useState<{ ok: boolean; message: string } | null>(null);
   const [busy, setBusy] = useState(false);
-  const [saved, setSaved] = useState(false);
-  useEffect(() => { const r = readAiConfig(); if (r) setC(r); }, []);
+
+  const refresh = async () => {
+    try {
+      setStatus(await getAiStatus());
+    } catch {
+      setStatus({ configured: false, provider: null, model: null });
+    }
+  };
+
+  useEffect(() => {
+    void refresh();
+  }, []);
+
   return (
     <div className="max-w-xl space-y-4 rounded-lg border bg-card p-6">
       <h2 className="text-2xl font-bold">Assistant IA</h2>
-      <p className="text-sm text-muted-foreground">Connectez le chatbot client à Google Gemini ou OpenRouter.</p>
-      <div className="flex gap-2">{(["google", "openrouter"] as const).map((p) => <button key={p} onClick={() => { setC({ ...c, provider: p, model: defaultModels[p] }); setRes(null); }} className={`rounded px-4 py-2 text-sm font-bold ${c.provider === p ? "bg-primary text-primary-foreground" : "bg-muted"}`}>{p === "google" ? "Google Gemini" : "OpenRouter"}</button>)}</div>
-      <label className="block text-sm font-semibold">Clé API<input type="password" value={c.apiKey} onChange={(e) => setC({ ...c, apiKey: e.target.value.trim() })} placeholder={c.provider === "google" ? "AIza… (aistudio.google.com/apikey)" : "sk-or-… (openrouter.ai/keys)"} className="mt-1 w-full rounded border px-3 py-2 font-normal" /></label>
-      <label className="block text-sm font-semibold">Modèle<input value={c.model} onChange={(e) => setC({ ...c, model: e.target.value })} className="mt-1 w-full rounded border px-3 py-2 font-normal" /></label>
+      <p className="text-sm text-muted-foreground">
+        La clé API se configure en local dans le fichier <code className="rounded bg-muted px-1">.env</code> (voir{" "}
+        <code className="rounded bg-muted px-1">.env.example</code>). Redémarre <code className="rounded bg-muted px-1">npm run dev</code> après
+        modification.
+      </p>
+      <ul className="rounded border bg-muted/40 p-3 font-mono text-xs leading-relaxed">
+        <li>AI_PROVIDER=google | openrouter</li>
+        <li>AI_API_KEY=…</li>
+        <li>AI_MODEL=gemini-2.5-flash</li>
+      </ul>
+      <p className={`rounded p-3 text-sm ${status?.configured ? "bg-success/15 text-success" : "bg-destructive/15 text-destructive"}`}>
+        {status == null
+          ? "Vérification…"
+          : status.configured
+            ? `✓ Configuré — ${status.provider} · ${status.model}`
+            : "✗ Non configuré — renseigne AI_API_KEY dans .env"}
+      </p>
       <div className="flex gap-2">
-        <button onClick={() => { saveAiConfig(c); setSaved(true); setTimeout(() => setSaved(false), 2000); }} className="rounded bg-primary px-4 py-2 text-sm font-bold text-primary-foreground">{saved ? "Enregistré ✓" : "Enregistrer"}</button>
-        <button disabled={busy || !c.apiKey} onClick={async () => { setBusy(true); setRes(null); try { setRes(await test({ data: c })); } catch (e) { setRes({ ok: false, message: (e as Error).message }); } setBusy(false); }} className="rounded bg-accent px-4 py-2 text-sm font-bold text-accent-foreground disabled:opacity-50">{busy ? "Test en cours…" : "Tester la connexion"}</button>
+        <button
+          onClick={() => void refresh()}
+          className="rounded bg-primary px-4 py-2 text-sm font-bold text-primary-foreground"
+        >
+          Rafraîchir
+        </button>
+        <button
+          disabled={busy}
+          onClick={async () => {
+            setBusy(true);
+            setRes(null);
+            try {
+              setRes(await testAiConnection());
+            } catch (e) {
+              setRes({ ok: false, message: (e as Error).message });
+            }
+            setBusy(false);
+            void refresh();
+          }}
+          className="rounded bg-accent px-4 py-2 text-sm font-bold text-accent-foreground disabled:opacity-50"
+        >
+          {busy ? "Test en cours…" : "Tester la connexion"}
+        </button>
       </div>
-      {res && <p className={`rounded p-3 text-sm ${res.ok ? "bg-success/15 text-success" : "bg-destructive/15 text-destructive"}`}>{res.ok ? `✓ Connecté — réponse du modèle : « ${res.message} »` : `✗ Échec : ${res.message}`}</p>}
+      {res && (
+        <p className={`rounded p-3 text-sm ${res.ok ? "bg-success/15 text-success" : "bg-destructive/15 text-destructive"}`}>
+          {res.ok ? `✓ Connecté — réponse du modèle : « ${res.message} »` : `✗ Échec : ${res.message}`}
+        </p>
+      )}
     </div>
   );
 }
@@ -54,7 +99,17 @@ function Admin() {
     ["En livraison", orders.filter((o) => ["Expédiée", "En transit"].includes(o.status)).length], ["Tickets ouverts", tickets.filter((t) => t.status === "Ouvert").length],
     ...(isAdmin ? [["Chiffre d'affaires", euro(revenue)], ["Panier moyen", euro(revenue / (valid.length || 1))], ["Ruptures proches", products.filter((p) => p.stock < 8).length]] as [string, string | number][] : []),
   ];
-  const byCat = categories.map((c) => ({ c: c.name, v: valid.reduce((s, o) => s + o.items.filter((i) => products.find((p) => p.id === i.id)!.category === c.slug).reduce((a, i) => a + products.find((p) => p.id === i.id)!.price * i.qty, 0), 0) }));
+  const byCat = categories.map((c) => ({
+    c: c.name,
+    v: valid.reduce(
+      (s, o) =>
+        s +
+        o.items
+          .filter((i) => products.find((p) => p.id === i.id)?.category === c.slug)
+          .reduce((a, i) => a + (products.find((p) => p.id === i.id)?.price ?? 0) * i.qty, 0),
+      0,
+    ),
+  }));
   const maxCat = Math.max(...byCat.map((b) => b.v), 1);
 
   const table = (list: typeof orders) => (
@@ -99,7 +154,24 @@ function Admin() {
             {table(filtered)}
           </>)}
           {tab === "Support" && (<div className="space-y-3">{tickets.length === 0 && <p className="text-muted-foreground">Aucun ticket.</p>}{tickets.map((t) => <div key={t.id} className="flex items-start justify-between gap-4 rounded-lg border bg-card p-4"><div><p className="font-semibold">{t.id} · {t.subject}</p><p className="text-xs text-muted-foreground">{t.email} · {t.date}</p><p className="mt-1 text-sm">{t.message}</p></div><button onClick={() => setTicketStatus(t.id, t.status === "Ouvert" ? "Résolu" : "Ouvert")} className={`rounded px-3 py-1 text-xs font-bold ${t.status === "Ouvert" ? "bg-accent text-accent-foreground" : "bg-muted"}`}>{t.status}</button></div>)}</div>)}
-          {tab === "Stock" && isAdmin && <ul className="divide-y rounded-lg border bg-card">{products.map((p) => <li key={p.id} className="flex justify-between p-3 text-sm"><span>{p.name} <span className="text-muted-foreground">· {p.brand} · {euro(p.price)}</span></span><span className={p.stock < 8 ? "font-bold text-destructive" : ""}>{p.stock} en stock</span></li>)}</ul>}
+          {tab === "Stock" && isAdmin && (
+            <ul className="divide-y rounded-lg border bg-card max-h-[70vh] overflow-y-auto">
+              {[...products]
+                .sort((a, b) => a.stock - b.stock)
+                .slice(0, 200)
+                .map((p) => (
+                  <li key={p.id} className="flex justify-between gap-4 p-3 text-sm">
+                    <span>
+                      {p.name}{" "}
+                      <span className="text-muted-foreground">
+                        · {p.brand} · {euro(p.price)} · {p.category}
+                      </span>
+                    </span>
+                    <span className={p.stock < 8 ? "shrink-0 font-bold text-destructive" : "shrink-0"}>{p.stock} en stock</span>
+                  </li>
+                ))}
+            </ul>
+          )}
           {tab === "Assistant IA" && isAdmin && <AiSettings />}
           {tab === "Clients" && isAdmin && <ul className="divide-y rounded-lg border bg-card">{[...testUsers.map((u) => ({ n: u.name, e: u.email, r: u.role })), ...[...new Set(orders.map((o) => o.email))].filter((e) => !testUsers.some((u) => u.email === e)).map((e) => ({ n: orders.find((o) => o.email === e)!.customer, e, r: "client" }))].map((u) => <li key={u.e} className="flex justify-between p-3 text-sm"><span>{u.n} · {u.e}</span><span className="capitalize text-muted-foreground">{u.r} · {orders.filter((o) => o.email === u.e).length} cmd</span></li>)}</ul>}
         </section>

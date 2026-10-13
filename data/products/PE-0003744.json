@@ -1,0 +1,59 @@
+{
+  "sku": "PE-0003744",
+  "url": "https://www.cabesto.com/fr/peche-trident-vx-force-300m-22-5-100-pe-11478.html",
+  "title": "Trident Vx Force 300M 22.5/100",
+  "brand": "TORTUE",
+  "category": "peche",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche"
+  ],
+  "categories": [
+    "peche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Trident Vx Force 300M 22.5/100"
+  ],
+  "description": "Achetez Trident Vx Force 300M 22.5/100 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "ATO470013",
+  "price": {
+    "amount": 15.99,
+    "currency": "EUR",
+    "formatted": "15.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0003744",
+      "sku": "PE-0003744",
+      "supplierRef": "ATO470013",
+      "price": {
+        "amount": 15.99,
+        "currency": "EUR",
+        "formatted": "15.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/n/y/nylon-tortue-trident-vx-surf-300m_lvaj3rbzecbkjiqi.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:24:54.048Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/y/nylon-tortue-trident-vx-surf-300m_lvaj3rbzecbkjiqi.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0003744/01-nylon-tortue-trident-vx-surf-300m_lvaj3rbzecbkjiqi.jpg",
+      "skipped": false
+    }
+  ]
+}

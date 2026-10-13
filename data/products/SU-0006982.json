@@ -1,0 +1,67 @@
+{
+  "sku": "SU-0006982",
+  "url": "https://www.cabesto.com/fr/plongee-tuba-dry-dark-noir-pl-2646.html",
+  "title": "TUBA DRY DARK NOIR CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "tubas-a-soupape-avec-deflecteur-et-tuba-a-soupape-etanche",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TUBA DRY DARK NOIR CRESSI SUB"
+  ],
+  "description": "TUBA DRY DARK NOIR CRESSI SUBLe nouveau Tuba Dry Dark de Cressi dispose d’un mécanisme qui permet la fermeture instantanée et totale de l’embout pour éviter les entrées d’eau lors de l’utilisation en PMT.Forme ergnomique pour un confort maximum.Embout et tuyau annelés en slicone hypoallergénique.Piège à eau pour un vidage facile et rapide.Ce tuba a été fabriqué conformément aux exigences du règlement CE 2016/425 suivant la norme NF EN 1972.",
+  "supplierRef": "ES259550",
+  "price": {
+    "amount": 25.99,
+    "currency": "EUR",
+    "formatted": "25.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0006982",
+      "sku": "SU-0006982",
+      "supplierRef": "ES259550",
+      "price": {
+        "amount": 25.99,
+        "currency": "EUR",
+        "formatted": "25.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-2646-pl-2646-picture_1-pl-2646-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:17.621Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-2646-pl-2646-picture_1-pl-2646-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006982/01-pl-2646-pl-2646-picture_1-pl-2646-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "tubas-de-plongee",
+    "tubas-a-soupape-avec-deflecteur-et-tuba-a-soupape-etanche"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "tubas-de-plongee",
+    "tubas-a-soupape-avec-deflecteur-et-tuba-a-soupape-etanche"
+  ]
+}

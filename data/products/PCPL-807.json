@@ -1,0 +1,105 @@
+{
+  "sku": "PCPL-807",
+  "url": "https://www.cabesto.com/fr/plongee-pantalon-challenger-standard-3mm-homme-pcpl-807.html",
+  "title": "Pantalon haut de chasse sous-marine et d'apnée CHALLENGER 3 mm IMERSION",
+  "brand": "IMERSION",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage",
+    "Destockage",
+    "Pantalon haut de chasse sous-marine et d'apnée CHALLENGER 3 mm IMERSION"
+  ],
+  "description": "Pantalon haut de chasse sous-marine et d'apnée CHALLENGER 3 mm IMERSIONChassez ou faites de l'apnée avec la pantalon haut CHALLENGER 3 mm IMERSION, idéal pour les eaux chaudes ou tropicales...Néoprène refendu intérieur de marque JAKO et protection genoux au rendez-vous de ce basique de la chasse sous-marine.Le néoprène JAKO se caractérise par sa souplesse, sa densité, qui lui assurent une bonne résistance à la compressibilité.L’utilisation de ce néoprène dans la fabrication des produits IMERSION est un choix parfait pour la pêche sous- marine et l’apnée.Nylon extérieur / Refendu Intérieur.Coupe anatomique préformée, assemblage par double encollage et couture double fils.Finition coupe franche avec bride d’arrêt.Renforcement des intersections de coutures par point de colle.Renfort de chargement avec induction PU à l’extérieur sur les genoux.Couleur : Noir.Veste assortie vendue séparément.ATTENTION NEOPRENE REFENDU INTERIEUR : Habillage avec de l'eau savonneuse ou liquide lubrifiant IMPERATIF...Aucun retour ou remboursement concernant des coups de doigts ou d'ongles sur le refendu intérieur ne sera accepté. La garantie légale constructeur ne s'applique que sur les collages et les coutures de la combinaison.Entretien :Rincer à l’eau douce après chaque utilisation, séchage intérieur / extérieur obligatoirement à l’abri du soleil.Stockage sur un cintre, verticalement à sec et retourné.Nettoyage anti-bactérien avec produit batéricide fongicide spécifique \"plongée\"",
+  "supplierRef": null,
+  "price": {
+    "amount": 95,
+    "currency": "EUR",
+    "formatted": "95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-807",
+      "sku": "PCPL-807",
+      "supplierRef": null,
+      "price": {
+        "amount": 95,
+        "currency": "EUR",
+        "formatted": "95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/h/c/hch10211.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/imersion-veste-dapnee-challenger-10-mm_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/a/facilitateur-d-habillage-fluid-z-abyssnaut_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hch10211-bis-600x900.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hch10211-detail-600x900.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2024_05_24_13_06_51_guide_des_tailles_imersion_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hch10211_6_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:09.953Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hch10211.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-807/01-hch10211.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/imersion-veste-dapnee-challenger-10-mm_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-807/02-imersion-veste-dapnee-challenger-10-mm_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/a/facilitateur-d-habillage-fluid-z-abyssnaut_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-807/03-facilitateur-d-habillage-fluid-z-abyssnaut_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hch10211-bis-600x900.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-807/04-hch10211-bis-600x900.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hch10211-detail-600x900.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-807/05-hch10211-detail-600x900.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2024_05_24_13_06_51_guide_des_tailles_imersion_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-807/06-2024_05_24_13_06_51_guide_des_tailles_imersion_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hch10211_6_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-807/07-hch10211_6_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

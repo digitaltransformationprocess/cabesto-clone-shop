@@ -1,0 +1,101 @@
+{
+  "sku": "SU-0009873",
+  "url": "https://www.cabesto.com/fr/lampe-de-plongee-sous-marine-al450nm-tail-ii-bigblue-su-0009873.html",
+  "title": "Lampe de plongée sous-marine AL450NM Tail II BIGBLUE",
+  "brand": "BIGBLUE DIVE LIGHTS",
+  "category": "Lampes de plongée à piles",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Éclairage - Photo - Vidéo",
+    "Lampes de plongée à piles",
+    "Destockage Plongée / Chasse sous-marine"
+  ],
+  "categories": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Éclairage - Photo - Vidéo",
+    "Lampes de plongée à piles",
+    "Destockage Plongée / Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage",
+    "Destockage",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage Plongée / Chasse sous-marine",
+    "Lampe de plongée sous-marine AL450NM Tail II BIGBLUE"
+  ],
+  "description": "Plongez avec l'éclairage sous-marin compact et fiable AL450NLT-II Bigblue, la lampe étanche de secours polyvalente qui combine une puissance lumineuse de 450 lumens et un faisceau concentré de 8° pour une visibilité optimale en toutes situations.",
+  "supplierRef": "AL450NMT-II",
+  "price": {
+    "amount": 79,
+    "currency": "EUR",
+    "formatted": "79 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0009873",
+      "sku": "SU-0009873",
+      "supplierRef": "AL450NMT-II",
+      "price": {
+        "amount": 79,
+        "currency": "EUR",
+        "formatted": "79 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/o/molly.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/l/hl1000.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/p/npt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/l/hl4500.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/al1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:42:38.586Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009873/01-al.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/o/molly.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009873/02-molly.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/l/hl1000.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009873/03-hl1000.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/p/npt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009873/04-npt.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/l/hl4500.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009873/05-hl4500.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009873/06-al1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "SU-0003969",
+  "url": "https://www.cabesto.com/fr/plongee-mono-12-l-compact-2-sorties-pl-714.html",
+  "title": "Bouteille de plongée mono bloc 12 litres 232 bars 2 sorties ROTH",
+  "brand": null,
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bouteille de plongée mono bloc 12 litres 232 bars 2 sorties ROTH"
+  ],
+  "description": "Bouteille de plongée mono bloc 12 litres compact 2 sortiesLa qualité MADE IN FRANCE... Ici en format 12 Litres court, 2 sorties, pression de service 232 bars pour 17 Kg.Bouteille de plongée sous-marine de fabrication française par ROTH à Mions, produites avec la technique du fluotournage en acier. Le bloc possède un fond plus épais et des parois plus résistantes qu'une fabrication classique étirée, le tout avec une masse contenue.12 litres 232 bars 203 mm de diamètre 520 mm de longueur17 kilos environPoignée de portage et filet de protection EN OPTION.Une référence en matière de sécuritéEn partenariat avec de grands spécialistes de la distribution de matériel de plongée et conseillé par des plongeurs professionnels, ROTH Mions a développé durant les quarante dernières années des bouteilles de plongée en acier qui restent une référence en matière de sécurité.Lors de la fabrication, une attention particulière est portée au renforcement du fond et du col, parties sensibles de la bouteille, pour garantir usage durable et confort d'utilisation. La matière première fabriquée en Europe répond à un cahier des charges très spécifique afin d'assurer un produit final d'une grande fiabilité.Précurseur dans l’élaboration de corps en aciers de haute technicité, Roth entretient une forte image de marque sur l’ensemble de ses produits : la \"bouteille Roth\" s'est ainsi imposée dans le monde de la plongée comme une référence incontournable.",
+  "supplierRef": "12 Litres court 230B",
+  "price": {
+    "amount": 399.99,
+    "currency": "EUR",
+    "formatted": "399.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003969",
+      "sku": "SU-0003969",
+      "supplierRef": "12 Litres court 230B",
+      "price": {
+        "amount": 399.99,
+        "currency": "EUR",
+        "formatted": "399.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-714-pl-714-picture_1-pl-714-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/q/aquatys-poignee-de-bloc-universelle_eloo2gjpkzm9mpmb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/filet-bouteille-de-plongee-12-litres-court_f3wuzv4iav3novgx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:21:16.107Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-714-pl-714-picture_1-pl-714-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003969/01-pl-714-pl-714-picture_1-pl-714-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/q/aquatys-poignee-de-bloc-universelle_eloo2gjpkzm9mpmb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003969/02-aquatys-poignee-de-bloc-universelle_eloo2gjpkzm9mpmb.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/filet-bouteille-de-plongee-12-litres-court_f3wuzv4iav3novgx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003969/03-filet-bouteille-de-plongee-12-litres-court_f3wuzv4iav3novgx.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

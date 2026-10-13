@@ -1,0 +1,63 @@
+{
+  "sku": "NU-0007097",
+  "url": "https://www.cabesto.com/fr/kit-nmea-2000-garmin.html",
+  "title": "Starter Kit NMEA 2000 - GARMIN",
+  "brand": "GARMIN",
+  "category": "Réseau NMEA / SEATALK",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Electronique",
+    "Nautisme",
+    "Réseau NMEA / SEATALK"
+  ],
+  "categories": [
+    "Electronique",
+    "Nautisme",
+    "Réseau NMEA / SEATALK"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Starter Kit NMEA 2000 - GARMIN"
+  ],
+  "description": "Achetez Starter Kit NMEA 2000 - GARMIN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "010-11442-00",
+  "price": {
+    "amount": 107.2,
+    "currency": "EUR",
+    "formatted": "107.2 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0007097",
+      "sku": "NU-0007097",
+      "supplierRef": "010-11442-00",
+      "price": {
+        "amount": 107.2,
+        "currency": "EUR",
+        "formatted": "107.2 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/1/61udjt9wipl._ac_sl1000_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:03:35.236Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/61udjt9wipl._ac_sl1000_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0007097/01-61udjt9wipl._ac_sl1000_.jpg",
+      "skipped": true
+    }
+  ]
+}

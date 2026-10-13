@@ -1,0 +1,71 @@
+{
+  "sku": "NU-0014459",
+  "url": "https://www.cabesto.com/fr/wc-electrique-12v-lalizas.html",
+  "title": "WC ELECTRIQUE 12V - OSCULATI",
+  "brand": "OSCULATI",
+  "category": "wc-marin",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "electromenager-marin",
+    "wc-marin-et-accessoires",
+    "wc-marin"
+  ],
+  "categories": [
+    "nautisme",
+    "electromenager-marin",
+    "wc-marin-et-accessoires",
+    "wc-marin"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "WC ELECTRIQUE 12V - OSCULATI"
+  ],
+  "description": "Achetez WC ELECTRIQUE 12V - OSCULATI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "50.207.12",
+  "price": {
+    "amount": 329.99,
+    "currency": "EUR",
+    "formatted": "329.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0014459",
+      "sku": "NU-0014459",
+      "supplierRef": "50.207.12",
+      "price": {
+        "amount": 329.99,
+        "currency": "EUR",
+        "formatted": "329.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/w/c/wc-electrique-12v-lalizas_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/c/wc-electrique-12v-lalizas_02.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:02:35.289Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/c/wc-electrique-12v-lalizas_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0014459/01-wc-electrique-12v-lalizas_01.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/c/wc-electrique-12v-lalizas_02.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0014459/02-wc-electrique-12v-lalizas_02.jpg",
+      "skipped": true
+    }
+  ]
+}

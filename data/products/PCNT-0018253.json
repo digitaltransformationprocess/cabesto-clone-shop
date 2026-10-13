@@ -1,0 +1,79 @@
+{
+  "sku": "PCNT-0018253",
+  "url": "https://www.cabesto.com/fr/rondelles-vario.html",
+  "title": "Rondelles Vario - KOMPERDELL",
+  "brand": "KOMPERDELL",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bâtons de randonnée",
+    "Pièces détachées pour bâtons",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Bâtons de randonnée",
+    "Pièces détachées pour bâtons",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Rondelles Vario - KOMPERDELL"
+  ],
+  "description": "Achetez Rondelles Vario - KOMPERDELL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 4,
+    "currency": "EUR",
+    "formatted": "4 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0018253",
+      "sku": "PCNT-0018253",
+      "supplierRef": null,
+      "price": {
+        "amount": 4,
+        "currency": "EUR",
+        "formatted": "4 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/b/sb09_1_un-rondelles-vario-komperdell_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/b/sb09_1_un-rondelles-vario-komperdell_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/b/sb09_1_un-rondelles-vario-komperdell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:24:57.500Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/b/sb09_1_un-rondelles-vario-komperdell_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018253/01-sb09_1_un-rondelles-vario-komperdell_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/b/sb09_1_un-rondelles-vario-komperdell_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018253/02-sb09_1_un-rondelles-vario-komperdell_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/b/sb09_1_un-rondelles-vario-komperdell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018253/03-sb09_1_un-rondelles-vario-komperdell.jpg",
+      "skipped": false
+    }
+  ]
+}

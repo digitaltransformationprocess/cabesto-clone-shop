@@ -1,0 +1,91 @@
+{
+  "sku": "NT-0006903",
+  "url": "https://www.cabesto.com/fr/randonnee-lampe-frontale-iko-core-petzl-nt-0006903.html",
+  "title": "Lampe Frontale IKO Core - PETZL",
+  "brand": "PETZL",
+  "category": "Lampes frontales",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Eclairage",
+    "Lampes frontales"
+  ],
+  "categories": [
+    "Eclairage",
+    "Lampes frontales"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe Frontale IKO Core - PETZL"
+  ],
+  "description": "Achetez Lampe Frontale IKO Core - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "E104BA00",
+  "price": {
+    "amount": 67.9,
+    "currency": "EUR",
+    "formatted": "67.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006903",
+      "sku": "NT-0006903",
+      "supplierRef": "E104BA00",
+      "price": {
+        "amount": 67.9,
+        "currency": "EUR",
+        "formatted": "67.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pzc7_2-lampe-frontale-iko-core-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzc7_1-lampe-frontale-iko-core-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzc7_5-lampe-frontale-iko-core-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzc7_4-lampe-frontale-iko-core-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzc7_3-lampe-frontale-iko-core-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzc7_6-lampe-frontale-iko-core-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:18.367Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzc7_2-lampe-frontale-iko-core-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006903/01-pzc7_2-lampe-frontale-iko-core-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzc7_1-lampe-frontale-iko-core-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006903/02-pzc7_1-lampe-frontale-iko-core-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzc7_5-lampe-frontale-iko-core-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006903/03-pzc7_5-lampe-frontale-iko-core-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzc7_4-lampe-frontale-iko-core-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006903/04-pzc7_4-lampe-frontale-iko-core-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzc7_3-lampe-frontale-iko-core-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006903/05-pzc7_3-lampe-frontale-iko-core-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzc7_6-lampe-frontale-iko-core-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006903/06-pzc7_6-lampe-frontale-iko-core-petzl.jpg",
+      "skipped": false
+    }
+  ]
+}

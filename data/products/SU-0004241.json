@@ -1,0 +1,77 @@
+{
+  "sku": "SU-0004241",
+  "url": "https://www.cabesto.com/fr/plongee-masque-super-compensator-caoutchouc-pl-352.html",
+  "title": "Masque de plongée SUPER COMPENSATOR caoutchouc BEUCHAT",
+  "brand": null,
+  "category": "chaussures-grand-froid-expeditions",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Masque de plongée SUPER COMPENSATOR caoutchouc BEUCHAT"
+  ],
+  "description": "Masque de plongée SUPER COMPENSATOR caoutchouc BEUCHATPlongez \"vintage\" à l'ancienne avec le masque SUPER COMPENSATOR BEUCHAT, le masque de plongée classique au champ visuel extra-large avec une jupe en caoutchouc, un grand hublot au cerclage métallique et un bossage interne pour le nez.Le masque SUPER COMPENSATOR BEUCHAT est doté d'un monoverre trempé au format ovale incliné pour augmenter le champ de vision vertical. Son format \"rond\" à l'ancienne donne un look \"vintage\" unique et élégant au SUPER COMPENSATOR. Le mono hublot est fixé à la jupe en néoprène au moyen d'un cerclage métallique en INOX.Le SUPER COMPENSATOR est équipé d'une jupe 100 % en caoutchouc naturel noir. Ce matériau naturel apporte un confort notable au niveau formation de la buée dans le masque : la jupe en caoutchouc génère en effet \"moins\" de buée que les masques \"modernes\" dotés d'une jupe en silicone.Attention cependant, la jupe en caoutchouc doit être protégée du soleil et de la lumière au stockage, sous peine de dégragdation rapide du caoutchouc. Attention également aux allergies au latex et au caoutchouc avec la jupe du SUPER COMPENSATOR.Comme son nom l'indique, le masque SUPER COMPENSATOR possède un bossage intérieur de compensation unique pour votre nez en accordéon. Compensation poissible à une main en snorkelieng et à 2 mains avec un détendeur en plongée sous-marine.La sangle du masque super compensator est double en caoutchouc, le réglage de la sangle se faisant au moyen de boucles en aluminium.Ce masque a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 1) suivant la norme NF EN 16805.Le masque mono hublotJupe et sangle en caoutchoucCaractéristiques Masque de plongée SUPER COMPENSATOR caoutchouc BEUCHATMasque de plongée sous-marine vintage - old schoolMono verre trempéJupe 100% en caoutchoucBoucle en aluminium / Sangle caoutchoucCerclage métallique en INOXBossages articulés pour le nezLe caoutchouc permet de limiter la formation de la buée sur le verreInformations techniques :Type de masque Mono-verreMatériau jupe CaoutchoucLargeur de jupe 125 mmVolume interne 187 cm3Poids 219 grMade in Norme CE certified - EN 250Garantie 2 ansContenu du colis1 x Masque SUPER COMPENSATOR en caoutchouc1 x Notice en Français1 x Emballage en carton",
+  "supplierRef": "151211",
+  "price": {
+    "amount": 37.99,
+    "currency": "EUR",
+    "formatted": "37.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004241",
+      "sku": "SU-0004241",
+      "supplierRef": "151211",
+      "price": {
+        "amount": 37.99,
+        "currency": "EUR",
+        "formatted": "37.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/u/super-compensator-caoutchouc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/n/antifog_bio_gel_1608_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masque-rond-aquatys-compensator-caoutchouc-noir.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:20:55.767Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/super-compensator-caoutchouc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004241/01-super-compensator-caoutchouc.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/n/antifog_bio_gel_1608_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004241/02-antifog_bio_gel_1608_00_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masque-rond-aquatys-compensator-caoutchouc-noir.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004241/03-masque-rond-aquatys-compensator-caoutchouc-noir.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "chaussures-de-randonnee",
+    "chaussures-grand-froid-expeditions"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "chaussures-de-randonnee",
+    "chaussures-grand-froid-expeditions"
+  ]
+}

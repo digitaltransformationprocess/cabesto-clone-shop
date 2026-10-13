@@ -1,0 +1,77 @@
+{
+  "sku": "PCNT-0013284",
+  "url": "https://www.cabesto.com/fr/randonnee-moufles-mercury-black-diamond-4416.html",
+  "title": "Moufles Mercury - BLACK DIAMOND",
+  "brand": "BLACK DIAMOND",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Moufles et surmoufles",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Moufles et surmoufles",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Moufles Mercury - BLACK DIAMOND"
+  ],
+  "description": "Achetez Moufles Mercury - BLACK DIAMOND chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0013284",
+      "sku": "PCNT-0013284",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/4/4416_1_a-moufles-mercury-black-diamond_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/4/4416_2_a-moufles-mercury-black-diamond.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/4/4416_1_a-moufles-mercury-black-diamond_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:25:09.365Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/4/4416_1_a-moufles-mercury-black-diamond_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0013284/01-4416_1_a-moufles-mercury-black-diamond_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/4/4416_2_a-moufles-mercury-black-diamond.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0013284/02-4416_2_a-moufles-mercury-black-diamond.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/4/4416_1_a-moufles-mercury-black-diamond_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0013284/03-4416_1_a-moufles-mercury-black-diamond_5.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "sku": "PCNT-0004822-6A31",
+  "url": "https://www.cabesto.com/fr/verticalite-veste-softshell-kensington-helly-hansen-hh19.html",
+  "title": "Veste Softshell Kensington | HELLY HANSEN",
+  "brand": "HELLY HANSEN WORK",
+  "category": "vestes",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "femme",
+    "marin",
+    "vestes"
+  ],
+  "categories": [
+    "textile",
+    "femme",
+    "marin",
+    "vestes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Veste Softshell Kensington | HELLY HANSEN"
+  ],
+  "description": "Achetez Veste Softshell Kensington | HELLY HANSEN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 144,
+    "currency": "EUR",
+    "formatted": "144 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004822-6A31",
+      "sku": "PCNT-0004822-6A31",
+      "supplierRef": null,
+      "price": {
+        "amount": 144,
+        "currency": "EUR",
+        "formatted": "144 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1__3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:35:00.560Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004822-6A31/01-hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004822-6A31/02-hh19_1_c-veste-softshell-kensignton-helly-hansen-work.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004822-6A31/03-hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004822-6A31/04-hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004822-6A31/05-hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1__3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004822-6A31/06-hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1__3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004822-6A31/07-hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004822-6A31/08-hh19_1_c-veste-softshell-kensignton-helly-hansen-work_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004822-6A31/09-hh19_1_c-veste-softshell-kensignton-helly-hansen-work_2_1_.jpg",
+      "skipped": false
+    }
+  ]
+}

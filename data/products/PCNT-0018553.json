@@ -1,0 +1,85 @@
+{
+  "sku": "PCNT-0018553",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-sac-de-couchage-bivouac-swing-700-neo-medium-valandre-va07.html",
+  "title": "Sac de couchage Bivouac Swing 700 NEO medium - VALANDRE",
+  "brand": "VALANDRE",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Sacs de couchage en duvet",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Sacs de couchage en duvet",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac de couchage Bivouac Swing 700 NEO medium - VALANDRE"
+  ],
+  "description": "Achetez Sac de couchage Bivouac Swing 700 NEO medium - VALANDRE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0018553",
+      "sku": "PCNT-0018553",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/v/a/va07_1_m-sac-de-couchage-bivouac-swing-700-neo-medium-valandre_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/a/va07_3_m-sac-de-couchage-bivouac-swing-700-neo-medium-valandre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/a/va07_2_m-sac-de-couchage-bivouac-swing-700-neo-medium-valandre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/a/va07_1_m-sac-de-couchage-bivouac-swing-700-neo-medium-valandre_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:32:25.035Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/a/va07_1_m-sac-de-couchage-bivouac-swing-700-neo-medium-valandre_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018553/01-va07_1_m-sac-de-couchage-bivouac-swing-700-neo-medium-valandre_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/a/va07_3_m-sac-de-couchage-bivouac-swing-700-neo-medium-valandre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018553/02-va07_3_m-sac-de-couchage-bivouac-swing-700-neo-medium-valandre.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/a/va07_2_m-sac-de-couchage-bivouac-swing-700-neo-medium-valandre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018553/03-va07_2_m-sac-de-couchage-bivouac-swing-700-neo-medium-valandre.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/a/va07_1_m-sac-de-couchage-bivouac-swing-700-neo-medium-valandre_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018553/04-va07_1_m-sac-de-couchage-bivouac-swing-700-neo-medium-valandre_3.jpg",
+      "skipped": false
+    }
+  ]
+}

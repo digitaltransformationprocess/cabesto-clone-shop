@@ -1,0 +1,127 @@
+{
+  "sku": "PCNT-0001725",
+  "url": "https://www.cabesto.com/fr/verticalite-descendeur-assureur-reverso-4-petzl-pz62.html",
+  "title": "DESCENDEUR ASSUREUR REVERSO PETZL",
+  "brand": "PETZL",
+  "category": "Descendeurs, système d'assurage",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Escalade",
+    "Descendeurs, système d'assurage"
+  ],
+  "categories": [
+    "Escalade",
+    "Descendeurs, système d'assurage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "DESCENDEUR ASSUREUR REVERSO PETZL"
+  ],
+  "description": "Ultra-léger et polyvalent, le REVERSO PETZL est un Assureur-Descendeur destiné à l'escalade en Falaises, Grandes voies ou Alpinisme.",
+  "supplierRef": null,
+  "price": {
+    "amount": 27.9,
+    "currency": "EUR",
+    "formatted": "27.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0001725",
+      "sku": "PCNT-0001725",
+      "supplierRef": null,
+      "price": {
+        "amount": 27.9,
+        "currency": "EUR",
+        "formatted": "27.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_f-descendeur-assureur-reverso-4-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/v/pv01_1-attache-ii-sl-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/v/pv66_1-am-d-screw-lock-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz62_4_j-descendeur-assureur-reverso-4-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz62_3_j-descendeur-assureur-reverso-4-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz62_2_j-descendeur-assureur-reverso-4-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_j-descendeur-assureur-reverso-4-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_i-descendeur-assureur-reverso-4-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_f-descendeur-assureur-reverso-4-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_i-descendeur-assureur-reverso-4-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_j-descendeur-assureur-reverso-4-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_f-descendeur-assureur-reverso-4-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:30:12.477Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_f-descendeur-assureur-reverso-4-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001725/01-pz62_1_f-descendeur-assureur-reverso-4-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/v/pv01_1-attache-ii-sl-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001725/02-pv01_1-attache-ii-sl-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/v/pv66_1-am-d-screw-lock-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001725/03-pv66_1-am-d-screw-lock-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz62_4_j-descendeur-assureur-reverso-4-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001725/04-pz62_4_j-descendeur-assureur-reverso-4-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz62_3_j-descendeur-assureur-reverso-4-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001725/05-pz62_3_j-descendeur-assureur-reverso-4-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz62_2_j-descendeur-assureur-reverso-4-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001725/06-pz62_2_j-descendeur-assureur-reverso-4-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_j-descendeur-assureur-reverso-4-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001725/07-pz62_1_j-descendeur-assureur-reverso-4-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_i-descendeur-assureur-reverso-4-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001725/08-pz62_1_i-descendeur-assureur-reverso-4-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_f-descendeur-assureur-reverso-4-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001725/09-pz62_1_f-descendeur-assureur-reverso-4-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_i-descendeur-assureur-reverso-4-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001725/10-pz62_1_i-descendeur-assureur-reverso-4-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_j-descendeur-assureur-reverso-4-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001725/11-pz62_1_j-descendeur-assureur-reverso-4-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz62_1_f-descendeur-assureur-reverso-4-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001725/12-pz62_1_f-descendeur-assureur-reverso-4-petzl.jpg",
+      "skipped": false
+    }
+  ]
+}

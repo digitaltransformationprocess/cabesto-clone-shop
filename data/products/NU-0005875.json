@@ -1,0 +1,65 @@
+{
+  "sku": "NU-0005875",
+  "url": "https://www.cabesto.com/fr/lampe-projecteur-de-travail-plastimo.html",
+  "title": "Lampe projecteur de travail - Plastimo",
+  "brand": "PLASTIMO",
+  "category": "Torche",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Nautisme",
+    "Sécurité - Navigation",
+    "Signalisation visuelle et sonore",
+    "Torche"
+  ],
+  "categories": [
+    "Nautisme",
+    "Sécurité - Navigation",
+    "Signalisation visuelle et sonore",
+    "Torche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe projecteur de travail - Plastimo"
+  ],
+  "description": "Achetez Lampe projecteur de travail - Plastimo chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "67369",
+  "price": {
+    "amount": 24.99,
+    "currency": "EUR",
+    "formatted": "24.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0005875",
+      "sku": "NU-0005875",
+      "supplierRef": "67369",
+      "price": {
+        "amount": 24.99,
+        "currency": "EUR",
+        "formatted": "24.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/0/2020-03-10_16_35_10-window.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:07:52.525Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2020-03-10_16_35_10-window.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0005875/01-2020-03-10_16_35_10-window.png",
+      "skipped": true
+    }
+  ]
+}

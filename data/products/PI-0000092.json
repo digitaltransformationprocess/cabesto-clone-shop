@@ -1,0 +1,109 @@
+{
+  "sku": "PI-0000092",
+  "url": "https://www.cabesto.com/fr/dolphin-eon-120-robot-de-piscine-sans-fil-pi-0000092.html",
+  "title": "ROBOT DE PISCINE SANS FIL EON 120D DOLPHIN",
+  "brand": "DOLPHIN",
+  "category": "Robot électrique sans fil",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Robot électrique",
+    "Robot électrique sans fil"
+  ],
+  "categories": [
+    "Robot électrique",
+    "Robot électrique sans fil"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROBOT DE PISCINE SANS FIL EON 120D DOLPHIN"
+  ],
+  "description": "Achetez ROBOT DE PISCINE SANS FIL EON 120D DOLPHIN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "99994410-EU",
+  "price": {
+    "amount": 1199,
+    "currency": "EUR",
+    "formatted": "1199 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000092",
+      "sku": "PI-0000092",
+      "supplierRef": "99994410-EU",
+      "price": {
+        "amount": 1199,
+        "currency": "EUR",
+        "formatted": "1199 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/p/ep_dolphin_eon120_1_big.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/p/ep_eon120d_cable_2026.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/p/ep_eon120d_debrislock.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/p/ep_eon120d_app_controlled.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/p/ep_dolphin_eon120_13_big.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/p/ep_eon120d_smartmap_ultrarun.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/p/ep_dolphin_eon120d_front_big.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/p/ep_eon120d_entire_pool_coverage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/panier_eon_120d.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:52:21.573Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/ep_dolphin_eon120_1_big.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000092/01-ep_dolphin_eon120_1_big.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/ep_eon120d_cable_2026.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000092/02-ep_eon120d_cable_2026.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/ep_eon120d_debrislock.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000092/03-ep_eon120d_debrislock.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/ep_eon120d_app_controlled.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000092/04-ep_eon120d_app_controlled.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/ep_dolphin_eon120_13_big.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000092/05-ep_dolphin_eon120_13_big.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/ep_eon120d_smartmap_ultrarun.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000092/06-ep_eon120d_smartmap_ultrarun.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/ep_dolphin_eon120d_front_big.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000092/07-ep_dolphin_eon120d_front_big.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/ep_eon120d_entire_pool_coverage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000092/08-ep_eon120d_entire_pool_coverage.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/panier_eon_120d.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000092/09-panier_eon_120d.jpg",
+      "skipped": false
+    }
+  ]
+}

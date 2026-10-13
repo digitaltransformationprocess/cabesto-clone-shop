@@ -1,0 +1,75 @@
+{
+  "sku": "PCPL-1228",
+  "url": "https://www.cabesto.com/fr/plongee-sandow-circulaire-noir-latex-17-18-mm-pcpl-1228.html",
+  "title": "SANDOW CIRCULAIRE NOIR LATEX 17-18 MM",
+  "brand": "SALVIMAR",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage",
+    "Destockage",
+    "SANDOW CIRCULAIRE NOIR LATEX 17-18 MM"
+  ],
+  "description": "Pour un tir efficace, il faut trouver la proportion équilibrée entre l’élasticité des sandows et la masse de la flèche.",
+  "supplierRef": null,
+  "price": {
+    "amount": 20.39,
+    "currency": "EUR",
+    "formatted": "20.39 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1228",
+      "sku": "PCPL-1228",
+      "supplierRef": null,
+      "price": {
+        "amount": 20.39,
+        "currency": "EUR",
+        "formatted": "20.39 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-1228-pl-9150-picture_1-pcpl-1228-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-9146-pl-9146-picture_1-pcpl-1228-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:44.982Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-1228-pl-9150-picture_1-pcpl-1228-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1228/01-pcpl-1228-pl-9150-picture_1-pcpl-1228-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-9146-pl-9146-picture_1-pcpl-1228-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1228/02-pl-9146-pl-9146-picture_1-pcpl-1228-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "sku": "PCNT-0018411",
+  "url": "https://www.cabesto.com/fr/verticalite-sac-a-corde-combi-beal-be98.html",
+  "title": "Sac à corde Combi - BEAL",
+  "brand": "BEAL",
+  "category": "Cordes escalade",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Sacs et tapis à cordes",
+    "Cordes escalade"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Sacs et tapis à cordes",
+    "Cordes escalade"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac à corde Combi - BEAL"
+  ],
+  "description": "Achetez Sac à corde Combi - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 30.45,
+    "currency": "EUR",
+    "formatted": "30.45 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0018411",
+      "sku": "PCNT-0018411",
+      "supplierRef": null,
+      "price": {
+        "amount": 30.45,
+        "currency": "EUR",
+        "formatted": "30.45 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/e/be98_1_e-sac-a-corde-combi-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be98_2_u-sac-a-corde-combi-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be98_2_e-sac-a-corde-combi-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be98_1_u-sac-a-corde-combi-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be98_1_e-sac-a-corde-combi-beal_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be98_1_e-sac-a-corde-combi-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be98_1_u-sac-a-corde-combi-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:29:51.424Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be98_1_e-sac-a-corde-combi-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018411/01-be98_1_e-sac-a-corde-combi-beal_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be98_2_u-sac-a-corde-combi-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018411/02-be98_2_u-sac-a-corde-combi-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be98_2_e-sac-a-corde-combi-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018411/03-be98_2_e-sac-a-corde-combi-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be98_1_u-sac-a-corde-combi-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018411/04-be98_1_u-sac-a-corde-combi-beal_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be98_1_e-sac-a-corde-combi-beal_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018411/05-be98_1_e-sac-a-corde-combi-beal_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be98_1_e-sac-a-corde-combi-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018411/06-be98_1_e-sac-a-corde-combi-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be98_1_u-sac-a-corde-combi-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018411/07-be98_1_u-sac-a-corde-combi-beal.jpg",
+      "skipped": false
+    }
+  ]
+}

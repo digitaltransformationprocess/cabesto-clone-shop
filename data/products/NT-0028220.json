@@ -1,0 +1,99 @@
+{
+  "sku": "NT-0028220",
+  "url": "https://www.cabesto.com/fr/randonnee-jumelles-bushnell-powerview-v2-10x42-nt-0028220.html",
+  "title": "Jumelles Bushnell Powerview V2 10x42",
+  "brand": "BUSHNELL",
+  "category": "Idées cadeaux Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Orientation",
+    "Jumelles",
+    "Idées cadeaux Montagne"
+  ],
+  "categories": [
+    "Orientation",
+    "Jumelles",
+    "Idées cadeaux Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Jumelles Bushnell Powerview V2 10x42"
+  ],
+  "description": "Achetez Jumelles Bushnell Powerview V2 10x42 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "FLPWV1042",
+  "price": {
+    "amount": 138,
+    "currency": "EUR",
+    "formatted": "138 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028220",
+      "sku": "NT-0028220",
+      "supplierRef": "FLPWV1042",
+      "price": {
+        "amount": 138,
+        "currency": "EUR",
+        "formatted": "138 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/i/a/ia09_1-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/a/ia09_6-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/a/ia09_5-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/a/ia09_4-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/a/ia09_3-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/a/ia09_2-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/a/ia09_1-jumelles-bushnell-powerview-v2-10x42-bushnell_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:45.217Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/a/ia09_1-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028220/01-ia09_1-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/a/ia09_6-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028220/02-ia09_6-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/a/ia09_5-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028220/03-ia09_5-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/a/ia09_4-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028220/04-ia09_4-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/a/ia09_3-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028220/05-ia09_3-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/a/ia09_2-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028220/06-ia09_2-jumelles-bushnell-powerview-v2-10x42-bushnell.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/a/ia09_1-jumelles-bushnell-powerview-v2-10x42-bushnell_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028220/07-ia09_1-jumelles-bushnell-powerview-v2-10x42-bushnell_1.jpg",
+      "skipped": false
+    }
+  ]
+}

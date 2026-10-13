@@ -1,0 +1,71 @@
+{
+  "sku": "AL-0002292",
+  "url": "https://www.cabesto.com/fr/lot-tapas-3x111g-spanico.html",
+  "title": "LOT TAPAS 3X111G SPANICO",
+  "brand": "SPANICO",
+  "category": "Tapas",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-espagnole",
+    "tapas"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-espagnole",
+    "tapas"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "LOT TAPAS 3X111G SPANICO"
+  ],
+  "description": "Achetez LOT TAPAS 3X111G SPANICO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "565114",
+  "price": {
+    "amount": 6.79,
+    "currency": "EUR",
+    "formatted": "6.79 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002292",
+      "sku": "AL-0002292",
+      "supplierRef": "565114",
+      "price": {
+        "amount": 6.79,
+        "currency": "EUR",
+        "formatted": "6.79 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/o/lot_3_tapas_spanico_202104.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/o/lot-3-tapas-moules-2c-poulpes-et-calamars-3x111g22418.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:58:31.794Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/o/lot_3_tapas_spanico_202104.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002292/01-lot_3_tapas_spanico_202104.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/o/lot-3-tapas-moules-2c-poulpes-et-calamars-3x111g22418.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002292/02-lot-3-tapas-moules-2c-poulpes-et-calamars-3x111g22418.jpg",
+      "skipped": false
+    }
+  ]
+}

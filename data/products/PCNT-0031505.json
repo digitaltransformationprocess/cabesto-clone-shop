@@ -1,0 +1,143 @@
+{
+  "sku": "PCNT-0031505",
+  "url": "https://www.cabesto.com/fr/chaussure-securite-de-montagne-s7s-cramponnable-sierra-orange-48-garsport-pcnt-0031505.html",
+  "title": "CHAUSSURE SECURITE DE MONTAGNE S7S CRAMPONNABLE SIERRA ORANGE 48 GARSPORT",
+  "brand": "GARSPORT",
+  "category": "EDF - Equipement De La Personne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "speleologie",
+    "kit-bags-sacs-speleo",
+    "pochettes-et-sacs-personnels"
+  ],
+  "categories": [
+    "montagne",
+    "speleologie",
+    "kit-bags-sacs-speleo",
+    "pochettes-et-sacs-personnels"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CHAUSSURE SECURITE DE MONTAGNE S7S CRAMPONNABLE SIERRA ORANGE 48 GARSPORT"
+  ],
+  "description": "Achetez CHAUSSURE SECURITE DE MONTAGNE S7S CRAMPONNABLE SIERRA ORANGE 48 GARSPORT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 293.88,
+    "currency": "EUR",
+    "formatted": "293.88 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0031505",
+      "sku": "PCNT-0031505",
+      "supplierRef": null,
+      "price": {
+        "amount": 293.88,
+        "currency": "EUR",
+        "formatted": "293.88 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_12.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_11.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_10.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_9.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_8.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_7.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_6.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_5.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_4.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_3.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_1_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:24:09.543Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/01-nt_0031505_1.jpg.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_12.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/02-nt_0031505_1.jpg_12.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_11.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/03-nt_0031505_1.jpg_11.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_10.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/04-nt_0031505_1.jpg_10.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_9.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/05-nt_0031505_1.jpg_9.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_8.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/06-nt_0031505_1.jpg_8.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_7.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/07-nt_0031505_1.jpg_7.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_6.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/08-nt_0031505_1.jpg_6.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_5.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/09-nt_0031505_1.jpg_5.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_4.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/10-nt_0031505_1.jpg_4.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_3.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/11-nt_0031505_1.jpg_3.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_1_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/12-nt_0031505_1.jpg_1_1.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/13-nt_0031505_1.jpg_2.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0031505_1.jpg_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0031505/14-nt_0031505_1.jpg_1.png",
+      "skipped": false
+    }
+  ]
+}

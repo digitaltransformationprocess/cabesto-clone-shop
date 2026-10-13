@@ -1,0 +1,65 @@
+{
+  "sku": "PCNT-0002849",
+  "url": "https://www.cabesto.com/fr/brosse-a-prises-bouldering-brush-medium.html",
+  "title": "Brosse à prises Bouldering Brush Medium",
+  "brand": "BLACK DIAMOND",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Magnésie, sacs à pof, strapping",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Magnésie, sacs à pof, strapping",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Brosse à prises Bouldering Brush Medium"
+  ],
+  "description": "Achetez Brosse à prises Bouldering Brush Medium chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0002849",
+      "sku": "PCNT-0002849",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/d/bdc4_1_kr-brosse-a-prises-bouldering-brush-medium-black-diamond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:29:59.317Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bdc4_1_kr-brosse-a-prises-bouldering-brush-medium-black-diamond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002849/01-bdc4_1_kr-brosse-a-prises-bouldering-brush-medium-black-diamond_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "sku": "NT-0006065",
+  "url": "https://www.cabesto.com/fr/verticalite-descendeur-maestror-l-nt-0006065.html",
+  "title": "Descendeur Maestro® L",
+  "brand": "PETZL",
+  "category": "Descendeurs",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Descendeurs"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Descendeurs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Descendeur Maestro® L"
+  ],
+  "description": "Achetez Descendeur Maestro® L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "D024BA00",
+  "price": {
+    "amount": 569.95,
+    "currency": "EUR",
+    "formatted": "569.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006065",
+      "sku": "NT-0006065",
+      "supplierRef": "D024BA00",
+      "price": {
+        "amount": 569.95,
+        "currency": "EUR",
+        "formatted": "569.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl21_1-descendeur-maestro-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl21_5-descendeur-maestro-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl21_6-descendeur-maestro-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl21_4-descendeur-maestro-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl21_3-descendeur-maestro-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl21_2-descendeur-maestro-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:19:40.045Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl21_1-descendeur-maestro-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006065/01-pl21_1-descendeur-maestro-l-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl21_5-descendeur-maestro-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006065/02-pl21_5-descendeur-maestro-l-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl21_6-descendeur-maestro-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0006065\\03-pl21_6-descendeur-maestro-l-petzl.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0006065\\03-pl21_6-descendeur-maestro-l-petzl.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl21_4-descendeur-maestro-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0006065\\04-pl21_4-descendeur-maestro-l-petzl.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0006065\\04-pl21_4-descendeur-maestro-l-petzl.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl21_3-descendeur-maestro-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0006065\\05-pl21_3-descendeur-maestro-l-petzl.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0006065\\05-pl21_3-descendeur-maestro-l-petzl.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl21_2-descendeur-maestro-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006065/06-pl21_2-descendeur-maestro-l-petzl.jpg",
+      "skipped": false
+    }
+  ]
+}

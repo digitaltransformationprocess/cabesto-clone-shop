@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0005802",
+  "url": "https://www.cabesto.com/fr/verticalite-descendeur-stop-petzl-nt-0005802.html",
+  "title": "Descendeur Stop - PETZL",
+  "brand": "PETZL",
+  "category": "Descendeurs à poulies fixes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Spéléologie",
+    "Descendeurs à poulies fixes"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Descendeurs à poulies fixes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Descendeur Stop - PETZL"
+  ],
+  "description": "Achetez Descendeur Stop - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "D009AA00",
+  "price": {
+    "amount": 134.95,
+    "currency": "EUR",
+    "formatted": "134.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005802",
+      "sku": "NT-0005802",
+      "supplierRef": "D009AA00",
+      "price": {
+        "amount": 134.95,
+        "currency": "EUR",
+        "formatted": "134.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pz87_1-descendeur-stop-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz87_4-descendeur-stop-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz87_3-descendeur-stop-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz87_2-descendeur-stop-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz87_1-descendeur-stop-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:18:13.036Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz87_1-descendeur-stop-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005802/01-pz87_1-descendeur-stop-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz87_4-descendeur-stop-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005802/02-pz87_4-descendeur-stop-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz87_3-descendeur-stop-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005802/03-pz87_3-descendeur-stop-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz87_2-descendeur-stop-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005802/04-pz87_2-descendeur-stop-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz87_1-descendeur-stop-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005802/05-pz87_1-descendeur-stop-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0005749",
+  "url": "https://www.cabesto.com/fr/verticalite-degaine-pulp-11-cm-beal-nt-0005749.html",
+  "title": "Dégaine Pulp 11 cm - BEAL",
+  "brand": "BEAL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Dégaines",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Dégaines",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Dégaine Pulp 11 cm - BEAL"
+  ],
+  "description": "Achetez Dégaine Pulp 11 cm - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BMQP",
+  "price": {
+    "amount": 12.9,
+    "currency": "EUR",
+    "formatted": "12.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005749",
+      "sku": "NT-0005749",
+      "supplierRef": "BMQP",
+      "price": {
+        "amount": 12.9,
+        "currency": "EUR",
+        "formatted": "12.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/l/bla1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:58.960Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bla1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005749/01-bla1_1.jpg",
+      "skipped": false
+    }
+  ]
+}

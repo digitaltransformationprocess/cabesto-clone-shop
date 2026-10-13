@@ -1,0 +1,65 @@
+{
+  "sku": "PCPI-0000053",
+  "url": "https://www.cabesto.com/fr/piscine-electrolyseur-zelia-zlt-jusqu-a-piscine-de-75-m-pcpi-0000053.html",
+  "title": "Electrolyseur zelia zlt jusqu'à piscine de 75 m3",
+  "brand": "CCEI",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Électrolyseur de piscine",
+    "Électrolyse et sel",
+    "Idées cadeaux Piscine",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Électrolyseur de piscine",
+    "Électrolyse et sel",
+    "Idées cadeaux Piscine",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Electrolyseur zelia zlt jusqu'à piscine de 75 m3"
+  ],
+  "description": "Electrolyseur zelia zlt jusqu'à piscine de 75 m³ Electrolyseur zelia zlt pour piscine jusqu 75 m³ Produit très novateur et intuitif, le Zelia est un électrolyseur avec cellule transparente qui s'éclaire en fonction de la température de l'eau et du taux d",
+  "supplierRef": null,
+  "price": {
+    "amount": 471.74,
+    "currency": "EUR",
+    "formatted": "471.74 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPI-0000053",
+      "sku": "PCPI-0000053",
+      "supplierRef": null,
+      "price": {
+        "amount": 471.74,
+        "currency": "EUR",
+        "formatted": "471.74 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/l/electrolyseur-zelia-zlt-jusqu-a-25-m--piscine-center-1586438672_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:45:57.812Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/l/electrolyseur-zelia-zlt-jusqu-a-25-m--piscine-center-1586438672_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0000053/01-electrolyseur-zelia-zlt-jusqu-a-25-m--piscine-center-1586438672_4.jpg",
+      "skipped": false
+    }
+  ]
+}

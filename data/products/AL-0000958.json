@@ -1,0 +1,77 @@
+{
+  "sku": "AL-0000958",
+  "url": "https://www.cabesto.com/fr/chips-banane-pimentees-75g.html",
+  "title": "CHIPS BANANE PIMENTEES 75G samai",
+  "brand": "SAMAI",
+  "category": "Tartinables des îles",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-exotique",
+    "tartinables-exotiques"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-exotique",
+    "tartinables-exotiques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CHIPS BANANE PIMENTEES 75G samai"
+  ],
+  "description": "Achetez CHIPS BANANE PIMENTEES 75G samai chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "0832697000571.",
+  "price": {
+    "amount": 1.49,
+    "currency": "EUR",
+    "formatted": "1.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000958",
+      "sku": "AL-0000958",
+      "supplierRef": "0832697000571.",
+      "price": {
+        "amount": 1.49,
+        "currency": "EUR",
+        "formatted": "1.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/i/piment-samai.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/a/banner-samai-1080x1080px-2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/a/banner-samai-2560x888px.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:01:16.319Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/piment-samai.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000958/01-piment-samai.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/a/banner-samai-1080x1080px-2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000958/02-banner-samai-1080x1080px-2.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/a/banner-samai-2560x888px.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000958/03-banner-samai-2560x888px.png",
+      "skipped": false
+    }
+  ]
+}

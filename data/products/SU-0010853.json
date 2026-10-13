@@ -1,0 +1,97 @@
+{
+  "sku": "SU-0010853",
+  "url": "https://www.cabesto.com/fr/montre-ordinateur-de-plongee-descent-mk3s-gris-garmin-su-0010853.html",
+  "title": "Montre ordinateur de plongée DESCENT MK3S Acier GARMIN",
+  "brand": "GARMIN",
+  "category": "Montres ordinateurs",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Ordinateurs de plongée",
+    "Montres ordinateurs"
+  ],
+  "categories": [
+    "Ordinateurs de plongée",
+    "Montres ordinateurs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Plongée",
+    "Plongée",
+    "Plongée sous-marine",
+    "Plongée sous-marine",
+    "Ordinateurs de plongée",
+    "Ordinateurs de plongée",
+    "Montre ordinateur de plongée DESCENT MK3S Acier GARMIN"
+  ],
+  "description": "Achetez Montre ordinateur de plongée DESCENT MK3S Acier GARMIN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "010-02753-04",
+  "price": {
+    "amount": 1049,
+    "currency": "EUR",
+    "formatted": "1049 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010853",
+      "sku": "SU-0010853",
+      "supplierRef": "010-02753-04",
+      "price": {
+        "amount": 1049,
+        "currency": "EUR",
+        "formatted": "1049 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/r/gre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/greeeeeeeeeeeeeee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gree.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/greee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/greeee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/greeeeeee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:38:08.908Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010853/01-gre.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/greeeeeeeeeeeeeee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010853/02-greeeeeeeeeeeeeee.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gree.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010853/03-gree.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/greee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010853/04-greee.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/greeee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010853/05-greeee.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/greeeeeee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010853/06-greeeeeee.jpg",
+      "skipped": false
+    }
+  ]
+}

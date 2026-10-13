@@ -1,0 +1,131 @@
+{
+  "sku": "SU-0008610",
+  "url": "https://www.cabesto.com/fr/pack-leg3nd-elite-din-oct-spg-aqua-lung.html",
+  "title": "Pack détendeur de plongée LEGEND 3 ELITE ACD DIN AQUALUNG + Octopus LEGEND 3 + Manomètre AL50 + Sacoche AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "Packs détendeurs plongée + octopus plongée",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Détendeurs et Octopus",
+    "Packs détendeurs plongée + octopus plongée"
+  ],
+  "categories": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Détendeurs et Octopus",
+    "Packs détendeurs plongée + octopus plongée"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pack détendeur de plongée LEGEND 3 ELITE ACD DIN AQUALUNG + Octopus LEGEND 3 + Manomètre AL50 + Sacoche AQUALUNG"
+  ],
+  "description": "Eclatez-vous et plongez avec le package détendeur LEG3ND ELITE AQUALUNG, un pack détendeur haut de gamme offrant un confort inspiratoire exceptionnel. Livré et monté avec sacoche et manomètre AQUALUNG AL50...",
+  "supplierRef": "706002KBKDIN",
+  "price": {
+    "amount": 999,
+    "currency": "EUR",
+    "formatted": "999 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0008610",
+      "sku": "SU-0008610",
+      "supplierRef": "706002KBKDIN",
+      "price": {
+        "amount": 999,
+        "currency": "EUR",
+        "formatted": "999 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/a/pack-legend-elite-din2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-4091-pl-4091-picture_1-pl-4091-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32591-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/pxl_20260625_135844463.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/1/71ij4cuj76l._ac_sx450_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/l/flexible-de-direct-system-scd-pour-gilet-stabilisateur-plongee-76cm-noir_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/h/thumbnail_picto-plongee-final_10.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/e/leg3nd_first-stage_din-side_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-elite_2nd-stage_left_up.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-octopus_2nd-stage_front_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/al50_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sacoche-detendeur_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:09:07.462Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/pack-legend-elite-din2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008610/01-pack-legend-elite-din2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-4091-pl-4091-picture_1-pl-4091-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008610/02-pl-4091-pl-4091-picture_1-pl-4091-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32591-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008610/03--p-image-32591-grande.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/pxl_20260625_135844463.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008610/04-pxl_20260625_135844463.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/1/71ij4cuj76l._ac_sx450_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008610/05-71ij4cuj76l._ac_sx450_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/l/flexible-de-direct-system-scd-pour-gilet-stabilisateur-plongee-76cm-noir_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008610/06-flexible-de-direct-system-scd-pour-gilet-stabilisateur-plongee-76cm-noir_4_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/h/thumbnail_picto-plongee-final_10.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008610/07-thumbnail_picto-plongee-final_10.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/leg3nd_first-stage_din-side_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008610/08-leg3nd_first-stage_din-side_1.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-elite_2nd-stage_left_up.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008610/09-leg3nd-elite_2nd-stage_left_up.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-octopus_2nd-stage_front_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008610/10-leg3nd-octopus_2nd-stage_front_1.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al50_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008610/11-al50_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sacoche-detendeur_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008610/12-sacoche-detendeur_1.jpg",
+      "skipped": false
+    }
+  ]
+}

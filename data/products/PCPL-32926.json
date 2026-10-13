@@ -1,0 +1,79 @@
+{
+  "sku": "PCPL-32926",
+  "url": "https://www.cabesto.com/fr/peche-fixe-palmes-la-paire-pcpl-32926.html",
+  "title": "FIXE PALMES (LA PAIRE) IMERSION",
+  "brand": "IMERSION",
+  "category": "Accessoires",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Accessoires de palmes plongée",
+    "Accessoires"
+  ],
+  "categories": [
+    "Accessoires de palmes plongée",
+    "Accessoires"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FIXE PALMES (LA PAIRE) IMERSION"
+  ],
+  "description": "Fixe Palmes Imersion : l'accessoire indispensable des palmes trop grandes! en chasse sous marine, apnée ou plongée, ces fixes palmes s'adaptent facilement et vous maintiennent parfaitement le pied dans le chausson.",
+  "supplierRef": null,
+  "price": {
+    "amount": 6.99,
+    "currency": "EUR",
+    "formatted": "6.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-32926",
+      "sku": "PCPL-32926",
+      "supplierRef": null,
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/f/i/fixe-palmes-la-paire-imersion_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/fixe-palmes-la-paire-imersion.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/fixe-palmes-la-paire.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/fixe-palmes-la-paire_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:43:22.632Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/fixe-palmes-la-paire-imersion_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-32926/01-fixe-palmes-la-paire-imersion_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/fixe-palmes-la-paire-imersion.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-32926/02-fixe-palmes-la-paire-imersion.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/fixe-palmes-la-paire.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-32926/03-fixe-palmes-la-paire.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/fixe-palmes-la-paire_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-32926/04-fixe-palmes-la-paire_1.jpg",
+      "skipped": false
+    }
+  ]
+}

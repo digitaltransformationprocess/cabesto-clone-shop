@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0000171",
+  "url": "https://www.cabesto.com/fr/200-m-corde-parallel-10-5-mm-blanche.html",
+  "title": "200 m Corde Parallel 10.5 mm Blanche",
+  "brand": "PETZL",
+  "category": "harnais-ski-alpinisme",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "neige-glace",
+    "ski-de-randonnee",
+    "harnais-ski-alpinisme"
+  ],
+  "categories": [
+    "montagne",
+    "neige-glace",
+    "ski-de-randonnee",
+    "harnais-ski-alpinisme"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "200 m Corde Parallel 10.5 mm Blanche"
+  ],
+  "description": "Achetez 200 m Corde Parallel 10.5 mm Blanche chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "R077AA21",
+  "price": {
+    "amount": 429.95,
+    "currency": "EUR",
+    "formatted": "429.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0000171",
+      "sku": "NT-0000171",
+      "supplierRef": "R077AA21",
+      "price": {
+        "amount": 429.95,
+        "currency": "EUR",
+        "formatted": "429.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pc38_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:36:47.299Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pc38_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000171/01-pc38_1.jpg",
+      "skipped": false
+    }
+  ]
+}

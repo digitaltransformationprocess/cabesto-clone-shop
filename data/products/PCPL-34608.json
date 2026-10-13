@@ -1,0 +1,85 @@
+{
+  "sku": "PCPL-34608",
+  "url": "https://www.cabesto.com/fr/plongee-masque-papeete-avec-loupe-presbytie-aquatys-pcpl-34608.html",
+  "title": "MASQUE PAPEETE AVEC LOUPE PRESBYTIE AQUATYS",
+  "brand": "AQUATYS",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MASQUE PAPEETE AVEC LOUPE PRESBYTIE AQUATYS"
+  ],
+  "description": "MASQUE PAPEETE AVEC LOUPE PRESBYTIE AQUATYSAmis plongeurs (et plongeuses) presbytes le masque PAPEETE AQUATYS avec ses loupes de grossissement est la solution simple et pas chère pour pouvoir continuer à lire vos instruments (ordinateurs, manomètres, montres,plaquettes...) pendant vos plongées sous-marine...Livré directement monté, le masque PAPEETE est prêt à l'usage. Idéal pour bien voir de prés sans avoir à se rallonger les bras !!!Poids : 200 grVerres \"securit\" trempésMasque binoculaire à large champ de visionBoucles pivotantes : réglage simpleJupe silicone souple pour tous les visagesloupes de grossissement positives : +1.75 / +2.25 / +2.75Bleu uniquementloupes polymérisées déjà montéesCe masque a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 1) suivant la norme NF EN 16805.",
+  "supplierRef": null,
+  "price": {
+    "amount": 79.99,
+    "currency": "EUR",
+    "formatted": "79.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-34608",
+      "sku": "PCPL-34608",
+      "supplierRef": null,
+      "price": {
+        "amount": 79.99,
+        "currency": "EUR",
+        "formatted": "79.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/a/masque-papeete-avec-loupe-presbytie-aquatys_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masque-papeete-bleu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masque-papeete-avec-loupe-presbytie-aquatys_3_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/masque-papeete-avec-loupe-presbytie-aquatys_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masque-papeete-avec-loupe-presbytie-aquatys_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:31:59.819Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masque-papeete-avec-loupe-presbytie-aquatys_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-34608/01-masque-papeete-avec-loupe-presbytie-aquatys_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masque-papeete-bleu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-34608/02-masque-papeete-bleu.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masque-papeete-avec-loupe-presbytie-aquatys_3_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-34608/03-masque-papeete-avec-loupe-presbytie-aquatys_3_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/masque-papeete-avec-loupe-presbytie-aquatys_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-34608/04-masque-papeete-avec-loupe-presbytie-aquatys_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masque-papeete-avec-loupe-presbytie-aquatys_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-34608/05-masque-papeete-avec-loupe-presbytie-aquatys_2_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

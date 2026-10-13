@@ -1,0 +1,79 @@
+{
+  "sku": "SU-0004815",
+  "url": "https://www.cabesto.com/fr/plongee-parachute-tout-en-un-mares-pl-16757.html",
+  "title": "Parachute de palier avec pochette. spool et lest TOUT EN UN MARES",
+  "brand": "MARES",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Parachute de palier avec pochette. spool et lest TOUT EN UN MARES"
+  ],
+  "description": "Bande réfléchissante solas 5 cm (2 pouces)Extrêmement légerMarquage réfléchissant « diver below »Poche maille intégrée pour un moulinetMoulinet de 20 m (66 pieds) inclusAnneau forme d en inoxDouble mousqueton inoxRaccord de gonflage buccal pour le flexible basse pression du giletClapet de surpressionSystème de fermeture velcro",
+  "supplierRef": "415753",
+  "price": {
+    "amount": 59,
+    "currency": "EUR",
+    "formatted": "59 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004815",
+      "sku": "SU-0004815",
+      "supplierRef": "415753",
+      "price": {
+        "amount": 59,
+        "currency": "EUR",
+        "formatted": "59 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-16757-pl-16757-picture_1-pl-16757-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/2/622xx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-16757-pl-16757-picture_2-pl-16757-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-16757-pl-16757-picture_3-pl-16757-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:27:36.403Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-16757-pl-16757-picture_1-pl-16757-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004815/01-pl-16757-pl-16757-picture_1-pl-16757-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/2/622xx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004815/02-622xx.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-16757-pl-16757-picture_2-pl-16757-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004815/03-pl-16757-pl-16757-picture_2-pl-16757-2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-16757-pl-16757-picture_3-pl-16757-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004815/04-pl-16757-pl-16757-picture_3-pl-16757-3.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "1er-prix-club-association"
+  ],
+  "categories": [
+    "plongee",
+    "1er-prix-club-association"
+  ]
+}

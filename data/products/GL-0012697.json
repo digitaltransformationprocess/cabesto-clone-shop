@@ -1,0 +1,97 @@
+{
+  "sku": "GL-0012697",
+  "url": "https://www.cabesto.com/fr/star-pump-power-bank-batterie-externe-star-pump.html",
+  "title": "Batterie externe POWER BANK pour pompe électrique STAR PUMP X",
+  "brand": "ZRAY",
+  "category": "Idées cadeaux Glisse",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Gonfleur",
+    "Cordages & accessoires",
+    "Black November - Glisse",
+    "Gonfleurs",
+    "Idées cadeaux Glisse"
+  ],
+  "categories": [
+    "Gonfleur",
+    "Cordages & accessoires",
+    "Black November - Glisse",
+    "Gonfleurs",
+    "Idées cadeaux Glisse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Batterie externe POWER BANK pour pompe électrique STAR PUMP X"
+  ],
+  "description": "Gonflez librement jusqu'à 7 stand up paddle avec la batterie externe STAR PUMP X, la batterie externe pour gonfler votre SUP sans allume-cigare.",
+  "supplierRef": "PB-PMP-STARX",
+  "price": {
+    "amount": 59,
+    "currency": "EUR",
+    "formatted": "59 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "GL-0012697",
+      "sku": "GL-0012697",
+      "supplierRef": "PB-PMP-STARX",
+      "price": {
+        "amount": 59,
+        "currency": "EUR",
+        "formatted": "59 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/t/starpumpx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/1/61-5j8laznl._ac_sl1200__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-swift-wattsup-electrique-_12_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/1/61stl-zv1rl._ac_sl1286_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/t/star-8-electric-pump_3__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_19_37.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:09:23.855Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/t/starpumpx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0012697/01-starpumpx.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/61-5j8laznl._ac_sl1200__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0012697/02-61-5j8laznl._ac_sl1200__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-swift-wattsup-electrique-_12_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0012697/03-pompe-swift-wattsup-electrique-_12_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/61stl-zv1rl._ac_sl1286_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\GL-0012697\\04-61stl-zv1rl._ac_sl1286_.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\GL-0012697\\04-61stl-zv1rl._ac_sl1286_.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/t/star-8-electric-pump_3__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\GL-0012697\\05-star-8-electric-pump_3__1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\GL-0012697\\05-star-8-electric-pump_3__1.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_19_37.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0012697/06-hqdefault_19_37.jpg",
+      "skipped": false
+    }
+  ]
+}

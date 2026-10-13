@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0000722",
+  "url": "https://www.cabesto.com/fr/brochettes-douces-plaza-del-sol-165g.html",
+  "title": "BROCHETTES DOUCES PLAZA DEL SOL 165G",
+  "brand": "PLAZA DEL SOL",
+  "category": "Tapas",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-espagnole",
+    "tapas"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-espagnole",
+    "tapas"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BROCHETTES DOUCES PLAZA DEL SOL 165G"
+  ],
+  "description": "Achetez BROCHETTES DOUCES PLAZA DEL SOL 165G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1C5828",
+  "price": {
+    "amount": 3.39,
+    "currency": "EUR",
+    "formatted": "3.39 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000722",
+      "sku": "AL-0000722",
+      "supplierRef": "1C5828",
+      "price": {
+        "amount": 3.39,
+        "currency": "EUR",
+        "formatted": "3.39 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0000722.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:57:55.084Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0000722.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000722/01-al-0000722.jpg",
+      "skipped": true
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "sku": "SU-0010738",
+  "url": "https://www.cabesto.com/fr/ordinateur-de-plongee-i330r-couleurs-blanc-aqualung-su-0010738.html",
+  "title": "Ordinateur de plongée I330R couleurs blanc AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "Ordinateur multigaz",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Ordinateurs de plongée",
+    "Ordinateur multigaz"
+  ],
+  "categories": [
+    "Ordinateurs de plongée",
+    "Ordinateur multigaz"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ordinateur de plongée I330R couleurs blanc AQUALUNG"
+  ],
+  "description": "Découvrez le nouvel ordinateur écran couleur AQUALUNG, Le i330R...Compact, léger et ultra moderne, le i330R est un ordinateur multi-gaz, multi-modes rechargeable et connecté Bluetooh 5.0, le meilleur de la technologie AQUALUNG.",
+  "supplierRef": "704030WHWH",
+  "price": {
+    "amount": 299,
+    "currency": "EUR",
+    "formatted": "299 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010738",
+      "sku": "SU-0010738",
+      "supplierRef": "704030WHWH",
+      "price": {
+        "amount": 299,
+        "currency": "EUR",
+        "formatted": "299 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/i/3/i330_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/3/i330r.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/3/i330_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/3/i330_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/3/i330_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/3/i330r_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/o/boxx_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:36:57.047Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/3/i330_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010738/01-i330_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/3/i330r.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010738/02-i330r.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/3/i330_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010738/03-i330_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/3/i330_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010738/04-i330_4_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/3/i330_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010738/05-i330_2_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/3/i330r_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010738/06-i330r_5_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/o/boxx_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010738/07-boxx_.jpg",
+      "skipped": false
+    }
+  ]
+}

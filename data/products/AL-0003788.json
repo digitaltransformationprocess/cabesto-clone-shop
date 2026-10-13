@@ -1,0 +1,68 @@
+{
+  "sku": "AL-0003788",
+  "url": "https://www.cabesto.com/fr/sauce-rougail-380g.html",
+  "title": "SAUCE ROUGAIL 380G",
+  "brand": "CHALEUR CREOLE",
+  "category": "accompagnement",
+  "description": "**SAUCE ROUGAIL (380g)** - **Description** : Sauce inspirée de la cuisine réunionnaise, à base de tomates, piments, gingembre et épices. - **Utilisations en cuisine** : - **Accompagnement** : Servir avec du riz blanc, des lentilles ou un cari. - **Topping** : Ajouter sur des viandes ou poissons grillés. - **Sandwichs** : Garnir des pains avec du poulet ou des saucisses pour une touche épicée.",
+  "price": {
+    "amount": 3.79,
+    "currency": "EUR",
+    "formatted": "3.79 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "Out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003788",
+      "sku": "AL-0003788",
+      "price": {
+        "amount": 3.79,
+        "currency": "EUR",
+        "formatted": "3.79 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "Out of stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/s/a/sauce-rougail-chaleur-creole.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sauce-rougail-chaleur-creole.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sauce-rougail-chaleur-creole.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003788/01-sauce-rougail-chaleur-creole.png",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:22:49.145Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/s/a/sauce-rougail-chaleur-creole.png?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "3.79",
+    "currency": "EUR",
+    "availability": "out of stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "cuisine-surgele",
+    "accompagnement"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "cuisine-surgele",
+    "accompagnement"
+  ]
+}

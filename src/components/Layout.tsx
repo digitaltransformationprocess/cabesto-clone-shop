@@ -42,7 +42,7 @@ export function Layout({ children }: { children: ReactNode }) {
         <nav className="border-t bg-secondary">
           <div className="mx-auto flex max-w-7xl gap-6 overflow-x-auto px-4 py-2 text-sm font-semibold text-secondary-foreground">
             {categories.map((c) => (
-              <Link key={c.slug} to="/categorie/$slug" params={{ slug: c.slug }} className="whitespace-nowrap hover:text-accent" activeProps={{ className: "text-accent" }}>{c.name}</Link>
+              <Link key={c.slug} to="/categorie/$" params={{ _splat: c.slug }} className="whitespace-nowrap hover:text-accent" activeProps={{ className: "text-accent" }}>{c.name}</Link>
             ))}
             <Link to="/magasins" className="ml-auto whitespace-nowrap hover:text-accent">Nos magasins</Link>
             <Link to="/faq" className="whitespace-nowrap hover:text-accent">Aide</Link>
@@ -53,7 +53,7 @@ export function Layout({ children }: { children: ReactNode }) {
       <footer className="mt-16 bg-primary text-primary-foreground">
         <div className="mx-auto grid max-w-7xl gap-8 px-4 py-10 text-sm md:grid-cols-4">
           <div><p className="font-display text-xl font-bold">Marinéo</p><p className="mt-2 opacity-75">L'équipement de la mer, pour la pêche, le bateau et la plongée.</p></div>
-          <div><p className="font-semibold">Boutique</p><ul className="mt-2 space-y-1 opacity-75">{categories.map((c) => <li key={c.slug}><Link to="/categorie/$slug" params={{ slug: c.slug }}>{c.name}</Link></li>)}</ul></div>
+          <div><p className="font-semibold">Boutique</p><ul className="mt-2 space-y-1 opacity-75">{categories.map((c) => <li key={c.slug}><Link to="/categorie/$" params={{ _splat: c.slug }}>{c.name}</Link></li>)}</ul></div>
           <div><p className="font-semibold">Service client</p><ul className="mt-2 space-y-1 opacity-75">
             <li><Link to="/faq">FAQ</Link></li><li><Link to="/livraison">Livraison</Link></li><li><Link to="/retours">Retours</Link></li><li><Link to="/magasins">Nos magasins</Link></li>
           </ul></div>
@@ -96,4 +96,4 @@ const statusTone: Record<Status, string> = {
   "Annulée": "bg-destructive/15 text-destructive",
 };
 export const StatusBadge = ({ s }: { s: Status }) => <span className={`rounded-full px-2.5 py-0.5 text-xs font-semibold ${statusTone[s]}`}>{s}</span>;
-export const productName = (id: string) => products.find((p) => p.id === id)!.name;
+export const productName = (id: string) => products.find((p) => p.id === id)?.name ?? id;

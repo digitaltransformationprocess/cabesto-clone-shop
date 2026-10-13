@@ -1,0 +1,133 @@
+{
+  "sku": "PI-0001115",
+  "url": "https://www.cabesto.com/fr/robot-piscine-t55i-equivalent-s300i-dolphin.html",
+  "title": "ROBOT DE PISCINE FILAIRE T55I DOLPHIN",
+  "brand": "DOLPHIN",
+  "category": "Black November - Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Robot électrique",
+    "Destockage Piscine",
+    "Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine"
+  ],
+  "categories": [
+    "Robot électrique",
+    "Destockage Piscine",
+    "Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROBOT DE PISCINE FILAIRE T55I DOLPHIN"
+  ],
+  "description": "Achetez ROBOT DE PISCINE FILAIRE T55I DOLPHIN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "99996245-T5I",
+  "price": {
+    "amount": 1099,
+    "currency": "EUR",
+    "formatted": "1099 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001115",
+      "sku": "PI-0001115",
+      "supplierRef": "99996245-T5I",
+      "price": {
+        "amount": 1099,
+        "currency": "EUR",
+        "formatted": "1099 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/PI-32-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/o/dolphin_t45.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-dolphin-t35-avec-chariot-35200.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/o/dolphin-t55i-03_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/o/dolphin-e25-piscine-center-1492770568_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-dolphin-t55i-piscine-center-1554282930.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-dolphin-t55i-piscine-center-1554283235.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/p/appli_dolphin_plus.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/l/dl99996245-t5_15.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/d/edit-ac73f1b6-5544-4b88-bee2f5dab1e6889b.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/p/ep_commence_gallery-ep_t55_env_ps_waterline_us_opt2_copy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_10_41.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:29:00.420Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-32-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001115/01-PI-32-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/o/dolphin_t45.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001115/02-dolphin_t45.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-dolphin-t35-avec-chariot-35200.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001115/03-robot-piscine-dolphin-t35-avec-chariot-35200.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/o/dolphin-t55i-03_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001115/04-dolphin-t55i-03_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/o/dolphin-e25-piscine-center-1492770568_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001115/05-dolphin-e25-piscine-center-1492770568_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-dolphin-t55i-piscine-center-1554282930.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001115/06-robot-dolphin-t55i-piscine-center-1554282930.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-dolphin-t55i-piscine-center-1554283235.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001115/07-robot-dolphin-t55i-piscine-center-1554283235.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/p/appli_dolphin_plus.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001115/08-appli_dolphin_plus.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/l/dl99996245-t5_15.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001115/09-dl99996245-t5_15.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/d/edit-ac73f1b6-5544-4b88-bee2f5dab1e6889b.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001115/10-edit-ac73f1b6-5544-4b88-bee2f5dab1e6889b.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/ep_commence_gallery-ep_t55_env_ps_waterline_us_opt2_copy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001115/11-ep_commence_gallery-ep_t55_env_ps_waterline_us_opt2_copy.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_10_41.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001115/12-hqdefault_10_41.jpg",
+      "skipped": false
+    }
+  ]
+}

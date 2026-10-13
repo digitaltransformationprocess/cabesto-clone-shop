@@ -1,0 +1,79 @@
+{
+  "sku": "PCNT-0004973",
+  "url": "https://www.cabesto.com/fr/randonnee-chaussettes-homme-hike-light-crew-icebreaker-jp26.html",
+  "title": "Chaussettes Homme Hike+ Light Crew - ICEBREAKER",
+  "brand": "ICEBREAKER",
+  "category": "chaussettes-mi-mollets",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "chaussures-de-randonnee",
+    "chaussettes",
+    "chaussettes-mi-mollets"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "chaussures-de-randonnee",
+    "chaussettes",
+    "chaussettes-mi-mollets"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussettes Homme Hike+ Light Crew - ICEBREAKER"
+  ],
+  "description": "Achetez Chaussettes Homme Hike+ Light Crew - ICEBREAKER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 27.95,
+    "currency": "EUR",
+    "formatted": "27.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004973",
+      "sku": "PCNT-0004973",
+      "supplierRef": null,
+      "price": {
+        "amount": 27.95,
+        "currency": "EUR",
+        "formatted": "27.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/j/p/jp26_1_eg-chaussettes-homme-hike--light-crew-icebreaker.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/p/jp26_1_hq-chaussettes-homme-hike--light-crew-icebreaker_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/p/jp26_1_hq-chaussettes-homme-hike--light-crew-icebreaker_1_1_1_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:26:21.510Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/p/jp26_1_eg-chaussettes-homme-hike--light-crew-icebreaker.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004973/01-jp26_1_eg-chaussettes-homme-hike--light-crew-icebreaker.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/p/jp26_1_hq-chaussettes-homme-hike--light-crew-icebreaker_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004973/02-jp26_1_hq-chaussettes-homme-hike--light-crew-icebreaker_1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/p/jp26_1_hq-chaussettes-homme-hike--light-crew-icebreaker_1_1_1_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004973/03-jp26_1_hq-chaussettes-homme-hike--light-crew-icebreaker_1_1_1_1_.jpg",
+      "skipped": false
+    }
+  ]
+}

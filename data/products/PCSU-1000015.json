@@ -1,0 +1,107 @@
+{
+  "sku": "PCSU-1000015",
+  "url": "https://www.cabesto.com/fr/lampe-de-plongee-sous-marine-vl4600-p-bigblue-pcsu-1000015.html",
+  "title": "Lampe de plongée sous-marine VL4600 P BIGBLUE",
+  "brand": "BIGBLUE DIVE LIGHTS",
+  "category": "Lampes de plongée et phares de plongée photo et vidéo",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Éclairage - Photo - Vidéo",
+    "Lampes de plongée et phares de plongée photo et vidéo"
+  ],
+  "categories": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Éclairage - Photo - Vidéo",
+    "Lampes de plongée et phares de plongée photo et vidéo"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe de plongée sous-marine VL4600 P BIGBLUE"
+  ],
+  "description": "Profitez d’un éclairage sous-marin étanche, puissant et homogène avec la lampe de plongée VL4600P BIGBLUE, et révélez les plus belles couleurs de vos vidéos et photos de plongée sous-marine.",
+  "supplierRef": null,
+  "price": {
+    "amount": 409,
+    "currency": "EUR",
+    "formatted": "409 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-1000015",
+      "sku": "PCSU-1000015",
+      "supplierRef": null,
+      "price": {
+        "amount": 409,
+        "currency": "EUR",
+        "formatted": "409 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/6/4666.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/t/vtl2999.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/l/vl_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/l/vl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/l/tl2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/l/tl6_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/l/vl_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/l/vl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:42:38.485Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/6/4666.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-1000015/01-4666.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/t/vtl2999.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-1000015/02-vtl2999.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/l/vl_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-1000015/03-vl_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/l/vl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-1000015/04-vl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/l/tl2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-1000015/05-tl2_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/l/tl6_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-1000015/06-tl6_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/l/vl_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-1000015/07-vl_1__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/l/vl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-1000015/08-vl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

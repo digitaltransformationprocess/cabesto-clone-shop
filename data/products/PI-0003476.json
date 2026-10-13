@@ -1,0 +1,67 @@
+{
+  "sku": "PI-0003476",
+  "url": "https://www.cabesto.com/fr/piscine-traversee-de-paroi-pour-piscine-liner-cofies-hayward-blanc-pi-0003476.html",
+  "title": "SKIMMER BETON/LINER 5M3/H GRIS/BLANC ASTRAL",
+  "brand": "ASTRAL",
+  "category": "Traversées de parois",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Pièces à sceller",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine",
+    "Traversées de parois"
+  ],
+  "categories": [
+    "Pièces à sceller",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine",
+    "Traversées de parois"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SKIMMER BETON/LINER 5M3/H GRIS/BLANC ASTRAL"
+  ],
+  "description": "Traversée de paroi pour piscine liner Cofies Hayward - blanc Traversée de paroi pour piscine liner Cofies Hayward - blanc Une traversée de paroi permet d'accueillir si nécessaire une buse de refoulement, une prise balai pour piscine liner ou un projecteu",
+  "supplierRef": "34413CL129",
+  "price": {
+    "amount": 50,
+    "currency": "EUR",
+    "formatted": "50 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003476",
+      "sku": "PI-0003476",
+      "supplierRef": "34413CL129",
+      "price": {
+        "amount": 50,
+        "currency": "EUR",
+        "formatted": "50 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/t/r/traversee-de-paroi-pour-piscine-liner-cofies-hayward-blanc-piscine-center-1420818094.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:46:03.640Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/r/traversee-de-paroi-pour-piscine-liner-cofies-hayward-blanc-piscine-center-1420818094.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003476/01-traversee-de-paroi-pour-piscine-liner-cofies-hayward-blanc-piscine-center-1420818094.jpg",
+      "skipped": false
+    }
+  ]
+}

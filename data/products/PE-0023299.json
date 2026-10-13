@@ -1,0 +1,61 @@
+{
+  "sku": "PE-0023299",
+  "url": "https://www.cabesto.com/fr/banane-de-peche-game-time-hip-bag-mustad-pe-0023299.html",
+  "title": "BANANE DE PECHE GAME TIME HIP BAG | MUSTAD",
+  "brand": "MUSTAD",
+  "category": "Bagagerie",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "Bagagerie, Rangements",
+    "Bagagerie"
+  ],
+  "categories": [
+    "Bagagerie, Rangements",
+    "Bagagerie"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BANANE DE PECHE GAME TIME HIP BAG | MUSTAD"
+  ],
+  "description": "Achetez BANANE DE PECHE GAME TIME HIP BAG | MUSTAD chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "MGTHB",
+  "price": {
+    "amount": 37.99,
+    "currency": "EUR",
+    "formatted": "37.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0023299",
+      "sku": "PE-0023299",
+      "supplierRef": "MGTHB",
+      "price": {
+        "amount": 37.99,
+        "currency": "EUR",
+        "formatted": "37.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/a/game_time_hip_bag.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:27:50.381Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/game_time_hip_bag.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0023299/01-game_time_hip_bag.jpg",
+      "skipped": false
+    }
+  ]
+}

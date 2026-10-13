@@ -1,0 +1,63 @@
+{
+  "sku": "NT-0001449",
+  "url": "https://www.cabesto.com/fr/anneau-dyneema-11-mm-80-cm-nt-0001449.html",
+  "title": "Anneau Dyneema 11 mm 80 cm",
+  "brand": "CLIMBING TECHNOLOGY",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Anneau Dyneema 11 mm 80 cm"
+  ],
+  "description": "Achetez Anneau Dyneema 11 mm 80 cm chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "7W103080STD",
+  "price": {
+    "amount": 8.11,
+    "currency": "EUR",
+    "formatted": "8.11 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0001449",
+      "sku": "NT-0001449",
+      "supplierRef": "7W103080STD",
+      "price": {
+        "amount": 8.11,
+        "currency": "EUR",
+        "formatted": "8.11 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al07.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:20.836Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al07.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001449/01-al07.jpg",
+      "skipped": false
+    }
+  ]
+}

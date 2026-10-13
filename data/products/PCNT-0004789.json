@@ -1,0 +1,131 @@
+{
+  "sku": "PCNT-0004789",
+  "url": "https://www.cabesto.com/fr/pantalon-oxford-hh08.html",
+  "title": "Pantalon Oxford",
+  "brand": "HELLY HANSEN WORK",
+  "category": "sous-vetements",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "habillement",
+    "sous-vetements"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "habillement",
+    "sous-vetements"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pantalon Oxford"
+  ],
+  "description": "Achetez Pantalon Oxford chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 88.8,
+    "currency": "EUR",
+    "formatted": "88.8 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004789",
+      "sku": "PCNT-0004789",
+      "supplierRef": null,
+      "price": {
+        "amount": 88.8,
+        "currency": "EUR",
+        "formatted": "88.8 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_9_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:33:11.731Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004789/01-hh08_1_c-pantalon-oxford-helly-hansen-work_9.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004789/02-hh08_1_c-pantalon-oxford-helly-hansen-work.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004789/03-hh08_1_c-pantalon-oxford-helly-hansen-work_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004789/04-hh08_1_c-pantalon-oxford-helly-hansen-work_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004789/05-hh08_1_c-pantalon-oxford-helly-hansen-work_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004789/06-hh08_1_c-pantalon-oxford-helly-hansen-work_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004789/07-hh08_1_c-pantalon-oxford-helly-hansen-work_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004789/08-hh08_1_c-pantalon-oxford-helly-hansen-work_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004789/09-hh08_1_c-pantalon-oxford-helly-hansen-work_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_9_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004789/10-hh08_1_c-pantalon-oxford-helly-hansen-work_9_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004789/11-hh08_1_c-pantalon-oxford-helly-hansen-work_8.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh08_1_c-pantalon-oxford-helly-hansen-work_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004789/12-hh08_1_c-pantalon-oxford-helly-hansen-work_4.jpg",
+      "skipped": false
+    }
+  ]
+}

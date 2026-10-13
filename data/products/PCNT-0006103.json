@@ -1,0 +1,109 @@
+{
+  "sku": "PCNT-0006103",
+  "url": "https://www.cabesto.com/fr/verticalite-harnais-volt-wind-petzl-pl56.html",
+  "title": "Harnais Volt Wind - PETZL",
+  "brand": "PETZL",
+  "category": "Harnais de maintien, suspension",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Harnais de maintien, suspension"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Harnais de maintien, suspension"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Harnais Volt Wind - PETZL"
+  ],
+  "description": "Achetez Harnais Volt Wind - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 413.95,
+    "currency": "EUR",
+    "formatted": "413.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0006103",
+      "sku": "PCNT-0006103",
+      "supplierRef": null,
+      "price": {
+        "amount": 413.95,
+        "currency": "EUR",
+        "formatted": "413.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl56_1_l-harnais-volt-wind-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl56_6_l-harnais-volt-wind-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl56_5_l-harnais-volt-wind-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl56_4_l-harnais-volt-wind-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl56_3_l-harnais-volt-wind-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl56_2_l-harnais-volt-wind-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl56_1_l-harnais-volt-wind-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl56_1_l-harnais-volt-wind-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:33:18.200Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl56_1_l-harnais-volt-wind-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006103/01-pl56_1_l-harnais-volt-wind-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl56_6_l-harnais-volt-wind-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006103/02-pl56_6_l-harnais-volt-wind-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl56_5_l-harnais-volt-wind-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006103/03-pl56_5_l-harnais-volt-wind-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl56_4_l-harnais-volt-wind-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006103/04-pl56_4_l-harnais-volt-wind-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl56_3_l-harnais-volt-wind-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006103/05-pl56_3_l-harnais-volt-wind-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl56_2_l-harnais-volt-wind-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006103/06-pl56_2_l-harnais-volt-wind-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl56_1_l-harnais-volt-wind-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006103/07-pl56_1_l-harnais-volt-wind-petzl_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl56_1_l-harnais-volt-wind-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006103/08-pl56_1_l-harnais-volt-wind-petzl_2.jpg",
+      "skipped": false
+    }
+  ]
+}

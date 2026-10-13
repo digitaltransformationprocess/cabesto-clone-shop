@@ -1,0 +1,66 @@
+{
+  "sku": "AL-0003984",
+  "url": "https://www.cabesto.com/fr/soupe-de-poisson-400g.html",
+  "title": "SOUPE DE POISSON 400G",
+  "brand": "LA POINTE DE PENMARCH",
+  "category": "poissons",
+  "description": "Un grand classique de la cuisine bretonne ! Du poisson débarqué en Bretagne, des ingrédients sélectionnés avec soin, pour une qualité gustative incomparable ! La liste d'ingrédients ne contient ni additif ni conservateur. Vos papilles en redemandent déjà !",
+  "price": {
+    "amount": 3.49,
+    "currency": "EUR",
+    "formatted": "3.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "In stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003984",
+      "sku": "AL-0003984",
+      "price": {
+        "amount": 3.49,
+        "currency": "EUR",
+        "formatted": "3.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "In stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0003984.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0003984.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0003984.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003984/01-al-0003984.png",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:17:17.794Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/a/l/al-0003984.png?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "3.49",
+    "currency": "EUR",
+    "availability": "in stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "poissons"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "poissons"
+  ]
+}

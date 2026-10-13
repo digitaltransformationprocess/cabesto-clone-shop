@@ -1,0 +1,67 @@
+{
+  "sku": "PCNT-0013629",
+  "url": "https://www.cabesto.com/fr/randonnee-chaussures-approche-randonnee-basse-mojito-trail-scarpa-sc41.html",
+  "title": "MOJITO TRAIL LAKE BLUE - LAKE BLUE - SCARPA",
+  "brand": "SCARPA",
+  "category": "Chaussures basses homme",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Randonnée",
+    "Chaussures",
+    "Chaussures basses outdoor",
+    "Destockage Montagne",
+    "Chaussures basses homme"
+  ],
+  "categories": [
+    "Randonnée",
+    "Chaussures",
+    "Chaussures basses outdoor",
+    "Destockage Montagne",
+    "Chaussures basses homme"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MOJITO TRAIL LAKE BLUE - LAKE BLUE - SCARPA"
+  ],
+  "description": "Achetez MOJITO TRAIL LAKE BLUE - LAKE BLUE - SCARPA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0013629",
+      "sku": "PCNT-0013629",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/c/sc41_1_ci-chaussures-approche-randonnee-basse-mojito-trail-scarpa_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:30:41.423Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc41_1_ci-chaussures-approche-randonnee-basse-mojito-trail-scarpa_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0013629/01-sc41_1_ci-chaussures-approche-randonnee-basse-mojito-trail-scarpa_8.jpg",
+      "skipped": false
+    }
+  ]
+}

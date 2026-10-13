@@ -1,0 +1,159 @@
+{
+  "sku": "SU-0010704",
+  "url": "https://www.cabesto.com/fr/pack-detendeur-de-plongee-dual-15x-octopus-manometre-flexible-sacoche-mares-su-0010704.html",
+  "title": "Pack détendeur de plongée DUAL 15X + Octopus + Manomètre + Flexible + Sacoche MARES",
+  "brand": "MARES",
+  "category": "Packs détendeurs plongée + octopus plongée",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Détendeurs et Octopus",
+    "Packs détendeurs plongée + octopus plongée",
+    "1er prix - Club - Association"
+  ],
+  "categories": [
+    "Détendeurs et Octopus",
+    "Packs détendeurs plongée + octopus plongée",
+    "1er prix - Club - Association"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pack détendeur de plongée DUAL 15X + Octopus + Manomètre + Flexible + Sacoche MARES"
+  ],
+  "description": "Découvrez le nouvel ensemble détendeur à membrane compensée \"starter set\" DUAL 15X DIN MARES, le package performant livré dans une sacoche détendeur élégante MARES, 100 % monté et testé par MARES.",
+  "supplierRef": "416283BKDININ",
+  "price": {
+    "amount": 399.99,
+    "currency": "EUR",
+    "formatted": "399.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010704",
+      "sku": "SU-0010704",
+      "supplierRef": "416283BKDININ",
+      "price": {
+        "amount": 399.99,
+        "currency": "EUR",
+        "formatted": "399.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/u/dualmares.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-16757-pl-16757-picture_1-pl-16757-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/1/71ij4cuj76l._ac_sx450_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-2062-pl-2062-picture_1-pl-2062-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32591-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/h/thumbnail_picto-plongee-final_10_2__1_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/t/atemregler-set-mares-dual-15x-mares-starter-set-lungenautomat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual2nd.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/416556_octopus_dual.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/t/atemregler-set-mares-dual-15x-mares-starter-set-lungenautomat_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/d/fdsmares_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/415866_shell_regulator.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/t/atemregler-set-mares-dual-15x-mares-starter-set-lungenautomat_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_2__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:36:48.474Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dualmares.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/01-dualmares.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-16757-pl-16757-picture_1-pl-16757-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/02-pl-16757-pl-16757-picture_1-pl-16757-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/1/71ij4cuj76l._ac_sx450_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/03-71ij4cuj76l._ac_sx450_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-2062-pl-2062-picture_1-pl-2062-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/04-pl-2062-pl-2062-picture_1-pl-2062-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32591-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/05--p-image-32591-grande.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/h/thumbnail_picto-plongee-final_10_2__1_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/06-thumbnail_picto-plongee-final_10_2__1_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/t/atemregler-set-mares-dual-15x-mares-starter-set-lungenautomat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/07-atemregler-set-mares-dual-15x-mares-starter-set-lungenautomat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual2nd.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/08-dual2nd.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/416556_octopus_dual.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/09-416556_octopus_dual.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/t/atemregler-set-mares-dual-15x-mares-starter-set-lungenautomat_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/10-atemregler-set-mares-dual-15x-mares-starter-set-lungenautomat_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/d/fdsmares_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/11-fdsmares_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/415866_shell_regulator.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/12-415866_shell_regulator.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/t/atemregler-set-mares-dual-15x-mares-starter-set-lungenautomat_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/13-atemregler-set-mares-dual-15x-mares-starter-set-lungenautomat_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/14-dual-15x_5_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_2__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/15-dual-15x_2__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/16-dual-15x_1__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010704/17-dual-15x_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0001254",
+  "url": "https://www.cabesto.com/fr/piscine-embout-mixte-mxf-d50-x-d63-x-1-1-2-16-bars-pi-786.html",
+  "title": "Embout mixte mxf D50 x D63 x 1\"1/2 - 16 bars",
+  "brand": "INTERPLAST",
+  "category": "Pièces PVC",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Embout mixte mxf D50 x D63 x 1\"1/2 - 16 bars"
+  ],
+  "description": "Achetez Embout mixte mxf D50 x D63 x 1\"1/2 - 16 bars chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SAM350F",
+  "price": {
+    "amount": 1.99,
+    "currency": "EUR",
+    "formatted": "1.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001254",
+      "sku": "PI-0001254",
+      "supplierRef": "SAM350F",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/m/embout-mixte-mxf-d50x63x1-1-2-16-bars-16692.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:37:20.891Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/m/embout-mixte-mxf-d50x63x1-1-2-16-bars-16692.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001254/01-embout-mixte-mxf-d50x63x1-1-2-16-bars-16692.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0002406",
+  "url": "https://www.cabesto.com/fr/verticalite-blister-cordelette-6mm-x-5-5m-beal-nt-0002406.html",
+  "title": "Blister Cordelette 6mm x 5.5m - BEAL",
+  "brand": "BEAL",
+  "category": "Cordelettes de montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Cordelettes de montagne"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Cordelettes de montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Blister Cordelette 6mm x 5.5m - BEAL"
+  ],
+  "description": "Achetez Blister Cordelette 6mm x 5.5m - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BC06.5 unitée",
+  "price": {
+    "amount": 8.63,
+    "currency": "EUR",
+    "formatted": "8.63 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0002406",
+      "sku": "NT-0002406",
+      "supplierRef": "BC06.5 unitée",
+      "price": {
+        "amount": 8.63,
+        "currency": "EUR",
+        "formatted": "8.63 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/l/bla8_1-blister-cordelette-6-mm-x-5-5-m-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bla8_2-blister-cordelette-6-mm-x-5-5-m-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bla8_1-blister-cordelette-6-mm-x-5-5-m-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:18:34.543Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bla8_1-blister-cordelette-6-mm-x-5-5-m-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0002406/01-bla8_1-blister-cordelette-6-mm-x-5-5-m-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bla8_2-blister-cordelette-6-mm-x-5-5-m-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0002406/02-bla8_2-blister-cordelette-6-mm-x-5-5-m-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bla8_1-blister-cordelette-6-mm-x-5-5-m-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0002406/03-bla8_1-blister-cordelette-6-mm-x-5-5-m-beal_1.jpg",
+      "skipped": false
+    }
+  ]
+}

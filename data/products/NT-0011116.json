@@ -1,0 +1,91 @@
+{
+  "sku": "NT-0011116",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-sac-de-couchage-bivouac-light-down-5-millet-nt-0011116.html",
+  "title": "SAC DE COUCHAGE BIVOUAC LIGHT DOWN 5 MILLET",
+  "brand": "MILLET",
+  "category": "Sélection Montagne",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "Sacs de couchage en duvet",
+    "Sélection Montagne"
+  ],
+  "categories": [
+    "Sacs de couchage en duvet",
+    "Sélection Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SAC DE COUCHAGE BIVOUAC LIGHT DOWN 5 MILLET"
+  ],
+  "description": "Le sac de couchage bivouac Light Down 5° Millet est un sac de couchage duvet conçu pour le bivouac 2 saisons en moyenne montagne.",
+  "supplierRef": "MIC1112-8749",
+  "price": {
+    "amount": 220.92,
+    "currency": "EUR",
+    "formatted": "220.92 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0011116",
+      "sku": "NT-0011116",
+      "supplierRef": "MIC1112-8749",
+      "price": {
+        "amount": 220.92,
+        "currency": "EUR",
+        "formatted": "220.92 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/l/mlh4_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/se80_1-matelas-ultralight-regular-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/r/drap-de-sac-coton-bleu-frendo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/l/mlh4_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/l/mlh4_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/l/mlh4_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:38:29.819Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/mlh4_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0011116/01-mlh4_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/se80_1-matelas-ultralight-regular-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0011116/02-se80_1-matelas-ultralight-regular-sea-to-summit.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/r/drap-de-sac-coton-bleu-frendo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0011116/03-drap-de-sac-coton-bleu-frendo.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/mlh4_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0011116/04-mlh4_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/mlh4_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0011116/05-mlh4_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/mlh4_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0011116/06-mlh4_4.jpg",
+      "skipped": false
+    }
+  ]
+}

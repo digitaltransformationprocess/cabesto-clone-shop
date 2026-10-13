@@ -1,0 +1,67 @@
+{
+  "sku": "NU-0010589",
+  "url": "https://www.cabesto.com/fr/recharge-absorbeur-800g-soromap.html",
+  "title": "RECHARGE ABSORBEUR 800G - SOROMAP",
+  "brand": "SOROMAP",
+  "category": "Climatiseurs - Chauffages - Absorbeurs d'humidité",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Absorbeurs d'humidité",
+    "Nautisme",
+    "Confort à bord",
+    "Electroménager marin",
+    "Climatiseurs - Chauffages - Absorbeurs d'humidité"
+  ],
+  "categories": [
+    "Absorbeurs d'humidité",
+    "Nautisme",
+    "Confort à bord",
+    "Electroménager marin",
+    "Climatiseurs - Chauffages - Absorbeurs d'humidité"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "RECHARGE ABSORBEUR 800G - SOROMAP"
+  ],
+  "description": "Achetez RECHARGE ABSORBEUR 800G - SOROMAP chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "110524",
+  "price": {
+    "amount": 3.99,
+    "currency": "EUR",
+    "formatted": "3.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0010589",
+      "sku": "NU-0010589",
+      "supplierRef": "110524",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/e/sekofirst-recharges-absorbeur-d-humidite-sachet-800g-neutre-sodepac.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:58:28.520Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/sekofirst-recharges-absorbeur-d-humidite-sachet-800g-neutre-sodepac.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0010589/01-sekofirst-recharges-absorbeur-d-humidite-sachet-800g-neutre-sodepac.jpg",
+      "skipped": true
+    }
+  ]
+}

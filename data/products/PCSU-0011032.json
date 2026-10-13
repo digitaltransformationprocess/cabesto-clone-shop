@@ -1,0 +1,157 @@
+{
+  "sku": "PCSU-0011032",
+  "url": "https://www.cabesto.com/fr/bottillons-neoprenes-de-plongee-elite-2-7mm-beuchat-pcsu-0011032.html",
+  "title": "Bottillons néoprènes de plongée ELITE 2 7mm BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "Accessoires en néoprène longe-côte",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Accessoires Néoprène plongée",
+    "Bottillons",
+    "Longe-côte & Marche aquatique",
+    "Équipement pour le longe-côte",
+    "Accessoires en néoprène longe-côte"
+  ],
+  "categories": [
+    "Accessoires Néoprène plongée",
+    "Bottillons",
+    "Longe-côte & Marche aquatique",
+    "Équipement pour le longe-côte",
+    "Accessoires en néoprène longe-côte"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bottillons néoprènes de plongée ELITE 2 7mm BEUCHAT"
+  ],
+  "description": "Plongez et Marchez avec les bottillons en néoprène ELITE II 7 mm BEUCHAT, conçus pour les plongeurs et les plongeuses réguliers en eaux froides, les bottillons qui assurent chaleur, confort et étanchéité optimale grâce à leur double manchons zippés pendan",
+  "supplierRef": null,
+  "price": {
+    "amount": 65.99,
+    "currency": "EUR",
+    "formatted": "65.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0011032",
+      "sku": "PCSU-0011032",
+      "supplierRef": null,
+      "price": {
+        "amount": 65.99,
+        "currency": "EUR",
+        "formatted": "65.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_16_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/g/ngg_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/l/elt1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/l/elt5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/l/elt4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/l/elt_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/l/elt2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/l/elt3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/l/eltt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/taille-bott.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_18_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_16_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_18.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_18_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_17_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_19_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:14:10.601Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_16_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/01-sans_titre_16_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/g/ngg_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/02-ngg_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/l/elt1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/03-elt1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/l/elt5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/04-elt5.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/l/elt4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/05-elt4.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/l/elt_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/06-elt_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/l/elt2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/07-elt2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/l/elt3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/08-elt3.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/l/eltt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/09-eltt.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/taille-bott.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/10-taille-bott.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_18_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/11-sans_titre_18_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_16_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/12-sans_titre_16_2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_18.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/13-sans_titre_18.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_18_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/14-sans_titre_18_2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_17_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/15-sans_titre_17_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_19_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011032/16-sans_titre_19_1.jpg",
+      "skipped": true
+    }
+  ]
+}

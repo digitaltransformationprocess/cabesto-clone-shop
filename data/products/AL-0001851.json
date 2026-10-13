@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0001851",
+  "url": "https://www.cabesto.com/fr/gambas-crues-sauvages-16-20-pieces-400-gr.html",
+  "title": "GAMBAS CRUES SAUVAGES 16/20 PIECES 400 GR",
+  "brand": "GEL PECHE",
+  "category": "gambas",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "crevettes-et-gambas",
+    "gambas"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "crevettes-et-gambas",
+    "gambas"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "GAMBAS CRUES SAUVAGES 16/20 PIECES 400 GR"
+  ],
+  "description": "Achetez GAMBAS CRUES SAUVAGES 16/20 PIECES 400 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1HOS1620BROSIN14",
+  "price": {
+    "amount": 5.79,
+    "currency": "EUR",
+    "formatted": "5.79 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001851",
+      "sku": "AL-0001851",
+      "supplierRef": "1HOS1620BROSIN14",
+      "price": {
+        "amount": 5.79,
+        "currency": "EUR",
+        "formatted": "5.79 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0001851.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:53:29.982Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0001851.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001851/01-al-0001851.png",
+      "skipped": true
+    }
+  ]
+}

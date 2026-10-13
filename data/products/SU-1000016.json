@@ -1,0 +1,83 @@
+{
+  "sku": "SU-1000016",
+  "url": "https://www.cabesto.com/fr/lampe-de-plongee-sous-marine-vl9000-p-tri-color-bigblue-su-1000016.html",
+  "title": "Lampe de plongée sous-marine VL9000 P Tri Color BIGBLUE",
+  "brand": "BIGBLUE DIVE LIGHTS",
+  "category": "Lampes de plongée et phares de plongée photo et vidéo",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Éclairage - Photo - Vidéo",
+    "Lampes de plongée et phares de plongée photo et vidéo"
+  ],
+  "categories": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Éclairage - Photo - Vidéo",
+    "Lampes de plongée et phares de plongée photo et vidéo"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe de plongée sous-marine VL9000 P Tri Color BIGBLUE"
+  ],
+  "description": "Sublimez vos vidéos et vos photos sous-marines avec la lampe de plongée étanche VL9000P BIGBLUE, le phare vidéo tricolore révolutionnaire qui combine une puissance exceptionnelle de 9 000 lumens et trois températures de couleur (blanc froid, blanc chaud,",
+  "supplierRef": "VL9000P TRI COLOR",
+  "price": {
+    "amount": 679,
+    "currency": "EUR",
+    "formatted": "679 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-1000016",
+      "sku": "SU-1000016",
+      "supplierRef": "VL9000P TRI COLOR",
+      "price": {
+        "amount": 679,
+        "currency": "EUR",
+        "formatted": "679 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/t/ptc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/o/molly.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/6/4666.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/p/vpcc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:42:35.021Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/ptc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000016/01-ptc.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/o/molly.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000016/02-molly.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/6/4666.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000016/03-4666.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/p/vpcc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000016/04-vpcc.jpg",
+      "skipped": false
+    }
+  ]
+}

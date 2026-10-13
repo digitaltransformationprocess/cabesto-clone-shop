@@ -1,0 +1,71 @@
+{
+  "sku": "PCNT-0017224",
+  "url": "https://www.cabesto.com/fr/randonnee-casquette-primaloft-millet-ed25.html",
+  "title": "Casquette Primaloft - MILLET",
+  "brand": "MILLET",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Chapeaux, casquettes",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Chapeaux, casquettes",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Casquette Primaloft - MILLET"
+  ],
+  "description": "Achetez Casquette Primaloft - MILLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0017224",
+      "sku": "PCNT-0017224",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/d/ed25_1_a-casquette-primaloft-millet_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/d/ed25_1_a-casquette-primaloft-millet_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:32:16.658Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/d/ed25_1_a-casquette-primaloft-millet_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0017224/01-ed25_1_a-casquette-primaloft-millet_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/d/ed25_1_a-casquette-primaloft-millet_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0017224/02-ed25_1_a-casquette-primaloft-millet_3.jpg",
+      "skipped": false
+    }
+  ]
+}

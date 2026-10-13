@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0001617",
+  "url": "https://www.cabesto.com/fr/piscine-hivernage-standard-5l-pi-185.html",
+  "title": "HIVERNAGE STANDARD 5L",
+  "brand": "DIVERS",
+  "category": "Produits d'hivernage",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "traitement-de-l-eau",
+    "produits-d-hivernage"
+  ],
+  "categories": [
+    "piscine",
+    "traitement-de-l-eau",
+    "produits-d-hivernage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "HIVERNAGE STANDARD 5L"
+  ],
+  "description": "Achetez HIVERNAGE STANDARD 5L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "FVU050102",
+  "price": {
+    "amount": 10.99,
+    "currency": "EUR",
+    "formatted": "10.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001617",
+      "sku": "PI-0001617",
+      "supplierRef": "FVU050102",
+      "price": {
+        "amount": 10.99,
+        "currency": "EUR",
+        "formatted": "10.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/8/6843005-hivernage_5l_flat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:32:23.298Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/6843005-hivernage_5l_flat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001617/01-6843005-hivernage_5l_flat.jpg",
+      "skipped": false
+    }
+  ]
+}

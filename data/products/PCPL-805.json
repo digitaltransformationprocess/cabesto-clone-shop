@@ -1,0 +1,107 @@
+{
+  "sku": "PCPL-805",
+  "url": "https://www.cabesto.com/fr/plongee-pantalon-challenger-10mm-homme-pcpl-805.html",
+  "title": "PANTALON STANDARD CHALLENGER 10 MM HOMME IMERSION",
+  "brand": "IMERSION",
+  "category": "femme-eaux-froides",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PANTALON STANDARD CHALLENGER 10 MM HOMME IMERSION"
+  ],
+  "description": "PANTALON HOMME STANDARD CHALLENGER 10 MM IMERSIONChassez ou faites de l'apnée avec la veste CHALLENGER IMERSION ici en 10 mm, idéale pour les eaux très froides et les conditions glaciales...Néoprène refendu intérieur de marque JAKO et protection genoux au rendez-vous de ce pantalon bas conçu pour les longues immersions en eaux extrêmement froides.Pantalon de pêche sous- marine Standard CHALLENGER Homme, en Néoprène 10 mm.CaractéristiquesLe néoprène JAKO se caractérise par sa souplesse, sa densité, qui lui assurent une bonne résistance à la compressibilité.L’utilisation de ce néoprène dans la fabrication de nos produits est un choix parfait pour la pêche sous- marine et l’apnée.Nylon Extérieur / Refendu Intérieur.Coupe anatomique préformée, assemblage par double encollage et couture double fils.Finition coupe franche avec bride d’arrêt.Renforcement des intersections de coutures par point de colle.Renfort de chargement avec induction PU à l’extérieur sur les genoux.Couleur : Noir.Veste assortie vendue séparément.Rincer à l’eau douce après chaque utilisation. Faire sécher (intérieur et extérieur) à l’abri du soleil. Stocker votre pantalon sur un cintre, verticalement dans un lieu sec, à l’envers. Procédez périodiquement à un nettoyage bactériologique en utilisant des produits spécifiques.TailleStatureHauteurEntre jambe / ChevilleTour de poitrineTour de tailleTour de hanches0 / XS16559 / 6283 / 8663 / 6583 / 851 / S165 / 17063 / 6586 / 8968 / 7287 / 902 / M170 / 17567 / 7090 / 9573 / 7892 / 953 / L175 / 18072 / 7598 / 10181 / 8594 / 974 / XL180 / 19076 / 78104 / 10886 / 9598 / 1025 / XXL180 / 19080 / 82110 / 11596 / 103102 / 1056 / XXXL190 et plus83 / 85118 / 120105 / 109106 / 110",
+  "supplierRef": null,
+  "price": {
+    "amount": 155.99,
+    "currency": "EUR",
+    "formatted": "155.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-805",
+      "sku": "PCPL-805",
+      "supplierRef": null,
+      "price": {
+        "amount": 155.99,
+        "currency": "EUR",
+        "formatted": "155.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/h/c/hch10211_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hch10211-bis.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hch10211-detail.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hch10211_1_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-5887-pl-5887-picture_1-pcpl-805-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hch10211_1_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hch10211_1_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hch10211_1_12.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:13.609Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hch10211_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-805/01-hch10211_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hch10211-bis.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-805/02-hch10211-bis.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hch10211-detail.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-805/03-hch10211-detail.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hch10211_1_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-805/04-hch10211_1_9.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-5887-pl-5887-picture_1-pcpl-805-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-805/05-pl-5887-pl-5887-picture_1-pcpl-805-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hch10211_1_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-805/06-hch10211_1_10.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hch10211_1_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-805/07-hch10211_1_11.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hch10211_1_12.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-805/08-hch10211_1_12.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "nage",
+    "combinaisons-de-natation",
+    "femme-eaux-froides"
+  ],
+  "categories": [
+    "plongee",
+    "nage",
+    "combinaisons-de-natation",
+    "femme-eaux-froides"
+  ]
+}

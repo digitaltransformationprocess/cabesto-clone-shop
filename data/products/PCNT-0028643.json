@@ -1,0 +1,87 @@
+{
+  "sku": "PCNT-0028643",
+  "url": "https://www.cabesto.com/fr/veste-chaude-femme-touring-speed-xcs.html",
+  "title": "Veste Chaude Femme Touring Speed XCS",
+  "brand": "MILLET",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Veste Chaude Femme Touring Speed XCS"
+  ],
+  "description": "Achetez Veste Chaude Femme Touring Speed XCS chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0028643",
+      "sku": "PCNT-0028643",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/i/miv8073_7317_0_tourspeedx_h_w_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/i/miv8073_7317_c1h_2_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/i/miv8073_7317_c1h_1_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/i/miv8073_7317_c1h_5_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/i/miv8073_7317_c1h_4_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:29:38.429Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/miv8073_7317_0_tourspeedx_h_w_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028643/01-miv8073_7317_0_tourspeedx_h_w_1280_1280.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/miv8073_7317_c1h_2_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028643/02-miv8073_7317_c1h_2_1280_1280.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/miv8073_7317_c1h_1_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028643/03-miv8073_7317_c1h_1_1280_1280.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/miv8073_7317_c1h_5_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028643/04-miv8073_7317_c1h_5_1280_1280.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/miv8073_7317_c1h_4_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028643/05-miv8073_7317_c1h_4_1280_1280.jpeg",
+      "skipped": false
+    }
+  ]
+}

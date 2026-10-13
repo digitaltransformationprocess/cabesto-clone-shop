@@ -1,0 +1,89 @@
+{
+  "sku": "SU-0003354",
+  "url": "https://www.cabesto.com/fr/livre-plongee-plaisir-niv-2-turtle-prod-su-0003354.html",
+  "title": "LIVRE PLONGEE PLAISIR NIVEAU 2 ALAIN FORET ET PABLO TORRES EDITION GAP",
+  "brand": "TURTLE PROD",
+  "category": "Formation",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "LIVRE PLONGEE PLAISIR NIVEAU 2 ALAIN FORET ET PABLO TORRES EDITION GAP"
+  ],
+  "description": "Plongée Plaisir Niveau 2 : Le Guide Complet pour les Plongeurs ConfirmésPassez votre niveau 2 de plongée FFESSM et CMAS avec le livre PLONGEE PLAISIR NIVEAU III d'Alain Foret, le manuel indispensable pour maîtriser les techniques avancées de plongée.Le livre \"Plongée Plaisir Niveau 2\" est une ressource incontournable pour les plongeurs souhaitant approfondir leurs compétences et obtenir leur brevet de niveau 2. Écrit par Alain Foret et Pablo Torres, cet ouvrage couvre l'ensemble des connaissances nécessaires pour devenir plongeur autonome à 20 mètres (PA-20) ou plongeur encadré à 40 mètres (PE-40). Avec ses 288 pages, il propose des explications détaillées sur les techniques de plongée avancées, les règles de sécurité, et la gestion des situations d'urgence.Ce manuel inclut également des tests d'auto-évaluation pour vous permettre de progresser à votre rythme.Conforme aux standards de la FFESSM et de la CMAS, ce livre est un outil essentiel pour les plongeurs en formation et les moniteurs souhaitant enrichir leur pédagogie.Caractéristiques Plongée Plaisir Niveau IIProgramme complet pour le brevet de plongée niveau 2Conforme aux standards FFESSM et CMAS288 pages d'explications détailléesTests d'auto-évaluation inclusIdéal pour plongeurs confirmés et moniteursInformations techniques :AuteursAlain Foret, Pablo TorresNombre de pages288ÉditeurEditions GAPISBN9782741706380ConformitéFFESSM, CMASContenu du colis1 x Livre \"Plongée Plaisir Niveau 2\"",
+  "supplierRef": "GAP03",
+  "price": {
+    "amount": 26,
+    "currency": "EUR",
+    "formatted": "26 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003354",
+      "sku": "SU-0003354",
+      "supplierRef": "GAP03",
+      "price": {
+        "amount": 26,
+        "currency": "EUR",
+        "formatted": "26 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/8/1/81rtvakeafl._sl1500__lagnq5v3nxl2klum.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/i/livre-plong_e-plaisir-niveau-1_4mrknw4o4bklap4v.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/i/niii.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/1/n1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/1/81ken-xhrzl._sl1500__4ndfuzvhp7anznjr.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/415wikn7dpl_9ikiewuaemafd2x7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:34:03.903Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/1/81rtvakeafl._sl1500__lagnq5v3nxl2klum.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003354/01-81rtvakeafl._sl1500__lagnq5v3nxl2klum.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/i/livre-plong_e-plaisir-niveau-1_4mrknw4o4bklap4v.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003354/02-livre-plong_e-plaisir-niveau-1_4mrknw4o4bklap4v.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/i/niii.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003354/03-niii.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/1/n1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003354/04-n1_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/1/81ken-xhrzl._sl1500__4ndfuzvhp7anznjr.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003354/05-81ken-xhrzl._sl1500__4ndfuzvhp7anznjr.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/415wikn7dpl_9ikiewuaemafd2x7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003354/06-415wikn7dpl_9ikiewuaemafd2x7.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Formation"
+  ],
+  "categories": [
+    "Formation"
+  ]
+}

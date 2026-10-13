@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0002003",
+  "url": "https://www.cabesto.com/fr/plongee-couteau-skorpion-pl-3853.html",
+  "title": "Couteau de plongée sous-marine SKORPION CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "couteaux-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couteau de plongée sous-marine SKORPION CRESSI SUB"
+  ],
+  "description": "Un côté de la lame en acier inoxydable est à bord droit, l'autre est juste en dents de scie le long de la lame, ils sont à la fois très forts et efficaces pour la coupe de ligne.Elle est séparée de la lame par un onglet pouce technopolymère petite.Gaine avec un mécanisme de blocage original permettant de sortir le couteau d'une seule main.Le couteau est livré avec deux sangles d'émission standard pour le joindre à votre jambe.Longueur totale: 232 mmLongueur de la lame: 110 mm",
+  "supplierRef": "RC559000",
+  "price": {
+    "amount": 49.99,
+    "currency": "EUR",
+    "formatted": "49.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0002003",
+      "sku": "SU-0002003",
+      "supplierRef": "RC559000",
+      "price": {
+        "amount": 49.99,
+        "currency": "EUR",
+        "formatted": "49.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3853-pl-3853-picture_1-pl-3853-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:27.025Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3853-pl-3853-picture_1-pl-3853-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002003/01-pl-3853-pl-3853-picture_1-pl-3853-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "couteaux-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "couteaux-plongee"
+  ]
+}

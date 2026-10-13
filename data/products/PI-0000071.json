@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0000071",
+  "url": "https://www.cabesto.com/fr/piscine-aquachek-select-7-en-1-pi-1342.html",
+  "title": "Aquachek Select 7-en-1",
+  "brand": "AQUACHEK",
+  "category": "Bandelette d'analyse",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Matériel d'analyse d'eau",
+    "Bandelette d'analyse"
+  ],
+  "categories": [
+    "Matériel d'analyse d'eau",
+    "Bandelette d'analyse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Aquachek Select 7-en-1"
+  ],
+  "description": "Achetez Aquachek Select 7-en-1 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "541752AEU",
+  "price": {
+    "amount": 25.9,
+    "currency": "EUR",
+    "formatted": "25.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000071",
+      "sku": "PI-0000071",
+      "supplierRef": "541752AEU",
+      "price": {
+        "amount": 25.9,
+        "currency": "EUR",
+        "formatted": "25.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/q/aquachek-select-7-en-1-13074.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:39:58.693Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/q/aquachek-select-7-en-1-13074.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000071/01-aquachek-select-7-en-1-13074.jpg",
+      "skipped": false
+    }
+  ]
+}

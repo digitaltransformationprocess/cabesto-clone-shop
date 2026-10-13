@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0006906",
+  "url": "https://www.cabesto.com/fr/plongee-trident-equi-baby-pl-4619.html",
+  "title": "Trident vissé chasse sous-marine acier EQUI BABY IMERSION",
+  "brand": "DESIAGE",
+  "category": "accessoires",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Trident vissé chasse sous-marine acier EQUI BABY IMERSION"
+  ],
+  "description": "Trident Baby équi Acier avec revêtement Zinc bleu",
+  "supplierRef": "265BC.",
+  "price": {
+    "amount": 7.99,
+    "currency": "EUR",
+    "formatted": "7.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0006906",
+      "sku": "SU-0006906",
+      "supplierRef": "265BC.",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-4619-pl-4619-picture_1-pl-4619-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:37.470Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-4619-pl-4619-picture_1-pl-4619-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006906/01-pl-4619-pl-4619-picture_1-pl-4619-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires"
+  ],
+  "categories": [
+    "textile",
+    "accessoires"
+  ]
+}

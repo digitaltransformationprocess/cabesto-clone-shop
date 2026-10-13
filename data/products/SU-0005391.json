@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0005391",
+  "url": "https://www.cabesto.com/fr/plongee-pochon-vieux-plongeur-pl-12672.html",
+  "title": "Pochon de protection pour ordinateur de plongée VIEUX PLONGEUR",
+  "brand": "VIEUX PLONGEUR",
+  "category": "accessoires-ordinateurs-de-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pochon de protection pour ordinateur de plongée VIEUX PLONGEUR"
+  ],
+  "description": "Pochon de protection pour ordinateur de plongée VIEUX PLONGEURProtégez, stockez, voyagez avec votre ordinateur bien protégé dans le pochon de protection pour ordinateur de plongée VIEUX PLONGEUR, le pochon textile pratique et léger...L'accessoire indispensable de votre ordinateur de plongée, c'est votre pochon de protection textile aux couleurs du Vieux Plongeur, que celui-ci soit en format montre ou en format bracelet classique...2 visuels différents sont disponibles mais ATTENTION vous ne pouvez pas choisir ceux-ci à la commande, la livraison de votre pochon en fonction de nos disponibilités en stock...Visuel vintage...ATTENTION, livraison en fonction de nos disponibilités en stock... Si plus en stock c'est le visuel \"web 2.0\" que vous allez recevoir...Visuel web 2.0...ATTENTION, livraison en fonction de nos disponibilités en stock... Si plus en stock c'est le visuel \"vintage\" que vous allez recevoir...Contenu du colis1 x Pochon de protection VIEUX PLONGEUR, visuel livré en fonction de nos stock",
+  "supplierRef": "SAKORDIVP",
+  "price": {
+    "amount": 5.99,
+    "currency": "EUR",
+    "formatted": "5.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005391",
+      "sku": "SU-0005391",
+      "supplierRef": "SAKORDIVP",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_11_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pochon-vieux-plongeur112.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:18.726Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_11_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005391/01-sans_titre_11_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pochon-vieux-plongeur112.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005391/02-pochon-vieux-plongeur112.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee",
+    "accessoires-ordinateurs-de-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee",
+    "accessoires-ordinateurs-de-plongee"
+  ]
+}

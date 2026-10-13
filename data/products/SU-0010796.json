@@ -1,0 +1,109 @@
+{
+  "sku": "SU-0010796",
+  "url": "https://www.cabesto.com/fr/detendeur-de-plongee-dual-15x-din-mares-su-0010796.html",
+  "title": "Détendeur de plongée DUAL 15X NEW DIN MARES",
+  "brand": "MARES",
+  "category": "Détendeurs plongée 1er étage compensé avec basse pression simple",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Détendeurs et Octopus",
+    "Détendeurs plongée 1er étage compensé avec basse pression simple"
+  ],
+  "categories": [
+    "Détendeurs et Octopus",
+    "Détendeurs plongée 1er étage compensé avec basse pression simple"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Détendeur de plongée DUAL 15X NEW DIN MARES"
+  ],
+  "description": "Nagez en tout sécurité avec le détendeur de plongée sous-marine DUAL 15X ici en DIN, le détendeur membrane simple et léger, confortable et idéal pour débuter la plongée sous-marine.",
+  "supplierRef": "416277BKDIN",
+  "price": {
+    "amount": 259.99,
+    "currency": "EUR",
+    "formatted": "259.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010796",
+      "sku": "SU-0010796",
+      "supplierRef": "416277BKDIN",
+      "price": {
+        "amount": 259.99,
+        "currency": "EUR",
+        "formatted": "259.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-15x-black.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/presentation-412393_ultraskin_short_sleeve_man_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_16_1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-7708-pl-7708-picture_1-pl-7708-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-15x-black_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-15x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:37:57.372Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-15x-black.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010796/01-dual-15x-black.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presentation-412393_ultraskin_short_sleeve_man_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010796/02-presentation-412393_ultraskin_short_sleeve_man_2_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_16_1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010796/03-sans_titre_16_1_1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-7708-pl-7708-picture_1-pl-7708-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010796/04-pl-7708-pl-7708-picture_1-pl-7708-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-15x-black_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010796/05-dual-15x-black_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-15x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010796/06-dual-15x.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010796/07-dual-15x_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010796/08-dual-15x_3_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-15x_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010796/09-dual-15x_2_.jpg",
+      "skipped": false
+    }
+  ]
+}

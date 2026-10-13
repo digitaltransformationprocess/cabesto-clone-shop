@@ -1,0 +1,61 @@
+{
+  "sku": "NU-0004685",
+  "url": "https://www.cabesto.com/fr/2-galets-sur-balancier-d-120-n-galets-noirs-encombrement-210-x-120.html",
+  "title": "2 galets sur balancier d.120 n - Galets noirs. encombrement 210 x 120",
+  "brand": "VDM",
+  "category": "Nautisme",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Accessoires pour remorques bateau",
+    "Nautisme"
+  ],
+  "categories": [
+    "Accessoires pour remorques bateau",
+    "Nautisme"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "2 galets sur balancier d.120 n - Galets noirs. encombrement 210 x 120"
+  ],
+  "description": "Achetez 2 galets sur balancier d.120 n - Galets noirs. encombrement 210 x 120 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "REM174082",
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR",
+    "formatted": "39.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0004685",
+      "sku": "NU-0004685",
+      "supplierRef": "REM174082",
+      "price": {
+        "amount": 39.99,
+        "currency": "EUR",
+        "formatted": "39.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/all_2149___.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:06:39.761Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/all_2149___.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0004685/01-all_2149___.jpg",
+      "skipped": true
+    }
+  ]
+}

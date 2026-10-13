@@ -1,0 +1,65 @@
+{
+  "sku": "NU-0007900",
+  "url": "https://www.cabesto.com/fr/peche-facile-en-bord-de-mer-vagnon.html",
+  "title": "PECHE FACILE EN BORD DE MER - VAGNON",
+  "brand": "VAGNON",
+  "category": "Librairie",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "securite-navigation",
+    "blocs-marins-permis-bateau",
+    "librairie"
+  ],
+  "categories": [
+    "nautisme",
+    "securite-navigation",
+    "blocs-marins-permis-bateau",
+    "librairie"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PECHE FACILE EN BORD DE MER - VAGNON"
+  ],
+  "description": "Achetez PECHE FACILE EN BORD DE MER - VAGNON chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "VA10201",
+  "price": {
+    "amount": 11.5,
+    "currency": "EUR",
+    "formatted": "11.5 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0007900",
+      "sku": "NU-0007900",
+      "supplierRef": "VA10201",
+      "price": {
+        "amount": 11.5,
+        "currency": "EUR",
+        "formatted": "11.5 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/e/peche-facile-en-bord-de-mer-vagnon_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:25:23.842Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/peche-facile-en-bord-de-mer-vagnon_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0007900/01-peche-facile-en-bord-de-mer-vagnon_01.jpg",
+      "skipped": false
+    }
+  ]
+}

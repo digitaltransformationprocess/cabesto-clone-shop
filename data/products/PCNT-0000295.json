@@ -1,0 +1,73 @@
+{
+  "sku": "PCNT-0000295",
+  "url": "https://www.cabesto.com/fr/verticalite-corde-opera-golden-dry-8-5-mm-unicore-50-m-beal-ab62.html",
+  "title": "Corde Opera Golden Dry 8.5 mm Unicore - 50 m - BEAL",
+  "brand": "BEAL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Cordes à simple",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Cordes à simple",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Corde Opera Golden Dry 8.5 mm Unicore - 50 m - BEAL"
+  ],
+  "description": "Achetez Corde Opera Golden Dry 8.5 mm Unicore - 50 m - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0000295",
+      "sku": "PCNT-0000295",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/b/ab62_1_d-corde-opera-golden-dry-85-mm-unicore---50-m-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/b/ab62_1_d-corde-opera-golden-dry-85-mm-unicore---50-m-beal_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:25:35.107Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/b/ab62_1_d-corde-opera-golden-dry-85-mm-unicore---50-m-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000295/01-ab62_1_d-corde-opera-golden-dry-85-mm-unicore---50-m-beal_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/b/ab62_1_d-corde-opera-golden-dry-85-mm-unicore---50-m-beal_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000295/02-ab62_1_d-corde-opera-golden-dry-85-mm-unicore---50-m-beal_2.jpg",
+      "skipped": false
+    }
+  ]
+}

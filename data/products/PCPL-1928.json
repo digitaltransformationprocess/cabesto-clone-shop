@@ -1,0 +1,71 @@
+{
+  "sku": "PCPL-1928",
+  "url": "https://www.cabesto.com/fr/plongee-monopiece-pioneer-femme-5-mm-2017-pcpl-1928.html",
+  "title": "MONOPIECE PIONEER FEMME 5 MM MARES",
+  "brand": "MARES",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MONOPIECE PIONEER FEMME 5 MM MARES"
+  ],
+  "description": "MONOPIECE PIONEER FEMME 5 MM MARESPlongez avec la monopièce fermeture dorsale PIONEER MARES, ici en coupe femme, souple et confortable, livrée avec sa cagoule séparée ! Idéale en eaux tempérées ou chaudes.Dans le paysage des combinaisons de plongée, Mares joue depuis toujours un rôle prédominant, de précurseur. Cela est vrai avec la combinaison Pioneer, désormais proposée aux plongeurs dans une version revue et améliorée.La conception de la gamme a été revue, tout en respectant le sentiment de la famille qui distingue vraiment la société de Rapallo.Même pour la combinaison Pioneer, ainsi que pour la gamme Flexa, le code de couleurs est désormais un signe fondamental pour distinguer les modèles et les épaisseurs des combinaisons. C'est une nouvelle tendance de Mares qui convaincra certainement le marché, offrant à chaque combinaison une \"personnalité\" propre et unique. La partie colorée de chaque combinaison est en néoprène, pour assurer une meilleure résistance et un look certainement plus attractif.La Pioneer rouge, conçue pour les eaux plus tempérées, a une épaisseur de 5 mm.Au contraire, les innovations communes qui font de la Pioneer une combinaison vraiment intéressante sont nombreuses : fermeture sur le col placée à l'arrière ; fermeture-éclair anti-frottement ; grande zone d'accrochage pour l'ordinateur placée sur les deux poignets.Une autre caractéristique est le crochet pour la cagoule placé sur la jambe.Même la conception de la cagoule de la Pioneer optimise la compensation et la sortie d'air dans la zone des oreilles et supérieure.NOUVELLE FERMETURE AU COU « CUSTOM CLOSURE » SANS CAOUTCHOUC AVEC VELCRO ANTI-ABRASION QUI ÉVITE D’ENDOMMAGER LA COMBINAISONLA CAGOULE DISPOSE D’UN SYSTÈME D’ORIFICES PERMETTANT LE DÉGAGEMENT DE L’AIR, OPTIMISANT LA COMPENSATION ET LE CONFORTZONES ANTIDÉRAPANTES POUR LES INSTRUMENTS AUX DEUX POIGNETSANNEAU FORME D POUR ACCROCHER LA CAGOULE SUR LA JAMBE DROITECette combinaison humide a été fabriquée conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 2) suivant la norme NF EN 14225-1.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1928",
+      "sku": "PCPL-1928",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-1928-pl-14663-picture_1-pcpl-1928-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022_08_22_16_42_05_combinaison_de_plong_e_pioneer_5mm_pour_femme_mares.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:28:33.163Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-1928-pl-14663-picture_1-pcpl-1928-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1928/01-pcpl-1928-pl-14663-picture_1-pcpl-1928-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022_08_22_16_42_05_combinaison_de_plong_e_pioneer_5mm_pour_femme_mares.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1928/02-2022_08_22_16_42_05_combinaison_de_plong_e_pioneer_5mm_pour_femme_mares.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

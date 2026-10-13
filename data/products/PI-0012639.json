@@ -1,0 +1,79 @@
+{
+  "sku": "PI-0012639",
+  "url": "https://www.cabesto.com/fr/kit-piscine-graphite-rect-tubulaire-l-6-00-x-l-3-00-x-h-1-24m-intex-pi-0012639.html",
+  "title": "KIT PISCINE GRAPHITE RECT TUBULAIRE (L)6.00 x (l)3.00 x (h)1.24m INTEX",
+  "brand": "INTEX",
+  "category": "Piscine rectangulaire",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine tubulaire",
+    "Piscine rectangulaire"
+  ],
+  "categories": [
+    "Piscine tubulaire",
+    "Piscine rectangulaire"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "KIT PISCINE GRAPHITE RECT TUBULAIRE (L)6.00 x (l)3.00 x (h)1.24m INTEX"
+  ],
+  "description": "Achetez KIT PISCINE GRAPHITE RECT TUBULAIRE (L)6.00 x (l)3.00 x (h)1.24m INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "26398GS",
+  "price": {
+    "amount": 1790,
+    "currency": "EUR",
+    "formatted": "1790 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0012639",
+      "sku": "PI-0012639",
+      "supplierRef": "26398GS",
+      "price": {
+        "amount": 1790,
+        "currency": "EUR",
+        "formatted": "1790 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/6/26398gs-kit-piscine-graphite-rectangulaire-tubulaire.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26398gs-kit-piscine-graphite-rectangulaire-tubulaire_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26398gs-kit-piscine-graphite-rectangulaire-tubulaire.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26398gs-kit-piscine-graphite-rectangulaire-tubulaire_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:52:35.820Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26398gs-kit-piscine-graphite-rectangulaire-tubulaire.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012639/01-26398gs-kit-piscine-graphite-rectangulaire-tubulaire.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26398gs-kit-piscine-graphite-rectangulaire-tubulaire_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012639/02-26398gs-kit-piscine-graphite-rectangulaire-tubulaire_1.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26398gs-kit-piscine-graphite-rectangulaire-tubulaire.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012639/03-26398gs-kit-piscine-graphite-rectangulaire-tubulaire.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26398gs-kit-piscine-graphite-rectangulaire-tubulaire_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012639/04-26398gs-kit-piscine-graphite-rectangulaire-tubulaire_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "sku": "PI-0000424",
+  "url": "https://www.cabesto.com/fr/robot-piscine-dolphin-s400-dolphin.html",
+  "title": "ROBOT PISCINE S400 DOLPHIN",
+  "brand": "DOLPHIN",
+  "category": "Robot électrique filaire",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Black November - Piscine",
+    "Destockage Piscine",
+    "Ventes privées Piscine",
+    "Robot électrique filaire"
+  ],
+  "categories": [
+    "Black November - Piscine",
+    "Destockage Piscine",
+    "Ventes privées Piscine",
+    "Robot électrique filaire"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROBOT PISCINE S400 DOLPHIN"
+  ],
+  "description": "Achetez ROBOT PISCINE S400 DOLPHIN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "99996261-EU",
+  "price": {
+    "amount": 1049,
+    "currency": "EUR",
+    "formatted": "1049 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000424",
+      "sku": "PI-0000424",
+      "supplierRef": "99996261-EU",
+      "price": {
+        "amount": 1049,
+        "currency": "EUR",
+        "formatted": "1049 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/o/robots-professionnel-nettoyage-piscine-dolphin-s400-01-1.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2023-09-14_11_50_07-dolphin_s_400_il_8_15fe.webp_3784_3784_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2023-09-14_11_53_50-robot_piscine_dolphin_s400___d_couvrez_le_nettoyage_toutes_options.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2023-09-14_11_51_21-robot_piscine_dolphin_s400___d_couvrez_le_nettoyage_toutes_options.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2023-09-14_11_50_49-robot_piscine_dolphin_s400___d_couvrez_le_nettoyage_toutes_options.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2023-09-14_11_49_46-ep_dolphin_s_400_il_5_big_65d1.webp_1090_1090_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_70_19.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:49:28.457Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robots-professionnel-nettoyage-piscine-dolphin-s400-01-1.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000424/01-robots-professionnel-nettoyage-piscine-dolphin-s400-01-1.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2023-09-14_11_50_07-dolphin_s_400_il_8_15fe.webp_3784_3784_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000424/02-2023-09-14_11_50_07-dolphin_s_400_il_8_15fe.webp_3784_3784_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2023-09-14_11_53_50-robot_piscine_dolphin_s400___d_couvrez_le_nettoyage_toutes_options.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000424/03-2023-09-14_11_53_50-robot_piscine_dolphin_s400___d_couvrez_le_nettoyage_toutes_options.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2023-09-14_11_51_21-robot_piscine_dolphin_s400___d_couvrez_le_nettoyage_toutes_options.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000424/04-2023-09-14_11_51_21-robot_piscine_dolphin_s400___d_couvrez_le_nettoyage_toutes_options.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2023-09-14_11_50_49-robot_piscine_dolphin_s400___d_couvrez_le_nettoyage_toutes_options.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000424/05-2023-09-14_11_50_49-robot_piscine_dolphin_s400___d_couvrez_le_nettoyage_toutes_options.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2023-09-14_11_49_46-ep_dolphin_s_400_il_5_big_65d1.webp_1090_1090_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000424/06-2023-09-14_11_49_46-ep_dolphin_s_400_il_5_big_65d1.webp_1090_1090_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_70_19.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000424/07-hqdefault_70_19.jpg",
+      "skipped": false
+    }
+  ]
+}

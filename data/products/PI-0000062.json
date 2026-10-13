@@ -1,0 +1,75 @@
+{
+  "sku": "PI-0000062",
+  "url": "https://www.cabesto.com/fr/piscine-anti-algue-5l-pi-167.html",
+  "title": "ANTI-ALGUE 5L",
+  "brand": "DIVERS",
+  "category": "Produits de nettoyage et répulsif",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Anti-algues",
+    "Clarifier sa piscine",
+    "Produits de nettoyage et répulsif"
+  ],
+  "categories": [
+    "Anti-algues",
+    "Clarifier sa piscine",
+    "Produits de nettoyage et répulsif"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ANTI-ALGUE 5L"
+  ],
+  "description": "Achetez ANTI-ALGUE 5L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "FVU004002",
+  "price": {
+    "amount": 13.49,
+    "currency": "EUR",
+    "formatted": "13.49 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000062",
+      "sku": "PI-0000062",
+      "supplierRef": "FVU004002",
+      "price": {
+        "amount": 13.49,
+        "currency": "EUR",
+        "formatted": "13.49 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/8/6841005-anti-algues_5l_flat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/g/sgh07_pointexclamation_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/g/sgh09_environnement_20.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:33:01.281Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/6841005-anti-algues_5l_flat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000062/01-6841005-anti-algues_5l_flat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/g/sgh07_pointexclamation_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000062/02-sgh07_pointexclamation_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/g/sgh09_environnement_20.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000062/03-sgh09_environnement_20.jpg",
+      "skipped": false
+    }
+  ]
+}

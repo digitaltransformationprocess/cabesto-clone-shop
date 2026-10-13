@@ -1,0 +1,133 @@
+{
+  "sku": "PI-0002504",
+  "url": "https://www.cabesto.com/fr/piscine-piscine-bois-pistoche-200-x-200-cm-pi-65.html",
+  "title": "PISCINE BOIS PISTOCHE 2x2M avec Couverture de sécurité. filtration incluse et réglable sur 2 hauteurs d'eau",
+  "brand": "BWT",
+  "category": "Piscine carrée",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine bois",
+    "Piscine carrée"
+  ],
+  "categories": [
+    "Piscine bois",
+    "Piscine carrée"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE BOIS PISTOCHE 2x2M avec Couverture de sécurité. filtration incluse et réglable sur 2 hauteurs d'eau"
+  ],
+  "description": "Achetez PISCINE BOIS PISTOCHE 2x2M avec Couverture de sécurité. filtration incluse et réglable sur 2 hauteurs d'eau chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "27160209",
+  "price": {
+    "amount": 1037,
+    "currency": "EUR",
+    "formatted": "1037 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002504",
+      "sku": "PI-0002504",
+      "supplierRef": "27160209",
+      "price": {
+        "amount": 1037,
+        "currency": "EUR",
+        "formatted": "1037 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/i/pistoche_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/7/27160209-3566837150624-visuel_produit_base-27160209_3566837150624_pistoche__ambiance.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/pistoche-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/7/27160209_3566837150624_pistoche_2017_fermee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/pistoche_couv_mettre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/0/70080192-6-0-5505387-h-000010000000.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_15.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/pistoche_ballon.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_14.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/pistoche-4_couverture.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/pistoche_grenouille.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/pistoche_2_hauteur_de_filtre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/pistoche-3_filtre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:44:39.088Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/pistoche_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/01-pistoche_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/7/27160209-3566837150624-visuel_produit_base-27160209_3566837150624_pistoche__ambiance.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/02-27160209-3566837150624-visuel_produit_base-27160209_3566837150624_pistoche__ambiance.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/pistoche-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/03-pistoche-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/7/27160209_3566837150624_pistoche_2017_fermee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/04-27160209_3566837150624_pistoche_2017_fermee.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/pistoche_couv_mettre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/05-pistoche_couv_mettre.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/0/70080192-6-0-5505387-h-000010000000.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/06-70080192-6-0-5505387-h-000010000000.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_15.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/07-hqdefault_15.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/pistoche_ballon.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/08-pistoche_ballon.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_14.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/09-hqdefault_14.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/pistoche-4_couverture.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/10-pistoche-4_couverture.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/pistoche_grenouille.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/11-pistoche_grenouille.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/pistoche_2_hauteur_de_filtre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/12-pistoche_2_hauteur_de_filtre.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/pistoche-3_filtre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002504/13-pistoche-3_filtre.jpg",
+      "skipped": false
+    }
+  ]
+}

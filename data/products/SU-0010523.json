@@ -1,0 +1,77 @@
+{
+  "sku": "SU-0010523",
+  "url": "https://www.cabesto.com/fr/entretien-et-hygiene-du-materiel-de-plongee-250-ml-divingtxcare.html",
+  "title": "Shampoing entretien et hygiène du néoprène et du matériel de Plongée 250 ml Diving XCARE",
+  "brand": "WETSUITCARE",
+  "category": "entretien-et-hygiene",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Shampoing entretien et hygiène du néoprène et du matériel de Plongée 250 ml Diving XCARE"
+  ],
+  "description": "Shampoing entretien et hygiène du matériel de Plongée 250 ml Diving XCAREDésinfectez, nettoyez, assouplissez votre combinaison de plongée et votre gilet stabilisateur avec le shampoing entretien et hygiène du matériel de plongée 250 ml DIVING XCARE, légèrement parfumé et 100% biodégradable.le shampoing DIVING XCARE conserve votre combinaison et vos accessoires en néoprène en état \"neuf\", et leur redonne élasticité et souplesse. Ce shampoing fonctionne également sur la toile de votre gilet stabilisateur.Le shampoing nettoyant DIVING XCARE est économique avec en environ 25 lavages par flacon de 250 ml.Ce nettoyant liquide à diluer est utilisable pour tous vos néoprènes, gilets de sauvetage, lycra et autres équipements sportifs en néoprène, à l'exception des combinaisons sèches avec manchons en latex.Parce qu'il est 100 % biodégradable, le choix du shampoing néoprène DIVING XCARE est aussi un geste positif pour notre planète.Conseil d’utilisation :Mettez votre combinaison dans un seau d'eau avec 10 ml de shampoing néoprène DIVING XCARE (10 ml pour 1 l d'eau).Laissez agir pendant 5 minutesSans rinçageCaractéristiques Shampoing entretien et hygiène du matériel de plongée 250 ml DIVING XCAREDésinfecteElimine le sel, le chlore et autres résidus dans vos combinaisons néoprènerétablissant l'élasticité du néoprène, y compris le néoprène Yulex®Eliminant les odeurs désagréables causées par l'humidité.Informations techniques :Parfum SavonCapacité 250 mlDilution 1% (10 ml pour 1 litre)Temps d'action 5 minutesBiodégradabilté 100 %Fabrication Made in spainContenu du colis1 x Bouteille de shampoing pour combinaison, volume 250 ml.",
+  "supplierRef": "AI1800",
+  "price": {
+    "amount": 15.99,
+    "currency": "EUR",
+    "formatted": "15.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010523",
+      "sku": "SU-0010523",
+      "supplierRef": "AI1800",
+      "price": {
+        "amount": 15.99,
+        "currency": "EUR",
+        "formatted": "15.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/i/divingxcare_250ml_eng.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuitxcare_tap.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/x/c/xcare_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:33:42.488Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/i/divingxcare_250ml_eng.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010523/01-divingxcare_250ml_eng.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuitxcare_tap.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010523/02-wetsuitxcare_tap.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/c/xcare_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010523/03-xcare_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "entretien-et-hygiene"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "entretien-et-hygiene"
+  ]
+}

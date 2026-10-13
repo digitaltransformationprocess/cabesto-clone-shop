@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0005337",
+  "url": "https://www.cabesto.com/fr/couverture-de-survie-legere.html",
+  "title": "Couverture de survie légère",
+  "brand": "TRIGANO",
+  "category": "couvertures-de-survie",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "securite-et-soin-du-corps",
+    "couvertures-de-survie"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "securite-et-soin-du-corps",
+    "couvertures-de-survie"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couverture de survie légère"
+  ],
+  "description": "Achetez Couverture de survie légère chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "T25BL15",
+  "price": {
+    "amount": 4.6,
+    "currency": "EUR",
+    "formatted": "4.6 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005337",
+      "sku": "NT-0005337",
+      "supplierRef": "T25BL15",
+      "price": {
+        "amount": 4.6,
+        "currency": "EUR",
+        "formatted": "4.6 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/0/20-couvertures-de-survie-50-gr.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:58.651Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/20-couvertures-de-survie-50-gr.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005337/01-20-couvertures-de-survie-50-gr.jpg",
+      "skipped": false
+    }
+  ]
+}

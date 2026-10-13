@@ -1,0 +1,73 @@
+{
+  "sku": "PCNT-0001180",
+  "url": "https://www.cabesto.com/fr/neige-glace-fixations-speed-turn-2-0-dynafit-17n5.html",
+  "title": "Fixations Speed Turn 2.0 - DYNAFIT",
+  "brand": "DYNAFIT",
+  "category": "Fixations de ski",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Neige & Glace",
+    "Ski de randonnée",
+    "Fixations ski de randonnée",
+    "Destockage Montagne",
+    "Fixations de ski"
+  ],
+  "categories": [
+    "Neige & Glace",
+    "Ski de randonnée",
+    "Fixations ski de randonnée",
+    "Destockage Montagne",
+    "Fixations de ski"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Fixations Speed Turn 2.0 - DYNAFIT"
+  ],
+  "description": "Achetez Fixations Speed Turn 2.0 - DYNAFIT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0001180",
+      "sku": "PCNT-0001180",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/7/17n5_1_az-fixations-speed-turn-2-0-dynafit_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/17n5_1_az-fixations-speed-turn-2-0-dynafit_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:24:36.816Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/17n5_1_az-fixations-speed-turn-2-0-dynafit_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001180/01-17n5_1_az-fixations-speed-turn-2-0-dynafit_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/17n5_1_az-fixations-speed-turn-2-0-dynafit_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001180/02-17n5_1_az-fixations-speed-turn-2-0-dynafit_2.jpg",
+      "skipped": false
+    }
+  ]
+}

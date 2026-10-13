@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0004479",
+  "url": "https://www.cabesto.com/fr/viognier-mas-lunes-blanc-75cl.html",
+  "title": "ADIMANT MOELLEUX IGP COTE THAU BLANC 75CL",
+  "brand": "DIVERS",
+  "category": "Vin blanc",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "vins-et-petillants",
+    "vin-blanc"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "vins-et-petillants",
+    "vin-blanc"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ADIMANT MOELLEUX IGP COTE THAU BLANC 75CL"
+  ],
+  "description": "Achetez ADIMANT MOELLEUX IGP COTE THAU BLANC 75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3186128119330.",
+  "price": {
+    "amount": 7.49,
+    "currency": "EUR",
+    "formatted": "7.49 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0004479",
+      "sku": "AL-0004479",
+      "supplierRef": "3186128119330.",
+      "price": {
+        "amount": 7.49,
+        "currency": "EUR",
+        "formatted": "7.49 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/d/adimant_moelleux_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:59:39.498Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/d/adimant_moelleux_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0004479/01-adimant_moelleux_1.png",
+      "skipped": true
+    }
+  ]
+}

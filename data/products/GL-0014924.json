@@ -1,0 +1,87 @@
+{
+  "sku": "GL-0014924",
+  "url": "https://www.cabesto.com/fr/glisse-dosseret-kayak-confort-gl-165.html",
+  "title": "Siège paddle et kayak ULTRA ABSTRACT",
+  "brand": "ABSTRACT",
+  "category": "Idées cadeaux Glisse",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Stand Up Paddle",
+    "Accessoires",
+    "Idées cadeaux Glisse"
+  ],
+  "categories": [
+    "Stand Up Paddle",
+    "Accessoires",
+    "Idées cadeaux Glisse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Siège paddle et kayak ULTRA ABSTRACT"
+  ],
+  "description": "Pagayez confortablement sur le siège pour stand-up paddle sup et kayak ABSTRACT",
+  "supplierRef": "ABSA8095",
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR",
+    "formatted": "34.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "GL-0014924",
+      "sku": "GL-0014924",
+      "supplierRef": "ABSA8095",
+      "price": {
+        "amount": 34.99,
+        "currency": "EUR",
+        "formatted": "34.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-front-web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/sup-delta-10_-cabesto-web-pack_11_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-45_back-web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-45-web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-back-web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:28:28.216Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-front-web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0014924/01-sa8095-siege-kayak-fusion-front-web.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/sup-delta-10_-cabesto-web-pack_11_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0014924/02-sup-delta-10_-cabesto-web-pack_11_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-45_back-web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0014924/03-sa8095-siege-kayak-fusion-45_back-web.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-45-web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0014924/04-sa8095-siege-kayak-fusion-45-web.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-back-web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0014924/05-sa8095-siege-kayak-fusion-back-web.jpg",
+      "skipped": false
+    }
+  ]
+}

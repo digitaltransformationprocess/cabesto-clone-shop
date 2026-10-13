@@ -1,0 +1,67 @@
+{
+  "sku": "PCNT-0003182",
+  "url": "https://www.cabesto.com/fr/verticalite-6-degaines-hotwire-quickpack-12cm-black-diamond-bde8.html",
+  "title": "6 Dégaines HOTWIRE QUICKPACK 12cm - BLACK DIAMOND",
+  "brand": "BLACK DIAMOND",
+  "category": "Dégaines",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Matériel métallique",
+    "Dégaines"
+  ],
+  "categories": [
+    "Matériel métallique",
+    "Dégaines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "6 Dégaines HOTWIRE QUICKPACK 12cm - BLACK DIAMOND"
+  ],
+  "description": "Achetez 6 Dégaines HOTWIRE QUICKPACK 12cm - BLACK DIAMOND chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0003182",
+      "sku": "PCNT-0003182",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/d/bde8_1_cg-6-degaines-hotwire-quickpack-12cm-black-diamond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/d/bde8_1_cg-6-degaines-hotwire-quickpack-12cm-black-diamond_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:34:21.361Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bde8_1_cg-6-degaines-hotwire-quickpack-12cm-black-diamond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003182/01-bde8_1_cg-6-degaines-hotwire-quickpack-12cm-black-diamond_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bde8_1_cg-6-degaines-hotwire-quickpack-12cm-black-diamond_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003182/02-bde8_1_cg-6-degaines-hotwire-quickpack-12cm-black-diamond_2.jpg",
+      "skipped": false
+    }
+  ]
+}

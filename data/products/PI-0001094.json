@@ -1,0 +1,81 @@
+{
+  "sku": "PI-0001094",
+  "url": "https://www.cabesto.com/fr/robot-piscine-zodiac-cnx-50iq.html",
+  "title": "ROBOT DE PISCINE FILAIRE CNX 50IQ ZODIAC",
+  "brand": "ZODIAC",
+  "category": "Robot électrique filaire",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Robot électrique",
+    "Sélection Piscine",
+    "Robot électrique filaire"
+  ],
+  "categories": [
+    "Robot électrique",
+    "Sélection Piscine",
+    "Robot électrique filaire"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROBOT DE PISCINE FILAIRE CNX 50IQ ZODIAC"
+  ],
+  "description": "ROBOT PISCINE ZODIAC CNX 50IQ ROBOT PISCINE CNX 50IQ ZODIAC Découvrez le CNX 50 iQ de chez Zodiac, le robot toutes options pour un nettoyage de piscine sans effort! Grâce à l'application Aqualink, contrôlez le robot à distance et profitez d'une piscine i",
+  "supplierRef": "WR000500",
+  "price": {
+    "amount": 999,
+    "currency": "EUR",
+    "formatted": "999 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001094",
+      "sku": "PI-0001094",
+      "supplierRef": "WR000500",
+      "price": {
+        "amount": 999,
+        "currency": "EUR",
+        "formatted": "999 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-electrique-cnx-50-iq-zodiac-70907.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/n/cnx-50-iq-view2_66.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/n/cnx-50-iq-view1_196.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/n/cnx-50-iq-view4_431.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:48:27.526Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-electrique-cnx-50-iq-zodiac-70907.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001094/01-robot-electrique-cnx-50-iq-zodiac-70907.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/n/cnx-50-iq-view2_66.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001094/02-cnx-50-iq-view2_66.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/n/cnx-50-iq-view1_196.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001094/03-cnx-50-iq-view1_196.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/n/cnx-50-iq-view4_431.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001094/04-cnx-50-iq-view4_431.jpg",
+      "skipped": true
+    }
+  ]
+}

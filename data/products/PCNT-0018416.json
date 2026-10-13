@@ -1,0 +1,87 @@
+{
+  "sku": "PCNT-0018416",
+  "url": "https://www.cabesto.com/fr/sac-a-corde-folio.html",
+  "title": "Sac à corde Folio - BEAL",
+  "brand": "BEAL",
+  "category": "Cordes escalade",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Sacs et tapis à cordes",
+    "Cordes escalade"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Sacs et tapis à cordes",
+    "Cordes escalade"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac à corde Folio - BEAL"
+  ],
+  "description": "Achetez Sac à corde Folio - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 23.67,
+    "currency": "EUR",
+    "formatted": "23.67 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0018416",
+      "sku": "PCNT-0018416",
+      "supplierRef": null,
+      "price": {
+        "amount": 23.67,
+        "currency": "EUR",
+        "formatted": "23.67 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/e/be96_1_d-sac-a-corde-folio-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be96_2_d-sac-a-corde-folio-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be96_1_d-sac-a-corde-folio-beal_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be96_1_d-sac-a-corde-folio-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be96_1_j-sac-a-corde-folio-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:29:50.554Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be96_1_d-sac-a-corde-folio-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018416/01-be96_1_d-sac-a-corde-folio-beal_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be96_2_d-sac-a-corde-folio-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018416/02-be96_2_d-sac-a-corde-folio-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be96_1_d-sac-a-corde-folio-beal_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018416/03-be96_1_d-sac-a-corde-folio-beal_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be96_1_d-sac-a-corde-folio-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018416/04-be96_1_d-sac-a-corde-folio-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be96_1_j-sac-a-corde-folio-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018416/05-be96_1_j-sac-a-corde-folio-beal.jpg",
+      "skipped": false
+    }
+  ]
+}

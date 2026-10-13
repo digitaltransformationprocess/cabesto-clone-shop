@@ -1,0 +1,81 @@
+{
+  "sku": "PI-0012640",
+  "url": "https://www.cabesto.com/fr/filtre-a-sable-media-sx925-2m-h-pour-piscine-jusqu-a-17m-intex-pi-0012640.html",
+  "title": "FILTRE A SABLE 2M3/H CONNECTE WIFI INTEX",
+  "brand": "INTEX",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Platine de filtration",
+    "Platine Intex",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Platine de filtration",
+    "Platine Intex",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FILTRE A SABLE 2M3/H CONNECTE WIFI INTEX"
+  ],
+  "description": "Achetez FILTRE A SABLE 2M3/H CONNECTE WIFI INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "26642FR",
+  "price": {
+    "amount": 99,
+    "currency": "EUR",
+    "formatted": "99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0012640",
+      "sku": "PI-0012640",
+      "supplierRef": "26642FR",
+      "price": {
+        "amount": 99,
+        "currency": "EUR",
+        "formatted": "99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/6/26642fr-filtre-a-sable-sx925-2m3-h-.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26642fr-filtre-a-sable-sx925-2m3-h-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26642fr-filtre-a-sable-sx925-2m3-h-_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26642fr-filtre-a-sable-sx925-2m3-h-_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:52:28.934Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26642fr-filtre-a-sable-sx925-2m3-h-.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012640/01-26642fr-filtre-a-sable-sx925-2m3-h-.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26642fr-filtre-a-sable-sx925-2m3-h-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012640/02-26642fr-filtre-a-sable-sx925-2m3-h-.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26642fr-filtre-a-sable-sx925-2m3-h-_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012640/03-26642fr-filtre-a-sable-sx925-2m3-h-_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26642fr-filtre-a-sable-sx925-2m3-h-_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012640/04-26642fr-filtre-a-sable-sx925-2m3-h-_1.png",
+      "skipped": false
+    }
+  ]
+}

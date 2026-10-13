@@ -1,0 +1,63 @@
+{
+  "sku": "NU-0002965",
+  "url": "https://www.cabesto.com/fr/vhf-portable-icom-ic-m35.html",
+  "title": "VHF Portable Icom - IC-M37E",
+  "brand": "ICOM",
+  "category": "VHF portables",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Electronique",
+    "VHF",
+    "VHF portables"
+  ],
+  "categories": [
+    "Electronique",
+    "VHF",
+    "VHF portables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "VHF Portable Icom - IC-M37E"
+  ],
+  "description": "Achetez VHF Portable Icom - IC-M37E chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "IC-M37E",
+  "price": {
+    "amount": 209,
+    "currency": "EUR",
+    "formatted": "209 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0002965",
+      "sku": "NU-0002965",
+      "supplierRef": "IC-M37E",
+      "price": {
+        "amount": 209,
+        "currency": "EUR",
+        "formatted": "209 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/i/c/ic-m37e_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:02:29.798Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/c/ic-m37e_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0002965/01-ic-m37e_1.jpg",
+      "skipped": true
+    }
+  ]
+}

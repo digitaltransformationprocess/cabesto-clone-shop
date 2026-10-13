@@ -1,0 +1,99 @@
+{
+  "sku": "PCNT-0002865",
+  "url": "https://www.cabesto.com/fr/verticalite-corde-escalade-wall-cruiser-9-6-mm-unicore-au-metre-beal-ac50.html",
+  "title": "Corde Escalade Wall Cruiser - 9.6 mm Unicore au mètre - BEAL",
+  "brand": "BEAL",
+  "category": "Cordes escalade",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Cordes à simple",
+    "Cordes escalade"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Cordes à simple",
+    "Cordes escalade"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Corde Escalade Wall Cruiser - 9.6 mm Unicore au mètre - BEAL"
+  ],
+  "description": "Achetez Corde Escalade Wall Cruiser - 9.6 mm Unicore au mètre - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 2.7,
+    "currency": "EUR",
+    "formatted": "2.7 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0002865",
+      "sku": "PCNT-0002865",
+      "supplierRef": null,
+      "price": {
+        "amount": 2.7,
+        "currency": "EUR",
+        "formatted": "2.7 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_d-corde-wall-cruiser-96-mm-unicore-au-metre-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_j-corde-wall-cruiser-96-mm-unicore-au-metre-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_g-corde-wall-cruiser-96-mm-unicore-au-metre-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_d-corde-wall-cruiser-96-mm-unicore-au-metre-beal_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_d-corde-wall-cruiser-96-mm-unicore-au-metre-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_g-corde-wall-cruiser-96-mm-unicore-au-metre-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_j-corde-wall-cruiser-96-mm-unicore-au-metre-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:33:48.548Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_d-corde-wall-cruiser-96-mm-unicore-au-metre-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002865/01-ac50_1_d-corde-wall-cruiser-96-mm-unicore-au-metre-beal_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_j-corde-wall-cruiser-96-mm-unicore-au-metre-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002865/02-ac50_1_j-corde-wall-cruiser-96-mm-unicore-au-metre-beal_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_g-corde-wall-cruiser-96-mm-unicore-au-metre-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002865/03-ac50_1_g-corde-wall-cruiser-96-mm-unicore-au-metre-beal_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_d-corde-wall-cruiser-96-mm-unicore-au-metre-beal_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002865/04-ac50_1_d-corde-wall-cruiser-96-mm-unicore-au-metre-beal_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_d-corde-wall-cruiser-96-mm-unicore-au-metre-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002865/05-ac50_1_d-corde-wall-cruiser-96-mm-unicore-au-metre-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_g-corde-wall-cruiser-96-mm-unicore-au-metre-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002865/06-ac50_1_g-corde-wall-cruiser-96-mm-unicore-au-metre-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/c/ac50_1_j-corde-wall-cruiser-96-mm-unicore-au-metre-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002865/07-ac50_1_j-corde-wall-cruiser-96-mm-unicore-au-metre-beal.jpg",
+      "skipped": false
+    }
+  ]
+}

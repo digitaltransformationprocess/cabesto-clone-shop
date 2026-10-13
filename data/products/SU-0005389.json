@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0005389",
+  "url": "https://www.cabesto.com/fr/plongee-pochette-etanche-12-5x17-5cm-s-pl-12547.html",
+  "title": "Pochette étanche chasse sous-marine SMALL 12.5 x 17.5 cm IMERSION",
+  "brand": "IMERSION",
+  "category": "accessoires-longe-cote",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pochette étanche chasse sous-marine SMALL 12.5 x 17.5 cm IMERSION"
+  ],
+  "description": "Pochette étanche 12,5 X 17,5 cm small IMERSIONProtégez vos documents avec la pochette étanche IMERSION, ici en taille small.La pochette étanche IMERSION est la solution idéale pour protéger vos papiers, clés, documents, CB, téléphone...Etanchéité en surface uniquementTaille small12.5 X 17.5 cm",
+  "supplierRef": "B717",
+  "price": {
+    "amount": 4.99,
+    "currency": "EUR",
+    "formatted": "4.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005389",
+      "sku": "SU-0005389",
+      "supplierRef": "B717",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-12547-pl-12547-picture_1-pl-12547-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:11.427Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-12547-pl-12547-picture_1-pl-12547-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005389/01-pl-12547-pl-12547-picture_1-pl-12547-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "longe-cote-marche-aquatique",
+    "equipement-pour-le-longe-cote",
+    "accessoires-longe-cote"
+  ],
+  "categories": [
+    "plongee",
+    "longe-cote-marche-aquatique",
+    "equipement-pour-le-longe-cote",
+    "accessoires-longe-cote"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "sku": "PI-0001440",
+  "url": "https://www.cabesto.com/fr/piscine/traitement-de-l-eau/entretenir-son-eau/anti-algues",
+  "title": "Anti-algues",
+  "brand": null,
+  "category": "Produits de nettoyage et répulsif",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Clarifier sa piscine",
+    "Anti-algues",
+    "Entretenir son eau",
+    "Produits de nettoyage et répulsif"
+  ],
+  "categories": [
+    "Clarifier sa piscine",
+    "Anti-algues",
+    "Entretenir son eau",
+    "Produits de nettoyage et répulsif"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piscine",
+    "Piscine",
+    "Traitement de l'eau",
+    "Traitement de l'eau",
+    "Entretenir son eau",
+    "Entretenir son eau",
+    "Anti-algues"
+  ],
+  "description": null,
+  "supplierRef": null,
+  "price": {
+    "amount": 5.99,
+    "currency": "EUR",
+    "formatted": "5.99 EUR"
+  },
+  "availability": {
+    "inStock": null,
+    "text": null
+  },
+  "variants": [
+    {
+      "id": "PI-0001440",
+      "sku": "PI-0001440",
+      "supplierRef": null,
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5.99 EUR"
+      },
+      "availability": {
+        "inStock": null,
+        "text": null
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/8/6895111-floculant-liquide-1l.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/u/puripool-super-6-litres-x-2-1582.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/image1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/n/anti_algues_moutarde.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/h/shopping_4_.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pluripool_3l.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2024-04-11_18_18_59-anticalcaire_complexant_de_m_taux_reva-out_mareva___piscine_center.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/8/385x385_420280_desalgine_jet_6l_bayrol.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/8/6841005-anti-algues_5l_flat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/e/desalgin-mustard-15-kg-anti-algues-special-algues-moutardes-bayrol_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/n/anti-algues-multi-actions-mareva-pour-piscine-top-3-non-moussant-1l-150038u_uh1efqlu11rtkl21.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/n/anti-algues-mareva-top-3_lnpqm3nxvvh5jq6i.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:33:05.996Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/6895111-floculant-liquide-1l.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001440/01-6895111-floculant-liquide-1l.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/u/puripool-super-6-litres-x-2-1582.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001440/02-puripool-super-6-litres-x-2-1582.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/image1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001440/03-image1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/n/anti_algues_moutarde.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001440/04-anti_algues_moutarde.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/h/shopping_4_.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001440/05-shopping_4_.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pluripool_3l.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001440/06-pluripool_3l.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2024-04-11_18_18_59-anticalcaire_complexant_de_m_taux_reva-out_mareva___piscine_center.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001440/07-2024-04-11_18_18_59-anticalcaire_complexant_de_m_taux_reva-out_mareva___piscine_center.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/8/385x385_420280_desalgine_jet_6l_bayrol.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001440/08-385x385_420280_desalgine_jet_6l_bayrol.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/6841005-anti-algues_5l_flat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001440/09-6841005-anti-algues_5l_flat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/e/desalgin-mustard-15-kg-anti-algues-special-algues-moutardes-bayrol_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001440/10-desalgin-mustard-15-kg-anti-algues-special-algues-moutardes-bayrol_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/n/anti-algues-multi-actions-mareva-pour-piscine-top-3-non-moussant-1l-150038u_uh1efqlu11rtkl21.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001440/11-anti-algues-multi-actions-mareva-pour-piscine-top-3-non-moussant-1l-150038u_uh1efqlu11rtkl21.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/n/anti-algues-mareva-top-3_lnpqm3nxvvh5jq6i.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001440/12-anti-algues-mareva-top-3_lnpqm3nxvvh5jq6i.jpg",
+      "skipped": false
+    }
+  ]
+}

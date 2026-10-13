@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0000069",
+  "url": "https://www.cabesto.com/fr/piscine-aquabrome-bayrol-pi-208.html",
+  "title": "AQUABROME BAYROL",
+  "brand": "BAYROL",
+  "category": "Brome bayrol",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "traitement-de-l-eau",
+    "desinfecter-son-eau-quotidiennement-brome"
+  ],
+  "categories": [
+    "piscine",
+    "traitement-de-l-eau",
+    "desinfecter-son-eau-quotidiennement-brome"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "AQUABROME BAYROL"
+  ],
+  "description": "Achetez AQUABROME BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "2139338",
+  "price": {
+    "amount": 77,
+    "currency": "EUR",
+    "formatted": "77 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000069",
+      "sku": "PI-0000069",
+      "supplierRef": "2139338",
+      "price": {
+        "amount": 77,
+        "currency": "EUR",
+        "formatted": "77 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/r/brome-permanent-5kg-aquabrome-bayrol.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:31:44.676Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/r/brome-permanent-5kg-aquabrome-bayrol.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000069/01-brome-permanent-5kg-aquabrome-bayrol.jpg",
+      "skipped": false
+    }
+  ]
+}

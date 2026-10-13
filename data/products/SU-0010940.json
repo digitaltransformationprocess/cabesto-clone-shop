@@ -1,0 +1,131 @@
+{
+  "sku": "SU-0010940",
+  "url": "https://www.cabesto.com/fr/lampe-de-plongee-video-d710v-mk2-2300-lumens-orcatorch-su-0010940.html",
+  "title": "Lampe de plongée-sous-marine vidéo 3 en 1 D710V MK2 2300 lumens ORCATORCH",
+  "brand": "ORCATORCH",
+  "category": "Éclairages",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Éclairage - Photo - Vidéo",
+    "Lampes de plongée et phares de plongée photo et vidéo",
+    "Photo/Vidéo plongée",
+    "Éclairages"
+  ],
+  "categories": [
+    "Éclairage - Photo - Vidéo",
+    "Lampes de plongée et phares de plongée photo et vidéo",
+    "Photo/Vidéo plongée",
+    "Éclairages"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe de plongée-sous-marine vidéo 3 en 1 D710V MK2 2300 lumens ORCATORCH"
+  ],
+  "description": "Profitez de la version améliorée de la lampe étanche de plongée photo/vidéo D710V, le phare D710V MK2 ORCATORCH, l'éclairage sous-marin 3 en 1 avec 2300 lumens LED blanc, 150 lumens LED rouge et 10 lumens LED UV idéal pour la photo & la vidéo avec son ang",
+  "supplierRef": "D710VMK2",
+  "price": {
+    "amount": 179.99,
+    "currency": "EUR",
+    "formatted": "179.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010940",
+      "sku": "SU-0010940",
+      "supplierRef": "D710VMK2",
+      "price": {
+        "amount": 179.99,
+        "currency": "EUR",
+        "formatted": "179.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/k/mk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/4/b4d838e96e-d530vzj18snoot217006.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/0/h02_1_083cf574-a425-47dc-b7c9-d813a9695b69_2500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/7/d710v-ho2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk21.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk23.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk24.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk25.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/3/730000.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/3/7301.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/3/7300.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:39:01.183Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010940/01-mk.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/4/b4d838e96e-d530vzj18snoot217006.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010940/02-b4d838e96e-d530vzj18snoot217006.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/0/h02_1_083cf574-a425-47dc-b7c9-d813a9695b69_2500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010940/03-h02_1_083cf574-a425-47dc-b7c9-d813a9695b69_2500x.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/7/d710v-ho2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010940/04-d710v-ho2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010940/05-mk22.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk21.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010940/06-mk21.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk23.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010940/07-mk23.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk24.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010940/08-mk24.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk25.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010940/09-mk25.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/3/730000.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010940/10-730000.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/3/7301.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010940/11-7301.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/3/7300.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010940/12-7300.jpg",
+      "skipped": true
+    }
+  ]
+}

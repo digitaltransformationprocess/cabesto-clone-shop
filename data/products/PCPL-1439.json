@@ -1,0 +1,95 @@
+{
+  "sku": "PCPL-1439",
+  "url": "https://www.cabesto.com/fr/plongee-arbalete-marlin-evil-beuchat-pcpl-1439.html",
+  "title": "Arbalète de chasse sous-marine MARLIN EVIL BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Arbalète de chasse sous-marine MARLIN EVIL BEUCHAT"
+  ],
+  "description": "Arbalète de chasse sous-marine MARLIN EVIL BEUCHATL'arbalète MARLIN EVIL BEUCHAT possède un précision diabolique grâce à sa tête fermée et son rail guide flèche intégral...Simple d'utilisation et puissante, le MARLIN EVIL BEUCHAT est une arbalète polyvalente par excellence.Tube aluminium de 28 mm avec guide flèche intégral pour optimiser la puissance et augmenter la précision du tirArbalète conçue pour permettre un déplacement rapide et fluide, et des tirs réflexesCrosse haut de gamme Marlin offrant une bonne prégnance et une bonne maniabilité avec support de moulinetTête ferméeFlèche tahitienne inox de 6,5 mm (flèche en 6mm sur les longueurs 50, 60)Sandow de 16 mmObus articuléMonofilament noir de 1,6 mmGunbuttLongueurs disponibles (cm) : 50/60/80/90/100/110Guide flèche intégral✔TubeAluminium Ø28mmTêteFerméSandows1X16mmFlèche6mm / 6,5mm selon la tailleObusArticuléPointeTahitienneEncoches d'accrochage2/3 selon la tailleArdillons1Contenu du colis :1 x Bouée tractée FLIGHT SPINERA pour 1 personne.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1439",
+      "sku": "PCPL-1439",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/v/evil1_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_5_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/v/evil3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/v/evil4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/v/evil2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_42_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:48.669Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/v/evil1_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1439/01-evil1_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_5_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1439/02-sans_titre_5_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/v/evil3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1439/03-evil3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/v/evil4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1439/04-evil4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/v/evil2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1439/05-evil2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_42_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1439/06-hqdefault_42_3.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

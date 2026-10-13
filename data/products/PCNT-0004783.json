@@ -1,0 +1,113 @@
+{
+  "sku": "PCNT-0004783",
+  "url": "https://www.cabesto.com/fr/pantalon-chelsea-evolution-work-hh02.html",
+  "title": "Pantalon Chelsea Evolution Work",
+  "brand": "HELLY HANSEN WORK",
+  "category": "pantalons-combinaisons",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "habillement",
+    "pantalons-combinaisons"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "habillement",
+    "pantalons-combinaisons"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pantalon Chelsea Evolution Work"
+  ],
+  "description": "Achetez Pantalon Chelsea Evolution Work chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 138,
+    "currency": "EUR",
+    "formatted": "138 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004783",
+      "sku": "PCNT-0004783",
+      "supplierRef": null,
+      "price": {
+        "amount": 138,
+        "currency": "EUR",
+        "formatted": "138 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_8_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:30:45.414Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004783/01-hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_8.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004783/02-hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004783/03-hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004783/04-hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004783/05-hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004783/06-hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004783/07-hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_8_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004783/08-hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_8_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004783/09-hh02_1_c-pantalon-chelsea-evolution-work-helly-hansen-work_7.jpg",
+      "skipped": false
+    }
+  ]
+}

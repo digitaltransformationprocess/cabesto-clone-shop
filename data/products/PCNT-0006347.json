@@ -1,0 +1,67 @@
+{
+  "sku": "PCNT-0006347",
+  "url": "https://www.cabesto.com/fr/cagoule-balaclava-pp76.html",
+  "title": "Cagoule Balaclava - PETZL",
+  "brand": "PETZL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Bonnets, cagoules",
+    "Cagoules, tours de cou",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Bonnets, cagoules",
+    "Cagoules, tours de cou",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cagoule Balaclava - PETZL"
+  ],
+  "description": "Achetez Cagoule Balaclava - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0006347",
+      "sku": "PCNT-0006347",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/p/pp76_1_d-cagoule-balaclava-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:28:49.828Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp76_1_d-cagoule-balaclava-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006347/01-pp76_1_d-cagoule-balaclava-petzl_2.jpg",
+      "skipped": false
+    }
+  ]
+}

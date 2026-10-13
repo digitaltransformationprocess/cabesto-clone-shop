@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0001734",
+  "url": "https://www.cabesto.com/fr/plongee-cintre-vetement-sec-pl-8275.html",
+  "title": "Cintre de plongée pour vêtement étanche SCUBAPRO",
+  "brand": "MARES",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cintre de plongée pour vêtement étanche SCUBAPRO"
+  ],
+  "description": "détaillée 74,99 € 89,00 € -15% Quantité Ajouter au panier 3X 4X Payez 3 x 24,99 € sans frais avec En stock (1) Livraison estimée entre le 15/10/2026 et le 19/10/2026 Selon le mode de livraison choisi et les délais du transporteur. Vérifie la disponibilité... Vérifier la disponibilité dans votre magasin Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation.",
+  "supplierRef": "415755",
+  "price": {
+    "amount": 74.99,
+    "currency": "EUR",
+    "formatted": "74.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0001734",
+      "sku": "SU-0001734",
+      "supplierRef": "415755",
+      "price": {
+        "amount": 74.99,
+        "currency": "EUR",
+        "formatted": "74.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-8275-pl-8275-picture_1-pl-8275-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:04.426Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-8275-pl-8275-picture_1-pl-8275-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001734/01-pl-8275-pl-8275-picture_1-pl-8275-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

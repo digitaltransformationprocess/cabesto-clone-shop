@@ -1,0 +1,71 @@
+{
+  "sku": "AL-0008396",
+  "url": "https://www.cabesto.com/fr/tourte-du-pecheur-2-100g-cabesto.html",
+  "title": "TOURTE DU PECHEUR 2*110G CABESTO",
+  "brand": "CABESTO",
+  "category": "Tielles Et Tartes",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "plats-cuisines-frais",
+    "les-tielles-et-tarte"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "plats-cuisines-frais",
+    "les-tielles-et-tarte"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TOURTE DU PECHEUR 2*110G CABESTO"
+  ],
+  "description": "Achetez TOURTE DU PECHEUR 2*110G CABESTO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "18911006",
+  "price": {
+    "amount": 3.49,
+    "currency": "EUR",
+    "formatted": "3.49 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0008396",
+      "sku": "AL-0008396",
+      "supplierRef": "18911006",
+      "price": {
+        "amount": 3.49,
+        "currency": "EUR",
+        "formatted": "3.49 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0008396.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0008396_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:26:09.768Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0008396.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0008396/01-al-0008396.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0008396_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0008396/02-al-0008396_2.jpg",
+      "skipped": false
+    }
+  ]
+}

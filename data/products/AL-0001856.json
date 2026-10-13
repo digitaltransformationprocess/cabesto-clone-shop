@@ -1,0 +1,71 @@
+{
+  "sku": "AL-0001856",
+  "url": "https://www.cabesto.com/fr/gambas-crues-sauvages-mada-12-16-pieces-400g.html",
+  "title": "GAMBAS CRUES SAUVAGES MADA 12/16 PIECES 400G",
+  "brand": "GEL PECHE",
+  "category": "gambas",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "crevettes-et-gambas",
+    "gambas"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "crevettes-et-gambas",
+    "gambas"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "GAMBAS CRUES SAUVAGES MADA 12/16 PIECES 400G"
+  ],
+  "description": "Achetez GAMBAS CRUES SAUVAGES MADA 12/16 PIECES 400G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1HOS3040SPPSMG11",
+  "price": {
+    "amount": 8.99,
+    "currency": "EUR",
+    "formatted": "8.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001856",
+      "sku": "AL-0001856",
+      "supplierRef": "1HOS3040SPPSMG11",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/r/crevettes_sauvages_mada_400g_12-16.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/AL-0001856.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:53:26.269Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/r/crevettes_sauvages_mada_400g_12-16.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001856/01-crevettes_sauvages_mada_400g_12-16.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/AL-0001856.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001856/02-AL-0001856.jpg",
+      "skipped": true
+    }
+  ]
+}

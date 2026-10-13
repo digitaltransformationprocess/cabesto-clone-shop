@@ -1,0 +1,79 @@
+{
+  "sku": "PCNT-0028603",
+  "url": "https://www.cabesto.com/fr/randonnee-veste-polaire-femme-better-sweater-patagonia-nt-0028603-0028637.html",
+  "title": "Veste polaire Femme Better Sweater - PATAGONIA",
+  "brand": "PATAGONIA",
+  "category": null,
+  "topLevel": "autre",
+  "topLevelLabel": "Autre",
+  "categoryPath": [],
+  "categories": [],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Veste polaire Femme Better Sweater - PATAGONIA"
+  ],
+  "description": "Achetez Veste polaire Femme Better Sweater - PATAGONIA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "25543",
+  "price": {
+    "amount": 149.9,
+    "currency": "EUR",
+    "formatted": "149.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0028603",
+      "sku": "PCNT-0028603",
+      "supplierRef": "25543",
+      "price": {
+        "amount": 149.9,
+        "currency": "EUR",
+        "formatted": "149.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/o/pos-wbf19_25543_nena.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pos-wbf19_25543_nena_om1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pos-wbf19_25543_nena_ov.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pos-wbf19_25543_nena_om2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pos-wbf19_25543_nena_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:42:40.894Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pos-wbf19_25543_nena.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028603/01-pos-wbf19_25543_nena.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pos-wbf19_25543_nena_om1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028603/02-pos-wbf19_25543_nena_om1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pos-wbf19_25543_nena_ov.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028603/03-pos-wbf19_25543_nena_ov.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pos-wbf19_25543_nena_om2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028603/04-pos-wbf19_25543_nena_om2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pos-wbf19_25543_nena_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028603/05-pos-wbf19_25543_nena_1_.jpg",
+      "skipped": false
+    }
+  ]
+}

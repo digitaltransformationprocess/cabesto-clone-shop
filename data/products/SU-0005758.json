@@ -1,0 +1,67 @@
+{
+  "sku": "SU-0005758",
+  "url": "https://www.cabesto.com/fr/plongee-sac-de-transport-grand-raid-tarpolin-pl-5023.html",
+  "title": "Sac de plongée GRAND RAID TARPOLIN 100 l IMERSION",
+  "brand": "IMERSION",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac de plongée GRAND RAID TARPOLIN 100 l IMERSION"
+  ],
+  "description": "Sac grand volume pouvant contenir des palmes longues, soit à l'intérieur, soit à l'extérieur dans un compartiment prévu à cet effet. Emplacement latéral extérieur pour une arbalète. Tarpaulin 0.6mm.dim: 90x35x30cmvol: 100 litres",
+  "supplierRef": "B805",
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR",
+    "formatted": "39.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005758",
+      "sku": "SU-0005758",
+      "supplierRef": "B805",
+      "price": {
+        "amount": 39.99,
+        "currency": "EUR",
+        "formatted": "39.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-5023-pl-5023-picture_1-pl-5023-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-5023-pl-5023-picture_2-pl-5023-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:59.235Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-5023-pl-5023-picture_1-pl-5023-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005758/01-pl-5023-pl-5023-picture_1-pl-5023-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-5023-pl-5023-picture_2-pl-5023-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005758/02-pl-5023-pl-5023-picture_2-pl-5023-2.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "1er-prix-club-association"
+  ],
+  "categories": [
+    "plongee",
+    "1er-prix-club-association"
+  ]
+}

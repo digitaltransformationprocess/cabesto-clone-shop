@@ -1,0 +1,135 @@
+{
+  "sku": "PCSU-0000437",
+  "url": "https://www.cabesto.com/fr/combinaison-de-plongee-femme-alize-7-mm-avec-cagoule-beuchat-pcsu-0000437.html",
+  "title": "COMBINAISON DE PLONGEE ET D'APNEE MONOPIECE FEMME ALIZE 7 MM AVEC CAGOULE | BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "Black November - Plongée",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Combinaisons de chasse",
+    "Femmes",
+    "Combinaisons de plongée femme",
+    "Destockage Plongée / Chasse sous-marine",
+    "Black November - Plongée"
+  ],
+  "categories": [
+    "Combinaisons de chasse",
+    "Femmes",
+    "Combinaisons de plongée femme",
+    "Destockage Plongée / Chasse sous-marine",
+    "Black November - Plongée"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage",
+    "Destockage",
+    "COMBINAISON DE PLONGEE ET D'APNEE MONOPIECE FEMME ALIZE 7 MM AVEC CAGOULE | BEUCHAT"
+  ],
+  "description": "Achetez COMBINAISON DE PLONGEE ET D'APNEE MONOPIECE FEMME ALIZE 7 MM AVEC CAGOULE | BEUCHAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 175,
+    "currency": "EUR",
+    "formatted": "175 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0000437",
+      "sku": "PCSU-0000437",
+      "supplierRef": null,
+      "price": {
+        "amount": 175,
+        "currency": "EUR",
+        "formatted": "175 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/alize-7-cag_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/alize-cagoule-femme_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/alize-cagoule-femme_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/alize-7-cag-detail-2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/alize-7-cag-detail_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/alize-cagoule-femme_4__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/alize-7-cag-detail-1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/alize-cagoule-femme_2__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_14_22_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/taillefemmebeuchat_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/grille-de-tailles-beuchat-dame-humide_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/alize-7-cag_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:04:13.371Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alize-7-cag_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0000437/01-alize-7-cag_2_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alize-cagoule-femme_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0000437/02-alize-cagoule-femme_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alize-cagoule-femme_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0000437/03-alize-cagoule-femme_1__1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alize-7-cag-detail-2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0000437/04-alize-7-cag-detail-2_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alize-7-cag-detail_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0000437/05-alize-7-cag-detail_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alize-cagoule-femme_4__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0000437/06-alize-cagoule-femme_4__1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alize-7-cag-detail-1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0000437/07-alize-7-cag-detail-1_1_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alize-cagoule-femme_2__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0000437/08-alize-cagoule-femme_2__1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_14_22_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0000437/09-hqdefault_14_22_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/taillefemmebeuchat_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0000437/10-taillefemmebeuchat_3.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/grille-de-tailles-beuchat-dame-humide_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0000437/11-grille-de-tailles-beuchat-dame-humide_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alize-7-cag_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0000437/12-alize-7-cag_2.jpg",
+      "skipped": true
+    }
+  ]
+}

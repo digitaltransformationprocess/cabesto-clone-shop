@@ -1,0 +1,109 @@
+{
+  "sku": "SU-0000418",
+  "url": "https://www.cabesto.com/fr/ordinateur-aladin-a1-scubapro-pl-78964.html",
+  "title": "Montre ordinateur de plongée ALADIN A1 SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "Montres ordinateurs",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Ordinateurs de plongée",
+    "Montres ordinateurs",
+    "Destockage Plongée / Chasse sous-marine"
+  ],
+  "categories": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Ordinateurs de plongée",
+    "Montres ordinateurs",
+    "Destockage Plongée / Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montre ordinateur de plongée ALADIN A1 SCUBAPRO"
+  ],
+  "description": "Plongez avec la nouvelle montre ordinateur de plongé air & nitrox, profondimètre, apnée et natation ALADIN A1 SCUBAPRO.",
+  "supplierRef": "05.064.101",
+  "price": {
+    "amount": 284,
+    "currency": "EUR",
+    "formatted": "284 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0000418",
+      "sku": "SU-0000418",
+      "supplierRef": "05.064.101",
+      "price": {
+        "amount": 284,
+        "currency": "EUR",
+        "formatted": "284 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/1/a1_front_currentmbl_metric.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/1/a1_left__currentdepth_metric.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/1/a1_front_decompression_screen__2_backlit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/1/a1_front_deco_stop_metric.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/1/a1_front_gasmix_metric.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/1/a1_front_metric_ready_to_dive.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/1/a1_front_nst_with_mbl0_metric.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/1/a1_front_planner_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:05:00.961Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/1/a1_front_currentmbl_metric.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000418/01-a1_front_currentmbl_metric.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/1/a1_left__currentdepth_metric.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000418/02-a1_left__currentdepth_metric.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/1/a1_front_decompression_screen__2_backlit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000418/03-a1_front_decompression_screen__2_backlit.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/1/a1_front_deco_stop_metric.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000418/04-a1_front_deco_stop_metric.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/1/a1_front_gasmix_metric.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000418/05-a1_front_gasmix_metric.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/1/a1_front_metric_ready_to_dive.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000418/06-a1_front_metric_ready_to_dive.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/1/a1_front_nst_with_mbl0_metric.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000418/07-a1_front_nst_with_mbl0_metric.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/1/a1_front_planner_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000418/08-a1_front_planner_3.jpg",
+      "skipped": true
+    }
+  ]
+}

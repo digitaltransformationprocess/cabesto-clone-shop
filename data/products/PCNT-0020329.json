@@ -1,0 +1,63 @@
+{
+  "sku": "PCNT-0020329",
+  "url": "https://www.cabesto.com/fr/tee-shirt-manches-longues-fuseknit-comfort-zippe-homme-ed52.html",
+  "title": "Tee-shirt manches longues Fuseknit Comfort zippé homme",
+  "brand": "CRAFT",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Tee-shirt manches longues Fuseknit Comfort zippé homme"
+  ],
+  "description": "Achetez Tee-shirt manches longues Fuseknit Comfort zippé homme chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0020329",
+      "sku": "PCNT-0020329",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/d/ed52_1_b-tee-shirt-manches-longues-fuseknit-comfort-zippe-h-craft_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:32:28.449Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/d/ed52_1_b-tee-shirt-manches-longues-fuseknit-comfort-zippe-h-craft_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020329/01-ed52_1_b-tee-shirt-manches-longues-fuseknit-comfort-zippe-h-craft_4.jpg",
+      "skipped": false
+    }
+  ]
+}

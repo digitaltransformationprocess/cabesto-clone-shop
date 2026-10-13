@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0002456",
+  "url": "https://www.cabesto.com/fr/piscine-ph-plus-liquide-10l-pi-200.html",
+  "title": "PH PLUS LIQUIDE 10L",
+  "brand": "CABESTO",
+  "category": "pH plus",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Régulation du pH",
+    "pH plus"
+  ],
+  "categories": [
+    "Régulation du pH",
+    "pH plus"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PH PLUS LIQUIDE 10L"
+  ],
+  "description": "Achetez PH PLUS LIQUIDE 10L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "FVU108328",
+  "price": {
+    "amount": 22.9,
+    "currency": "EUR",
+    "formatted": "22.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002456",
+      "sku": "PI-0002456",
+      "supplierRef": "FVU108328",
+      "price": {
+        "amount": 22.9,
+        "currency": "EUR",
+        "formatted": "22.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/h/ph_plus_liquide_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:31:55.009Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/h/ph_plus_liquide_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002456/01-ph_plus_liquide_1.jpg",
+      "skipped": false
+    }
+  ]
+}

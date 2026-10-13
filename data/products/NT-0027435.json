@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0027435",
+  "url": "https://www.cabesto.com/fr/verticalite-tricky-tool-climbing-technology-nt-0027435.html",
+  "title": "Tricky Tool - Climbing Technology",
+  "brand": "CLIMBING TECHNOLOGY",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Matériel métallique",
+    "Dégaines",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Matériel métallique",
+    "Dégaines",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Tricky Tool - Climbing Technology"
+  ],
+  "description": "Achetez Tricky Tool - Climbing Technology chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "2E693FYWNJCTSTD.",
+  "price": {
+    "amount": 28.99,
+    "currency": "EUR",
+    "formatted": "28.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0027435",
+      "sku": "NT-0027435",
+      "supplierRef": "2E693FYWNJCTSTD.",
+      "price": {
+        "amount": 28.99,
+        "currency": "EUR",
+        "formatted": "28.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al43_1-tricky-tool-climbing-technology.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/al43_2-tricky-tool-climbing-technology.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/al43_1-tricky-tool-climbing-technology_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/r/tricky-instruction-800x800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:18:52.785Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al43_1-tricky-tool-climbing-technology.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0027435/01-al43_1-tricky-tool-climbing-technology.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al43_2-tricky-tool-climbing-technology.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0027435/02-al43_2-tricky-tool-climbing-technology.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al43_1-tricky-tool-climbing-technology_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0027435/03-al43_1-tricky-tool-climbing-technology_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/r/tricky-instruction-800x800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0027435/04-tricky-instruction-800x800.jpg",
+      "skipped": false
+    }
+  ]
+}

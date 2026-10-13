@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0003050",
+  "url": "https://www.cabesto.com/fr/camalot-c4-0-5-2019-nt-0003050.html",
+  "title": "Camalot C4 0.5",
+  "brand": "BLACK DIAMOND",
+  "category": "coinceurs-decoinceurs",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "escalade",
+    "equipement-terrain-d-aventure-artif",
+    "coinceurs-decoinceurs"
+  ],
+  "categories": [
+    "montagne",
+    "escalade",
+    "equipement-terrain-d-aventure-artif",
+    "coinceurs-decoinceurs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Camalot C4 0.5"
+  ],
+  "description": "Achetez Camalot C4 0.5 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BD2623050000ALL1",
+  "price": {
+    "amount": 69.99,
+    "currency": "EUR",
+    "formatted": "69.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0003050",
+      "sku": "NT-0003050",
+      "supplierRef": "BD2623050000ALL1",
+      "price": {
+        "amount": 69.99,
+        "currency": "EUR",
+        "formatted": "69.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/d/bdb2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:31.694Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bdb2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0003050/01-bdb2_1.jpg",
+      "skipped": false
+    }
+  ]
+}

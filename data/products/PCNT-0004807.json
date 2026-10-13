@@ -1,0 +1,81 @@
+{
+  "sku": "PCNT-0004807",
+  "url": "https://www.cabesto.com/fr/sac-a-corde-city.html",
+  "title": "Sac à corde City - Climbing Technology",
+  "brand": "CLIMBING TECHNOLOGY",
+  "category": "Cordes escalade",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Sacs et tapis à cordes",
+    "Cordes escalade"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Sacs et tapis à cordes",
+    "Cordes escalade"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac à corde City - Climbing Technology"
+  ],
+  "description": "Achetez Sac à corde City - Climbing Technology chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 24.9,
+    "currency": "EUR",
+    "formatted": "24.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004807",
+      "sku": "PCNT-0004807",
+      "supplierRef": null,
+      "price": {
+        "amount": 24.9,
+        "currency": "EUR",
+        "formatted": "24.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/t/ct07_1_a-sac-a-corde-city-climbing-technology_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/t/ct07_2_a-sac-a-corde-city-climbing-technology.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/t/ct07_1_a-sac-a-corde-city-climbing-technology_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/t/ct07_1_a-sac-a-corde-city-climbing-technology.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:27:54.052Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/t/ct07_1_a-sac-a-corde-city-climbing-technology_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004807/01-ct07_1_a-sac-a-corde-city-climbing-technology_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/t/ct07_2_a-sac-a-corde-city-climbing-technology.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004807/02-ct07_2_a-sac-a-corde-city-climbing-technology.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/t/ct07_1_a-sac-a-corde-city-climbing-technology_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004807/03-ct07_1_a-sac-a-corde-city-climbing-technology_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/t/ct07_1_a-sac-a-corde-city-climbing-technology.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004807/04-ct07_1_a-sac-a-corde-city-climbing-technology.jpg",
+      "skipped": false
+    }
+  ]
+}

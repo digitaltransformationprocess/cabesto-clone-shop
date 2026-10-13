@@ -1,0 +1,68 @@
+{
+  "sku": "AL-0003721",
+  "url": "https://www.cabesto.com/fr/sauce-americaine-190g.html",
+  "title": "SAUCE AMERICAINE 190G",
+  "brand": "CRUSTARMOR",
+  "category": "sauces-et-condiments",
+  "description": "SAUCE AMERICAINE 190G Une sauce succulente pour accompagner vos poissons et crustacés. Faites par le plus grand soin et de manière artisanale, elle ne pourra que vous satisfaire. Ingrédients : Fumet (eau, poisson, vinaigre\\*), beurre, échalote, crème fraîche, jaune d'œufs, vinaigre de vin\\*, vin blanc, farine de blé, sel, jus de citron contré, amidon transformé, lait reconstitué protéine de lait. \\*Contient des sulfites.",
+  "price": {
+    "amount": 3.99,
+    "currency": "EUR",
+    "formatted": "3.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "In stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003721",
+      "sku": "AL-0003721",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "In stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0003721.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0003721.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0003721.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003721/01-al-0003721.jpg",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:11:30.745Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/a/l/al-0003721.jpg?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "3.99",
+    "currency": "EUR",
+    "availability": "in stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "aides-culinaires",
+    "sauces-et-condiments"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "aides-culinaires",
+    "sauces-et-condiments"
+  ]
+}

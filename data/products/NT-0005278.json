@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0005278",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-couteau-miniblade-frendo-nt-0005278.html",
+  "title": "COUTEAU MINIBLADE - FRENDO",
+  "brand": "FRENDO",
+  "category": "Couverts, couteaux",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Couverts, couteaux"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Couverts, couteaux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "COUTEAU MINIBLADE - FRENDO"
+  ],
+  "description": "Achetez COUTEAU MINIBLADE - FRENDO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "701508",
+  "price": {
+    "amount": 13.9,
+    "currency": "EUR",
+    "formatted": "13.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005278",
+      "sku": "NT-0005278",
+      "supplierRef": "701508",
+      "price": {
+        "amount": 13.9,
+        "currency": "EUR",
+        "formatted": "13.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/f/r/fr70_1-couteau-miniblade-frendo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/r/fr70_1-couteau-miniblade-frendo_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:20:24.268Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/r/fr70_1-couteau-miniblade-frendo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005278/01-fr70_1-couteau-miniblade-frendo.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/r/fr70_1-couteau-miniblade-frendo_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005278/02-fr70_1-couteau-miniblade-frendo_1.jpg",
+      "skipped": false
+    }
+  ]
+}

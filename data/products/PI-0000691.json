@@ -1,0 +1,85 @@
+{
+  "sku": "PI-0000691",
+  "url": "https://www.cabesto.com/fr/piscine-chlore-lent-5-kg-pi-177.html",
+  "title": "CHLORE LENT PREMIUM 5 KG",
+  "brand": "CABESTO",
+  "category": "Chlore",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Chlore de piscine",
+    "Chlore"
+  ],
+  "categories": [
+    "Chlore de piscine",
+    "Chlore"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CHLORE LENT PREMIUM 5 KG"
+  ],
+  "description": "Achetez CHLORE LENT PREMIUM 5 KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "108403",
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR",
+    "formatted": "39.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000691",
+      "sku": "PI-0000691",
+      "supplierRef": "108403",
+      "price": {
+        "amount": 39.99,
+        "currency": "EUR",
+        "formatted": "39.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/h/chlore_lent.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/g/sgh07_pointexclamation_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/g/sgh09_environnement_18.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/g/sgh05_corrosion_19.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/no_selection?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:45:03.457Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/h/chlore_lent.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000691/01-chlore_lent.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/g/sgh07_pointexclamation_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000691/02-sgh07_pointexclamation_11.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/g/sgh09_environnement_18.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000691/03-sgh09_environnement_18.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/g/sgh05_corrosion_19.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000691/04-sgh05_corrosion_19.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/no_selection?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000691/05-no_selection.jpg",
+      "skipped": false
+    }
+  ]
+}

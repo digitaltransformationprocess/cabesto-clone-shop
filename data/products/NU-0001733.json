@@ -1,0 +1,69 @@
+{
+  "sku": "NU-0001733",
+  "url": "https://www.cabesto.com/fr/cadenas-laiton-40mm-cabesto.html",
+  "title": "CADENAS LAITON 40MM - PLASTIMO",
+  "brand": "PLASTIMO",
+  "category": "cadenas",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "accastillage",
+    "cadenas"
+  ],
+  "categories": [
+    "nautisme",
+    "accastillage",
+    "cadenas"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Plongée",
+    "Plongée",
+    "Chasse sous-marine",
+    "Chasse sous-marine",
+    "Arbalètes et fusils harpons",
+    "Arbalètes et fusils harpons",
+    "CADENAS LAITON 40MM - PLASTIMO"
+  ],
+  "description": "Achetez CADENAS LAITON 40MM - PLASTIMO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "P002408",
+  "price": {
+    "amount": 7.99,
+    "currency": "EUR",
+    "formatted": "7.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0001733",
+      "sku": "NU-0001733",
+      "supplierRef": "P002408",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/a/cadenas-laiton-40mm-cabesto_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:56:07.505Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cadenas-laiton-40mm-cabesto_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0001733/01-cadenas-laiton-40mm-cabesto_01.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sku": "PI-0004962",
+  "url": "https://www.cabesto.com/fr/piscine-filtre-a-sable-pentair-side-triton-60w-14m3-h-pi-237.html",
+  "title": "FILTRE à SABLE PENTAIR - SIDE TRITON 60W 14m3/H",
+  "brand": "PENTAIR",
+  "category": "Filtre side / sur côté",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Filtre piscine",
+    "Filtre à sable",
+    "Filtre side / sur côté"
+  ],
+  "categories": [
+    "Filtre piscine",
+    "Filtre à sable",
+    "Filtre side / sur côté"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FILTRE à SABLE PENTAIR - SIDE TRITON 60W 14m3/H"
+  ],
+  "description": "Achetez FILTRE à SABLE PENTAIR - SIDE TRITON 60W 14m3/H chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "F-24S8-TRV",
+  "price": {
+    "amount": 699,
+    "currency": "EUR",
+    "formatted": "699 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0004962",
+      "sku": "PI-0004962",
+      "supplierRef": "F-24S8-TRV",
+      "price": {
+        "amount": 699,
+        "currency": "EUR",
+        "formatted": "699 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/1/61qttc4ndzl._ac_sl1000__6tyamewtk47qynzm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/les-filtres-triton-triton-plusieurs-modeles-disponibles-P-6609586-13210052_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:33:32.365Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/61qttc4ndzl._ac_sl1000__6tyamewtk47qynzm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004962/01-61qttc4ndzl._ac_sl1000__6tyamewtk47qynzm.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/les-filtres-triton-triton-plusieurs-modeles-disponibles-P-6609586-13210052_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004962/02-les-filtres-triton-triton-plusieurs-modeles-disponibles-P-6609586-13210052_1.jpg",
+      "skipped": false
+    }
+  ]
+}

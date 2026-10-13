@@ -1,0 +1,63 @@
+{
+  "sku": "NT-0017100",
+  "url": "https://www.cabesto.com/fr/poulie-transf-air-fixe-nt-0017100.html",
+  "title": "Poulie Transf Air Fixe",
+  "brand": "BEAL",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Poulie Transf Air Fixe"
+  ],
+  "description": "Achetez Poulie Transf Air Fixe chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BMPF",
+  "price": {
+    "amount": 23.51,
+    "currency": "EUR",
+    "formatted": "23.51 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0017100",
+      "sku": "NT-0017100",
+      "supplierRef": "BMPF",
+      "price": {
+        "amount": 23.51,
+        "currency": "EUR",
+        "formatted": "23.51 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/2/5256.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:39:06.690Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5256.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0017100/01-5256.jpg",
+      "skipped": false
+    }
+  ]
+}

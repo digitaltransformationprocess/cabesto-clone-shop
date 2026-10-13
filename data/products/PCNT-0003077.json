@@ -1,0 +1,83 @@
+{
+  "sku": "PCNT-0003077",
+  "url": "https://www.cabesto.com/fr/gants-dyneema-pu2004-aventure-verticale.html",
+  "title": "GANTS DYNEEMA PU2004 | AVENTURE VERTICALE",
+  "brand": "AVENTURE VERTICALE",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Gants, genouillères, coudières",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Gants, genouillères, coudières",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "GANTS DYNEEMA PU2004 | AVENTURE VERTICALE"
+  ],
+  "description": "Achetez GANTS DYNEEMA PU2004 | AVENTURE VERTICALE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 15.12,
+    "currency": "EUR",
+    "formatted": "15.12 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0003077",
+      "sku": "PCNT-0003077",
+      "supplierRef": null,
+      "price": {
+        "amount": 15.12,
+        "currency": "EUR",
+        "formatted": "15.12 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/v/av03_1_m-gants-dyneema-pu2004-aventure-verticale_4_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/v/av03_1_m-gants-dyneema-pu2004-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/v/av03_1_m-gants-dyneema-pu2004-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/v/av03_1_m-gants-dyneema-pu2004-aventure-verticale_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:20:19.280Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av03_1_m-gants-dyneema-pu2004-aventure-verticale_4_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003077/01-av03_1_m-gants-dyneema-pu2004-aventure-verticale_4_1_.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av03_1_m-gants-dyneema-pu2004-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003077/02-av03_1_m-gants-dyneema-pu2004-aventure-verticale.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av03_1_m-gants-dyneema-pu2004-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003077/03-av03_1_m-gants-dyneema-pu2004-aventure-verticale_4.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av03_1_m-gants-dyneema-pu2004-aventure-verticale_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003077/04-av03_1_m-gants-dyneema-pu2004-aventure-verticale_5.jpg",
+      "skipped": true
+    }
+  ]
+}

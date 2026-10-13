@@ -1,0 +1,101 @@
+{
+  "sku": "NT-0006407",
+  "url": "https://www.cabesto.com/fr/verticalite-amarrage-wire-strop-acier-150-cm-petzl-nt-0006407.html",
+  "title": "Amarrage Wire Strop Acier 150 cm - PETZL",
+  "brand": "PETZL",
+  "category": "Sangles d'amarrage",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Industrie",
+    "Ancrages-amarrages",
+    "Sangles d'amarrage"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Industrie",
+    "Ancrages-amarrages",
+    "Sangles d'amarrage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Amarrage Wire Strop Acier 150 cm - PETZL"
+  ],
+  "description": "Achetez Amarrage Wire Strop Acier 150 cm - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "G200AA02",
+  "price": {
+    "amount": 41.95,
+    "currency": "EUR",
+    "formatted": "41.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006407",
+      "sku": "NT-0006407",
+      "supplierRef": "G200AA02",
+      "price": {
+        "amount": 41.95,
+        "currency": "EUR",
+        "formatted": "41.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/r/pr38_1-amarrage-wire-strop-acier-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr38_6-amarrage-wire-strop-acier-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr38_5-amarrage-wire-strop-acier-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr38_4-amarrage-wire-strop-acier-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr38_3-amarrage-wire-strop-acier-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr38_2-amarrage-wire-strop-acier-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr38_1-amarrage-wire-strop-acier-150-cm-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:23:27.486Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr38_1-amarrage-wire-strop-acier-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006407/01-pr38_1-amarrage-wire-strop-acier-150-cm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr38_6-amarrage-wire-strop-acier-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006407/02-pr38_6-amarrage-wire-strop-acier-150-cm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr38_5-amarrage-wire-strop-acier-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006407/03-pr38_5-amarrage-wire-strop-acier-150-cm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr38_4-amarrage-wire-strop-acier-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006407/04-pr38_4-amarrage-wire-strop-acier-150-cm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr38_3-amarrage-wire-strop-acier-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006407/05-pr38_3-amarrage-wire-strop-acier-150-cm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr38_2-amarrage-wire-strop-acier-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006407/06-pr38_2-amarrage-wire-strop-acier-150-cm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr38_1-amarrage-wire-strop-acier-150-cm-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006407/07-pr38_1-amarrage-wire-strop-acier-150-cm-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

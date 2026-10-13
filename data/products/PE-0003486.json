@@ -1,0 +1,71 @@
+{
+  "sku": "PE-0003486",
+  "url": "https://www.cabesto.com/fr/peche-epuisette-charmes-eco-pe-12197.html",
+  "title": "Epuisette Charmes Eco",
+  "brand": "TORTUE",
+  "category": "Épuisettes",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche",
+    "equipements",
+    "manipulation-des-prises",
+    "epuisettes"
+  ],
+  "categories": [
+    "peche",
+    "equipements",
+    "manipulation-des-prises",
+    "epuisettes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Epuisette Charmes Eco"
+  ],
+  "description": "Achetez Epuisette Charmes Eco chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "AWQ180041",
+  "price": {
+    "amount": 19.99,
+    "currency": "EUR",
+    "formatted": "19.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0003486",
+      "sku": "PE-0003486",
+      "supplierRef": "AWQ180041",
+      "price": {
+        "amount": 19.99,
+        "currency": "EUR",
+        "formatted": "19.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/p/epuisette-ragot-charmes-eco-z-1580-158075_zdzbwoiumd0jg5rj.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PE-12197-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:25:01.510Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/epuisette-ragot-charmes-eco-z-1580-158075_zdzbwoiumd0jg5rj.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0003486/01-epuisette-ragot-charmes-eco-z-1580-158075_zdzbwoiumd0jg5rj.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PE-12197-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0003486/02-PE-12197-1.jpg",
+      "skipped": false
+    }
+  ]
+}

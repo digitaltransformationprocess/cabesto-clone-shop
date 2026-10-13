@@ -1,0 +1,89 @@
+{
+  "sku": "PCNT-0007620",
+  "url": "https://www.cabesto.com/fr/randonnee-gants-g-comp-warm-camp-cp60.html",
+  "title": "Gants G Comp Warm - CAMP",
+  "brand": "CAMP",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Gants et surgants de montagne",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Gants et surgants de montagne",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gants G Comp Warm - CAMP"
+  ],
+  "description": "Achetez Gants G Comp Warm - CAMP chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0007620",
+      "sku": "PCNT-0007620",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/p/cp60_1_z-gants-g-comp-warm-camp_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/p/cp60_4_z-gants-g-comp-warm-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/p/cp60_3_z-gants-g-comp-warm-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/p/cp60_2_z-gants-g-comp-warm-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/p/cp60_1_z-gants-g-comp-warm-camp_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:32:58.011Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp60_1_z-gants-g-comp-warm-camp_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007620/01-cp60_1_z-gants-g-comp-warm-camp_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp60_4_z-gants-g-comp-warm-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007620/02-cp60_4_z-gants-g-comp-warm-camp.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp60_3_z-gants-g-comp-warm-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007620/03-cp60_3_z-gants-g-comp-warm-camp.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp60_2_z-gants-g-comp-warm-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007620/04-cp60_2_z-gants-g-comp-warm-camp.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp60_1_z-gants-g-comp-warm-camp_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007620/05-cp60_1_z-gants-g-comp-warm-camp_7.jpg",
+      "skipped": false
+    }
+  ]
+}

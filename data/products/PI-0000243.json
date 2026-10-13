@@ -1,0 +1,109 @@
+{
+  "sku": "PI-0000243",
+  "url": "https://www.cabesto.com/fr/piscine-ballon-volley-neoprene-sport-pi-1285.html",
+  "title": "POOL'N BOX JUNIOR 3.70x2.40x0.70M - Piscine bois petit format sans permis avec coffre de rangement intégré",
+  "brand": "BWT",
+  "category": "Piscine rectangulaire",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine bois",
+    "Piscine rectangulaire"
+  ],
+  "categories": [
+    "Piscine bois",
+    "Piscine rectangulaire"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "POOL'N BOX JUNIOR 3.70x2.40x0.70M - Piscine bois petit format sans permis avec coffre de rangement intégré"
+  ],
+  "description": "Achetez POOL'N BOX JUNIOR 3.70x2.40x0.70M - Piscine bois petit format sans permis avec coffre de rangement intégré chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "27169218",
+  "price": {
+    "amount": 2889,
+    "currency": "EUR",
+    "formatted": "2889 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000243",
+      "sku": "PI-0000243",
+      "supplierRef": "27169218",
+      "price": {
+        "amount": 2889,
+        "currency": "EUR",
+        "formatted": "2889 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/o/montage_pool_n_box_junior_bwt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box_junior_bwt_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box_jr.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/piscine-bois-pool-n-box-junior_2_-min.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:39:33.997Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000243/01-pool_n_box.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000243/02-pool_n_box5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000243/03-pool_n_box4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000243/04-pool_n_box2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/o/montage_pool_n_box_junior_bwt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000243/05-montage_pool_n_box_junior_bwt.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000243/06-pool_n_box3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box_junior_bwt_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000243/07-pool_n_box_junior_bwt_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box_jr.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000243/08-pool_n_box_jr.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/piscine-bois-pool-n-box-junior_2_-min.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000243/09-piscine-bois-pool-n-box-junior_2_-min.jpg",
+      "skipped": false
+    }
+  ]
+}

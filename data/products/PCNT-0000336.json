@@ -1,0 +1,103 @@
+{
+  "sku": "PCNT-0000336",
+  "url": "https://www.cabesto.com/fr/verticalite-corde-opera-golden-dry-8-5-mm-unicore-60m-beal-ab18.html",
+  "title": "Corde d'escalade Opera GOLDEN DRY Ø 8.5 mm Unicore 60 m BEAL",
+  "brand": "BEAL",
+  "category": "Cordes escalade",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Cordes à simple",
+    "Cordes à double",
+    "Destockage Montagne",
+    "Cordes escalade"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Cordes à simple",
+    "Cordes à double",
+    "Destockage Montagne",
+    "Cordes escalade"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Corde d'escalade Opera GOLDEN DRY Ø 8.5 mm Unicore 60 m BEAL"
+  ],
+  "description": "Très légère et fluide, cette corde est l'une des plus fines cordes à simple du marché, et ravira les grimpeurs de bon niveau et les alpinistes à la recherche d'une corde polyvalente.",
+  "supplierRef": null,
+  "price": {
+    "amount": 209.9,
+    "currency": "EUR",
+    "formatted": "209.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0000336",
+      "sku": "PCNT-0000336",
+      "supplierRef": null,
+      "price": {
+        "amount": 209.9,
+        "currency": "EUR",
+        "formatted": "209.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/c/bc085o.gd.g_opera_8_5_golden_dry_green_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc085o.gd.g_opera_8_5_golden_dry_green_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc085o.gd.g_opera_8_5_golden_dry_green_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc085o.gd.g_opera_8_5_golden_dry_green_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc085o.gd.g_opera_8_5_golden_dry_green_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_10_48.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc085o.gd.g_opera_8_5_golden_dry_green_1_ld_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:27:13.290Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc085o.gd.g_opera_8_5_golden_dry_green_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000336/01-bc085o.gd.g_opera_8_5_golden_dry_green_1_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc085o.gd.g_opera_8_5_golden_dry_green_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000336/02-bc085o.gd.g_opera_8_5_golden_dry_green_2_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc085o.gd.g_opera_8_5_golden_dry_green_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000336/03-bc085o.gd.g_opera_8_5_golden_dry_green_3_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc085o.gd.g_opera_8_5_golden_dry_green_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000336/04-bc085o.gd.g_opera_8_5_golden_dry_green_4_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc085o.gd.g_opera_8_5_golden_dry_green_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000336/05-bc085o.gd.g_opera_8_5_golden_dry_green_5_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_10_48.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000336/06-hqdefault_10_48.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc085o.gd.g_opera_8_5_golden_dry_green_1_ld_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000336/07-bc085o.gd.g_opera_8_5_golden_dry_green_1_ld_1.jpg",
+      "skipped": false
+    }
+  ]
+}

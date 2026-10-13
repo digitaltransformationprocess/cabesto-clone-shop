@@ -1,0 +1,61 @@
+{
+  "sku": "NT-0000186",
+  "url": "https://www.cabesto.com/fr/verticalite-torse-garma-mtde-nt-0000186.html",
+  "title": "Torse Garma - MTDE",
+  "brand": "MTDE",
+  "category": "Torses spéléo",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Spéléologie",
+    "Torses spéléo"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Torses spéléo"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Torse Garma - MTDE"
+  ],
+  "description": "Achetez Torse Garma - MTDE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "B6320",
+  "price": {
+    "amount": 66.9,
+    "currency": "EUR",
+    "formatted": "66.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0000186",
+      "sku": "NT-0000186",
+      "supplierRef": "B6320",
+      "price": {
+        "amount": 66.9,
+        "currency": "EUR",
+        "formatted": "66.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/0/2025-01-28_11_17_04-garma_boutique_mtde_-_travail_microsoft_edge.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:09:46.800Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2025-01-28_11_17_04-garma_boutique_mtde_-_travail_microsoft_edge.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000186/01-2025-01-28_11_17_04-garma_boutique_mtde_-_travail_microsoft_edge.png",
+      "skipped": true
+    }
+  ]
+}

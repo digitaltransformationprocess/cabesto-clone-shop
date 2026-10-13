@@ -1,0 +1,63 @@
+{
+  "sku": "AL-0003658",
+  "url": "https://www.cabesto.com/fr/sardines-a-l-huile-d-olive-115-gr.html",
+  "title": "SARDINES A L HUILE D OLIVE 115 GR",
+  "brand": "LA POINTE DE PENMARCH",
+  "category": "Conserves Sardines",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "conserves-de-la-mer"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "conserves-de-la-mer"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SARDINES A L HUILE D OLIVE 115 GR"
+  ],
+  "description": "Achetez SARDINES A L HUILE D OLIVE 115 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "MPO000007",
+  "price": {
+    "amount": 3.49,
+    "currency": "EUR",
+    "formatted": "3.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003658",
+      "sku": "AL-0003658",
+      "supplierRef": "MPO000007",
+      "price": {
+        "amount": 3.49,
+        "currency": "EUR",
+        "formatted": "3.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0003658.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:03:31.723Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0003658.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003658/01-al-0003658.png",
+      "skipped": false
+    }
+  ]
+}

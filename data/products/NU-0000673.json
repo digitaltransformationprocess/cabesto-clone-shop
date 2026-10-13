@@ -1,0 +1,65 @@
+{
+  "sku": "NU-0000673",
+  "url": "https://www.cabesto.com/fr/bac-batterie-cosse-divers.html",
+  "title": "BAC A BATTERIE EXTERNE POUR MOTEUR ELECTRIQUE - NAVEO",
+  "brand": "OSCULATI",
+  "category": "Batteries",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Accessoires pour batterie",
+    "Nautisme",
+    "Electricité",
+    "Batteries"
+  ],
+  "categories": [
+    "Accessoires pour batterie",
+    "Nautisme",
+    "Electricité",
+    "Batteries"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BAC A BATTERIE EXTERNE POUR MOTEUR ELECTRIQUE - NAVEO"
+  ],
+  "description": "Achetez BAC A BATTERIE EXTERNE POUR MOTEUR ELECTRIQUE - NAVEO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "14.547.02",
+  "price": {
+    "amount": 99.99,
+    "currency": "EUR",
+    "formatted": "99.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0000673",
+      "sku": "NU-0000673",
+      "supplierRef": "14.547.02",
+      "price": {
+        "amount": 99.99,
+        "currency": "EUR",
+        "formatted": "99.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/a/bab0031.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:55:55.724Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/a/bab0031.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0000673/01-bab0031.jpg",
+      "skipped": false
+    }
+  ]
+}

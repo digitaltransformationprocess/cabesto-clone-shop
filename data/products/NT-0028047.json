@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0028047",
+  "url": "https://www.cabesto.com/fr/verticalite-mousqueton-orbit-lock-vis-camp-nt-0028047.html",
+  "title": "Mousqueton Orbit Lock vis - CAMP",
+  "brand": "CAMP",
+  "category": "Mousquetons à vis",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Matériel métallique",
+    "Mousquetons à vis"
+  ],
+  "categories": [
+    "Matériel métallique",
+    "Mousquetons à vis"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Mousqueton Orbit Lock vis - CAMP"
+  ],
+  "description": "Achetez Mousqueton Orbit Lock vis - CAMP chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "2929.01",
+  "price": {
+    "amount": 11.5,
+    "currency": "EUR",
+    "formatted": "11.5 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028047",
+      "sku": "NT-0028047",
+      "supplierRef": "2929.01",
+      "price": {
+        "amount": 11.5,
+        "currency": "EUR",
+        "formatted": "11.5 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/a/ca02_1-mousqueton-orbit-lock-vis-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/ca02_2-mousqueton-orbit-lock-vis-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/ca02_1-mousqueton-orbit-lock-vis-camp_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:26.914Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/ca02_1-mousqueton-orbit-lock-vis-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028047/01-ca02_1-mousqueton-orbit-lock-vis-camp.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/ca02_2-mousqueton-orbit-lock-vis-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028047/02-ca02_2-mousqueton-orbit-lock-vis-camp.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/ca02_1-mousqueton-orbit-lock-vis-camp_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028047/03-ca02_1-mousqueton-orbit-lock-vis-camp_1.jpg",
+      "skipped": false
+    }
+  ]
+}

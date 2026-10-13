@@ -1,0 +1,127 @@
+{
+  "sku": "PE-0021897",
+  "url": "https://www.cabesto.com/fr/ensemble-peche-au-thon-canne-rapala-magnum.html",
+  "title": "Ensemble Thon (canne Rapala Magnum RH180 50/80Lbs et moulinet Okuma Makaira 50WII)",
+  "brand": "OKUMA",
+  "category": "Ensembles Traîne",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche",
+    "ensembles"
+  ],
+  "categories": [
+    "peche",
+    "ensembles"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ensemble Thon (canne Rapala Magnum RH180 50/80Lbs et moulinet Okuma Makaira 50WII)"
+  ],
+  "description": "Achetez Ensemble Thon (canne Rapala Magnum RH180 50/80Lbs et moulinet Okuma Makaira 50WII) chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "MK-50WIISEA+RMRHST5080",
+  "price": {
+    "amount": 699,
+    "currency": "EUR",
+    "formatted": "699 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0021897",
+      "sku": "PE-0021897",
+      "supplierRef": "MK-50WIISEA+RMRHST5080",
+      "price": {
+        "amount": 699,
+        "currency": "EUR",
+        "formatted": "699 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/y/nylon-flashmer-triple-force-1000m_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe-0020314_01_ufctoobl6d7goxdk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/i/diablotuna-bkk-hook.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/o/monster_circle_ds-pk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-makaira.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-sion.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-makaira2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-anneau_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-talon.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-zoom.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-talon2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:27:31.015Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021897/01-ensemble-rapala-okuma.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/y/nylon-flashmer-triple-force-1000m_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021897/02-nylon-flashmer-triple-force-1000m_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe-0020314_01_ufctoobl6d7goxdk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021897/03-pe-0020314_01_ufctoobl6d7goxdk.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/i/diablotuna-bkk-hook.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021897/04-diablotuna-bkk-hook.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/o/monster_circle_ds-pk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021897/05-monster_circle_ds-pk.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-makaira.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021897/06-ensemble-rapala-okuma-makaira.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-sion.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021897/07-ensemble-rapala-okuma-sion.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-makaira2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021897/08-ensemble-rapala-okuma-makaira2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-anneau_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021897/09-ensemble-rapala-okuma-anneau_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-talon.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021897/10-ensemble-rapala-okuma-talon.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-zoom.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021897/11-ensemble-rapala-okuma-zoom.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-rapala-okuma-talon2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021897/12-ensemble-rapala-okuma-talon2.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0001915",
+  "url": "https://www.cabesto.com/fr/plongee-compas-de-poignet-pl-702.html",
+  "title": "Compas poignet de plongée sous-marine AQUATYS",
+  "brand": "AQUATYS",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Compas poignet de plongée sous-marine AQUATYS"
+  ],
+  "description": "Compas de Poignet Axess : précision et fiabilité pour vos plongéesUn instrument essentiel pour une navigation sous-marine précise et sécurisée.Le compas de poignet Axess est conçu pour les plongeurs exigeants qui recherchent un outil fiable et précis pour s'orienter sous l'eau. Doté d'un cadran phosphorescent haute visibilité, il garantit une lecture facile même dans des conditions de faible luminosité. Sa capsule remplie de liquide assure une stabilité optimale de l'aiguille, permettant une navigation précise à tout moment. Le bracelet ajustable en silicone offre un confort maximal et s'adapte à toutes les tailles de poignet. Compact et léger, ce compas est idéal pour les plongées récréatives ou techniques. Grâce à sa robustesse et à sa conception ergonomique, le compas de poignet Axess est un compagnon indispensable pour explorer les fonds marins en toute sérénité.Caractéristiques Compas de Poignet AxessCadran phosphorescent pour une lecture facileCapsule remplie de liquide pour une stabilité optimaleBracelet ajustable en silicone pour un confort maximalCompact et léger pour une utilisation pratiqueConception robuste et ergonomiqueInformations techniques :MatériauSilicone et plastique haute résistancePoids120 gType de cadranPhosphorescentRemplissageLiquide stabilisantUtilisationNavigation sous-marineContenu du colis1 compas de poignet Axess avec bracelet ajustable en silicone.",
+  "supplierRef": "INST21",
+  "price": {
+    "amount": 35.99,
+    "currency": "EUR",
+    "formatted": "35.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0001915",
+      "sku": "SU-0001915",
+      "supplierRef": "INST21",
+      "price": {
+        "amount": 35.99,
+        "currency": "EUR",
+        "formatted": "35.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/o/boussole-de-poignet-best-divers_pzlurvpl1dg1ntnq.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:21:15.094Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/o/boussole-de-poignet-best-divers_pzlurvpl1dg1ntnq.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001915/01-boussole-de-poignet-best-divers_pzlurvpl1dg1ntnq.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "1er-prix-club-association"
+  ],
+  "categories": [
+    "plongee",
+    "1er-prix-club-association"
+  ]
+}

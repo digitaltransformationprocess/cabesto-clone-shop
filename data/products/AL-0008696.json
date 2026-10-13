@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0008696",
+  "url": "https://www.cabesto.com/fr/boite-retour-de-peche-galettes-130g.html",
+  "title": "BOITE RETOUR DE PECHE GALETTES 130G",
+  "brand": "DIVERS",
+  "category": "Biscuiterie marine",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BOITE RETOUR DE PECHE GALETTES 130G"
+  ],
+  "description": "Achetez BOITE RETOUR DE PECHE GALETTES 130G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "80203503896",
+  "price": {
+    "amount": 6.99,
+    "currency": "EUR",
+    "formatted": "6.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0008696",
+      "sku": "AL-0008696",
+      "supplierRef": "80203503896",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0008696.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:26:04.092Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0008696.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0008696/01-al-0008696.png",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "sku": "PCNT-0006892",
+  "url": "https://www.cabesto.com/fr/cuissard-fast-confort.html",
+  "title": "HARNAIS RÉGLABLE FAST CONFORT AVENTURE VERTICALE",
+  "brand": "AVENTURE VERTICALE",
+  "category": "Harnais, torses de montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Neige & Glace",
+    "Escalade",
+    "Alpinisme",
+    "Harnais cuisses réglables",
+    "Harnais, torses de montagne"
+  ],
+  "categories": [
+    "Neige & Glace",
+    "Escalade",
+    "Alpinisme",
+    "Harnais cuisses réglables",
+    "Harnais, torses de montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "HARNAIS RÉGLABLE FAST CONFORT AVENTURE VERTICALE"
+  ],
+  "description": "Le harnais baudrier d'escalade FAST CONFORT AVENTURE VERTICALE, est idéal pour l'équipement des collectivités et encadrants.",
+  "supplierRef": null,
+  "price": {
+    "amount": 49.9,
+    "currency": "EUR",
+    "formatted": "49.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0006892",
+      "sku": "PCNT-0006892",
+      "supplierRef": null,
+      "price": {
+        "amount": 49.9,
+        "currency": "EUR",
+        "formatted": "49.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/0/1/0169_1_f-cuissard-fast-confort-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/9/0934_1_d-corde-wall-school-102-mm-unicore-au-metre-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/1/0185_1_f-harnais-fast-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/1/0169_1_f-cuissard-fast-confort-aventure-verticale_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/a/fast_confort.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/1/0169_1_f-cuissard-fast-confort-aventure-verticale_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/1/0169_1_f-cuissard-fast-confort-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:23:45.344Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/1/0169_1_f-cuissard-fast-confort-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006892/01-0169_1_f-cuissard-fast-confort-aventure-verticale_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/9/0934_1_d-corde-wall-school-102-mm-unicore-au-metre-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006892/02-0934_1_d-corde-wall-school-102-mm-unicore-au-metre-beal_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/1/0185_1_f-harnais-fast-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006892/03-0185_1_f-harnais-fast-aventure-verticale_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/1/0169_1_f-cuissard-fast-confort-aventure-verticale_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006892/04-0169_1_f-cuissard-fast-confort-aventure-verticale_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/a/fast_confort.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006892/05-fast_confort.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/1/0169_1_f-cuissard-fast-confort-aventure-verticale_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006892/06-0169_1_f-cuissard-fast-confort-aventure-verticale_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/1/0169_1_f-cuissard-fast-confort-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006892/07-0169_1_f-cuissard-fast-confort-aventure-verticale_2.jpg",
+      "skipped": false
+    }
+  ]
+}

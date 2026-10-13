@@ -1,0 +1,71 @@
+{
+  "sku": "NU-0011782",
+  "url": "https://www.cabesto.com/fr/assiette-dessert-carree-south-pacific-vendu-par-6.html",
+  "title": "ASSIETTE DESSERT CARREE 20 x 20 cm- SOUTH PACIFIC",
+  "brand": "COULEUR MER",
+  "category": "Assiettes",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Nautisme",
+    "Confort à bord",
+    "Vaisselle marine",
+    "Assiettes"
+  ],
+  "categories": [
+    "Nautisme",
+    "Confort à bord",
+    "Vaisselle marine",
+    "Assiettes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ASSIETTE DESSERT CARREE 20 x 20 cm- SOUTH PACIFIC"
+  ],
+  "description": "Achetez ASSIETTE DESSERT CARREE 20 x 20 cm- SOUTH PACIFIC chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "5261005",
+  "price": {
+    "amount": 8.99,
+    "currency": "EUR",
+    "formatted": "8.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0011782",
+      "sku": "NU-0011782",
+      "supplierRef": "5261005",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/2/5261005.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/set_assiette_ronde_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:03:59.478Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5261005.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0011782/01-5261005.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/set_assiette_ronde_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0011782/02-set_assiette_ronde_1.png",
+      "skipped": true
+    }
+  ]
+}

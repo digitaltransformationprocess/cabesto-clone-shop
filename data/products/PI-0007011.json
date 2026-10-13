@@ -1,0 +1,65 @@
+{
+  "sku": "PI-0007011",
+  "url": "https://www.cabesto.com/fr/piscine-douche-solaire-so-spring-anthracite-30l-rince-pieds-pi-1481.html",
+  "title": "Douche solaire so spring anthracite 30l + rince pieds",
+  "brand": "POOLSTAR",
+  "category": "Douche piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "douche-piscine"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "douche-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Douche solaire so spring anthracite 30l + rince pieds"
+  ],
+  "description": "Achetez Douche solaire so spring anthracite 30l + rince pieds chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "DS-A122NO",
+  "price": {
+    "amount": 549.6,
+    "currency": "EUR",
+    "formatted": "549.6 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0007011",
+      "sku": "PI-0007011",
+      "supplierRef": "DS-A122NO",
+      "price": {
+        "amount": 549.6,
+        "currency": "EUR",
+        "formatted": "549.6 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/7/6/7626_large.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:40:26.623Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/6/7626_large.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007011/01-7626_large.jpg",
+      "skipped": false
+    }
+  ]
+}

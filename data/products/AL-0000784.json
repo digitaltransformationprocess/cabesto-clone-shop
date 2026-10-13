@@ -1,0 +1,63 @@
+{
+  "sku": "AL-0000784",
+  "url": "https://www.cabesto.com/fr/calmars-dans-leur-encre-vigilante-tripack-3x80g.html",
+  "title": "Calmars dans leur encre Vigilante Tripack 3x80g",
+  "brand": "PLAZA DEL SOL",
+  "category": "Tapas",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "Tapas",
+    "Tapas"
+  ],
+  "categories": [
+    "Tapas",
+    "Tapas"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Alimentation",
+    "Alimentation",
+    "Calmars dans leur encre Vigilante Tripack 3x80g"
+  ],
+  "description": "Achetez Calmars dans leur encre Vigilante Tripack 3x80g chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1C6102",
+  "price": {
+    "amount": 4.49,
+    "currency": "EUR",
+    "formatted": "4.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000784",
+      "sku": "AL-0000784",
+      "supplierRef": "1C6102",
+      "price": {
+        "amount": 4.49,
+        "currency": "EUR",
+        "formatted": "4.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/1/6129312-6129312-picture_1-6129312_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:57:32.549Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/6129312-6129312-picture_1-6129312_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000784/01-6129312-6129312-picture_1-6129312_1.jpg",
+      "skipped": true
+    }
+  ]
+}

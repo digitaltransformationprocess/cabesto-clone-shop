@@ -1,0 +1,65 @@
+{
+  "sku": "PCNT-0024983",
+  "url": "https://www.cabesto.com/fr/haut-femme-manches-longues-laine-col-zippe-200-oasis.html",
+  "title": "Haut Femme manches longues laine Col Zippé 200 Oasis",
+  "brand": "ICEBREAKER",
+  "category": "Black November - Montagne",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "Sous-vêtements techniques",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Sous-vêtements techniques",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Haut Femme manches longues laine Col Zippé 200 Oasis"
+  ],
+  "description": "Achetez Haut Femme manches longues laine Col Zippé 200 Oasis chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0024983",
+      "sku": "PCNT-0024983",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/i/b/ib59_1_gk-haut-femme-manches-longues-laine-col-zippe-200-oas-icebreaker_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:29:25.695Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/b/ib59_1_gk-haut-femme-manches-longues-laine-col-zippe-200-oas-icebreaker_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0024983/01-ib59_1_gk-haut-femme-manches-longues-laine-col-zippe-200-oas-icebreaker_3.jpg",
+      "skipped": false
+    }
+  ]
+}

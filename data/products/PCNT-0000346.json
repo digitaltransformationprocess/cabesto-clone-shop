@@ -1,0 +1,165 @@
+{
+  "sku": "PCNT-0000346",
+  "url": "https://www.cabesto.com/fr/verticalite-corde-ice-line-unicore-8-1-mm-golden-dry-60-m-beal-ab04.html",
+  "title": "Corde d'escalade Ice Line Unicore Ø 8.1 mm Golden Dry 60 m BEAL",
+  "brand": "BEAL",
+  "category": "cordes-a-double",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "cordes-sangles",
+    "cordes-a-double"
+  ],
+  "categories": [
+    "montagne",
+    "cordes-sangles",
+    "cordes-a-double"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Corde d'escalade Ice Line Unicore Ø 8.1 mm Golden Dry 60 m BEAL"
+  ],
+  "description": "La corde d'alpinisme Ice Line Unicore 8.1mm Golden Dry BEAL est extrêmement fluide, légère et possède une force de choc particulièrement basse.",
+  "supplierRef": null,
+  "price": {
+    "amount": 154.95,
+    "currency": "EUR",
+    "formatted": "154.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0000346",
+      "sku": "PCNT-0000346",
+      "supplierRef": null,
+      "price": {
+        "amount": 154.95,
+        "currency": "EUR",
+        "formatted": "154.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.a_ice_line_8_1_golden_dry_anis_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/0/g052aa02-laser-speed-light-21_lowres.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/0/g052aa01-laser-speed-light-17_lowres.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.a_ice_line_8_1_golden_dry_anis_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.a_ice_line_8_1_golden_dry_anis_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.a_ice_line_8_1_golden_dry_anis_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.a_ice_line_8_1_golden_dry_anis_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.o_ice_line_8_1_golden_dry_orange_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.o_ice_line_8_1_golden_dry_orange_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.o_ice_line_8_1_golden_dry_orange_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.o_ice_line_8_1_golden_dry_orange_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.o_ice_line_8_1_golden_dry_orange_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.a_ice_line_8_1_golden_dry_anis_1_ld_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:25:34.083Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.a_ice_line_8_1_golden_dry_anis_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/01-bc081i.gd.a_ice_line_8_1_golden_dry_anis_1_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/0/g052aa02-laser-speed-light-21_lowres.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/02-g052aa02-laser-speed-light-21_lowres.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/0/g052aa01-laser-speed-light-17_lowres.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/03-g052aa01-laser-speed-light-17_lowres.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.a_ice_line_8_1_golden_dry_anis_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/04-bc081i.gd.a_ice_line_8_1_golden_dry_anis_2_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.a_ice_line_8_1_golden_dry_anis_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/05-bc081i.gd.a_ice_line_8_1_golden_dry_anis_3_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.a_ice_line_8_1_golden_dry_anis_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/06-bc081i.gd.a_ice_line_8_1_golden_dry_anis_4_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.a_ice_line_8_1_golden_dry_anis_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/07-bc081i.gd.a_ice_line_8_1_golden_dry_anis_5_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/08-bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_1_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/09-bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_2_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/10-bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_3_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/11-bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_4_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/12-bc081i.gd.e_ice_line_8_1_golden_dry_emeraud_5_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.o_ice_line_8_1_golden_dry_orange_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/13-bc081i.gd.o_ice_line_8_1_golden_dry_orange_1_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.o_ice_line_8_1_golden_dry_orange_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/14-bc081i.gd.o_ice_line_8_1_golden_dry_orange_2_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.o_ice_line_8_1_golden_dry_orange_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/15-bc081i.gd.o_ice_line_8_1_golden_dry_orange_3_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.o_ice_line_8_1_golden_dry_orange_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/16-bc081i.gd.o_ice_line_8_1_golden_dry_orange_4_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.o_ice_line_8_1_golden_dry_orange_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/17-bc081i.gd.o_ice_line_8_1_golden_dry_orange_5_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc081i.gd.a_ice_line_8_1_golden_dry_anis_1_ld_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000346/18-bc081i.gd.a_ice_line_8_1_golden_dry_anis_1_ld_1.jpg",
+      "skipped": false
+    }
+  ]
+}

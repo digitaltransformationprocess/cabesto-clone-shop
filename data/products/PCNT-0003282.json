@@ -1,0 +1,103 @@
+{
+  "sku": "PCNT-0003282",
+  "url": "https://www.cabesto.com/fr/randonnee-bottes-de-neige-caribou-homme-sorel-kh43.html",
+  "title": "Bottes de neige Caribou Homme - SOREL",
+  "brand": "SOREL",
+  "category": "chaussures-grand-froid-bottes-de-neige-homme",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "chaussures-de-randonnee",
+    "chaussures-grand-froid-expeditions",
+    "chaussures-grand-froid-bottes-de-neige-homme"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "chaussures-de-randonnee",
+    "chaussures-grand-froid-expeditions",
+    "chaussures-grand-froid-bottes-de-neige-homme"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bottes de neige Caribou Homme - SOREL"
+  ],
+  "description": "Achetez Bottes de neige Caribou Homme - SOREL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 179.9,
+    "currency": "EUR",
+    "formatted": "179.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0003282",
+      "sku": "PCNT-0003282",
+      "supplierRef": null,
+      "price": {
+        "amount": 179.9,
+        "currency": "EUR",
+        "formatted": "179.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:26:27.392Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003282/01-kh43_1_b-bottes-de-neige-caribou-homme-sorel_9.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003282/02-kh43_1_b-bottes-de-neige-caribou-homme-sorel_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003282/03-kh43_1_b-bottes-de-neige-caribou-homme-sorel_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003282/04-kh43_1_b-bottes-de-neige-caribou-homme-sorel_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003282/05-kh43_1_b-bottes-de-neige-caribou-homme-sorel_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003282/06-kh43_1_b-bottes-de-neige-caribou-homme-sorel_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh43_1_b-bottes-de-neige-caribou-homme-sorel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003282/07-kh43_1_b-bottes-de-neige-caribou-homme-sorel.jpg",
+      "skipped": false
+    }
+  ]
+}

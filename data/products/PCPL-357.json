@@ -1,0 +1,65 @@
+{
+  "sku": "PCPL-357",
+  "url": "https://www.cabesto.com/fr/plongee-monopalme-minos-44-48-pcpl-357.html",
+  "title": "MONOPALME MINOS 44/48",
+  "brand": "SOMMAP",
+  "category": "monopalmes-plastique",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MONOPALME MINOS 44/48"
+  ],
+  "description": "Voilure polypropylène dernière génération, matériau souple et résistant induisant une poussée tonique et générant un effet ressort.Épaisseur triple et progressive de la voilure répartissant les forces générées par la poussée de manière croissante sur l’ensemble de la surface et favorisant l’écoulement de l’eau.Cornes polypropylène avec renfort latéral de la voilure.Chausson élastomère souple avec prolongement de la voilure sous le pied.Cette monopalme Minos est idéale pour s'initier à la monopalme, à l'ondulation, et pour apprendre à onduler en s'amusant. elle n'est en aucun cas un modèle élaboré pour la pratique de l'apnée en profondeur.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-357",
+      "sku": "PCPL-357",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-357-pl-2988-picture_1-pcpl-357-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:40.007Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-357-pl-2988-picture_1-pcpl-357-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-357/01-pcpl-357-pl-2988-picture_1-pcpl-357-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "apnee",
+    "monopalmes-d-apnee",
+    "monopalmes-plastique"
+  ],
+  "categories": [
+    "plongee",
+    "apnee",
+    "monopalmes-d-apnee",
+    "monopalmes-plastique"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0000325",
+  "url": "https://www.cabesto.com/fr/piscine-bordnet-1l-bayrol-pi-209.html",
+  "title": "BORDNET 1L BAYROL",
+  "brand": "BAYROL",
+  "category": "Produits de nettoyage et répulsif",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "les-produits-d-exception"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "les-produits-d-exception"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BORDNET 1L BAYROL"
+  ],
+  "description": "Achetez BORDNET 1L BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "2115420",
+  "price": {
+    "amount": 10.75,
+    "currency": "EUR",
+    "formatted": "10.75 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000325",
+      "sku": "PI-0000325",
+      "supplierRef": "2115420",
+      "price": {
+        "amount": 10.75,
+        "currency": "EUR",
+        "formatted": "10.75 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/h/shopping_7_.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:31:39.157Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/h/shopping_7_.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000325/01-shopping_7_.png",
+      "skipped": false
+    }
+  ]
+}

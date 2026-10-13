@@ -1,0 +1,79 @@
+{
+  "sku": "PI-0001378",
+  "url": "https://www.cabesto.com/fr/piscine-filtre-a-sable-powerline-top-10-m3-h-pi-996.html",
+  "title": "Filtre a sable powerline top 10 m3/h",
+  "brand": "HAYWARD",
+  "category": "Filtre top / par-dessus",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Filtre piscine",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Filtre à sable",
+    "Filtre top / par-dessus"
+  ],
+  "categories": [
+    "Filtre piscine",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Filtre à sable",
+    "Filtre top / par-dessus"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Filtre a sable powerline top 10 m3/h"
+  ],
+  "description": "Achetez Filtre a sable powerline top 10 m3/h chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "81103",
+  "price": {
+    "amount": 239,
+    "currency": "EUR",
+    "formatted": "239 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001378",
+      "sku": "PI-0001378",
+      "supplierRef": "81103",
+      "price": {
+        "amount": 239,
+        "currency": "EUR",
+        "formatted": "239 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/3/43673-24457-thickbox_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/filtre-a-sable-powerline-top-5-m3-h-piscine-center-1421421624_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/filtre-a-sable-powerline-top-5-m3-h-piscine-center-1569311725_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:46:46.209Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/3/43673-24457-thickbox_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001378/01-43673-24457-thickbox_2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/filtre-a-sable-powerline-top-5-m3-h-piscine-center-1421421624_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001378/02-filtre-a-sable-powerline-top-5-m3-h-piscine-center-1421421624_2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/filtre-a-sable-powerline-top-5-m3-h-piscine-center-1569311725_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001378/03-filtre-a-sable-powerline-top-5-m3-h-piscine-center-1569311725_2.jpg",
+      "skipped": true
+    }
+  ]
+}

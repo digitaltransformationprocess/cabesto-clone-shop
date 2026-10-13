@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0004445",
+  "url": "https://www.cabesto.com/fr/sachet-chouchous-300g.html",
+  "title": "SACHET CHOUCHOUS 300G",
+  "brand": "SOCIETE DV",
+  "category": "Confiserie marine",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SACHET CHOUCHOUS 300G"
+  ],
+  "description": "Achetez SACHET CHOUCHOUS 300G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "80203100794",
+  "price": {
+    "amount": 4.99,
+    "currency": "EUR",
+    "formatted": "4.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0004445",
+      "sku": "AL-0004445",
+      "supplierRef": "80203100794",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0004445.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:58:01.354Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0004445.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0004445/01-al-0004445.jpg",
+      "skipped": true
+    }
+  ]
+}

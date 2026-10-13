@@ -1,0 +1,77 @@
+{
+  "sku": "PCNT-0002529",
+  "url": "https://www.cabesto.com/fr/bonnet-liner.html",
+  "title": "Bonnet Liner",
+  "brand": "PETZL",
+  "category": "bonnets-cagoules",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "habillement",
+    "bonnets-cagoules"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "habillement",
+    "bonnets-cagoules"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bonnet Liner"
+  ],
+  "description": "Achetez Bonnet Liner chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 22.95,
+    "currency": "EUR",
+    "formatted": "22.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0002529",
+      "sku": "PCNT-0002529",
+      "supplierRef": null,
+      "price": {
+        "amount": 22.95,
+        "currency": "EUR",
+        "formatted": "22.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/p/pp74_1_d-bonnet-liner-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp74_1_d-bonnet-liner-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp74_1_d-bonnet-liner-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:28:49.464Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp74_1_d-bonnet-liner-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002529/01-pp74_1_d-bonnet-liner-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp74_1_d-bonnet-liner-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002529/02-pp74_1_d-bonnet-liner-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp74_1_d-bonnet-liner-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002529/03-pp74_1_d-bonnet-liner-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

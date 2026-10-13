@@ -1,0 +1,103 @@
+{
+  "sku": "PCPI-0001657",
+  "url": "https://www.cabesto.com/fr/pompe-de-filtration-piscine-super-power-emaux.html",
+  "title": "POMPE DE FILTRATION PISCINE SUPER POWER EMAUX",
+  "brand": "EMAUX",
+  "category": "Pompe SuperPump",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Pompe piscine",
+    "Pompe SuperPump"
+  ],
+  "categories": [
+    "Pompe piscine",
+    "Pompe SuperPump"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "POMPE DE FILTRATION PISCINE SUPER POWER EMAUX"
+  ],
+  "description": "POMPE DE FILTRATION PISCINE SUPER POWER EMAUX POMPE DE FILTRATION PISCINE SUPER POWER COMPATIBLE SUPER PUMP EMAUX Plongez dans une expérience de piscine exceptionnelle avec la Pompe de Filtration O'Pool Super Power Pump : une alliance parfaite de perform",
+  "supplierRef": null,
+  "price": {
+    "amount": 279,
+    "currency": "EUR",
+    "formatted": "279 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPI-0001657",
+      "sku": "PCPI-0001657",
+      "supplierRef": null,
+      "price": {
+        "amount": 279,
+        "currency": "EUR",
+        "formatted": "279 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-superpump-strong-pool-0-75-kw-68317.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/super-power-pump-4_314.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/super-power-pump-3_102.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/superpump-opool-view1_462.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/super-power-pump-2_396_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-superpump-strong-pool-0-75-kw-68317_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-superpump-strong-pool-0-75-kw-68317_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-superpump-strong-pool-0-75-kw-68317_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:50:05.117Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-superpump-strong-pool-0-75-kw-68317.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0001657/01-pompe-superpump-strong-pool-0-75-kw-68317.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/super-power-pump-4_314.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0001657/02-super-power-pump-4_314.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/super-power-pump-3_102.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0001657/03-super-power-pump-3_102.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/superpump-opool-view1_462.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0001657/04-superpump-opool-view1_462.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/super-power-pump-2_396_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0001657/05-super-power-pump-2_396_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-superpump-strong-pool-0-75-kw-68317_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0001657/06-pompe-superpump-strong-pool-0-75-kw-68317_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-superpump-strong-pool-0-75-kw-68317_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0001657/07-pompe-superpump-strong-pool-0-75-kw-68317_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-superpump-strong-pool-0-75-kw-68317_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0001657/08-pompe-superpump-strong-pool-0-75-kw-68317_3.jpg",
+      "skipped": false
+    }
+  ]
+}

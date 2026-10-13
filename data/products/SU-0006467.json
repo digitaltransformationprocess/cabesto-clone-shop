@@ -1,0 +1,69 @@
+{
+  "sku": "SU-0006467",
+  "url": "https://www.cabesto.com/fr/plongee-couteau-squeeze-18-cm-lame-biseautee-pl-14288.html",
+  "title": "Couteau de plongée sous-marine lame bisautée SQUEEZE 18 cm AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "ais",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couteau de plongée sous-marine lame bisautée SQUEEZE 18 cm AQUALUNG"
+  ],
+  "description": "Dotés d'un mécanisme \" Squeeze-Lock \" breveté et éprouvé, ces couteaux de la gamme Squeeze peuvent facilement être tirés de leur fourreau, puis rangés et bloqués à l'intérieur de ce dernier. Leur manche articulé, leur pommeau métallique et leurs différentes lames ont été méticuleusement conçus pour répondre aux besoins des plongeurs. Ils sont même dotés d'un décapsuleur. Longueur totale de 18 cm.Acier inoxydable 304 ou alliage de titane bêta de haute qualité.Un mécanisme de blocage breveté empêche le couteau de sortir de son fourreau, mais se déverrouille facilement en serrant le manche.Manche et fourreau en nylon renforcé de fibre de verre pour une meilleure tenue aux chocs et à l'abrasion.Diverses options de fixation disponibles : sangles de cheville en caoutchouc, passage de ceinture moulé et vis de fixation aux poches d'un gilet de stabilisation.",
+  "supplierRef": "705066",
+  "price": {
+    "amount": 35,
+    "currency": "EUR",
+    "formatted": "35 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0006467",
+      "sku": "SU-0006467",
+      "supplierRef": "705066",
+      "price": {
+        "amount": 35,
+        "currency": "EUR",
+        "formatted": "35 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-14288-pl-14288-picture_1-pl-14288-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-14288-pl-14288-picture_2-pl-14288-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:51.741Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-14288-pl-14288-picture_1-pl-14288-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006467/01-pl-14288-pl-14288-picture_1-pl-14288-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-14288-pl-14288-picture_2-pl-14288-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006467/02-pl-14288-pl-14288-picture_2-pl-14288-2.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ],
+  "categories": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "sku": "PI-0000036",
+  "url": "https://www.cabesto.com/fr/piscine-aire-de-jeux-jurassic-intex.html",
+  "title": "PISCINE AIRE DE JEUX JURASSIC - INTEX",
+  "brand": "INTEX",
+  "category": "Jeux",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "jeux"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "jeux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE AIRE DE JEUX JURASSIC - INTEX"
+  ],
+  "description": "Achetez PISCINE AIRE DE JEUX JURASSIC - INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "57444NP",
+  "price": {
+    "amount": 49.95,
+    "currency": "EUR",
+    "formatted": "49.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000036",
+      "sku": "PI-0000036",
+      "supplierRef": "57444NP",
+      "price": {
+        "amount": 49.95,
+        "currency": "EUR",
+        "formatted": "49.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/7/57444np-aire-de-jeux-gonflable-jurassic_zzvxwauwrawzmr3d.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/media/catalog/product/cache/60/image/860x/040ec09b1e35df139433887a97daa66f/j/a/jaht3y31fk-57444clear.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/7/57444np-aire-de-jeux-gonflable-jurassic_sin4m182rbz71gou.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/7/57444np-aire-de-jeux-gonflable-jurassic_aau0c5hiy9x54zqw.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/7/57444np-aire-de-jeux-gonflable-jurassic_cwzdz9js0rk8xwjv.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/7/57444np-aire-de-jeux-gonflable-jurassic_ddaoxrnds8rjzi86.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/7/57444np-aire-de-jeux-gonflable-jurassic_6e0pkdhvza9br3ob.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:48:18.409Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/7/57444np-aire-de-jeux-gonflable-jurassic_zzvxwauwrawzmr3d.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000036/01-57444np-aire-de-jeux-gonflable-jurassic_zzvxwauwrawzmr3d.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/media/catalog/product/cache/60/image/860x/040ec09b1e35df139433887a97daa66f/j/a/jaht3y31fk-57444clear.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000036/02-jaht3y31fk-57444clear.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/7/57444np-aire-de-jeux-gonflable-jurassic_sin4m182rbz71gou.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000036/03-57444np-aire-de-jeux-gonflable-jurassic_sin4m182rbz71gou.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/7/57444np-aire-de-jeux-gonflable-jurassic_aau0c5hiy9x54zqw.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000036/04-57444np-aire-de-jeux-gonflable-jurassic_aau0c5hiy9x54zqw.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/7/57444np-aire-de-jeux-gonflable-jurassic_cwzdz9js0rk8xwjv.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000036/05-57444np-aire-de-jeux-gonflable-jurassic_cwzdz9js0rk8xwjv.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/7/57444np-aire-de-jeux-gonflable-jurassic_ddaoxrnds8rjzi86.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000036/06-57444np-aire-de-jeux-gonflable-jurassic_ddaoxrnds8rjzi86.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/7/57444np-aire-de-jeux-gonflable-jurassic_6e0pkdhvza9br3ob.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000036/07-57444np-aire-de-jeux-gonflable-jurassic_6e0pkdhvza9br3ob.jpg",
+      "skipped": false
+    }
+  ]
+}

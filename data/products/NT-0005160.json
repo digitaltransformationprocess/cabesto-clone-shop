@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0005160",
+  "url": "https://www.cabesto.com/fr/corde-de-securite-30-m-avec-absorbeur-nt-0005160.html",
+  "title": "Corde de sécurité 30 m avec absorbeur",
+  "brand": "KRATOS SAFETY",
+  "category": "antichutes-mobiles",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "antichutes",
+    "antichutes-mobiles"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "antichutes",
+    "antichutes-mobiles"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Corde de sécurité 30 m avec absorbeur"
+  ],
+  "description": "Achetez Corde de sécurité 30 m avec absorbeur chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "FA 20 102 30",
+  "price": {
+    "amount": 209.04,
+    "currency": "EUR",
+    "formatted": "209.04 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005160",
+      "sku": "NT-0005160",
+      "supplierRef": "FA 20 102 30",
+      "price": {
+        "amount": 209.04,
+        "currency": "EUR",
+        "formatted": "209.04 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/2/52r1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:55.019Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/52r1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005160/01-52r1.jpg",
+      "skipped": false
+    }
+  ]
+}

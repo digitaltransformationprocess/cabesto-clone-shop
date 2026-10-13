@@ -1,0 +1,93 @@
+{
+  "sku": "SU-0000923",
+  "url": "https://www.cabesto.com/fr/plongee-fil-dyneline-dyneema-1-5-mm-bobine-de-50-ml-pl-5858.html",
+  "title": "Fil chasse sous-marine orange Ø 1.6 mm DYNEEMA 50 m IMERSION",
+  "brand": "IMERSION",
+  "category": "cordages-pour-drisses-et-ecoutes",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Fil chasse sous-marine orange Ø 1.6 mm DYNEEMA 50 m IMERSION"
+  ],
+  "description": "Fil chasse sous-marine orange Ø 1.6 mm DYNEEMA 50 m IMERSIONUn fil ultra-résistant qui s'adapte parfaitement aux montages de moulinets, arbalètes ou autres équipements de chasse sous-marine.La bobine Dyneema D1.6 50M Orange d'Imersion est un accessoire indispensable pour les chasseurs sous-marins à la recherche de performance et de durabilité.Fabriqué en Dyneema de haute qualité, ce fil offre une résistance exceptionnelle à la traction, supportant jusqu'à 220 kg.Sa conception anti-abrasion garantit une longévité accrue, même dans des environnements marins exigeants.Avec un diamètre de 1,6 mm et une longueur de 50 mètres, il est parfaitement adapté pour les montages de moulinets, les arbalètes ou d'autres équipements de chasse sous-marine.",
+  "supplierRef": "DC126",
+  "price": {
+    "amount": 21.99,
+    "currency": "EUR",
+    "formatted": "21.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0000923",
+      "sku": "SU-0000923",
+      "supplierRef": "DC126",
+      "price": {
+        "amount": 21.99,
+        "currency": "EUR",
+        "formatted": "21.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-5858-pl-5858-picture_1-pl-5858-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/o/bobine-dyneema-gaine-jaune-50-m-15-mm-denty-spearfishing-p-image-34918-grande_o3qhdd913a6m8wea.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/0/400352_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/i/kit-25m-monofilamento-nylon-rojo-160-10pcs-remaches-negro-165.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/img-466-p4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-5859-pl-5859-picture_1-pl-5859-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:06.757Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-5858-pl-5858-picture_1-pl-5858-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000923/01-pl-5858-pl-5858-picture_1-pl-5858-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/o/bobine-dyneema-gaine-jaune-50-m-15-mm-denty-spearfishing-p-image-34918-grande_o3qhdd913a6m8wea.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000923/02-bobine-dyneema-gaine-jaune-50-m-15-mm-denty-spearfishing-p-image-34918-grande_o3qhdd913a6m8wea.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/0/400352_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000923/03-400352_0.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/i/kit-25m-monofilamento-nylon-rojo-160-10pcs-remaches-negro-165.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000923/04-kit-25m-monofilamento-nylon-rojo-160-10pcs-remaches-negro-165.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-466-p4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000923/05-img-466-p4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-5859-pl-5859-picture_1-pl-5859-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000923/06-pl-5859-pl-5859-picture_1-pl-5859-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "cordages",
+    "cordages-pour-drisses-et-ecoutes"
+  ],
+  "categories": [
+    "nautisme",
+    "cordages",
+    "cordages-pour-drisses-et-ecoutes"
+  ]
+}

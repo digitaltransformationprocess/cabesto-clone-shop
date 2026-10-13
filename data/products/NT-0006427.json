@@ -1,0 +1,103 @@
+{
+  "sku": "NT-0006427",
+  "url": "https://www.cabesto.com/fr/verticalite-poulie-spin-l1-petzl-nt-0006427.html",
+  "title": "Poulie Spin L1 PETZL",
+  "brand": "PETZL",
+  "category": "Poulies & roulettes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Poulies & roulettes"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Poulies & roulettes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Poulie Spin L1 PETZL"
+  ],
+  "description": "Achetez Poulie Spin L1 PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "P001BA00",
+  "price": {
+    "amount": 129.95,
+    "currency": "EUR",
+    "formatted": "129.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006427",
+      "sku": "NT-0006427",
+      "supplierRef": "P001BA00",
+      "price": {
+        "amount": 129.95,
+        "currency": "EUR",
+        "formatted": "129.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/r/pr50_1-poulie-spin-l1-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr50_6-poulie-spin-l1-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr50_5-poulie-spin-l1-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr50_4-poulie-spin-l1-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr50_3-poulie-spin-l1-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr50_2-poulie-spin-l1-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr50_1-poulie-spin-l1-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:23:33.607Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr50_1-poulie-spin-l1-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006427/01-pr50_1-poulie-spin-l1-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr50_6-poulie-spin-l1-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006427/02-pr50_6-poulie-spin-l1-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr50_5-poulie-spin-l1-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006427/03-pr50_5-poulie-spin-l1-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr50_4-poulie-spin-l1-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006427/04-pr50_4-poulie-spin-l1-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr50_3-poulie-spin-l1-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006427/05-pr50_3-poulie-spin-l1-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr50_2-poulie-spin-l1-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006427/06-pr50_2-poulie-spin-l1-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr50_1-poulie-spin-l1-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006427/07-pr50_1-poulie-spin-l1-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

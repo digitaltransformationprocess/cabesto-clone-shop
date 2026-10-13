@@ -1,0 +1,71 @@
+{
+  "sku": "PCPE-0018751",
+  "url": "https://www.cabesto.com/fr/cannes-de-peche-aux-leurres-prorex-e-daiwa.html",
+  "title": "Cannes de pêche aux leurres Prorex E | Daiwa",
+  "brand": "DAIWA",
+  "category": "Cannes Leurres 2,4M",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "Cannes Leurres 2,1M",
+    "Cannes Leurres 2,4M",
+    "Prix en baisse",
+    "Prix en baisse Pêche"
+  ],
+  "categories": [
+    "Cannes Leurres 2,1M",
+    "Cannes Leurres 2,4M",
+    "Prix en baisse",
+    "Prix en baisse Pêche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cannes de pêche aux leurres Prorex E | Daiwa"
+  ],
+  "description": "Achetez Cannes de pêche aux leurres Prorex E | Daiwa chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 104.99,
+    "currency": "EUR",
+    "formatted": "104.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPE-0018751",
+      "sku": "PCPE-0018751",
+      "supplierRef": null,
+      "price": {
+        "amount": 104.99,
+        "currency": "EUR",
+        "formatted": "104.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-daiwa-prorex-2022-z-2648-264825_ii4ixwqra8ngcode.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-daiwa-prorex-2022-z-2648-264825_fettmqu9sgqf0bhq.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:26:17.216Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-daiwa-prorex-2022-z-2648-264825_ii4ixwqra8ngcode.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018751/01-canne-spinning-daiwa-prorex-2022-z-2648-264825_ii4ixwqra8ngcode.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-daiwa-prorex-2022-z-2648-264825_fettmqu9sgqf0bhq.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018751/02-canne-spinning-daiwa-prorex-2022-z-2648-264825_fettmqu9sgqf0bhq.jpg",
+      "skipped": false
+    }
+  ]
+}

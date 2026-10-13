@@ -1,0 +1,68 @@
+{
+  "sku": "AL-0003739",
+  "url": "https://www.cabesto.com/fr/sauce-boucanier-gingembre-200g.html",
+  "title": "SAUCE BOUCANIER GINGEMBRE 170g",
+  "brand": "DAME BESSON",
+  "category": "sauces",
+  "description": "Sauce prête à l'emploi -Assaisonnement",
+  "price": {
+    "amount": 5.99,
+    "currency": "EUR",
+    "formatted": "5.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "Out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003739",
+      "sku": "AL-0003739",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "Out of stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/s/a/sauce-des-boucaniers-au-gimgembre-170g.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sauce-des-boucaniers-au-gimgembre-170g.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sauce-des-boucaniers-au-gimgembre-170g.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003739/01-sauce-des-boucaniers-au-gimgembre-170g.jpg",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:22:44.577Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/s/a/sauce-des-boucaniers-au-gimgembre-170g.jpg?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "5.99",
+    "currency": "EUR",
+    "availability": "out of stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "plats-cuisines-frais",
+    "sauces"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "plats-cuisines-frais",
+    "sauces"
+  ]
+}

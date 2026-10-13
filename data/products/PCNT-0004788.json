@@ -1,0 +1,73 @@
+{
+  "sku": "PCNT-0004788",
+  "url": "https://www.cabesto.com/fr/women-hh-lifa-merino-half-zip-hh07.html",
+  "title": "Women HH Lifa Merino Half Zip",
+  "brand": "HELLY HANSEN WORK",
+  "category": "promotions-textile",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-textile"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-textile"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Women HH Lifa Merino Half Zip"
+  ],
+  "description": "Achetez Women HH Lifa Merino Half Zip chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 57.6,
+    "currency": "EUR",
+    "formatted": "57.6 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004788",
+      "sku": "PCNT-0004788",
+      "supplierRef": null,
+      "price": {
+        "amount": 57.6,
+        "currency": "EUR",
+        "formatted": "57.6 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/h/h/hh07_1_c-women-hh-lifa-merino-half-zip-helly-hansen-work_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt-0004788_1.jpg_1_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt-0004788_1.jpg_1_2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:33:16.819Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/h/hh07_1_c-women-hh-lifa-merino-half-zip-helly-hansen-work_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004788/01-hh07_1_c-women-hh-lifa-merino-half-zip-helly-hansen-work_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt-0004788_1.jpg_1_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004788/02-nt-0004788_1.jpg_1_1.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt-0004788_1.jpg_1_2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004788/03-nt-0004788_1.jpg_1_2.png",
+      "skipped": false
+    }
+  ]
+}

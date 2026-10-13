@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0002007",
+  "url": "https://www.cabesto.com/fr/lot-de-2-adaptateurs-males-filtration-piscine-32-38mm-intex.html",
+  "title": "LOT DE 2 ADAPTATEURS MALES FILTRATION PISCINE 32-38MM - INTEX",
+  "brand": "INTEX",
+  "category": "Pièces détachées de piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Accesoires piscine hors-sol",
+    "Accessoires piscine et pièces détachées",
+    "Pièces détachées de piscine"
+  ],
+  "categories": [
+    "Accesoires piscine hors-sol",
+    "Accessoires piscine et pièces détachées",
+    "Pièces détachées de piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "LOT DE 2 ADAPTATEURS MALES FILTRATION PISCINE 32-38MM - INTEX"
+  ],
+  "description": "Achetez LOT DE 2 ADAPTATEURS MALES FILTRATION PISCINE 32-38MM - INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "25007",
+  "price": {
+    "amount": 15.9,
+    "currency": "EUR",
+    "formatted": "15.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002007",
+      "sku": "PI-0002007",
+      "supplierRef": "25007",
+      "price": {
+        "amount": 15.9,
+        "currency": "EUR",
+        "formatted": "15.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/shop/2744-large_default/lot-de-2-adaptateurs-males-32---38-mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:48:37.340Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/shop/2744-large_default/lot-de-2-adaptateurs-males-32---38-mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002007/01-lot-de-2-adaptateurs-males-32---38-mm.jpg",
+      "skipped": false
+    }
+  ]
+}

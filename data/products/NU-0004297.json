@@ -1,0 +1,71 @@
+{
+  "sku": "NU-0004297",
+  "url": "https://www.cabesto.com/fr/soudure-a-froid.html",
+  "title": "soudure a froid - pate epoxy - 125 GR",
+  "brand": "YACHTCARE",
+  "category": "Mastic au dessus de la ligne de flottaison",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Entretien",
+    "Nautisme",
+    "Mastic - gelcoat - Stratification",
+    "Mastic au dessus de la ligne de flottaison"
+  ],
+  "categories": [
+    "Entretien",
+    "Nautisme",
+    "Mastic - gelcoat - Stratification",
+    "Mastic au dessus de la ligne de flottaison"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "soudure a froid - pate epoxy - 125 GR"
+  ],
+  "description": "Achetez soudure a froid - pate epoxy - 125 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "135023",
+  "price": {
+    "amount": 14.99,
+    "currency": "EUR",
+    "formatted": "14.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0004297",
+      "sku": "NU-0004297",
+      "supplierRef": "135023",
+      "price": {
+        "amount": 14.99,
+        "currency": "EUR",
+        "formatted": "14.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/3/135023_soudure_a_froid_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/pate-epoxy-solomet-metal-a-froid-image-70472-moyenne_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:03:19.485Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/3/135023_soudure_a_froid_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0004297/01-135023_soudure_a_froid_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/pate-epoxy-solomet-metal-a-froid-image-70472-moyenne_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0004297/02-pate-epoxy-solomet-metal-a-froid-image-70472-moyenne_1.jpg",
+      "skipped": true
+    }
+  ]
+}

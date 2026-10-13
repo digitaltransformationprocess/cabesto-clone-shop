@@ -1,0 +1,66 @@
+{
+  "sku": "AL-0003996",
+  "url": "https://www.cabesto.com/fr/soupe-de-poisson-piment-espelette-800g.html",
+  "title": "SOUPE DE POISSON PIMENT ESPELETTE 800G",
+  "brand": "GASTROMER",
+  "category": "poissons",
+  "description": "Fluide, légèrement granuleuse",
+  "price": {
+    "amount": 4.39,
+    "currency": "EUR",
+    "formatted": "4.39 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "Out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003996",
+      "sku": "AL-0003996",
+      "price": {
+        "amount": 4.39,
+        "currency": "EUR",
+        "formatted": "4.39 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "Out of stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/6/0/6028910-6028910-picture_1-6028910_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6028910-6028910-picture_1-6028910_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6028910-6028910-picture_1-6028910_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003996/01-6028910-6028910-picture_1-6028910_1.jpg",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:14:13.769Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/6/0/6028910-6028910-picture_1-6028910_1.jpg?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "4.39",
+    "currency": "EUR",
+    "availability": "out of stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "poissons"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "poissons"
+  ]
+}

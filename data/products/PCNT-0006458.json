@@ -1,0 +1,63 @@
+{
+  "sku": "PCNT-0006458",
+  "url": "https://www.cabesto.com/fr/randonnee-veste-polaire-m-s-r1-techface-jkt-patagonia-pt27.html",
+  "title": "Veste Polaire M's R1 TechFace Jkt - PATAGONIA",
+  "brand": "PATAGONIA",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Veste Polaire M's R1 TechFace Jkt - PATAGONIA"
+  ],
+  "description": "Achetez Veste Polaire M's R1 TechFace Jkt - PATAGONIA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0006458",
+      "sku": "PCNT-0006458",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/t/pt27_1_b-veste-polaire-m-s-r1-techface-jkt-patagonia_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:33:34.973Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt27_1_b-veste-polaire-m-s-r1-techface-jkt-patagonia_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006458/01-pt27_1_b-veste-polaire-m-s-r1-techface-jkt-patagonia_3.jpg",
+      "skipped": false
+    }
+  ]
+}

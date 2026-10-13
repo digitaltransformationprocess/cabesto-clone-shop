@@ -1,0 +1,95 @@
+{
+  "sku": "PI-0002517",
+  "url": "https://www.cabesto.com/fr/spot-de-piscine-led-magnetique-intex-pi-0002517.html",
+  "title": "SPOT DE PISCINE LED MAGNETIQUE INTEX",
+  "brand": "INTEX",
+  "category": "Accesoires piscine hors-sol",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Accessoires de piscine",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine",
+    "Accesoires piscine hors-sol"
+  ],
+  "categories": [
+    "Accessoires de piscine",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine",
+    "Accesoires piscine hors-sol"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage Piscine",
+    "Destockage Piscine",
+    "Destockage",
+    "Destockage",
+    "SPOT DE PISCINE LED MAGNETIQUE INTEX"
+  ],
+  "description": "Achetez SPOT DE PISCINE LED MAGNETIQUE INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "28698",
+  "price": {
+    "amount": 59,
+    "currency": "EUR",
+    "formatted": "59 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002517",
+      "sku": "PI-0002517",
+      "supplierRef": "28698",
+      "price": {
+        "amount": 59,
+        "currency": "EUR",
+        "formatted": "59 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/8/28698-spot-piscine-magnetique_61c5eaccifc9sxog.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28698-spot-piscine-magnetique_quv4pdnmbbtzcnh5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28698-spot-piscine-magnetique_qnx7qb7op44d4jxp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28698-spot-piscine-magnetique_4muevr99q7mneouf.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28698-spot-piscine-magnetique_mrivs5mo1savbw39.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:50:48.768Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28698-spot-piscine-magnetique_61c5eaccifc9sxog.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002517/01-28698-spot-piscine-magnetique_61c5eaccifc9sxog.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28698-spot-piscine-magnetique_quv4pdnmbbtzcnh5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002517/02-28698-spot-piscine-magnetique_quv4pdnmbbtzcnh5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28698-spot-piscine-magnetique_qnx7qb7op44d4jxp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002517/03-28698-spot-piscine-magnetique_qnx7qb7op44d4jxp.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28698-spot-piscine-magnetique_4muevr99q7mneouf.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002517/04-28698-spot-piscine-magnetique_4muevr99q7mneouf.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28698-spot-piscine-magnetique_mrivs5mo1savbw39.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002517/05-28698-spot-piscine-magnetique_mrivs5mo1savbw39.jpg",
+      "skipped": false
+    }
+  ]
+}

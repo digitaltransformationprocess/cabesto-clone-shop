@@ -1,0 +1,71 @@
+{
+  "sku": "NT-0014468",
+  "url": "https://www.cabesto.com/fr/tour-de-cou-national-geographic-original-temple.html",
+  "title": "TOUR DE COU NATIONAL GEOGRAPHIC ORIGINAL TEMPLE - BUFF",
+  "brand": "BUFF",
+  "category": "cagoules-tours-de-cou",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires",
+    "coiffants",
+    "cagoules-tours-de-cou"
+  ],
+  "categories": [
+    "textile",
+    "accessoires",
+    "coiffants",
+    "cagoules-tours-de-cou"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TOUR DE COU NATIONAL GEOGRAPHIC ORIGINAL TEMPLE - BUFF"
+  ],
+  "description": "Achetez TOUR DE COU NATIONAL GEOGRAPHIC ORIGINAL TEMPLE - BUFF chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "118258.555.10.00",
+  "price": {
+    "amount": 17.95,
+    "currency": "EUR",
+    "formatted": "17.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0014468",
+      "sku": "NT-0014468",
+      "supplierRef": "118258.555.10.00",
+      "price": {
+        "amount": 17.95,
+        "currency": "EUR",
+        "formatted": "17.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/u/bu85_1-tour-de-cou-national-geographic-original-temple-buff.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/u/bu85_1-tour-de-cou-national-geographic-original-temple-buff_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:18:47.032Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/u/bu85_1-tour-de-cou-national-geographic-original-temple-buff.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0014468/01-bu85_1-tour-de-cou-national-geographic-original-temple-buff.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/u/bu85_1-tour-de-cou-national-geographic-original-temple-buff_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0014468/02-bu85_1-tour-de-cou-national-geographic-original-temple-buff_1.jpg",
+      "skipped": true
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "PE-0002954",
+  "url": "https://www.cabesto.com/fr/peche-3-corps-cse-150-bleu-nacre-pe-9332.html",
+  "title": "3 corps CSE 150 - Bleu Nacré",
+  "brand": "FIIISH",
+  "category": "Black November - Pêche",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "Destockage Pêche",
+    "Ventes privées Pêche",
+    "Black November - Pêche"
+  ],
+  "categories": [
+    "Destockage Pêche",
+    "Ventes privées Pêche",
+    "Black November - Pêche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage",
+    "Destockage",
+    "Destockage Pêche",
+    "Destockage Pêche",
+    "3 corps CSE 150 - Bleu Nacré"
+  ],
+  "description": "Achetez 3 corps CSE 150 - Bleu Nacré chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "CSE233",
+  "price": {
+    "amount": 8.79,
+    "currency": "EUR",
+    "formatted": "8.79 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0002954",
+      "sku": "PE-0002954",
+      "supplierRef": "CSE233",
+      "price": {
+        "amount": 8.79,
+        "currency": "EUR",
+        "formatted": "8.79 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/PE-9332-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:24:39.917Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PE-9332-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0002954/01-PE-9332-1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "PI-0009402",
+  "url": "https://www.cabesto.com/fr/connecteur-tuyau-piscine-d32mm-d38mm-gre.html",
+  "title": "CONNECTEUR TUYAU PISCINE Ø32MM / 38MM - GRE",
+  "brand": "KOKIDO",
+  "category": "Accessoires de piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "piscine",
+    "accessoires-piscine-et-pieces-detachees",
+    "accessoires-de-piscine"
+  ],
+  "categories": [
+    "piscine",
+    "piscine",
+    "accessoires-piscine-et-pieces-detachees",
+    "accessoires-de-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CONNECTEUR TUYAU PISCINE Ø32MM / 38MM - GRE"
+  ],
+  "description": "Achetez CONNECTEUR TUYAU PISCINE Ø32MM / 38MM - GRE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "K546CB",
+  "price": {
+    "amount": 2.99,
+    "currency": "EUR",
+    "formatted": "2.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0009402",
+      "sku": "PI-0009402",
+      "supplierRef": "K546CB",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/59257-large_default/gre-liaison-2-tuyaux-flottant-3832mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:47:45.291Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/59257-large_default/gre-liaison-2-tuyaux-flottant-3832mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009402/01-gre-liaison-2-tuyaux-flottant-3832mm.jpg",
+      "skipped": false
+    }
+  ]
+}

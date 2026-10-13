@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0006270",
+  "url": "https://www.cabesto.com/fr/plongee-sifflet-2-tons-pl-10037.html",
+  "title": "Sifflet de plongée de sécurité 2 tons SEAC SUB",
+  "brand": "SEAC",
+  "category": "securite",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sifflet de plongée de sécurité 2 tons SEAC SUB"
+  ],
+  "description": "SIFFLET 2 TONS SEAC SUBSifflet de sécurité à deux tons Seac Sub en plastique homologué CE.Pour les plongeurs qui veulent attirer l'attention en surface",
+  "supplierRef": "1110056520000A",
+  "price": {
+    "amount": 5.99,
+    "currency": "EUR",
+    "formatted": "5.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0006270",
+      "sku": "SU-0006270",
+      "supplierRef": "1110056520000A",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-10037-pl-10037-picture_1-pl-10037-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:36.066Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-10037-pl-10037-picture_1-pl-10037-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006270/01-pl-10037-pl-10037-picture_1-pl-10037-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "securite"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "securite"
+  ]
+}

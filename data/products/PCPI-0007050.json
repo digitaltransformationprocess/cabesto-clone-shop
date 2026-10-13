@@ -1,0 +1,63 @@
+{
+  "sku": "PCPI-0007050",
+  "url": "https://www.cabesto.com/fr/pompe-piscine-variline-mono-poolstar.html",
+  "title": "POMPE PISCINE VARILINE MONO - POOLSTAR",
+  "brand": "POOLSTAR",
+  "category": "Pompe Poolstar",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "annexe-moteur",
+    "huiles-filtres-pompes"
+  ],
+  "categories": [
+    "nautisme",
+    "annexe-moteur",
+    "huiles-filtres-pompes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "POMPE PISCINE VARILINE MONO - POOLSTAR"
+  ],
+  "description": "Achetez POMPE PISCINE VARILINE MONO - POOLSTAR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPI-0007050",
+      "sku": "PCPI-0007050",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-filtration-poolex-variline-a-debit-variable_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:47:00.156Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-filtration-poolex-variline-a-debit-variable_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0007050/01-pompe-filtration-poolex-variline-a-debit-variable_2.jpg",
+      "skipped": false
+    }
+  ]
+}

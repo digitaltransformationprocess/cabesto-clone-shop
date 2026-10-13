@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0007074",
+  "url": "https://www.cabesto.com/fr/randonnee-savon-en-feuilles-shampoing-sea-to-summit-nt-0007074.html",
+  "title": "Savon en feuilles Shampoing - SEA TO SUMMIT",
+  "brand": "SEA TO SUMMIT",
+  "category": "Hygiène, serviettes de randonnée",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Sécurité et soin du corps",
+    "Hygiène, serviettes de randonnée"
+  ],
+  "categories": [
+    "Sécurité et soin du corps",
+    "Hygiène, serviettes de randonnée"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Savon en feuilles Shampoing - SEA TO SUMMIT"
+  ],
+  "description": "Achetez Savon en feuilles Shampoing - SEA TO SUMMIT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "DSAVON2",
+  "price": {
+    "amount": 4.95,
+    "currency": "EUR",
+    "formatted": "4.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0007074",
+      "sku": "NT-0007074",
+      "supplierRef": "DSAVON2",
+      "price": {
+        "amount": 4.95,
+        "currency": "EUR",
+        "formatted": "4.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/e/se21_1-savon-en-feuilles-shampoing-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/se21_2-savon-en-feuilles-shampoing-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/se21_1-savon-en-feuilles-shampoing-sea-to-summit_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:23:23.381Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/se21_1-savon-en-feuilles-shampoing-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007074/01-se21_1-savon-en-feuilles-shampoing-sea-to-summit.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/se21_2-savon-en-feuilles-shampoing-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007074/02-se21_2-savon-en-feuilles-shampoing-sea-to-summit.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/se21_1-savon-en-feuilles-shampoing-sea-to-summit_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007074/03-se21_1-savon-en-feuilles-shampoing-sea-to-summit_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0023967",
+  "url": "https://www.cabesto.com/fr/verticalite-visiere-vizir-petzl-nt-0023967.html",
+  "title": "Visière Vizir - PETZL",
+  "brand": "PETZL",
+  "category": "Casques",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Casques"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Casques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Visière Vizir - PETZL"
+  ],
+  "description": "Achetez Visière Vizir - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "A015AA00",
+  "price": {
+    "amount": 54.95,
+    "currency": "EUR",
+    "formatted": "54.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0023967",
+      "sku": "NT-0023967",
+      "supplierRef": "A015AA00",
+      "price": {
+        "amount": 54.95,
+        "currency": "EUR",
+        "formatted": "54.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/x/px09_1-visiere-vizir-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px09_1-visiere-vizir-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:18:03.169Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px09_1-visiere-vizir-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0023967/01-px09_1-visiere-vizir-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px09_1-visiere-vizir-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0023967/02-px09_1-visiere-vizir-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

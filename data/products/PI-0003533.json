@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0003533",
+  "url": "https://www.cabesto.com/fr/tuyau-d-38mm-long-3m-avec-bague-pour-piscine-intex.html",
+  "title": "TUYAU D 38MM LONG 3M AVEC BAGUE POUR PISCINE - INTEX",
+  "brand": "INTEX",
+  "category": "Accesoires piscine hors-sol",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TUYAU D 38MM LONG 3M AVEC BAGUE POUR PISCINE - INTEX"
+  ],
+  "description": "Achetez TUYAU D 38MM LONG 3M AVEC BAGUE POUR PISCINE - INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "26001",
+  "price": {
+    "amount": 33.9,
+    "currency": "EUR",
+    "formatted": "33.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003533",
+      "sku": "PI-0003533",
+      "supplierRef": "26001",
+      "price": {
+        "amount": 33.9,
+        "currency": "EUR",
+        "formatted": "33.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/shop/855-large_default/tuyau-o-38-mm-longueur-3-m-bague.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:48:51.308Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/shop/855-large_default/tuyau-o-38-mm-longueur-3-m-bague.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003533/01-tuyau-o-38-mm-longueur-3-m-bague.jpg",
+      "skipped": false
+    }
+  ]
+}

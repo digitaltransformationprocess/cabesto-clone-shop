@@ -1,0 +1,61 @@
+{
+  "sku": "AL-0003052",
+  "url": "https://www.cabesto.com/fr/planteur-papyzouk-btl-20cl.html",
+  "title": "PLANTEUR PAPYZOUK BTL 20CL",
+  "brand": "PAPYZOUK",
+  "category": "Punchs",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "Boissons et desserts des iles",
+    "Punchs"
+  ],
+  "categories": [
+    "Boissons et desserts des iles",
+    "Punchs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PLANTEUR PAPYZOUK BTL 20CL"
+  ],
+  "description": "Achetez PLANTEUR PAPYZOUK BTL 20CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3770003015369.",
+  "price": {
+    "amount": 13.99,
+    "currency": "EUR",
+    "formatted": "13.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003052",
+      "sku": "AL-0003052",
+      "supplierRef": "3770003015369.",
+      "price": {
+        "amount": 13.99,
+        "currency": "EUR",
+        "formatted": "13.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6016489-6016489-picture_1-6016489_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:03:25.471Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6016489-6016489-picture_1-6016489_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003052/01-6016489-6016489-picture_1-6016489_1.jpg",
+      "skipped": false
+    }
+  ]
+}

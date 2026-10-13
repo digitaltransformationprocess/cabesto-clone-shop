@@ -1,0 +1,77 @@
+{
+  "sku": "PI-0001695",
+  "url": "https://www.cabesto.com/fr/piscine-jeu-de-volley-de-piscine-pi-980.html",
+  "title": "Jeu de volley de piscine",
+  "brand": "INTEX",
+  "category": "Jeux",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "jeux"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "jeux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Jeu de volley de piscine"
+  ],
+  "description": "Achetez Jeu de volley de piscine chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "56508NK",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001695",
+      "sku": "PI-0001695",
+      "supplierRef": "56508NK",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/6/56508np-jeu-volley-gonflable-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/6/56508np-jeu-volley-gonflable-_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/6/56508np-jeu-volley-gonflable-_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:36:20.117Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/6/56508np-jeu-volley-gonflable-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001695/01-56508np-jeu-volley-gonflable-.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/6/56508np-jeu-volley-gonflable-_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001695/02-56508np-jeu-volley-gonflable-_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/6/56508np-jeu-volley-gonflable-_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001695/03-56508np-jeu-volley-gonflable-_2_.jpg",
+      "skipped": false
+    }
+  ]
+}

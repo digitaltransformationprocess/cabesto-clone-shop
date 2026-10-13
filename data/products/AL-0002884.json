@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0002884",
+  "url": "https://www.cabesto.com/fr/pate-de-curry-chaleur-creole-200g.html",
+  "title": "PATE DE CURRY CHALEUR CREOLE 200G",
+  "brand": "CHALEUR CREOLE",
+  "category": "Aide culinaires des iles",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-exotique",
+    "aide-culinaires-exotiques"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-exotique",
+    "aide-culinaires-exotiques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PATE DE CURRY CHALEUR CREOLE 200G"
+  ],
+  "description": "Achetez PATE DE CURRY CHALEUR CREOLE 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3486411000315.",
+  "price": {
+    "amount": 4.69,
+    "currency": "EUR",
+    "formatted": "4.69 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002884",
+      "sku": "AL-0002884",
+      "supplierRef": "3486411000315.",
+      "price": {
+        "amount": 4.69,
+        "currency": "EUR",
+        "formatted": "4.69 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/a/pate-de-curry-chaleur-creole.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:02:45.647Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/pate-de-curry-chaleur-creole.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002884/01-pate-de-curry-chaleur-creole.png",
+      "skipped": false
+    }
+  ]
+}

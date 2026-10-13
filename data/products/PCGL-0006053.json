@@ -1,0 +1,77 @@
+{
+  "sku": "PCGL-0006053",
+  "url": "https://www.cabesto.com/fr/gilet-peche-randonnee-kaaki-70-n-aquadesign.html",
+  "title": "Gilet pêche/randonnée d'aide à la flottabilité 50 N RANDO LOZEN",
+  "brand": "AQUADESIGN",
+  "category": "Idées cadeaux Glisse",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Glisse",
+    "Kayaks",
+    "Gilets",
+    "Idées cadeaux Glisse"
+  ],
+  "categories": [
+    "Glisse",
+    "Kayaks",
+    "Gilets",
+    "Idées cadeaux Glisse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gilet pêche/randonnée d'aide à la flottabilité 50 N RANDO LOZEN"
+  ],
+  "description": "Pêchez avec le gilet Rando LOZEN, équipé de nombreuses poches de rangements, idéal pour les pêcheurs ou les amateurs de grandes randonnées nautiques.",
+  "supplierRef": null,
+  "price": {
+    "amount": 59,
+    "currency": "EUR",
+    "formatted": "59 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCGL-0006053",
+      "sku": "PCGL-0006053",
+      "supplierRef": null,
+      "price": {
+        "amount": 59,
+        "currency": "EUR",
+        "formatted": "59 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/wp-content/uploads/2019/06/BO4525-GILET-KAAKI-FRONT-WEB.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/o/bo4525-gilet-kaaki-side-web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/o/conf-lozen-rando.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:25:21.427Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/wp-content/uploads/2019/06/BO4525-GILET-KAAKI-FRONT-WEB.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCGL-0006053/01-BO4525-GILET-KAAKI-FRONT-WEB.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/o/bo4525-gilet-kaaki-side-web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCGL-0006053/02-bo4525-gilet-kaaki-side-web.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/o/conf-lozen-rando.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCGL-0006053/03-conf-lozen-rando.jpg",
+      "skipped": false
+    }
+  ]
+}

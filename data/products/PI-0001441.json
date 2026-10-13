@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0001441",
+  "url": "https://www.cabesto.com/fr/piscine-floculant-cartouche-1kg-pi-183.html",
+  "title": "FLOCULANT CARTOUCHE 1KG",
+  "brand": "CABESTO",
+  "category": "Clarifier sa piscine",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FLOCULANT CARTOUCHE 1KG"
+  ],
+  "description": "Achetez FLOCULANT CARTOUCHE 1KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "FVU169901",
+  "price": {
+    "amount": 6.9,
+    "currency": "EUR",
+    "formatted": "6.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001441",
+      "sku": "PI-0001441",
+      "supplierRef": "FVU169901",
+      "price": {
+        "amount": 6.9,
+        "currency": "EUR",
+        "formatted": "6.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/8/6895001-floculant-cartouches_1kg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:32:30.232Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/6895001-floculant-cartouches_1kg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001441/01-6895001-floculant-cartouches_1kg.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "sku": "SU-0004405",
+  "url": "https://www.cabesto.com/fr/plongee-obus-speed3-kit-cones-pl-2517.html",
+  "title": "Ogives arbalète chasse sous-marine 3 olives pour ligature SPEED3 MARES",
+  "brand": "MARES",
+  "category": "Obus",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ogives arbalète chasse sous-marine 3 olives pour ligature SPEED3 MARES"
+  ],
+  "description": "détaillée 9,99 € Quantité Ajouter au panier En stock Livraison estimée entre le 15/10/2026 et le 19/10/2026 Selon le mode de livraison choisi et les délais du transporteur. Disponible en magasin Vérifier la disponibilité dans votre magasin Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation.",
+  "supplierRef": "423936",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004405",
+      "sku": "SU-0004405",
+      "supplierRef": "423936",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/2/423936_speed3_uh1gnzv9rcwdjuqk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-4710-pl-4710-picture_1-pl-4710-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/b/obus-articule-16mm-dessault_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/u/fusil-de-plongee-sous-marine-standard-obusier-v-en-acier-inoxydable_plucw8xbct9i7tsx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/b/obus-dyneline_7d8mvdznwxu49gq9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-19385-pl-19385-picture_1-pl-19385-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-2517-pl-2517-picture_1-pl-2517-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:14.206Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/2/423936_speed3_uh1gnzv9rcwdjuqk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004405/01-423936_speed3_uh1gnzv9rcwdjuqk.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-4710-pl-4710-picture_1-pl-4710-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004405/02-pl-4710-pl-4710-picture_1-pl-4710-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/b/obus-articule-16mm-dessault_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004405/03-obus-articule-16mm-dessault_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/u/fusil-de-plongee-sous-marine-standard-obusier-v-en-acier-inoxydable_plucw8xbct9i7tsx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004405/04-fusil-de-plongee-sous-marine-standard-obusier-v-en-acier-inoxydable_plucw8xbct9i7tsx.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/b/obus-dyneline_7d8mvdznwxu49gq9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004405/05-obus-dyneline_7d8mvdznwxu49gq9.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-19385-pl-19385-picture_1-pl-19385-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004405/06-pl-19385-pl-19385-picture_1-pl-19385-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-2517-pl-2517-picture_1-pl-2517-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004405/07-pl-2517-pl-2517-picture_1-pl-2517-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Obus"
+  ],
+  "categories": [
+    "Obus"
+  ]
+}

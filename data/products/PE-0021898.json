@@ -1,0 +1,121 @@
+{
+  "sku": "PE-0021898",
+  "url": "https://www.cabesto.com/fr/ensemble-peche-au-thon-canne-williamson-typhoon.html",
+  "title": "Ensemble Thon (canne Williamson Typhoon 175 50/80LBS et moulinet Okuma Solterra B 50WIIB RH 2SP)",
+  "brand": "OKUMA",
+  "category": "Idées cadeaux Pêche",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "Ensembles Traîne",
+    "Idées cadeaux Pêche"
+  ],
+  "categories": [
+    "Ensembles Traîne",
+    "Idées cadeaux Pêche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ensemble Thon (canne Williamson Typhoon 175 50/80LBS et moulinet Okuma Solterra B 50WIIB RH 2SP)"
+  ],
+  "description": "Achetez Ensemble Thon (canne Williamson Typhoon 175 50/80LBS et moulinet Okuma Solterra B 50WIIB RH 2SP) chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SLX-50WIIB+WT59XH",
+  "price": {
+    "amount": 349,
+    "currency": "EUR",
+    "formatted": "349 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0021898",
+      "sku": "PE-0021898",
+      "supplierRef": "SLX-50WIIB+WT59XH",
+      "price": {
+        "amount": 349,
+        "currency": "EUR",
+        "formatted": "349 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/y/nylon-flashmer-triple-force-1000m_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sardamatic-600.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/i/diablotuna-bkk-hook.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-moulin1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-anneau.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-moulin2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-sion.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-zoom.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-poignee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-boite.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:27:33.424Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021898/01-ensemble-solterra.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/y/nylon-flashmer-triple-force-1000m_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021898/02-nylon-flashmer-triple-force-1000m_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sardamatic-600.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021898/03-sardamatic-600.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/i/diablotuna-bkk-hook.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021898/04-diablotuna-bkk-hook.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-moulin1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021898/05-ensemble-solterra-moulin1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-anneau.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021898/06-ensemble-solterra-anneau.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-moulin2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021898/07-ensemble-solterra-moulin2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-sion.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021898/08-ensemble-solterra-sion.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-zoom.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021898/09-ensemble-solterra-zoom.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-poignee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021898/10-ensemble-solterra-poignee.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/ensemble-solterra-boite.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0021898/11-ensemble-solterra-boite.jpg",
+      "skipped": false
+    }
+  ]
+}

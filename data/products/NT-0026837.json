@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0026837",
+  "url": "https://www.cabesto.com/fr/randonnee-biovectrol-eucalyptus-80-ml-spray-lotion-pharma-voyage-nt-0026837.html",
+  "title": "Biovectrol EUCALYPTUS 80 ml - Spray lotion - PHARMA VOYAGE",
+  "brand": "PHARMA VOYAGE",
+  "category": "Répulsifs anti-moustiques",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Sécurité et soin du corps",
+    "Répulsifs anti-moustiques"
+  ],
+  "categories": [
+    "Sécurité et soin du corps",
+    "Répulsifs anti-moustiques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Biovectrol EUCALYPTUS 80 ml - Spray lotion - PHARMA VOYAGE"
+  ],
+  "description": "Achetez Biovectrol EUCALYPTUS 80 ml - Spray lotion - PHARMA VOYAGE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "PHRE6000302",
+  "price": {
+    "amount": 8.95,
+    "currency": "EUR",
+    "formatted": "8.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0026837",
+      "sku": "NT-0026837",
+      "supplierRef": "PHRE6000302",
+      "price": {
+        "amount": 8.95,
+        "currency": "EUR",
+        "formatted": "8.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/g/kg22_1-biovectrol-eucalyptus-80-ml---spray-lotion-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/g/kg22_1-biovectrol-eucalyptus-80-ml---spray-lotion-pharma-voyage_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:17:41.236Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/g/kg22_1-biovectrol-eucalyptus-80-ml---spray-lotion-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0026837/01-kg22_1-biovectrol-eucalyptus-80-ml---spray-lotion-pharma-voyage.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/g/kg22_1-biovectrol-eucalyptus-80-ml---spray-lotion-pharma-voyage_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0026837/02-kg22_1-biovectrol-eucalyptus-80-ml---spray-lotion-pharma-voyage_1.jpg",
+      "skipped": true
+    }
+  ]
+}

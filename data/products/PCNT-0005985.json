@@ -1,0 +1,65 @@
+{
+  "sku": "PCNT-0005985",
+  "url": "https://www.cabesto.com/fr/crashpad-double-air-bag-bl82.html",
+  "title": "Crashpad Double Air Bag - BEAL",
+  "brand": "BEAL",
+  "category": "crash-pads-echauffement",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "escalade",
+    "equipement-du-grimpeur",
+    "crash-pads-echauffement"
+  ],
+  "categories": [
+    "montagne",
+    "escalade",
+    "equipement-du-grimpeur",
+    "crash-pads-echauffement"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Crashpad Double Air Bag - BEAL"
+  ],
+  "description": "Achetez Crashpad Double Air Bag - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0005985",
+      "sku": "PCNT-0005985",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/l/bl82_1_u-crashpad-double-air-bag-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:29:46.065Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl82_1_u-crashpad-double-air-bag-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0005985/01-bl82_1_u-crashpad-double-air-bag-beal_1.jpg",
+      "skipped": false
+    }
+  ]
+}

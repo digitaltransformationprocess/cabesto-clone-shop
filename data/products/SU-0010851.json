@@ -1,0 +1,91 @@
+{
+  "sku": "SU-0010851",
+  "url": "https://www.cabesto.com/fr/montre-ordinateur-de-plongee-descent-mk3i-noir-garmin-su-0010851.html",
+  "title": "Montre ordinateur de plongée DESCENT MK3i Noir GARMIN",
+  "brand": "GARMIN",
+  "category": "Montres ordinateurs",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Ordinateurs de plongée",
+    "Montres ordinateurs"
+  ],
+  "categories": [
+    "Ordinateurs de plongée",
+    "Montres ordinateurs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montre ordinateur de plongée DESCENT MK3i Noir GARMIN"
+  ],
+  "description": "Plongez avec la montre premium DESCENT MK3i GARMIN en diamètre 51 mm et bracelet silicone, la qualité haut gamme avec GPS intégré, écran tactile AMOLED, technologie SubWave™, mode multisports et mode santé, la montre ordinateur pour plongeurs et plongeuse",
+  "supplierRef": "010-02752-11",
+  "price": {
+    "amount": 1499,
+    "currency": "EUR",
+    "formatted": "1499 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010851",
+      "sku": "SU-0010851",
+      "supplierRef": "010-02752-11",
+      "price": {
+        "amount": 1499,
+        "currency": "EUR",
+        "formatted": "1499 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/k/mk3i.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/e/descentt2_3__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/i/titane_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk3ii.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk3iii.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk3iiii.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:38:11.365Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk3i.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010851/01-mk3i.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/e/descentt2_3__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010851/02-descentt2_3__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/i/titane_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010851/03-titane_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk3ii.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010851/04-mk3ii.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk3iii.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010851/05-mk3iii.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk3iiii.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010851/06-mk3iiii.jpg",
+      "skipped": false
+    }
+  ]
+}

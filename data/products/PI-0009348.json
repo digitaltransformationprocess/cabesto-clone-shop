@@ -1,0 +1,87 @@
+{
+  "sku": "PI-0009348",
+  "url": "https://www.cabesto.com/fr/piscine-piscine-bois-rect-urbaine-600-x-250-x-h133-cm-couv-auto-coffre-et-filtration-a-sable-pi-68.html",
+  "title": "PISCINE URBAINE 6.00x2.50xHt1.33M avec Couverture Automatique immergée. Coffre de Filtration et Filtration à Sable",
+  "brand": "BWT",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine bois",
+    "Piscine rectangulaire",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Piscine bois",
+    "Piscine rectangulaire",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE URBAINE 6.00x2.50xHt1.33M avec Couverture Automatique immergée. Coffre de Filtration et Filtration à Sable"
+  ],
+  "description": "Achetez PISCINE URBAINE 6.00x2.50xHt1.33M avec Couverture Automatique immergée. Coffre de Filtration et Filtration à Sable chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "27180314",
+  "price": {
+    "amount": 9208.2,
+    "currency": "EUR",
+    "formatted": "9208.2 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0009348",
+      "sku": "PI-0009348",
+      "supplierRef": "27180314",
+      "price": {
+        "amount": 9208.2,
+        "currency": "EUR",
+        "formatted": "9208.2 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/r/procopi-piscine-bois-600-x-250-cm-couverture-coffre-et-filtre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/u/r/urbaine_6.2_avec_fas.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/u/r/urbaine_6.2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/u/r/urbaine_6.2_avec_coffre_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/u/r/urbaine_6.2_avec_coffre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:30:52.509Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/procopi-piscine-bois-600-x-250-cm-couverture-coffre-et-filtre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009348/01-procopi-piscine-bois-600-x-250-cm-couverture-coffre-et-filtre.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/u/r/urbaine_6.2_avec_fas.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009348/02-urbaine_6.2_avec_fas.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/u/r/urbaine_6.2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009348/03-urbaine_6.2.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/u/r/urbaine_6.2_avec_coffre_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009348/04-urbaine_6.2_avec_coffre_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/u/r/urbaine_6.2_avec_coffre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009348/05-urbaine_6.2_avec_coffre.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "sku": "SU-0003426",
+  "url": "https://www.cabesto.com/fr/lampe-de-plongee-t5-seac-sub-pl-19012.html",
+  "title": "Lampe de plongée T5 300 lumens SEAC SUB",
+  "brand": "SEAC",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe de plongée T5 300 lumens SEAC SUB"
+  ],
+  "description": "LAMPE DE PLONGEE T5 SEAC SUBEclairez vos sorties plongée et apnée avec la lampe T5 SEAC SUB, compacte et métallique.Avec son corps en aluminium résistant étanche à - 100 mètres et son verre optique trempé, la lampe de plongée sous-marine étanche T5 SEAC offre une intensité lumineuse de 300 lumens (équivalent 30 W) pour une taille réduite de seulement 14.4 cm.Idéale comme première lampe étanche, elle peut se ranger facilement dans une poche de gilet stabilisateur.Son alimentation se fait par 3 x alcalines AAA (LR03) dans un chariot porte pile très pratique à manipuler (piles non fournies ici). Interrupteur métallique type poussoir avec une bague de sécurité pour le transport et le stockage. Son faisceau est concentré avec un angle de 9° pour une portée pratique maximale. Batterie rechargeable 18650 possible en option...Dimensions : 31.9mm de diamètre, longueur 144mm.Poids : 125grIntensité lumineuse : 300 lumensAutonomie : 2.2 heuresBatterie : 3 x Alkaline AAA NON FOURNIESEtanche à 100m",
+  "supplierRef": "0500026020000A",
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR",
+    "formatted": "39.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003426",
+      "sku": "SU-0003426",
+      "supplierRef": "0500026020000A",
+      "price": {
+        "amount": 39.99,
+        "currency": "EUR",
+        "formatted": "39.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-19012-pl-19012-picture_3-pl-19012-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/5/t5_50-26_an_10_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-19012-pl-19012-picture_2-pl-19012-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/5/t5_50-26_an_16_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/5/t5_50-26_an_11_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/5/t5_50-26_an_14_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/5/t5_50-26_an_03_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/5/t5_50-26_an_23_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:22.394Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-19012-pl-19012-picture_3-pl-19012-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003426/01-pl-19012-pl-19012-picture_3-pl-19012-3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/5/t5_50-26_an_10_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003426/02-t5_50-26_an_10_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-19012-pl-19012-picture_2-pl-19012-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003426/03-pl-19012-pl-19012-picture_2-pl-19012-2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/5/t5_50-26_an_16_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003426/04-t5_50-26_an_16_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/5/t5_50-26_an_11_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003426/05-t5_50-26_an_11_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/5/t5_50-26_an_14_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003426/06-t5_50-26_an_14_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/5/t5_50-26_an_03_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003426/07-t5_50-26_an_03_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/5/t5_50-26_an_23_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003426/08-t5_50-26_an_23_800.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

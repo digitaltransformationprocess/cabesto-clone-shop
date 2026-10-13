@@ -1,0 +1,125 @@
+{
+  "sku": "PCPL-535",
+  "url": "https://www.cabesto.com/fr/plongee-arbalete-moicano-cressi-sub-pcpl-535.html",
+  "title": "ARBALETE MOICANO CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "arbaletes",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ARBALETE MOICANO CRESSI SUB"
+  ],
+  "description": "Chassez à l'indienne (mais sans les plumes !) avec l'arbalète MOICANO CRESSI SUB, made in Itally bien sûr.MOICANO est une arbalète pour la pêche rapide, grâce à sa maniabilité excellente et son fût en aluminium anticorrosion de Ø26 mm, avec un fût innovant extrêmement rigide.Nouvelle crosse anatomique Nouvelle tête, complètement arrondie et redessinée pour un repositionnement rapide de la flèche après un tir, sans devoir respecter l’alignement longitudinal par rapport au fût.Compacte, minimaliste et hydrodynamique.La fixation des sandows est alignée avec le fût, afin que la force de traction soit parfaitement parallèle.La visibilité offerte par la tête est excellente, la visée est précise, rapide et intuitive. Le guide pour la ligne ou le fil est simple, en inox et intégré dans la tête.Fût camouflage dans les tons verts et bruns. Esthétiquement attrayant, en teintes multifonctions pour les zones méditerranéennes et atlantiques.Sandows en latex pur de haute qualité, noir, S45 de 18 mm de diamètre, qui peuvent être remplacés par le G20 de diamètre 20 mm.Obus articulé français Il est considéré comme le meilleur obus, le plus sûr et le plus facile d’utilisation du fait de sa conception angulaire et du profil de la plaque.Tiges en inox AISI 304 durci de ø4 mm avec blocage par rondelle et écrou.Flèche en acier trempé 17 4 PH (AISI 630), 6 mm de diamètre. Revêtement foncé.Dimensions: 60, 75, 85, et 95 cm.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-535",
+      "sku": "PCPL-535",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/8/7/871_fe343060_226n_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/7/871_side6_m.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/_/z_0fe343060_55.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/_/z_0fe343060_54.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/_/z_0fe343060_53.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/7/871_side12_m.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/_/z_0fe343060_52.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/_/z_0fe343060_51.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/7/871_side11_m.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/_/z_0fe343060_50.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/7/871_cressi-moicano-spearguns-sizes_h97k_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:31:22.700Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/7/871_fe343060_226n_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-535/01-871_fe343060_226n_z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/7/871_side6_m.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-535/02-871_side6_m.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/_/z_0fe343060_55.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-535/03-z_0fe343060_55.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/_/z_0fe343060_54.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-535/04-z_0fe343060_54.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/_/z_0fe343060_53.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-535/05-z_0fe343060_53.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/7/871_side12_m.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-535/06-871_side12_m.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/_/z_0fe343060_52.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-535/07-z_0fe343060_52.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/_/z_0fe343060_51.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-535/08-z_0fe343060_51.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/7/871_side11_m.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-535/09-871_side11_m.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/_/z_0fe343060_50.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-535/10-z_0fe343060_50.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/7/871_cressi-moicano-spearguns-sizes_h97k_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-535/11-871_cressi-moicano-spearguns-sizes_h97k_z.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "chasse-sous-marine",
+    "arbaletes-et-fusils-harpons",
+    "arbaletes"
+  ],
+  "categories": [
+    "plongee",
+    "chasse-sous-marine",
+    "arbaletes-et-fusils-harpons",
+    "arbaletes"
+  ]
+}

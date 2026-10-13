@@ -1,0 +1,67 @@
+{
+  "sku": "NU-0012150",
+  "url": "https://www.cabesto.com/fr/tavolo-pieghevole-rettangolare-80x40-cm.html",
+  "title": "Table pliante rectangulaire - 80x40 - OSCULATI",
+  "brand": "OSCULATI",
+  "category": "Sélection Nautisme",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Nautisme",
+    "Confort à bord",
+    "Table, Chaise, Support de table",
+    "Table",
+    "Sélection Nautisme"
+  ],
+  "categories": [
+    "Nautisme",
+    "Confort à bord",
+    "Table, Chaise, Support de table",
+    "Table",
+    "Sélection Nautisme"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Table pliante rectangulaire - 80x40 - OSCULATI"
+  ],
+  "description": "Achetez Table pliante rectangulaire - 80x40 - OSCULATI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "48.354.02",
+  "price": {
+    "amount": 109.99,
+    "currency": "EUR",
+    "formatted": "109.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0012150",
+      "sku": "NU-0012150",
+      "supplierRef": "48.354.02",
+      "price": {
+        "amount": 109.99,
+        "currency": "EUR",
+        "formatted": "109.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/n/en_48.354.02_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:07:49.050Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/en_48.354.02_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "HTTP 503"
+    }
+  ]
+}

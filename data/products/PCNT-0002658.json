@@ -1,0 +1,115 @@
+{
+  "sku": "PCNT-0002658",
+  "url": "https://www.cabesto.com/fr/randonnee-sandales-stream-homme-source-7608.html",
+  "title": "Sandales de marche homme STREAM PARALLELE GREEN SOURCE",
+  "brand": "SOURCE",
+  "category": "Sandales Homme",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Sandales",
+    "Sandales Homme"
+  ],
+  "categories": [
+    "Sandales",
+    "Sandales Homme"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sandales de marche homme STREAM PARALLELE GREEN SOURCE"
+  ],
+  "description": "Les sandales de marche ou après marche homme Stream SOURCE sont idéales pour les passages en milieux humides.",
+  "supplierRef": null,
+  "price": {
+    "amount": 71.2,
+    "currency": "EUR",
+    "formatted": "71.2 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0002658",
+      "sku": "PCNT-0002658",
+      "supplierRef": null,
+      "price": {
+        "amount": 71.2,
+        "currency": "EUR",
+        "formatted": "71.2 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/7/6/7608_1_l-sandales-stream-homme-source_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/r/arpin.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/0/101021c4-stream-iceberg_gray_2_002__6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/parrell_green.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/para_green.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/parra_green.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/semelle_parra_green.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/6/7608_1_l-sandales-stream-homme-source_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/6/7608_1_l-sandales-stream-homme-source_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/6/7608_1_l-sandales-stream-homme-source_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:25:33.480Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/6/7608_1_l-sandales-stream-homme-source_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002658/01-7608_1_l-sandales-stream-homme-source_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/r/arpin.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002658/02-arpin.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/0/101021c4-stream-iceberg_gray_2_002__6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002658/03-101021c4-stream-iceberg_gray_2_002__6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/parrell_green.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002658/04-parrell_green.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/para_green.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002658/05-para_green.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/parra_green.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002658/06-parra_green.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/semelle_parra_green.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002658/07-semelle_parra_green.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/6/7608_1_l-sandales-stream-homme-source_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002658/08-7608_1_l-sandales-stream-homme-source_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/6/7608_1_l-sandales-stream-homme-source_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002658/09-7608_1_l-sandales-stream-homme-source_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/6/7608_1_l-sandales-stream-homme-source_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002658/10-7608_1_l-sandales-stream-homme-source_4.jpg",
+      "skipped": false
+    }
+  ]
+}

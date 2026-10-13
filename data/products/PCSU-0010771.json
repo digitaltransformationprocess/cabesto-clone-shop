@@ -1,0 +1,151 @@
+{
+  "sku": "PCSU-0010771",
+  "url": "https://www.cabesto.com/fr/gilet-stabilisateur-de-plongee-sous-marine-prestige-mares-pcsu-0010771.html",
+  "title": "Gilet stabilisateur de plongée sous-marine PRESTIGE MARES",
+  "brand": "MARES",
+  "category": "Black November - Plongée",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Gilets stabilisateurs",
+    "Gilets de plongée réglables",
+    "Destockage Plongée / Chasse sous-marine",
+    "Black November - Plongée",
+    "Ventes privées Plongée / Chasse sous-marine"
+  ],
+  "categories": [
+    "Gilets stabilisateurs",
+    "Gilets de plongée réglables",
+    "Destockage Plongée / Chasse sous-marine",
+    "Black November - Plongée",
+    "Ventes privées Plongée / Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gilet stabilisateur de plongée sous-marine PRESTIGE MARES"
+  ],
+  "description": "Plongez confortablement et durablement avec le nouveau gilet stabilisateur PRESTIGE MARES, le gilet stab idéal pour vos aventures subaquatiques avec sa coupe unisexe ajustée, ses lests largables intégrés et sa flottabilité importante.",
+  "supplierRef": null,
+  "price": {
+    "amount": 399,
+    "currency": "EUR",
+    "formatted": "399 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0010771",
+      "sku": "PCSU-0010771",
+      "supplierRef": null,
+      "price": {
+        "amount": 399,
+        "currency": "EUR",
+        "formatted": "399 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/r/presss.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32591-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-518-pl-518-picture_1-pl-518-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/p/spirale_extensible_et_mousqueton_de_securite-22865-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_6_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_7_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bcd_2023.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_17_22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:37:36.680Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presss.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/01-presss.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32591-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/02--p-image-32591-grande.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-518-pl-518-picture_1-pl-518-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/03-pl-518-pl-518-picture_1-pl-518-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/p/spirale_extensible_et_mousqueton_de_securite-22865-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/04-spirale_extensible_et_mousqueton_de_securite-22865-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/05-prestige-black-silver_3_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/06-prestige-black-silver_2_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/07-prestige-black-silver_4_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/08-prestige-black-silver_5_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_6_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/09-prestige-black-silver_6_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_7_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/10-prestige-black-silver_7_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bcd_2023.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/11-bcd_2023.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_17_22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/12-hqdefault_17_22.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/13-prestige-black-silver_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/14-prestige-black-silver.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/prestige-black-silver_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010771/15-prestige-black-silver_3.jpg",
+      "skipped": false
+    }
+  ]
+}

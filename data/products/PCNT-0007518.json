@@ -1,0 +1,71 @@
+{
+  "sku": "PCNT-0007518",
+  "url": "https://www.cabesto.com/fr/randonnee-lampe-frontale-petzl-tactikka-pz90.html",
+  "title": "Lampe frontale PETZL Tactikka+",
+  "brand": "PETZL",
+  "category": "lampes-frontales",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "securite-navigation",
+    "signalisation-visuelle-et-sonore",
+    "lampes-frontales"
+  ],
+  "categories": [
+    "nautisme",
+    "securite-navigation",
+    "signalisation-visuelle-et-sonore",
+    "lampes-frontales"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe frontale PETZL Tactikka+"
+  ],
+  "description": "Achetez Lampe frontale PETZL Tactikka+ chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0007518",
+      "sku": "PCNT-0007518",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pz90_1_d-lampe-frontale-tactikka--petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz90_1_am.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:32:21.517Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz90_1_d-lampe-frontale-tactikka--petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007518/01-pz90_1_d-lampe-frontale-tactikka--petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz90_1_am.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007518/02-pz90_1_am.jpg",
+      "skipped": false
+    }
+  ]
+}

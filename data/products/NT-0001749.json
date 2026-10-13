@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0001749",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-boeuf-stroganoff-au-riz-trek-n-eat-nt-0001749.html",
+  "title": "Boeuf Stroganoff au riz - TREK'N EAT",
+  "brand": "TREK'N EAT",
+  "category": "Aliments lyophilisés et déshydratés",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Aliments lyophilisés et déshydratés"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Aliments lyophilisés et déshydratés"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Boeuf Stroganoff au riz - TREK'N EAT"
+  ],
+  "description": "Achetez Boeuf Stroganoff au riz - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "TE30202001",
+  "price": {
+    "amount": 10.95,
+    "currency": "EUR",
+    "formatted": "10.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0001749",
+      "sku": "NT-0001749",
+      "supplierRef": "TE30202001",
+      "price": {
+        "amount": 10.95,
+        "currency": "EUR",
+        "formatted": "10.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/3/0/3034_1-boeuf-stroganoff-au-riz-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3034_4-boeuf-stroganoff-au-riz-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3034_3-boeuf-stroganoff-au-riz-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3034_2-boeuf-stroganoff-au-riz-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3034_1-boeuf-stroganoff-au-riz-trek_n-eat_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:22:36.651Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3034_1-boeuf-stroganoff-au-riz-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001749/01-3034_1-boeuf-stroganoff-au-riz-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3034_4-boeuf-stroganoff-au-riz-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001749/02-3034_4-boeuf-stroganoff-au-riz-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3034_3-boeuf-stroganoff-au-riz-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001749/03-3034_3-boeuf-stroganoff-au-riz-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3034_2-boeuf-stroganoff-au-riz-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001749/04-3034_2-boeuf-stroganoff-au-riz-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3034_1-boeuf-stroganoff-au-riz-trek_n-eat_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001749/05-3034_1-boeuf-stroganoff-au-riz-trek_n-eat_1.jpg",
+      "skipped": false
+    }
+  ]
+}

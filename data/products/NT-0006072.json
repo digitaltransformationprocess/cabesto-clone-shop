@@ -1,0 +1,91 @@
+{
+  "sku": "NT-0006072",
+  "url": "https://www.cabesto.com/fr/verticalite-amarrage-connexion-vario-180-400-petzl-nt-0006072.html",
+  "title": "Amarrage Connexion Vario 180-400 - PETZL",
+  "brand": "PETZL",
+  "category": "Ancrages-amarrages",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Ancrages-amarrages"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Ancrages-amarrages"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Amarrage Connexion Vario 180-400 - PETZL"
+  ],
+  "description": "Achetez Amarrage Connexion Vario 180-400 - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "G011AA01",
+  "price": {
+    "amount": 79.95,
+    "currency": "EUR",
+    "formatted": "79.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006072",
+      "sku": "NT-0006072",
+      "supplierRef": "G011AA01",
+      "price": {
+        "amount": 79.95,
+        "currency": "EUR",
+        "formatted": "79.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl28_1-amarrage-connexion-vario-180-400-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl28_4-amarrage-connexion-vario-180-400-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl28_3-amarrage-connexion-vario-180-400-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl28_2-amarrage-connexion-vario-180-400-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl28_1-amarrage-connexion-vario-180-400-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:19:40.821Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl28_1-amarrage-connexion-vario-180-400-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006072/01-pl28_1-amarrage-connexion-vario-180-400-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl28_4-amarrage-connexion-vario-180-400-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006072/02-pl28_4-amarrage-connexion-vario-180-400-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl28_3-amarrage-connexion-vario-180-400-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006072/03-pl28_3-amarrage-connexion-vario-180-400-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl28_2-amarrage-connexion-vario-180-400-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006072/04-pl28_2-amarrage-connexion-vario-180-400-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl28_1-amarrage-connexion-vario-180-400-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006072/05-pl28_1-amarrage-connexion-vario-180-400-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "sku": "SU-0003353",
+  "url": "https://www.cabesto.com/fr/livre-plongee-plaisir-niv-1-turtle-prod-su-0003353.html",
+  "title": "LIVRE PLONGEE PLAISIR NIVEAU 1 ALAIN FORET ET PABLO TORRES EDITION GAP",
+  "brand": "TURTLE PROD",
+  "category": "Formation",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "LIVRE PLONGEE PLAISIR NIVEAU 1 ALAIN FORET ET PABLO TORRES EDITION GAP"
+  ],
+  "description": "Plongée Plaisir Niveau 1 : Votre Guide Essentiel pour DébuterPassez votre niveau 1 de plongée FFESSM avec le livre PLONGEE PLAISIR NIVEAU III d'Alain Foret, le manuel complet pour réussir votre formation de plongée niveau 1.Le livre \"Plongée Plaisir Niveau 1\" est une référence incontournable pour tous ceux qui souhaitent s'initier à la plongée sous-marine.Écrit par Alain Foret et Pablo Torres, cet ouvrage couvre l'intégralité du programme de formation au brevet de plongée niveau 1, conformément aux standards de la FFESSM et de la CMAS.Avec ses 160 pages, il propose des explications claires et détaillées sur les techniques de plongée, les équipements, et les règles de sécurité. Ce manuel inclut également des tests d'auto-évaluation pour vous permettre de progresser à votre rythme.Que vous soyez débutant ou que vous cherchiez à renforcer vos connaissances, ce livre est conçu pour vous accompagner dans votre apprentissage et vous préparer à explorer le monde subaquatique en toute sérénité.Caractéristiques Plongée Plaisir Niveau 1Programme complet pour le brevet de plongée niveau 1Conforme aux standards FFESSM et CMAS160 pages d'explications claires et détailléesTests d'auto-évaluation inclusIdéal pour débutants et plongeurs en formationInformations techniques :AuteursAlain Foret, Pablo TorresNombre de pages160ÉditeurEditions GAPISBN9782741706397ConformitéFFESSM, CMASContenu du colis1 x Livre \"Plongée Plaisir Niveau 1\"",
+  "supplierRef": "GAP02",
+  "price": {
+    "amount": 13.5,
+    "currency": "EUR",
+    "formatted": "13.5 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003353",
+      "sku": "SU-0003353",
+      "supplierRef": "GAP02",
+      "price": {
+        "amount": 13.5,
+        "currency": "EUR",
+        "formatted": "13.5 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/i/livre-plong_e-plaisir-niveau-1_4mrknw4o4bklap4v.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:33:58.527Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/i/livre-plong_e-plaisir-niveau-1_4mrknw4o4bklap4v.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003353/01-livre-plong_e-plaisir-niveau-1_4mrknw4o4bklap4v.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Formation"
+  ],
+  "categories": [
+    "Formation"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "sku": "PI-0007006",
+  "url": "https://www.cabesto.com/fr/piscine-douche-solaire-cobra-bleu-32-litres-rince-pieds-pi-1517.html",
+  "title": "Douche solaire cobra bleu 32 litres + rince pieds",
+  "brand": "POOLSTAR",
+  "category": "Douche piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "douche-piscine"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "douche-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Douche solaire cobra bleu 32 litres + rince pieds"
+  ],
+  "description": "Achetez Douche solaire cobra bleu 32 litres + rince pieds chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "DS-C720BL",
+  "price": {
+    "amount": 298.8,
+    "currency": "EUR",
+    "formatted": "298.8 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0007006",
+      "sku": "PI-0007006",
+      "supplierRef": "DS-C720BL",
+      "price": {
+        "amount": 298.8,
+        "currency": "EUR",
+        "formatted": "298.8 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/1/41xqh3ZrBnL._AC_SL1000_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/1/81PKvHKBlsL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/1/31FCJVtdSuL._AC_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/1/31ef0PLRNmL._AC_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/1/51KlNoTJ5rL._AC_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:40:35.636Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/41xqh3ZrBnL._AC_SL1000_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007006/01-41xqh3ZrBnL._AC_SL1000_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/1/81PKvHKBlsL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007006/02-81PKvHKBlsL._AC_SL1500_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/1/31FCJVtdSuL._AC_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007006/03-31FCJVtdSuL._AC_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/1/31ef0PLRNmL._AC_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007006/04-31ef0PLRNmL._AC_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/1/51KlNoTJ5rL._AC_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007006/05-51KlNoTJ5rL._AC_.jpg",
+      "skipped": false
+    }
+  ]
+}

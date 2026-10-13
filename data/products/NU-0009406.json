@@ -1,0 +1,73 @@
+{
+  "sku": "NU-0009406",
+  "url": "https://www.cabesto.com/fr/ratelier-pour-canne-a-peche-3-emplacements-198x62-mm.html",
+  "title": "Ratelier pour canne à pêche - 3 emplacements - 198x62 mm - NAVEO",
+  "brand": "DIVERS",
+  "category": "Nautisme",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "ventes-privees",
+    "nautisme"
+  ],
+  "categories": [
+    "ventes-privees",
+    "nautisme"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pêche",
+    "Pêche",
+    "Cannes",
+    "Cannes",
+    "À Soutenir",
+    "À Soutenir",
+    "Ratelier pour canne à pêche - 3 emplacements - 198x62 mm - NAVEO"
+  ],
+  "description": "Achetez Ratelier pour canne à pêche - 3 emplacements - 198x62 mm - NAVEO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "41.127.50",
+  "price": {
+    "amount": 16.99,
+    "currency": "EUR",
+    "formatted": "16.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0009406",
+      "sku": "NU-0009406",
+      "supplierRef": "41.127.50",
+      "price": {
+        "amount": 16.99,
+        "currency": "EUR",
+        "formatted": "16.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/en_41.127.50.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:25:13.947Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0009406/01-sans_titre5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/en_41.127.50.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0009406/02-en_41.127.50.jpg",
+      "skipped": false
+    }
+  ]
+}

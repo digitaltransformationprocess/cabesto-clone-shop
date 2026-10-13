@@ -1,0 +1,97 @@
+{
+  "sku": "PBSU-60",
+  "url": "https://www.cabesto.com/fr/pack-lampe-de-plongee-photo-video-d710v-platine-h02-pour-camera-orcatorch.html",
+  "title": "Pack lampe de plongée photo/vidéo D710V + platine H02 pour caméra ORCATORCH",
+  "brand": "ORCATORCH",
+  "category": "eclairages",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pack lampe de plongée photo/vidéo D710V + platine H02 pour caméra ORCATORCH"
+  ],
+  "description": "Pack lampe de plongée photo/vidéo D710V + platine H02 pour caméra ORCATORCHFilmez, éclairez et plongez avec le kit combo photo et vidéo lampe D710V avec sa platine H02 ORCATORCH, légère, compacte et pratique.Voyagez et plongez léger avec la platine H02 et le phare D710V ORCATORCH, un ensemble phare de plongée avec sa platine idéal pour filmer avec une caméra GO PRO ou un appareil photo.Le kit combiné ORCATORCH comprend une lampe de plongée vidéo D710V, une platine de caméra H02 (1 plateau de base Mini ZJ17, 1 poignée de déverrouillage ZJ12, 1 pince à rotule ZJ13).Le produit en vidéoKit complet comprenant platine, bras, rotule, clamp, phare photo & vidéo1 x Platine de base Mini ZJ17 avec fixation GO PRO1 x Poignée avec sphère ZJ121 x Pince à rotule ZJ131 x Lampe D710V ORCATORCH1 x Batterie 21700 Li-ion rechargeable USB1 x Cordon USB Type-C1 x Bras avec sphere ZJ181 x Dragonne1 x Boite de transport3 x Joints toriques de rechangePhare de plongée sous-marine D710V ORCATORCHLampe étanche rechargeable pour la photo & la vidéoEclairage blanc LED, rouge RED, ultra-violet UVPuissance max 2000 Lumens pendant 1h30Angle du faisceau 120°, 2 puissances 2000 et 600 LumensBatterie rechargeable USB-C et bras de fixation livréePlatine H02 ORCATORCHPlatine pour GO PRO et appareil photo1 Poignée + 1 Clamp + 1 Rotule + 1 fixation go proLégèreCompactePratiqueBatterie 21700 rechargeable USB-CBatterie rechargeable lithium-ionRechargeable par cordon USB type-C3.6V 5000 mAhCaractéristiques Pack lampe de plongée photo/vidéo D710V + platine pour caméra H02 ORCATORCHKit combo phare + platine pour la vidéo et la photoPhare D710V LED 2000 ou 600 Lumens / RED 125 Lumens / UV 2.5 LumensPlatine pour GO PRO, action cam et appareil photo H02 ORCATORCHInformations techniques :Dimensions platine Longueur 160 mm / Largeur 55 mmDimensions lampe Longueur 154.9 mm / ⌀ Tube 27 mm / ⌀ Tête 36Profondeur max - 150 mètresAutonomie 1h30 en 2000 Lumens / 3h05 en 600 LumensPuissance RED 125 Lumens pendant 4h30Puissance UV 2.5 Lumens pendant 6h40Puissance LED 2000 Lumens (high) / 600 Lumens (low)Angle du faisceau 120°Contenu du colis1 x Platine de base Mini ZJ17 avec fixation GO PRO1 x Poignée avec sphère ZJ121 x Pince à rotule ZJ131 x Lampe D710V ORCATORCH1 x Batterie 21700 Li-ion rechargeable USB1 x Cordon USB Type-C1 x Bras avec sphere ZJ181 x Dragonne1 x Boite de transport3 x Joints toriques de rechange",
+  "supplierRef": null,
+  "price": {
+    "amount": 258,
+    "currency": "EUR",
+    "formatted": "258 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PBSU-60",
+      "sku": "PBSU-60",
+      "supplierRef": null,
+      "price": {
+        "amount": 258,
+        "currency": "EUR",
+        "formatted": "258 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/f/0/f0c04c519c-single-d710v-combo-kit3_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/5/15b259360a-single-d710v-combo-kit4_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/b/5b2c8edb4f-single-d710v-combo-kit2_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26aabda385-single-d710v-combo-kit5_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/d/7dda40a669-single-d710v-combo-kit1_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_9_16.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:33:25.476Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/0/f0c04c519c-single-d710v-combo-kit3_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PBSU-60/01-f0c04c519c-single-d710v-combo-kit3_1_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/5/15b259360a-single-d710v-combo-kit4_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PBSU-60/02-15b259360a-single-d710v-combo-kit4_1_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/b/5b2c8edb4f-single-d710v-combo-kit2_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PBSU-60/03-5b2c8edb4f-single-d710v-combo-kit2_1_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26aabda385-single-d710v-combo-kit5_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PBSU-60/04-26aabda385-single-d710v-combo-kit5_1_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/d/7dda40a669-single-d710v-combo-kit1_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PBSU-60/05-7dda40a669-single-d710v-combo-kit1_1_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_9_16.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PBSU-60/06-hqdefault_9_16.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "eclairage-photo-video",
+    "photo-video-plongee",
+    "eclairages"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "eclairage-photo-video",
+    "photo-video-plongee",
+    "eclairages"
+  ]
+}

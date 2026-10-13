@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0002090",
+  "url": "https://www.cabesto.com/fr/kouign-amann-350-g.html",
+  "title": "KOUIGN AMANN 350 G",
+  "brand": "BISCUITS D'YS",
+  "category": "Biscuiterie marine",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "KOUIGN AMANN 350 G"
+  ],
+  "description": "Achetez KOUIGN AMANN 350 G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3353630000177",
+  "price": {
+    "amount": 5.94,
+    "currency": "EUR",
+    "formatted": "5.94 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002090",
+      "sku": "AL-0002090",
+      "supplierRef": "3353630000177",
+      "price": {
+        "amount": 5.94,
+        "currency": "EUR",
+        "formatted": "5.94 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6069486-6069486-picture_1-6069486_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:56:17.471Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6069486-6069486-picture_1-6069486_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002090/01-6069486-6069486-picture_1-6069486_1.jpg",
+      "skipped": true
+    }
+  ]
+}

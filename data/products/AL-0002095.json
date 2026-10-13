@@ -1,0 +1,77 @@
+{
+  "sku": "AL-0002095",
+  "url": "https://www.cabesto.com/fr/kouign-amann-pur-beurre-600g.html",
+  "title": "KOUIGN AMANN PUR BEURRE 600G",
+  "brand": "BERROU",
+  "category": "Biscuiterie marine",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "KOUIGN AMANN PUR BEURRE 600G"
+  ],
+  "description": "Achetez KOUIGN AMANN PUR BEURRE 600G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3294510006004.",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002095",
+      "sku": "AL-0002095",
+      "supplierRef": "3294510006004.",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0002095.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/o/kouign_600.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/0/6007667-6007667-picture_1-6007667_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:02:29.881Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0002095.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002095/01-al-0002095.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/o/kouign_600.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002095/02-kouign_600.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6007667-6007667-picture_1-6007667_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002095/03-6007667-6007667-picture_1-6007667_1.jpg",
+      "skipped": false
+    }
+  ]
+}

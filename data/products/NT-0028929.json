@@ -1,0 +1,71 @@
+{
+  "sku": "NT-0028929",
+  "url": "https://www.cabesto.com/fr/chargeur-solaire-frendo-5w.html",
+  "title": "Chargeur Solaire FRENDO 5W",
+  "brand": "FRENDO",
+  "category": "piles-batteries-et-chargeurs",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "eclairage",
+    "piles-batteries-et-chargeurs"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "eclairage",
+    "piles-batteries-et-chargeurs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chargeur Solaire FRENDO 5W"
+  ],
+  "description": "Achetez Chargeur Solaire FRENDO 5W chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "301452",
+  "price": {
+    "amount": 32.9,
+    "currency": "EUR",
+    "formatted": "32.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028929",
+      "sku": "NT-0028929",
+      "supplierRef": "301452",
+      "price": {
+        "amount": 32.9,
+        "currency": "EUR",
+        "formatted": "32.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/3/0/301452-solo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/301452.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:44:44.300Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/301452-solo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028929/01-301452-solo.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/301452.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028929/02-301452.jpg",
+      "skipped": false
+    }
+  ]
+}

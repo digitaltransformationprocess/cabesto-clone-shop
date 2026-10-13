@@ -1,0 +1,91 @@
+{
+  "sku": "PCNT-0013506",
+  "url": "https://www.cabesto.com/fr/chaussons-miura-vs.html",
+  "title": "Chaussons Escalade Miura VS - La Sportiva",
+  "brand": "LA SPORTIVA",
+  "category": "Chaussons d'escalade homme, mixtes",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Escalade",
+    "Chaussons d'escalade",
+    "Destockage Montagne",
+    "Chaussons d'escalade homme, mixtes",
+    "Ventes privées Montagne"
+  ],
+  "categories": [
+    "Escalade",
+    "Chaussons d'escalade",
+    "Destockage Montagne",
+    "Chaussons d'escalade homme, mixtes",
+    "Ventes privées Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussons Escalade Miura VS - La Sportiva"
+  ],
+  "description": "Achetez Chaussons Escalade Miura VS - La Sportiva chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 99,
+    "currency": "EUR",
+    "formatted": "99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0013506",
+      "sku": "PCNT-0013506",
+      "supplierRef": null,
+      "price": {
+        "amount": 99,
+        "currency": "EUR",
+        "formatted": "99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/a/ka13_1_f-chaussons-miura-vs-la-sportiva_21.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka13_2_f-chaussons-miura-vs-la-sportiva.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka13_1_f-chaussons-miura-vs-la-sportiva_22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka13_1_f-chaussons-miura-vs-la-sportiva.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka13_1_f-chaussons-miura-vs-la-sportiva_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:26:25.993Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka13_1_f-chaussons-miura-vs-la-sportiva_21.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0013506/01-ka13_1_f-chaussons-miura-vs-la-sportiva_21.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka13_2_f-chaussons-miura-vs-la-sportiva.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0013506/02-ka13_2_f-chaussons-miura-vs-la-sportiva.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka13_1_f-chaussons-miura-vs-la-sportiva_22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0013506/03-ka13_1_f-chaussons-miura-vs-la-sportiva_22.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka13_1_f-chaussons-miura-vs-la-sportiva.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0013506/04-ka13_1_f-chaussons-miura-vs-la-sportiva.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka13_1_f-chaussons-miura-vs-la-sportiva_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0013506/05-ka13_1_f-chaussons-miura-vs-la-sportiva_1.jpg",
+      "skipped": false
+    }
+  ]
+}

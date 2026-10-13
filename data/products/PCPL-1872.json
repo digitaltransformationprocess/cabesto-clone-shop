@@ -1,0 +1,67 @@
+{
+  "sku": "PCPL-1872",
+  "url": "https://www.cabesto.com/fr/plongee-flexible-mp-vp-extraflex-3-8-m-9-16-f-110-cm-pcpl-1872.html",
+  "title": "Flexible moyenne pression tressé extraflex 100 cm JAUNE mâle 3/8\" / femelle 9/16\" AQUATYS",
+  "brand": "AQUATYS",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Flexible moyenne pression tressé extraflex 100 cm JAUNE mâle 3/8\" / femelle 9/16\" AQUATYS"
+  ],
+  "description": "Flexible moyenne pression tressé extraflex 100 cm JAUNE mâle 3/8\" - femelle 9/16\"Découvrez nos flexibles moyenne pression tressés : pas cher, plus résitant, plus souple et plus léger qu'un flexible classique.Flexible tressé moyenne pression pour détendeur de plongée.Longueur pour \"OCTOPUS\" : 100 cmConnexion mâle côté 1er étage détendeur : 3/8\"Connexion femelle côté 2ème étage détedneur : 9/16\"Made in ItalyCertifié CE par la RINA",
+  "supplierRef": null,
+  "price": {
+    "amount": 27.99,
+    "currency": "EUR",
+    "formatted": "27.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1872",
+      "sku": "PCPL-1872",
+      "supplierRef": null,
+      "price": {
+        "amount": 27.99,
+        "currency": "EUR",
+        "formatted": "27.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/f/l/flexocto.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/l/flexible-detendeur-nylon-tresse-jaune-100cm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:07.720Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/l/flexocto.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1872/01-flexocto.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/l/flexible-detendeur-nylon-tresse-jaune-100cm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1872/02-flexible-detendeur-nylon-tresse-jaune-100cm.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

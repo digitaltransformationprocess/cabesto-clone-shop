@@ -1,0 +1,73 @@
+{
+  "sku": "AL-0001861",
+  "url": "https://www.cabesto.com/fr/gambas-geantes-crues-sauvages-4-7-pieces-500gr.html",
+  "title": "GAMBAS GEANTES CRUES SAUVAGES 4/7 PIECES 500GR",
+  "brand": "GEL PECHE",
+  "category": "crevettes-et-gambas",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "crevettes-et-gambas"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "crevettes-et-gambas"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Alimentation",
+    "Alimentation",
+    "Produits surgelés",
+    "Produits surgelés",
+    "GAMBAS GEANTES CRUES SAUVAGES 4/7 PIECES 500GR"
+  ],
+  "description": "Achetez GAMBAS GEANTES CRUES SAUVAGES 4/7 PIECES 500GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1HOS0407BROSIN11",
+  "price": {
+    "amount": 14.99,
+    "currency": "EUR",
+    "formatted": "14.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001861",
+      "sku": "AL-0001861",
+      "supplierRef": "1HOS0407BROSIN11",
+      "price": {
+        "amount": 14.99,
+        "currency": "EUR",
+        "formatted": "14.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/a/gambas_sauvages_g_antes_inde_500g_4-7.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/AL-0001861.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:53:23.695Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/gambas_sauvages_g_antes_inde_500g_4-7.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001861/01-gambas_sauvages_g_antes_inde_500g_4-7.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/AL-0001861.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001861/02-AL-0001861.jpg",
+      "skipped": true
+    }
+  ]
+}

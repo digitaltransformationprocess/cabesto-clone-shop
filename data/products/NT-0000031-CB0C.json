@@ -1,0 +1,79 @@
+{
+  "sku": "NT-0000031-CB0C",
+  "url": "https://www.cabesto.com/fr/verticalite-corde-parallel-10-5mm-jaune-100m-petzl-nt-0000031-cb0c.html",
+  "title": "Corde Parallel 10.5mm Jaune - 100m - PETZL",
+  "brand": "PETZL",
+  "category": "Cordes statiques",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Cordes statiques"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Cordes statiques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Corde Parallel 10.5mm Jaune - 100m - PETZL"
+  ],
+  "description": "Achetez Corde Parallel 10.5mm Jaune - 100m - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "R077AA10",
+  "price": {
+    "amount": 234.95,
+    "currency": "EUR",
+    "formatted": "234.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0000031-CB0C",
+      "sku": "NT-0000031-CB0C",
+      "supplierRef": "R077AA10",
+      "price": {
+        "amount": 234.95,
+        "currency": "EUR",
+        "formatted": "234.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pc56_1-corde-parallel-105-mm-jaune---100-m-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pc56_2-corde-parallel-105-mm-jaune---100-m-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pc56_1-corde-parallel-105-mm-jaune---100-m-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:18:07.637Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pc56_1-corde-parallel-105-mm-jaune---100-m-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000031-CB0C/01-pc56_1-corde-parallel-105-mm-jaune---100-m-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pc56_2-corde-parallel-105-mm-jaune---100-m-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000031-CB0C/02-pc56_2-corde-parallel-105-mm-jaune---100-m-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pc56_1-corde-parallel-105-mm-jaune---100-m-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000031-CB0C/03-pc56_1-corde-parallel-105-mm-jaune---100-m-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

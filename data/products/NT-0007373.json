@@ -1,0 +1,79 @@
+{
+  "sku": "NT-0007373",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-kit-couverts-camp-3-pieces-sea-to-summit-nt-0007373.html",
+  "title": "KIT COUVERTS CAMP 3 pièces - SEA TO SUMMIT",
+  "brand": "SEA TO SUMMIT",
+  "category": "Couverts, couteaux",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Couverts, couteaux"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Couverts, couteaux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "KIT COUVERTS CAMP 3 pièces - SEA TO SUMMIT"
+  ],
+  "description": "Achetez KIT COUVERTS CAMP 3 pièces - SEA TO SUMMIT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "DCAMPCUTSET",
+  "price": {
+    "amount": 4.95,
+    "currency": "EUR",
+    "formatted": "4.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0007373",
+      "sku": "NT-0007373",
+      "supplierRef": "DCAMPCUTSET",
+      "price": {
+        "amount": 4.95,
+        "currency": "EUR",
+        "formatted": "4.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/v/sv31_1-kit-couverts-camp-3-pieces-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/v/sv31_3-kit-couverts-camp-3-pieces-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/v/sv31_2-kit-couverts-camp-3-pieces-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/v/sv31_1-kit-couverts-camp-3-pieces-sea-to-summit_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:12.333Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/v/sv31_1-kit-couverts-camp-3-pieces-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007373/01-sv31_1-kit-couverts-camp-3-pieces-sea-to-summit.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/v/sv31_3-kit-couverts-camp-3-pieces-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007373/02-sv31_3-kit-couverts-camp-3-pieces-sea-to-summit.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/v/sv31_2-kit-couverts-camp-3-pieces-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007373/03-sv31_2-kit-couverts-camp-3-pieces-sea-to-summit.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/v/sv31_1-kit-couverts-camp-3-pieces-sea-to-summit_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007373/04-sv31_1-kit-couverts-camp-3-pieces-sea-to-summit_1.jpg",
+      "skipped": false
+    }
+  ]
+}

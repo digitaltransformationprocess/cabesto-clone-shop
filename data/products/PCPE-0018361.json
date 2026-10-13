@@ -1,0 +1,67 @@
+{
+  "sku": "PCPE-0018361",
+  "url": "https://www.cabesto.com/fr/cannes-de-peche-aux-leurres-powermesh-daiwa.html",
+  "title": "Cannes de voyage Powermesh Game Travel 2 | DAIWA",
+  "brand": "DAIWA",
+  "category": "Cannes Voyage Light",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "Voyage",
+    "Destockage Pêche",
+    "Cannes Voyage Heavy",
+    "Cannes Voyage Light",
+    "Ventes privées Pêche"
+  ],
+  "categories": [
+    "Voyage",
+    "Destockage Pêche",
+    "Cannes Voyage Heavy",
+    "Cannes Voyage Light",
+    "Ventes privées Pêche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cannes de voyage Powermesh Game Travel 2 | DAIWA"
+  ],
+  "description": "Achetez Cannes de voyage Powermesh Game Travel 2 | DAIWA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPE-0018361",
+      "sku": "PCPE-0018361",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/a/daiwa-gametravel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:26:11.984Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/a/daiwa-gametravel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018361/01-daiwa-gametravel.jpg",
+      "skipped": false
+    }
+  ]
+}

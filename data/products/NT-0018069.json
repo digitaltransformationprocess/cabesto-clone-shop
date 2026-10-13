@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0018069",
+  "url": "https://www.cabesto.com/fr/verticalite-rig-ii-petzl-nt-0018069.html",
+  "title": "Rig II - PETZL",
+  "brand": "PETZL",
+  "category": "descendeurs",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "materiel-metallique",
+    "descendeurs"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "materiel-metallique",
+    "descendeurs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Rig II - PETZL"
+  ],
+  "description": "Achetez Rig II - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "D021AA00",
+  "price": {
+    "amount": 161,
+    "currency": "EUR",
+    "formatted": "161 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0018069",
+      "sku": "NT-0018069",
+      "supplierRef": "D021AA00",
+      "price": {
+        "amount": 161,
+        "currency": "EUR",
+        "formatted": "161 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pz19_1-rig-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:39:15.384Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz19_1-rig-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0018069/01-pz19_1-rig-ii-petzl.jpg",
+      "skipped": false
+    }
+  ]
+}

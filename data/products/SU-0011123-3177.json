@@ -1,0 +1,85 @@
+{
+  "sku": "SU-0011123-3177",
+  "url": "https://www.cabesto.com/fr/porte-octopus-plongee-sous-marine-requin-orque-best-divers-su-0011123-3177.html",
+  "title": "Porte-octopus Plongée Orque Epaulard BEST DIVERS",
+  "brand": "DIVERS",
+  "category": "Accessoires détendeurs plongée et octopus",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Détendeurs et Octopus",
+    "Accessoires détendeurs plongée et octopus"
+  ],
+  "categories": [
+    "Détendeurs et Octopus",
+    "Accessoires détendeurs plongée et octopus"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Porte-octopus Plongée Orque Epaulard BEST DIVERS"
+  ],
+  "description": "Achetez Porte-octopus Plongée Orque Epaulard BEST DIVERS chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "AE0269",
+  "price": {
+    "amount": 21.99,
+    "currency": "EUR",
+    "formatted": "21.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0011123-3177",
+      "sku": "SU-0011123-3177",
+      "supplierRef": "AE0269",
+      "price": {
+        "amount": 21.99,
+        "currency": "EUR",
+        "formatted": "21.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/o/r/ork.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32591-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/o/tort.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/e/req_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/r/orkk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:41:43.057Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/r/ork.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011123-3177/01-ork.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32591-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011123-3177/02--p-image-32591-grande.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/o/tort.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "HTTP 503"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/e/req_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011123-3177/04-req_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/r/orkk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0011123-3177\\05-orkk.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0011123-3177\\05-orkk.jpg'"
+    }
+  ]
+}

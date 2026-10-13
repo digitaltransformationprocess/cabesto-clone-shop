@@ -1,0 +1,71 @@
+{
+  "sku": "PCNT-0004703",
+  "url": "https://www.cabesto.com/fr/chaussettes-bi-socks-rando-origin.html",
+  "title": "Chaussettes BI SOCKS RANDO ORIGIN - RYWAN",
+  "brand": "RYWAN",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Chaussettes mi-mollets",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Chaussettes mi-mollets",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussettes BI SOCKS RANDO ORIGIN - RYWAN"
+  ],
+  "description": "Achetez Chaussettes BI SOCKS RANDO ORIGIN - RYWAN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004703",
+      "sku": "PCNT-0004703",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/y/w/yw07_1_ac-chaussettes-bi-socks-rando-origin-rywan_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw07_2_ac-chaussettes-bi-socks-rando-origin-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:31:40.728Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw07_1_ac-chaussettes-bi-socks-rando-origin-rywan_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004703/01-yw07_1_ac-chaussettes-bi-socks-rando-origin-rywan_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw07_2_ac-chaussettes-bi-socks-rando-origin-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004703/02-yw07_2_ac-chaussettes-bi-socks-rando-origin-rywan.jpg",
+      "skipped": false
+    }
+  ]
+}

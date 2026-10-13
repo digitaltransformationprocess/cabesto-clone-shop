@@ -1,0 +1,109 @@
+{
+  "sku": "PCNT-0016083",
+  "url": "https://www.cabesto.com/fr/verticalite-sous-combinaison-piaggia-bella-aventure-verticale-2203.html",
+  "title": "Sous-combinaison Piaggia Bella - Aventure Verticale",
+  "brand": "AVENTURE VERTICALE",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Spéléologie",
+    "Sous-combinaisons spéléo",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Sous-combinaisons spéléo",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sous-combinaison Piaggia Bella - Aventure Verticale"
+  ],
+  "description": "Achetez Sous-combinaison Piaggia Bella - Aventure Verticale chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 99,
+    "currency": "EUR",
+    "formatted": "99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0016083",
+      "sku": "PCNT-0016083",
+      "supplierRef": null,
+      "price": {
+        "amount": 99,
+        "currency": "EUR",
+        "formatted": "99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/u/guide_taille_piaggia_bella.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:24:52.163Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016083/01-2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016083/02-2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/u/guide_taille_piaggia_bella.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016083/03-guide_taille_piaggia_bella.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016083/04-2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016083/05-2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016083/06-2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016083/07-2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016083/08-2203_1_e-sous-combinaison-piaggia-bella-aventure-verticale_4.jpg",
+      "skipped": false
+    }
+  ]
+}

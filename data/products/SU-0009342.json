@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0009342",
+  "url": "https://www.cabesto.com/fr/plongee-compresseur-narguile-extreme-1-cv-12-v-240-l-mn-pl-751.html",
+  "title": "Compresseur narguilé de plongée EXTREME 1CV 12 V 260 l/m NARDI",
+  "brand": "NARDI",
+  "category": "narguiles-basse-presion-plongee-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Compresseur narguilé de plongée EXTREME 1CV 12 V 260 l/m NARDI"
+  ],
+  "description": "COMPRESSEUR NARGUILE EXTREME 1 CV 12 V 260 L/MN NARDIL'extrême 12 volts est un narguilé autorisant un débit suffisant pour alimenter 2 plongeurs (avec les équipements optionnels). Il se branche sans problème sur la batterie de votre bateau.Le narguilé NARDI Extreme 12 V 1 CV est le modèle de la gamme particulièrement adapté à une utilisation marine.Son moteur de 12 V s'adaptera sans problème sur une batterie traditionnelle, la puissance consommée étant proche de celle d'un guindeau.Il est équipé d'un réservoir additionnel de grande capacité servant de tampon pour faciliter la respiration du plongeur.La pression de sortie est réglable manuellement et un pressostat automatique commande la mise en marche du moteur en fonction de la consommation d'air.Le système de filtration d'air est équipé d'une cartouche, re conditionnable, à charbon actif et tamis moléculaire.Comme tous les narguilés Nardi, la partie compresseur fonctionne sans huile et la qualité d'air fournie est conforme à la législation en vigueur concernant l'air respirable.Le flexible d'origine a une longueur de 17 mètres, des longueurs supplémentaires de 17 m sont disponibles en option, ainsi qu'un raccord double permettant l'utilisation par deux plongeurs.Débit 260 L/mnpuissance du moteur: 800 Wprofondeur maxi d'utilisation : 15 mètresMoteur BI cylindres.Filtration de l'air aspiré.Filtration de l'air respiré (norme CE)Fonctionnement sans huile.Réservoir tampon.Mise en marche et arrêt automatique suivant la respiration du plongeur.Ce narguilé a été fabriqué conformément aux exigences du règlement CE 2016/425 suivant la norme NF EN 15333-1.",
+  "supplierRef": "NARGUILE_EXT_12VOL",
+  "price": {
+    "amount": 1899,
+    "currency": "EUR",
+    "formatted": "1899 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0009342",
+      "sku": "SU-0009342",
+      "supplierRef": "NARGUILE_EXT_12VOL",
+      "price": {
+        "amount": 1899,
+        "currency": "EUR",
+        "formatted": "1899 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-751-pl-751-picture_1-pl-751-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:22:06.151Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-751-pl-751-picture_1-pl-751-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009342/01-pl-751-pl-751-picture_1-pl-751-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "compresseurs-et-narguiles",
+    "narguiles-basse-presion-plongee-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "compresseurs-et-narguiles",
+    "narguiles-basse-presion-plongee-sous-marine"
+  ]
+}

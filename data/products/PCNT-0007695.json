@@ -1,0 +1,129 @@
+{
+  "sku": "PCNT-0007695",
+  "url": "https://www.cabesto.com/fr/gants-cordex.html",
+  "title": "Gants Cordex - PETZL",
+  "brand": "PETZL",
+  "category": "Gants",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Equipement de la personne",
+    "Gants"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Equipement de la personne",
+    "Gants"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gants Cordex - PETZL"
+  ],
+  "description": "Achetez Gants Cordex - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 39.9,
+    "currency": "EUR",
+    "formatted": "39.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0007695",
+      "sku": "PCNT-0007695",
+      "supplierRef": null,
+      "price": {
+        "amount": 39.9,
+        "currency": "EUR",
+        "formatted": "39.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/j/e/je69_1_d-gants-cordex-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/e/je69_1_w-gants-cordex-petzl_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/e/je69_1_d-gants-cordex-petzl_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/e/je69_1_w-gants-cordex-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/e/je69_1_w-gants-cordex-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/e/je69_1_w-gants-cordex-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/e/je69_1_w-gants-cordex-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/e/je69_1_d-gants-cordex-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/e/je69_1_d-gants-cordex-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/e/je69_1_d-gants-cordex-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/e/je69_1_d-gants-cordex-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/e/je69_1_w-gants-cordex-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:26:16.863Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/e/je69_1_d-gants-cordex-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007695/01-je69_1_d-gants-cordex-petzl_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/e/je69_1_w-gants-cordex-petzl_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007695/02-je69_1_w-gants-cordex-petzl_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/e/je69_1_d-gants-cordex-petzl_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007695/03-je69_1_d-gants-cordex-petzl_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/e/je69_1_w-gants-cordex-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007695/04-je69_1_w-gants-cordex-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/e/je69_1_w-gants-cordex-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007695/05-je69_1_w-gants-cordex-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/e/je69_1_w-gants-cordex-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007695/06-je69_1_w-gants-cordex-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/e/je69_1_w-gants-cordex-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007695/07-je69_1_w-gants-cordex-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/e/je69_1_d-gants-cordex-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007695/08-je69_1_d-gants-cordex-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/e/je69_1_d-gants-cordex-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007695/09-je69_1_d-gants-cordex-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/e/je69_1_d-gants-cordex-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007695/10-je69_1_d-gants-cordex-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/e/je69_1_d-gants-cordex-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007695/11-je69_1_d-gants-cordex-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/e/je69_1_w-gants-cordex-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007695/12-je69_1_w-gants-cordex-petzl_4.jpg",
+      "skipped": false
+    }
+  ]
+}

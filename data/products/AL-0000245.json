@@ -1,0 +1,67 @@
+{
+  "sku": "AL-0000245",
+  "url": "https://www.cabesto.com/fr/amaretti-morbidi-250g.html",
+  "title": "AMARETTI MORBIDI 250G",
+  "brand": "ITAL PASSION",
+  "category": "Boissons italiennes",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "Desserts italien",
+    "Boissons italiennes"
+  ],
+  "categories": [
+    "Desserts italien",
+    "Boissons italiennes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "AMARETTI MORBIDI 250G"
+  ],
+  "description": "Achetez AMARETTI MORBIDI 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "A2558DO",
+  "price": {
+    "amount": 4.99,
+    "currency": "EUR",
+    "formatted": "4.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000245",
+      "sku": "AL-0000245",
+      "supplierRef": "A2558DO",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/1/6128411-6128411-picture_1-6128411.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/1/6128411-6128411-picture_1-6128411_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:56:48.861Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/6128411-6128411-picture_1-6128411.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000245/01-6128411-6128411-picture_1-6128411.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/6128411-6128411-picture_1-6128411_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000245/02-6128411-6128411-picture_1-6128411_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0023355",
+  "url": "https://www.cabesto.com/fr/neige-glace-broche-a-glace-ultralight-ice-screw-19-cm-black-diamond-nt-0023355.html",
+  "title": "Broche à glace Ultralight Ice Screw 19 cm - BLACK DIAMOND",
+  "brand": "BLACK DIAMOND",
+  "category": "broches-a-glace",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "neige-glace",
+    "alpinisme",
+    "broches-a-glace"
+  ],
+  "categories": [
+    "montagne",
+    "neige-glace",
+    "alpinisme",
+    "broches-a-glace"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Broche à glace Ultralight Ice Screw 19 cm - BLACK DIAMOND"
+  ],
+  "description": "Achetez Broche à glace Ultralight Ice Screw 19 cm - BLACK DIAMOND chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BD4903330000ALL1",
+  "price": {
+    "amount": 91.9,
+    "currency": "EUR",
+    "formatted": "91.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0023355",
+      "sku": "NT-0023355",
+      "supplierRef": "BD4903330000ALL1",
+      "price": {
+        "amount": 91.9,
+        "currency": "EUR",
+        "formatted": "91.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/d/bd89_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:39:45.845Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bd89_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0023355/01-bd89_1.jpg",
+      "skipped": false
+    }
+  ]
+}

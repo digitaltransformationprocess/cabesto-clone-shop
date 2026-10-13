@@ -1,0 +1,68 @@
+{
+  "sku": "AL-0004460",
+  "url": "https://www.cabesto.com/fr/vin-rouge-d-o-rioja-siglo-saco-12-5-75-cl.html",
+  "title": "VIN ROUGE D.O. RIOJA SIGLO SACO 12.5° 75",
+  "brand": "CABESTO",
+  "category": "boissons-et-desserts-espagnols",
+  "description": "Vin rouge Rioja Siglo Saco",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "Out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0004460",
+      "sku": "AL-0004460",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "Out of stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/6/1/6129311-6129311-picture_1-6129311_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/1/6129311-6129311-picture_1-6129311_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/6129311-6129311-picture_1-6129311_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0004460/01-6129311-6129311-picture_1-6129311_1.jpg",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:17:17.219Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/6/1/6129311-6129311-picture_1-6129311_1.jpg?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "9.99",
+    "currency": "EUR",
+    "availability": "out of stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-espagnole",
+    "boissons-et-desserts-espagnols"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-espagnole",
+    "boissons-et-desserts-espagnols"
+  ]
+}

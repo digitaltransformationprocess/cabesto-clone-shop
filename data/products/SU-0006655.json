@@ -1,0 +1,77 @@
+{
+  "sku": "SU-0006655",
+  "url": "https://www.cabesto.com/fr/plongee-tables-immergeables-mn-90-pl-8477.html",
+  "title": "Table de plongée sous-marine immergeables MN90 AQUATYS",
+  "brand": "AQUATYS",
+  "category": "tables-de-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Table de plongée sous-marine immergeables MN90 AQUATYS"
+  ],
+  "description": "Table de plongée sous-marine immergeable MN90 AQUATYSMettez-vous à la table avec la table de plongée sous-marine immergeable MN90 AQUATYS, la plaquette unique recto/verso pour bien calculer sa désaturation et son ou ses paliers de décompression éventuels.Table immergeables recto/verso de pour la plongée sous-marine à l'air type MN90 (Marine Nationale 1990) avec une vitesse de remontée comprise de 15 à 17 mètres par minutes.Ces tables de plongée à l’air indiquent :Profondeur et durée des paliers en fonction de la profondeur maximale atteinte et du temps passé (vitesse de remontée 15 à 17 m/min).Evolution de l’azote résiduel entre deux plongées Détermination de la majoration en minutes dans le cas de plongées successives ou consécutives.Contenu du colis1 X Table immergeables de plongée sous-marine à l'air type MN90.",
+  "supplierRef": "A40001",
+  "price": {
+    "amount": 10.99,
+    "currency": "EUR",
+    "formatted": "10.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0006655",
+      "sku": "SU-0006655",
+      "supplierRef": "A40001",
+      "price": {
+        "amount": 10.99,
+        "currency": "EUR",
+        "formatted": "10.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/x/pxl_20251030_094916699.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/0/606047_primary.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/pxl_20251030_094926397.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:17.917Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/pxl_20251030_094916699.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006655/01-pxl_20251030_094916699.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/606047_primary.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006655/02-606047_primary.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/pxl_20251030_094926397.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006655/03-pxl_20251030_094926397.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "tables-de-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "tables-de-plongee"
+  ]
+}

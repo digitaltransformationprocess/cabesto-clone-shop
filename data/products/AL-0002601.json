@@ -1,0 +1,71 @@
+{
+  "sku": "AL-0002601",
+  "url": "https://www.cabesto.com/fr/nectar-goyave-1l.html",
+  "title": "NECTAR GOYAVE 1L",
+  "brand": "MONT PELE",
+  "category": "Boissons et desserts des iles",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "boissons-italiennes"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "boissons-italiennes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "NECTAR GOYAVE 1L"
+  ],
+  "description": "Achetez NECTAR GOYAVE 1L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3278422003207.",
+  "price": {
+    "amount": 3.99,
+    "currency": "EUR",
+    "formatted": "3.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002601",
+      "sku": "AL-0002601",
+      "supplierRef": "3278422003207.",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/0/2021-mont-pele-1l-nectar-goyave.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0002601.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:01:44.490Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2021-mont-pele-1l-nectar-goyave.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002601/01-2021-mont-pele-1l-nectar-goyave.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0002601.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002601/02-al-0002601.jpg",
+      "skipped": false
+    }
+  ]
+}

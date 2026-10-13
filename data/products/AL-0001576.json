@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0001576",
+  "url": "https://www.cabesto.com/fr/etui-grandes-galettes-135g.html",
+  "title": "ETUI GRANDES GALETTES 135G",
+  "brand": "MERE POULARD",
+  "category": "Biscuiterie marine",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ETUI GRANDES GALETTES 135G"
+  ],
+  "description": "Achetez ETUI GRANDES GALETTES 135G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "5170",
+  "price": {
+    "amount": 2.69,
+    "currency": "EUR",
+    "formatted": "2.69 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001576",
+      "sku": "AL-0001576",
+      "supplierRef": "5170",
+      "price": {
+        "amount": 2.69,
+        "currency": "EUR",
+        "formatted": "2.69 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6016550-6016550-picture_1-6016550_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:03:46.414Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6016550-6016550-picture_1-6016550_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001576/01-6016550-6016550-picture_1-6016550_1.jpg",
+      "skipped": false
+    }
+  ]
+}

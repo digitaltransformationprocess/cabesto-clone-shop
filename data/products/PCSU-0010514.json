@@ -1,0 +1,89 @@
+{
+  "sku": "PCSU-0010514",
+  "url": "https://www.cabesto.com/fr/lampe-detuba-de-plongee-sous-marine-airflex-dry-beuchat-transparent.html",
+  "title": "Tuba de plongée sous-marine AIRFLEX DRY BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Tuba de plongée sous-marine AIRFLEX DRY BEUCHAT"
+  ],
+  "description": "Tuba de plongée sous-marine AIRFLEX DRY BEUCHATRespirez facilement et librement sans eaux en bouche avec le tuba de plongée sous marine AIRFLEX DRY BEUCHAT, le tuba à soupape doté d'un embout flexible, de canaux internes et d'un évent à clapots.Découvrez la liberté sous-marine avec le système innovant EASY FLOW BEUCHAT.Le Tuba AIRFLEX DRY BEUCHAT est conçu pour transformer votre expérience de randonnée aquatique. Avec son système EASY FLOW exclusif, il offre une respiration naturelle et fluide, comme si vous étiez à la surface.La technologie avancée de ce tuba permet une évacuation efficace de l'eau, garantissant une respiration sèche et confortable.Profitez d'une exploration sous-marine prolongée sans les inconvénients habituels grâce à son embout ergonomique et son design hydrodynamique.Caractéristiques Tuba de plongée sous-marine AIRFLEX DRY BEUCHATEmbout HyperDry : Clapet anti-retour pour une immersion sans entrée d'eauSystème EASY FLOW : Innovation BEUCHAT pour une respiration aiséeCanaux internes : Direction optimisée de l'eauDesign ergonomique : Confort maximal et ajustement parfaitMatériaux de haute qualité : Durabilité et performance à long termeInformations techniques :Matériau Silicone hypoallergénique et plastique résistantCouleur Rouge/Noir OU TransparentTaille Unique, adaptable à toutes morphologiesEasy Flow System OuiDry System Beuchat OuiGarantie 2 ansContenu du colis1 x Tuba AIRFLEX DRY BEUCHAT, couleur à choisir",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0010514",
+      "sku": "PCSU-0010514",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/i/airflex-dry_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/maxxluxx_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/maxluxx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/n/antigua.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/i/airflex-dry_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:33:38.756Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/i/airflex-dry_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010514/01-airflex-dry_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/maxxluxx_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010514/02-maxxluxx_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/maxluxx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010514/03-maxluxx.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/n/antigua.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010514/04-antigua.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/i/airflex-dry_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010514/05-airflex-dry_2.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

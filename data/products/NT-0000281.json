@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0000281",
+  "url": "https://www.cabesto.com/fr/verticalite-corde-parallel-10-5mm-bleue-50m-petzl-nt-0000281.html",
+  "title": "Corde Parallel 10.5mm Bleue - 50m - PETZL",
+  "brand": "PETZL",
+  "category": "Cordes statiques",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Cordes statiques"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Cordes statiques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Corde Parallel 10.5mm Bleue - 50m - PETZL"
+  ],
+  "description": "Achetez Corde Parallel 10.5mm Bleue - 50m - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "R077AA35",
+  "price": {
+    "amount": 119.95,
+    "currency": "EUR",
+    "formatted": "119.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0000281",
+      "sku": "NT-0000281",
+      "supplierRef": "R077AA35",
+      "price": {
+        "amount": 119.95,
+        "currency": "EUR",
+        "formatted": "119.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pc55_1-corde-parallel-105-mm-bleue---50-m-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pc55_1-corde-parallel-105-mm-bleue---50-m-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:18:06.113Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pc55_1-corde-parallel-105-mm-bleue---50-m-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000281/01-pc55_1-corde-parallel-105-mm-bleue---50-m-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pc55_1-corde-parallel-105-mm-bleue---50-m-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000281/02-pc55_1-corde-parallel-105-mm-bleue---50-m-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

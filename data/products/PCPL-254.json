@@ -1,0 +1,113 @@
+{
+  "sku": "PCPL-254",
+  "url": "https://www.cabesto.com/fr/plongee-lunettes-fox-pcpl-254.html",
+  "title": "LUNETTES FOX CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "lunettes-adulte",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "LUNETTES FOX CRESSI SUB"
+  ],
+  "description": "LUNETTES FOX CRESSI SUBLunettes sophistiquées au design nouveau, avec des verres complètement plats pour une vison parfaite même sur les bords.Très haute technologie Cressi pour une étanchéité parfaite sur la majorité des profils de visages.Sanglage interchangeable rapidement, doté de boucles à réglage micrométrique instantané tout à fait semblables à celles utilisées sur les masques de plongée Cressi-sub.Verres incassables avec traitement externes anti-rayures et anti-UV et traitement interne anti-buée. Cette lunette a été fabriquée conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 1).",
+  "supplierRef": null,
+  "price": {
+    "amount": 17.99,
+    "currency": "EUR",
+    "formatted": "17.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-254",
+      "sku": "PCPL-254",
+      "supplierRef": null,
+      "price": {
+        "amount": 17.99,
+        "currency": "EUR",
+        "formatted": "17.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-254-pl-2484-picture_1-pcpl-254-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/6/362_71fw_rkxtql_sl1500__z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/6/362_81epexzipsl_sl1500__z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/6/362_81q3wnxuyjl_sl1500__z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/6/362_8194qcokhal_sl1500__z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/5/453_scatola_skylight.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-2484-pl-2484-picture_1-pcpl-254-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PL-2484-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3086-pl-3086-picture_1-pcpl-379-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:30.868Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-254-pl-2484-picture_1-pcpl-254-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-254/01-pcpl-254-pl-2484-picture_1-pcpl-254-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/6/362_71fw_rkxtql_sl1500__z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-254/02-362_71fw_rkxtql_sl1500__z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/6/362_81epexzipsl_sl1500__z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-254/03-362_81epexzipsl_sl1500__z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/6/362_81q3wnxuyjl_sl1500__z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-254/04-362_81q3wnxuyjl_sl1500__z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/6/362_8194qcokhal_sl1500__z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-254/05-362_8194qcokhal_sl1500__z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/5/453_scatola_skylight.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-254/06-453_scatola_skylight.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-2484-pl-2484-picture_1-pcpl-254-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-254/07-pl-2484-pl-2484-picture_1-pcpl-254-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PL-2484-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-254/08-PL-2484-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3086-pl-3086-picture_1-pcpl-379-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-254/09-pl-3086-pl-3086-picture_1-pcpl-379-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "nage",
+    "lunettes-et-masques-de-natation",
+    "lunettes-adulte"
+  ],
+  "categories": [
+    "plongee",
+    "nage",
+    "lunettes-et-masques-de-natation",
+    "lunettes-adulte"
+  ]
+}

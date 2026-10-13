@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0005247",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-pack-de-6-mini-piquets-sardines-groundhog-msr-nt-0005247.html",
+  "title": "Pack de 6 Mini-Piquets Sardines Groundhog - MSR",
+  "brand": "MSR",
+  "category": "Accessoires pour tentes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Accessoires pour tentes"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Accessoires pour tentes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pack de 6 Mini-Piquets Sardines Groundhog - MSR"
+  ],
+  "description": "Achetez Pack de 6 Mini-Piquets Sardines Groundhog - MSR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "05808",
+  "price": {
+    "amount": 20.9,
+    "currency": "EUR",
+    "formatted": "20.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005247",
+      "sku": "NT-0005247",
+      "supplierRef": "05808",
+      "price": {
+        "amount": 20.9,
+        "currency": "EUR",
+        "formatted": "20.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/a/la02_1-pack-de-6-mini-piquets-sardines-groundhog-msr.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/a/la02_1-pack-de-6-mini-piquets-sardines-groundhog-msr_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:23:06.722Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/a/la02_1-pack-de-6-mini-piquets-sardines-groundhog-msr.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005247/01-la02_1-pack-de-6-mini-piquets-sardines-groundhog-msr.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/a/la02_1-pack-de-6-mini-piquets-sardines-groundhog-msr_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005247/02-la02_1-pack-de-6-mini-piquets-sardines-groundhog-msr_1.jpg",
+      "skipped": false
+    }
+  ]
+}

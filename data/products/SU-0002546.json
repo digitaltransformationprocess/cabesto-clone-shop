@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0002546",
+  "url": "https://www.cabesto.com/fr/plongee-fixation-gopro-sur-masque-universelle-scubapro-pl-10867.html",
+  "title": "Fixation unverselle GoPro pour masque de plongée SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "accessoires",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Fixation unverselle GoPro pour masque de plongée SCUBAPRO"
+  ],
+  "description": "Cette fixation universelle pour GoPro® s'adapte à presque tous les masques bi-verre.- S'adapte à presque tous les masques bi-verres de toutes les marques- Une fixation sûre et fiable donnant une tranquillité d'esprit pendant la plongée- Petite taille, léger et facile à fixer.",
+  "supplierRef": "24.101.004",
+  "price": {
+    "amount": 13.99,
+    "currency": "EUR",
+    "formatted": "13.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0002546",
+      "sku": "SU-0002546",
+      "supplierRef": "24.101.004",
+      "price": {
+        "amount": 13.99,
+        "currency": "EUR",
+        "formatted": "13.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-10867-pl-10867-picture_1-pl-10867-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:50.079Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-10867-pl-10867-picture_1-pl-10867-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002546/01-pl-10867-pl-10867-picture_1-pl-10867-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires"
+  ],
+  "categories": [
+    "textile",
+    "accessoires"
+  ]
+}

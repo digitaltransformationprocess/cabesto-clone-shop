@@ -1,0 +1,59 @@
+{
+  "sku": "PE-0002946",
+  "url": "https://www.cabesto.com/fr/peche-double-combo-cse-150-off-shore-20g-kaki-pe-9327.html",
+  "title": "Double Combo CSE 150 Off Shore - 20g - Kaki",
+  "brand": "FIIISH",
+  "category": "peche",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche"
+  ],
+  "categories": [
+    "peche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Double Combo CSE 150 Off Shore - 20g - Kaki"
+  ],
+  "description": "Achetez Double Combo CSE 150 Off Shore - 20g - Kaki chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "CSE802",
+  "price": {
+    "amount": 14.39,
+    "currency": "EUR",
+    "formatted": "14.39 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0002946",
+      "sku": "PE-0002946",
+      "supplierRef": "CSE802",
+      "price": {
+        "amount": 14.39,
+        "currency": "EUR",
+        "formatted": "14.39 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/PE-9327-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:24:37.906Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PE-9327-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0002946/01-PE-9327-1.jpg",
+      "skipped": false
+    }
+  ]
+}

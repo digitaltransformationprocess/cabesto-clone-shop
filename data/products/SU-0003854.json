@@ -1,0 +1,69 @@
+{
+  "sku": "SU-0003854",
+  "url": "https://www.cabesto.com/fr/plongee-max-wax-21-3-gr-pcb-12-pl-10894.html",
+  "title": "Lubrifiant fermeture de plongée MAX WAX 21 g McNETT",
+  "brand": "SCUBAPRO",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage",
+    "Destockage",
+    "Lubrifiant fermeture de plongée MAX WAX 21 g McNETT"
+  ],
+  "description": "Formule à base de silicone en bâtonnet pour lubrifier les fermetures à glissière en plastique ou métal des combinaisons de plongée, vêtements étanches, bâches de bâteau, tentes etc..",
+  "supplierRef": "841.029.008",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003854",
+      "sku": "SU-0003854",
+      "supplierRef": "841.029.008",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-10894-pl-10894-picture_1-pl-10894-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:52.079Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-10894-pl-10894-picture_1-pl-10894-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003854/01-pl-10894-pl-10894-picture_1-pl-10894-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

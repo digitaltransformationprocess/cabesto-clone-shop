@@ -1,0 +1,79 @@
+{
+  "sku": "PI-0002128",
+  "url": "https://www.cabesto.com/fr/piscine-piscine-hors-sol-metal-frame-3m05-x-76cm-pi-3.html",
+  "title": "PISCINE HORS-SOL METAL FRAME Ø3M05 X 76CM INTEX",
+  "brand": "INTEX",
+  "category": "Piscine ronde",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine tubulaire",
+    "Piscine ronde"
+  ],
+  "categories": [
+    "Piscine tubulaire",
+    "Piscine ronde"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE HORS-SOL METAL FRAME Ø3M05 X 76CM INTEX"
+  ],
+  "description": "Achetez PISCINE HORS-SOL METAL FRAME Ø3M05 X 76CM INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "28202ND",
+  "price": {
+    "amount": 99,
+    "currency": "EUR",
+    "formatted": "99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002128",
+      "sku": "PI-0002128",
+      "supplierRef": "28202ND",
+      "price": {
+        "amount": 99,
+        "currency": "EUR",
+        "formatted": "99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/PI-3-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PI-3-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28202np-kit-piscine-metal-frame-ronde.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28202np-kit-piscine-metal-frame-ronde_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:29:44.099Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-3-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002128/01-PI-3-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-3-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002128/02-PI-3-2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28202np-kit-piscine-metal-frame-ronde.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002128/03-28202np-kit-piscine-metal-frame-ronde.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28202np-kit-piscine-metal-frame-ronde_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002128/04-28202np-kit-piscine-metal-frame-ronde_1_.jpg",
+      "skipped": false
+    }
+  ]
+}

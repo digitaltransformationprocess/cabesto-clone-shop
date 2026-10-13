@@ -1,0 +1,81 @@
+{
+  "sku": "PCPI-0009214",
+  "url": "https://www.cabesto.com/fr/volet-piscine-decoupe-escalier-trapeze-en-forme-3m-astral.html",
+  "title": "VOLET PISCINE DECOUPE ESCALIER TRAPEZE EN FORME 3M - ASTRAL",
+  "brand": "ASTRAL AUTOMATIQUE",
+  "category": "Volet roulant et couverture automatique",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "volet-roulant-et-couverture-automatique"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "volet-roulant-et-couverture-automatique"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "VOLET PISCINE DECOUPE ESCALIER TRAPEZE EN FORME 3M - ASTRAL"
+  ],
+  "description": "Achetez VOLET PISCINE DECOUPE ESCALIER TRAPEZE EN FORME 3M - ASTRAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 633.4,
+    "currency": "EUR",
+    "formatted": "633.4 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPI-0009214",
+      "sku": "PCPI-0009214",
+      "supplierRef": null,
+      "price": {
+        "amount": 633.4,
+        "currency": "EUR",
+        "formatted": "633.4 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/t/r/trapeze_forme.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/r/trapeze_f_chart.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/r/trapeze_f_chart_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/r/trapeze_f_chart_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:47:26.731Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/r/trapeze_forme.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009214/01-trapeze_forme.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/r/trapeze_f_chart.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009214/02-trapeze_f_chart.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/r/trapeze_f_chart_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009214/03-trapeze_f_chart_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/r/trapeze_f_chart_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009214/04-trapeze_f_chart_2.jpg",
+      "skipped": false
+    }
+  ]
+}

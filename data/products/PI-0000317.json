@@ -1,0 +1,67 @@
+{
+  "sku": "PI-0000317",
+  "url": "https://www.cabesto.com/fr/piscine-bonde-de-fond-piscine-beton-et-liner-cofies-hayward-sable-pi-946.html",
+  "title": "PANIER SKIMMER HORS-SOL GRE - ASTRAL",
+  "brand": "ASTRAL",
+  "category": "Bondes de fond",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Pièces à sceller",
+    "Bondes de fond"
+  ],
+  "categories": [
+    "Pièces à sceller",
+    "Bondes de fond"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PANIER SKIMMER HORS-SOL GRE - ASTRAL"
+  ],
+  "description": "Achetez PANIER SKIMMER HORS-SOL GRE - ASTRAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "06824-0006",
+  "price": {
+    "amount": 4.2,
+    "currency": "EUR",
+    "formatted": "4.2 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000317",
+      "sku": "PI-0000317",
+      "supplierRef": "06824-0006",
+      "price": {
+        "amount": 4.2,
+        "currency": "EUR",
+        "formatted": "4.2 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/0/2024-05-03_16_10_00-panier_sk_pisc.hors-sol_astral_-_remplace_06824r0006.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2024-05-03_16_10_19-panier_sk_pisc.hors-sol_astral_-_remplace_06824r0006.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:38:29.786Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2024-05-03_16_10_00-panier_sk_pisc.hors-sol_astral_-_remplace_06824r0006.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000317/01-2024-05-03_16_10_00-panier_sk_pisc.hors-sol_astral_-_remplace_06824r0006.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2024-05-03_16_10_19-panier_sk_pisc.hors-sol_astral_-_remplace_06824r0006.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000317/02-2024-05-03_16_10_19-panier_sk_pisc.hors-sol_astral_-_remplace_06824r0006.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "PI-0013336",
+  "url": "https://www.cabesto.com/fr/aquajogg-air-tapis-de-marche-pour-piscine-structure-aluminium-poolex-pi-0013336.html",
+  "title": "AQUAJOGG AIR - TAPIS DE MARCHE POUR PISCINE - STRUCTURE ALUMINIUM POOLEX",
+  "brand": "POOLEX",
+  "category": "Aquafitness",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Accessoires",
+    "Aquafitness"
+  ],
+  "categories": [
+    "Accessoires",
+    "Aquafitness"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "AQUAJOGG AIR - TAPIS DE MARCHE POUR PISCINE - STRUCTURE ALUMINIUM POOLEX"
+  ],
+  "description": "Achetez AQUAJOGG AIR - TAPIS DE MARCHE POUR PISCINE - STRUCTURE ALUMINIUM POOLEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "WX-AQUAJOGG2",
+  "price": {
+    "amount": 1798,
+    "currency": "EUR",
+    "formatted": "1798 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0013336",
+      "sku": "PI-0013336",
+      "supplierRef": "WX-AQUAJOGG2",
+      "price": {
+        "amount": 1798,
+        "currency": "EUR",
+        "formatted": "1798 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/w/x/wx-aquajogg2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/x/wx-aquajogg2.2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/x/wx-aquajogg2.1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:52:45.495Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/x/wx-aquajogg2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0013336/01-wx-aquajogg2.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/x/wx-aquajogg2.2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0013336/02-wx-aquajogg2.2.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/x/wx-aquajogg2.1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0013336/03-wx-aquajogg2.1.png",
+      "skipped": false
+    }
+  ]
+}

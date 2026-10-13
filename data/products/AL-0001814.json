@@ -1,0 +1,63 @@
+{
+  "sku": "AL-0001814",
+  "url": "https://www.cabesto.com/fr/fond-de-bouillabaisse-370-ml.html",
+  "title": "FOND DE BOUILLABAISSE 370 ML",
+  "brand": "AZAIS POLITO",
+  "category": "Soupes de poissons de Méditerranée",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "poissons"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "poissons"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FOND DE BOUILLABAISSE 370 ML"
+  ],
+  "description": "Achetez FOND DE BOUILLABAISSE 370 ML chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "123LG",
+  "price": {
+    "amount": 4.99,
+    "currency": "EUR",
+    "formatted": "4.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001814",
+      "sku": "AL-0001814",
+      "supplierRef": "123LG",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6032445-6032445-picture_1-6032445_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:54:34.895Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6032445-6032445-picture_1-6032445_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001814/01-6032445-6032445-picture_1-6032445_1.jpg",
+      "skipped": true
+    }
+  ]
+}

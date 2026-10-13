@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0002881",
+  "url": "https://www.cabesto.com/fr/revaqua-traitement-1-mois-piscine-30m3-a-60m3.html",
+  "title": "REVAQUA TRAITEMENT 1 MOIS PISCINE 30M3 A 60M3",
+  "brand": "MAREVA",
+  "category": "Oxygène actif liquide",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Oxygène actif",
+    "Oxygène actif liquide"
+  ],
+  "categories": [
+    "Oxygène actif",
+    "Oxygène actif liquide"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "REVAQUA TRAITEMENT 1 MOIS PISCINE 30M3 A 60M3"
+  ],
+  "description": "Achetez REVAQUA TRAITEMENT 1 MOIS PISCINE 30M3 A 60M3 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "140011",
+  "price": {
+    "amount": 49,
+    "currency": "EUR",
+    "formatted": "49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002881",
+      "sku": "PI-0002881",
+      "supplierRef": "140011",
+      "price": {
+        "amount": 49,
+        "currency": "EUR",
+        "formatted": "49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/i/kit-rev-aqua-mareva-traitement-complet-pour-piscine-de-30-a-60-m3-1-mois-140011u_qimvcgug2xta4lzd.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:50:21.908Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/i/kit-rev-aqua-mareva-traitement-complet-pour-piscine-de-30-a-60-m3-1-mois-140011u_qimvcgug2xta4lzd.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002881/01-kit-rev-aqua-mareva-traitement-complet-pour-piscine-de-30-a-60-m3-1-mois-140011u_qimvcgug2xta4lzd.jpg",
+      "skipped": false
+    }
+  ]
+}

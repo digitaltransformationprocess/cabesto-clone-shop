@@ -1,0 +1,89 @@
+{
+  "sku": "PCNT-00280281",
+  "url": "https://www.cabesto.com/fr/veste-veste-polaire-femmeg-lacial-iv-1-2-zip-blanc-columbia.html",
+  "title": "POLAIRE FEMME GLACIAL IV 1/2 ZIP BLANC - COLUMBIA",
+  "brand": "COLUMBIA",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Sweats, pulls, polaires",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Sweats, pulls, polaires",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "POLAIRE FEMME GLACIAL IV 1/2 ZIP BLANC - COLUMBIA"
+  ],
+  "description": "Achetez POLAIRE FEMME GLACIAL IV 1/2 ZIP BLANC - COLUMBIA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 24,
+    "currency": "EUR",
+    "formatted": "24 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-00280281",
+      "sku": "PCNT-00280281",
+      "supplierRef": null,
+      "price": {
+        "amount": 24,
+        "currency": "EUR",
+        "formatted": "24 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/img/articulos/2021/05/buzo_glacial_fleece_iv_columbia_mujer_imagen4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/u/buzo_glacial_fleece_iv_columbia_mujer_imagen4_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/u/buzo_glacial_fleece_iv_columbia_mujer_imagen4_1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/u/buzo_glacial_fleece_iv_columbia_mujer_imagen4_1__3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/u/buzo_glacial_fleece_iv_columbia_mujer_imagen4_1__4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:46:41.009Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/img/articulos/2021/05/buzo_glacial_fleece_iv_columbia_mujer_imagen4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-00280281/01-buzo_glacial_fleece_iv_columbia_mujer_imagen4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/u/buzo_glacial_fleece_iv_columbia_mujer_imagen4_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-00280281/02-buzo_glacial_fleece_iv_columbia_mujer_imagen4_1__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/u/buzo_glacial_fleece_iv_columbia_mujer_imagen4_1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-00280281/03-buzo_glacial_fleece_iv_columbia_mujer_imagen4_1__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/u/buzo_glacial_fleece_iv_columbia_mujer_imagen4_1__3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-00280281/04-buzo_glacial_fleece_iv_columbia_mujer_imagen4_1__3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/u/buzo_glacial_fleece_iv_columbia_mujer_imagen4_1__4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-00280281/05-buzo_glacial_fleece_iv_columbia_mujer_imagen4_1__4.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "sku": "SU-0000392",
+  "url": "https://www.cabesto.com/fr/plongee-fixe-tuba-universel-avec-accroche-pl-1826.html",
+  "title": "Accroche tuba FAST avec fixation SEAC SUB",
+  "brand": "SEAC",
+  "category": "tubas-de-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Accroche tuba FAST avec fixation SEAC SUB"
+  ],
+  "description": "Accroche tuba FAST avec fixation SEAC SUBAccrochez votre tuba à la sangle de votre masque avec l'accroche tuba FAST SEAC SUB.Fixe tuba latéral pour tuba FAST SEAC SUB et plus largement tous les tubas à section ronde de diamètre Ø 25 mm (SPY BEUCHAT, ELEMENT DESSAULT, AIRMAT DESSAULT, TOP FLEX SEAC SUB, CORSICA CRESSI SUB...)Informations techniques :Diamètre Ø 25 mmCouleur NoirMatériau Plastique rigideMade in ItalyContenu du colis1 x Accroche tuba FAST SEAC SUB, couleur noir.",
+  "supplierRef": "6870001000000A",
+  "price": {
+    "amount": 3.99,
+    "currency": "EUR",
+    "formatted": "3.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0000392",
+      "sku": "SU-0000392",
+      "supplierRef": "6870001000000A",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/e/seaccccx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seacvv.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seacxx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seacvvvv.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:05.741Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seaccccx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000392/01-seaccccx.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seacvv.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000392/02-seacvv.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seacxx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000392/03-seacxx.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seacvvvv.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000392/04-seacvvvv.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "tubas-de-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "tubas-de-plongee"
+  ]
+}

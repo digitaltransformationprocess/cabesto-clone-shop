@@ -1,0 +1,83 @@
+{
+  "sku": "NT-0000190",
+  "url": "https://www.cabesto.com/fr/verticalite-200-m-spelenium-unicore-8-5-mm-nt-0000190.html",
+  "title": "200 m de corde statique Spélénium Unicore 8.5 mm",
+  "brand": "BEAL",
+  "category": "cordes-semi-statiques-8-5-a-9-9-mm",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "cordes-sangles",
+    "cordes-semi-statiques",
+    "cordes-semi-statiques-8-5-a-9-9-mm"
+  ],
+  "categories": [
+    "montagne",
+    "cordes-sangles",
+    "cordes-semi-statiques",
+    "cordes-semi-statiques-8-5-a-9-9-mm"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "200 m de corde statique Spélénium Unicore 8.5 mm"
+  ],
+  "description": "La corde semi-statique de type B Spélénium 8.5 mm BEAL particulièrement étudiée pour les conditions difficiles est fine, maniable et facilite la descente tout en conservant souplesse et sécurité.",
+  "supplierRef": "BCSP085.200",
+  "price": {
+    "amount": 390,
+    "currency": "EUR",
+    "formatted": "390 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0000190",
+      "sku": "NT-0000190",
+      "supplierRef": "BCSP085.200",
+      "price": {
+        "amount": 390,
+        "currency": "EUR",
+        "formatted": "390 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/c/ac47.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pc23_1-60-m-corde-push-9-mm-orange-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/0/1065_1-spelenium-9-mm-au-metre-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/0/1074_1-spelenium-gold-95-mm-au-metre-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:00.563Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/c/ac47.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000190/01-ac47.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pc23_1-60-m-corde-push-9-mm-orange-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000190/02-pc23_1-60-m-corde-push-9-mm-orange-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/0/1065_1-spelenium-9-mm-au-metre-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000190/03-1065_1-spelenium-9-mm-au-metre-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/0/1074_1-spelenium-gold-95-mm-au-metre-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000190/04-1074_1-spelenium-gold-95-mm-au-metre-beal.jpg",
+      "skipped": false
+    }
+  ]
+}

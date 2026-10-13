@@ -1,0 +1,79 @@
+{
+  "sku": "PI-0004210",
+  "url": "https://www.cabesto.com/fr/piscine-hors-sol-graphite-4m78x1m24-kit-piscine-pi-1.html",
+  "title": "PISCINE HORS-SOL GRAPHITE Ø4M78X1M24 AVEC FILTRE A SABLE INTEX",
+  "brand": "DIVERS",
+  "category": "Piscine ronde",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine tubulaire",
+    "Piscine ronde"
+  ],
+  "categories": [
+    "Piscine tubulaire",
+    "Piscine ronde"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE HORS-SOL GRAPHITE Ø4M78X1M24 AVEC FILTRE A SABLE INTEX"
+  ],
+  "description": "Achetez PISCINE HORS-SOL GRAPHITE Ø4M78X1M24 AVEC FILTRE A SABLE INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "26384GS",
+  "price": {
+    "amount": 999,
+    "currency": "EUR",
+    "formatted": "999 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0004210",
+      "sku": "PI-0004210",
+      "supplierRef": "26384GS",
+      "price": {
+        "amount": 999,
+        "currency": "EUR",
+        "formatted": "999 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/PI-1-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PI-1-4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PI-1-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PI-1-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:29:50.978Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-1-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004210/01-PI-1-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-1-4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004210/02-PI-1-4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-1-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004210/03-PI-1-2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-1-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004210/04-PI-1-3.jpg",
+      "skipped": false
+    }
+  ]
+}

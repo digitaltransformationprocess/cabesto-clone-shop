@@ -1,0 +1,93 @@
+{
+  "sku": "PI-0009356",
+  "url": "https://www.cabesto.com/fr/piscine-bois-rect-urbaine-xl-650-x-350-x-h133-cm-couv-auto-filtre-a-sable-gris.html",
+  "title": "Piscine Urbaine XL 6.50x3.50xHt1.33M - Piscine bois avec couverture automatique et Filtre à sable",
+  "brand": "BWT",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine bois",
+    "Piscine rectangulaire",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Piscine bois",
+    "Piscine rectangulaire",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piscine Urbaine XL 6.50x3.50xHt1.33M - Piscine bois avec couverture automatique et Filtre à sable"
+  ],
+  "description": "Achetez Piscine Urbaine XL 6.50x3.50xHt1.33M - Piscine bois avec couverture automatique et Filtre à sable chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "27184218",
+  "price": {
+    "amount": 11500,
+    "currency": "EUR",
+    "formatted": "11500 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0009356",
+      "sku": "PI-0009356",
+      "supplierRef": "27184218",
+      "price": {
+        "amount": 11500,
+        "currency": "EUR",
+        "formatted": "11500 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/i/piscineurbaine-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/u/r/urbaine_xl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/piscine-urbaine-procopi-en-bois-600-x-250-x-h-133-couverture-automatique-avec-coffre-et-filtration_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/piscine_2_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_13_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_27_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:30:33.996Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/piscineurbaine-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009356/01-piscineurbaine-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/u/r/urbaine_xl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009356/02-urbaine_xl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/piscine-urbaine-procopi-en-bois-600-x-250-x-h-133-couverture-automatique-avec-coffre-et-filtration_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009356/03-piscine-urbaine-procopi-en-bois-600-x-250-x-h-133-couverture-automatique-avec-coffre-et-filtration_1__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/piscine_2_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009356/04-piscine_2_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_13_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009356/05-hqdefault_13_1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_27_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009356/06-hqdefault_27_5.jpg",
+      "skipped": false
+    }
+  ]
+}

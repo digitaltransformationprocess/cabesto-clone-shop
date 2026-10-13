@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0001108",
+  "url": "https://www.cabesto.com/fr/robot-de-piscine-sans-fil-sora-p7-beatbot-pi-0002916.html",
+  "title": "ROBOT PISCINE SANS FIL SORA P3 BEATBOT",
+  "brand": "BEATBOT",
+  "category": "Robot électrique sans fil",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Robot électrique",
+    "Robot électrique sans fil"
+  ],
+  "categories": [
+    "Robot électrique",
+    "Robot électrique sans fil"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROBOT PISCINE SANS FIL SORA P3 BEATBOT"
+  ],
+  "description": "Achetez ROBOT PISCINE SANS FIL SORA P3 BEATBOT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "RO-SORA-P3",
+  "price": {
+    "amount": 899,
+    "currency": "EUR",
+    "formatted": "899 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001108",
+      "sku": "PI-0001108",
+      "supplierRef": "RO-SORA-P3",
+      "price": {
+        "amount": 899,
+        "currency": "EUR",
+        "formatted": "899 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-de-piscine-beatbot-sora-p3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:52:52.060Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-de-piscine-beatbot-sora-p3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001108/01-robot-de-piscine-beatbot-sora-p3.jpg",
+      "skipped": false
+    }
+  ]
+}

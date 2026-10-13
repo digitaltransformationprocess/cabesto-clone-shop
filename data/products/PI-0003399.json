@@ -1,0 +1,67 @@
+{
+  "sku": "PI-0003399",
+  "url": "https://www.cabesto.com/fr/piscine-tapis-de-sol-4m72-x-4m72-pi-326.html",
+  "title": "INTEX TAPIS DE SOL 4.72M X 4.72M",
+  "brand": "INTEX",
+  "category": "Pièces détachées de piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Accessoires piscine et pièces détachées",
+    "Pièces détachées de piscine"
+  ],
+  "categories": [
+    "Accessoires piscine et pièces détachées",
+    "Pièces détachées de piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "INTEX TAPIS DE SOL 4.72M X 4.72M"
+  ],
+  "description": "Achetez INTEX TAPIS DE SOL 4.72M X 4.72M chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "28048",
+  "price": {
+    "amount": 17.99,
+    "currency": "EUR",
+    "formatted": "17.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003399",
+      "sku": "PI-0003399",
+      "supplierRef": "28048",
+      "price": {
+        "amount": 17.99,
+        "currency": "EUR",
+        "formatted": "17.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/8/28048-tapis-de-sol-piscine-_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28048-tapis-de-sol-piscine-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:34:28.690Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28048-tapis-de-sol-piscine-_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003399/01-28048-tapis-de-sol-piscine-_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28048-tapis-de-sol-piscine-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003399/02-28048-tapis-de-sol-piscine-.jpg",
+      "skipped": false
+    }
+  ]
+}

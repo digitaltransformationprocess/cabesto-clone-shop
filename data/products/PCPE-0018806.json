@@ -1,0 +1,87 @@
+{
+  "sku": "PCPE-0018806",
+  "url": "https://www.cabesto.com/fr/cannes-de-peche-aux-leurres-ionizer-daiwa.html",
+  "title": "Cannes de pêche aux leurres Ionizer | SAKURA",
+  "brand": "SAKURA",
+  "category": "Cannes Leurres 2,7M",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "Cannes Leurres 2,1M",
+    "Cannes Leurres 2,4M",
+    "Cannes Leurres 2,7M"
+  ],
+  "categories": [
+    "Cannes Leurres 2,1M",
+    "Cannes Leurres 2,4M",
+    "Cannes Leurres 2,7M"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pêche",
+    "Pêche",
+    "Cannes",
+    "Cannes",
+    "Lancer, Leurres",
+    "Lancer, Leurres",
+    "Cannes de pêche aux leurres Ionizer | SAKURA"
+  ],
+  "description": "Achetez Cannes de pêche aux leurres Ionizer | SAKURA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 99.99,
+    "currency": "EUR",
+    "formatted": "99.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPE-0018806",
+      "sku": "PCPE-0018806",
+      "supplierRef": null,
+      "price": {
+        "amount": 99.99,
+        "currency": "EUR",
+        "formatted": "99.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/i/o/ionizer-g2-power-game_6ychlnrvtd1ukzzj.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/o/ionizer-g2-power-game_qyhivo6yphp9rar6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-sakura-ionizer-g2-finesse-light-game-ingsf-z-2714-271451_sizplfpvakyyyziy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-sakura-ionizer-g2-long-range-ingsl-z-2714-271458_wol10sax0uixpv4v.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:26:16.166Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/o/ionizer-g2-power-game_6ychlnrvtd1ukzzj.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018806/01-ionizer-g2-power-game_6ychlnrvtd1ukzzj.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/o/ionizer-g2-power-game_qyhivo6yphp9rar6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018806/02-ionizer-g2-power-game_qyhivo6yphp9rar6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-sakura-ionizer-g2-finesse-light-game-ingsf-z-2714-271451_sizplfpvakyyyziy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018806/03-canne-spinning-sakura-ionizer-g2-finesse-light-game-ingsf-z-2714-271451_sizplfpvakyyyziy.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-sakura-ionizer-g2-long-range-ingsl-z-2714-271458_wol10sax0uixpv4v.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018806/04-canne-spinning-sakura-ionizer-g2-long-range-ingsl-z-2714-271458_wol10sax0uixpv4v.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "sku": "SU-0000449",
+  "url": "https://www.cabesto.com/fr/plongee-amortisseur-pl-12487.html",
+  "title": "Amortisseur de drisse pour bungee pour arbalère chasse sous-marine IMERSION",
+  "brand": "IMERSION",
+  "category": "ressorts-amortisseur-d-amarrage",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Amortisseur de drisse pour bungee pour arbalère chasse sous-marine IMERSION"
+  ],
+  "description": "Amortisseur de drisse pour bungee pour arbalère chasse sous-marine IMERSIONOptimisez vos performances avec cet amortisseur robuste et polyvalent.",
+  "supplierRef": "DC121",
+  "price": {
+    "amount": 4.99,
+    "currency": "EUR",
+    "formatted": "4.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0000449",
+      "sku": "SU-0000449",
+      "supplierRef": "DC121",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/m/amortisseur-imersion-avec-emerillon_hvwzg9cgayjww4v9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-14351-pl-14351-picture_1-pl-14351-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/o/mousqueton-drisse-cabesto_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-12505-pl-12505-picture_1-pl-12505-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/6/b699-bou_e-profil_e-double-enveloppe.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-12487-pl-12487-picture_1-pl-12487-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:02.186Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/m/amortisseur-imersion-avec-emerillon_hvwzg9cgayjww4v9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000449/01-amortisseur-imersion-avec-emerillon_hvwzg9cgayjww4v9.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-14351-pl-14351-picture_1-pl-14351-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000449/02-pl-14351-pl-14351-picture_1-pl-14351-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/o/mousqueton-drisse-cabesto_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000449/03-mousqueton-drisse-cabesto_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-12505-pl-12505-picture_1-pl-12505-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000449/04-pl-12505-pl-12505-picture_1-pl-12505-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/6/b699-bou_e-profil_e-double-enveloppe.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000449/05-b699-bou_e-profil_e-double-enveloppe.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-12487-pl-12487-picture_1-pl-12487-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000449/06-pl-12487-pl-12487-picture_1-pl-12487-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "mouillage-amarrage",
+    "ressorts-amortisseur-d-amarrage"
+  ],
+  "categories": [
+    "nautisme",
+    "mouillage-amarrage",
+    "ressorts-amortisseur-d-amarrage"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0003058",
+  "url": "https://www.cabesto.com/fr/plongee-interface-dive-link-2-pour-smart-smart-apnea-quad-et-puck-pro-pl-6494.html",
+  "title": "Interface USB pour ordinateur de plongée SMART. SMART APNEA. QUAD. QUAD AIR et PUCK PRO + DIVE LINK 2 MARES",
+  "brand": "MARES",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Interface USB pour ordinateur de plongée SMART. SMART APNEA. QUAD. QUAD AIR et PUCK PRO + DIVE LINK 2 MARES"
+  ],
+  "description": "INTERFACE DIVE LINK 2 POUR SMART, SMART APNEA, QUAD, QUAD AIR ET PUCK PRO +Nouvelle interface Dive Link 2 pour ordinateur de plongée Smart Mares, puck pro et Smart Apnea, Quad, Quad air et Puck Pro +Le Dive Link permet de relier votre ordinateur de plongée vers votre Pc.Le système d’interface à pince utilise le programme Dive Organizer pour PC via connexion USB.Une fois relié à votre ordinateur de plongée vous pouvez envoyer toutes les informations de plongées dans votre Pc.Connecté à internet, vous pourrez aussi effectuer les dernières mises à jour sur votre ordinateur. Ordinateur compatible :QuadQuad AirSmartSmart AirPuck ProPuck Pro Plus",
+  "supplierRef": "414316",
+  "price": {
+    "amount": 44.99,
+    "currency": "EUR",
+    "formatted": "44.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003058",
+      "sku": "SU-0003058",
+      "supplierRef": "414316",
+      "price": {
+        "amount": 44.99,
+        "currency": "EUR",
+        "formatted": "44.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-6494-pl-6494-picture_1-pl-6494-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:25.820Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-6494-pl-6494-picture_1-pl-6494-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003058/01-pl-6494-pl-6494-picture_1-pl-6494-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

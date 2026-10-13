@@ -1,0 +1,97 @@
+{
+  "sku": "PCSU-0010774",
+  "url": "https://www.cabesto.com/fr/palmes-de-plongee-reglables-avanti-4x-mares-pcsu-0010774.html",
+  "title": "Palmes de plongée réglables AVANTI 4X MARES",
+  "brand": "MARES",
+  "category": "Palmes de plongée réglables",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Palmes de plongée",
+    "Palmes de plongée réglables"
+  ],
+  "categories": [
+    "Palmes de plongée",
+    "Palmes de plongée réglables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Palmes de plongée réglables AVANTI 4X MARES"
+  ],
+  "description": "Profitez d’une propulsion exceptionnelle avec les palmes légères et performantes AVANTI 4X, qui succèdent au célèbre modèle Avanti Quattro de chez MARES.",
+  "supplierRef": null,
+  "price": {
+    "amount": 199,
+    "currency": "EUR",
+    "formatted": "199 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0010774",
+      "sku": "PCSU-0010774",
+      "supplierRef": null,
+      "price": {
+        "amount": 199,
+        "currency": "EUR",
+        "formatted": "199 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/a/palme-avanti-4x-noirjaune_lmayq4kzv4ctmjlx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/o/force_x_all_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/410029_avanti_4x_bkdg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seawing.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/410029_avanti_4x_whbl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/palme-avanti-4x-noirjaune_4cjwf5qtx1syuj05.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/palme-avanti-4x-noirjaune_8dhnhyagvhhrpgd4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:37:36.925Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/palme-avanti-4x-noirjaune_lmayq4kzv4ctmjlx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010774/01-palme-avanti-4x-noirjaune_lmayq4kzv4ctmjlx.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/o/force_x_all_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010774/02-force_x_all_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/410029_avanti_4x_bkdg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010774/03-410029_avanti_4x_bkdg.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seawing.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010774/04-seawing.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/410029_avanti_4x_whbl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010774/05-410029_avanti_4x_whbl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/palme-avanti-4x-noirjaune_4cjwf5qtx1syuj05.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010774/06-palme-avanti-4x-noirjaune_4cjwf5qtx1syuj05.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/palme-avanti-4x-noirjaune_8dhnhyagvhhrpgd4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010774/07-palme-avanti-4x-noirjaune_8dhnhyagvhhrpgd4.jpg",
+      "skipped": false
+    }
+  ]
+}

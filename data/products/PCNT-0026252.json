@@ -1,0 +1,103 @@
+{
+  "sku": "PCNT-0026252",
+  "url": "https://www.cabesto.com/fr/chaussures-femme-lowa-tm-renegade-gtx-blackberry.html",
+  "title": "Chaussures femme RENEGADE MID GTX BLACKBERRY LOWA",
+  "brand": "LOWA",
+  "category": "chaussures-hautes-femme",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "chaussures-de-randonnee",
+    "chaussures-hautes-de-randonnee",
+    "chaussures-hautes-femme"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "chaussures-de-randonnee",
+    "chaussures-hautes-de-randonnee",
+    "chaussures-hautes-femme"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussures femme RENEGADE MID GTX BLACKBERRY LOWA"
+  ],
+  "description": "La chaussure de randonnée, trekking Femme Renegade GTX Lowa incontournable, totalement polyvalente et au top du confort.",
+  "supplierRef": null,
+  "price": {
+    "amount": 131.94,
+    "currency": "EUR",
+    "formatted": "131.94 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0026252",
+      "sku": "PCNT-0026252",
+      "supplierRef": null,
+      "price": {
+        "amount": 131.94,
+        "currency": "EUR",
+        "formatted": "131.94 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/45831-thickbox_default/chaussures-lowa-renegade-gtx-mid-ws-slateblackberry.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/o/lowa-womens-renegade-gtx-mid-chaussures-de-randonnee-regular-detail-9_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/1/a109abeab36a0bbef29628c09283.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/1/615cdf11d701f560002e013afee6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/3/c399912c0924c58a5cfbdfbd90c1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/e/renegade_mid_gtx_femme_slate.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/h/chaussures-lowa-renegade-gtx-mid-ws-slateblackberry_1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:45:22.553Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/45831-thickbox_default/chaussures-lowa-renegade-gtx-mid-ws-slateblackberry.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026252/01-chaussures-lowa-renegade-gtx-mid-ws-slateblackberry.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/o/lowa-womens-renegade-gtx-mid-chaussures-de-randonnee-regular-detail-9_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026252/02-lowa-womens-renegade-gtx-mid-chaussures-de-randonnee-regular-detail-9_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/1/a109abeab36a0bbef29628c09283.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026252/03-a109abeab36a0bbef29628c09283.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/615cdf11d701f560002e013afee6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026252/04-615cdf11d701f560002e013afee6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/3/c399912c0924c58a5cfbdfbd90c1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026252/05-c399912c0924c58a5cfbdfbd90c1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/e/renegade_mid_gtx_femme_slate.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026252/06-renegade_mid_gtx_femme_slate.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/h/chaussures-lowa-renegade-gtx-mid-ws-slateblackberry_1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026252/07-chaussures-lowa-renegade-gtx-mid-ws-slateblackberry_1__2.jpg",
+      "skipped": false
+    }
+  ]
+}

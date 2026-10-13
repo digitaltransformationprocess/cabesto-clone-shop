@@ -1,0 +1,91 @@
+{
+  "sku": "SU-0005715",
+  "url": "https://www.cabesto.com/fr/plongee-sac-attack-titan-mares-pl-689.html",
+  "title": "Sac de plongée étanche ATTACK TITAN 90 litres MARES",
+  "brand": null,
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac de plongée étanche ATTACK TITAN 90 litres MARES"
+  ],
+  "description": "Sac de plongée étanche ATTACK TITAN 90 litres MARESTransportez, voyagez, stockez votre équipement de chasse sous-marine ou de plongée sous-marine dans le sac étanche ATTACK TITAN MARES 90 litres, le sac conçu pour les aventuriers sous-marins, robuste et étanche.Le sac de plongée Attack Titan 90 litres de MARES est une merveille d'ingénierie, conçu pour répondre aux exigences des plongeurs les plus aventureux.Fabriqué en nylon spécial 1100 deniers avec un double revêtement noir brillant, ce sac étanche sans couture est capable de transporter jusqu'à 100 kg de matériel.Les poignées résistantes à la déchirure, fixées par des mousquetons à quatre plaques soudées, offrent une prise sûre et confortable.Une soupape de purge latérale permet une gestion facile du rinçage de l'intérieur du sac.Avec ses dimensions généreuses de 90 x 43 x 24 cm, il offre un volume de 90 litres, parfait pour emporter tout votre équipement de plongée.Nylon spécial 1100 deniersDouble revêtement noir brillantCapacité transport 100 kgSac étanche fabriqué sans aucune couturePoignées résistantes à la déchirureMousquetons à 4 plaques soudéesSoupape de purge latérale.Poids 1,95 kgVolume 90 litresDimensions 90 x 43 x 24 cmLe produit en vidéoCaractéristiques Sac de plongée étanche ATTACK TITAN 90 litres MARESÉtanchéité sans failleCapacité de charge de 100 kgToile Nylon 1100 deniers robusteConception sans couture (soudures HF)Poignées de portage renforcéesInformations techniques :Matériau Nylon 1100 deniersVolume 90 litresDimensions 90 x 43 x 24 cmPoids 1,65 kgCharge maxi 100 kgPurge de vidange OuiContenu du colis1 x Sac de Plongée Attack Titan 90 litres MARES",
+  "supplierRef": "425550",
+  "price": {
+    "amount": 59.99,
+    "currency": "EUR",
+    "formatted": "59.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005715",
+      "sku": "SU-0005715",
+      "supplierRef": "425550",
+      "price": {
+        "amount": 59.99,
+        "currency": "EUR",
+        "formatted": "59.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/t/i/titan3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18808-pl-18808-picture_1-pl-18808-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/i/titan2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/i/titan1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/i/titan_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/i/titan4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:21:12.090Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/i/titan3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005715/01-titan3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18808-pl-18808-picture_1-pl-18808-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005715/02-pl-18808-pl-18808-picture_1-pl-18808-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/i/titan2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005715/03-titan2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/i/titan1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005715/04-titan1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/i/titan_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005715/05-titan_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/i/titan4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005715/06-titan4.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

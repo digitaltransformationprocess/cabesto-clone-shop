@@ -1,0 +1,93 @@
+{
+  "sku": "PI-0000220",
+  "url": "https://www.cabesto.com/fr/aspirateur-manuel-batterie-rechargeable-piscine-et-spa-intex.html",
+  "title": "ASPIRATEUR MANUEL BATTERIE RECHARGEABLE PISCINE ET SPA INTEX",
+  "brand": "INTEX",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "selection",
+    "fete-des-peres",
+    "idees-cadeaux-piscine"
+  ],
+  "categories": [
+    "selection",
+    "fete-des-peres",
+    "idees-cadeaux-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ASPIRATEUR MANUEL BATTERIE RECHARGEABLE PISCINE ET SPA INTEX"
+  ],
+  "description": "Aspirateur manuel à batterie rechargeable pour piscine et spa intex NETTOYEUR A BATTERIE RECHARGEABLE-UN PRODUIT IDEAL POUR LES SPAS ET PETITES PISCINES",
+  "supplierRef": "28626",
+  "price": {
+    "amount": 69,
+    "currency": "EUR",
+    "formatted": "69 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000220",
+      "sku": "PI-0000220",
+      "supplierRef": "28626",
+      "price": {
+        "amount": 69,
+        "currency": "EUR",
+        "formatted": "69 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/8/28626-nettoyeur-a-batterie-zr100_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28626-nettoyeur-a-batterie-zr100.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28626-nettoyeur-a-batterie-zr100_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28626-nettoyeur-a-batterie-zr100_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28626-nettoyeur-a-batterie-zr100_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28626-nettoyeur-a-batterie-zr100_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:33:43.452Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28626-nettoyeur-a-batterie-zr100_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000220/01-28626-nettoyeur-a-batterie-zr100_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28626-nettoyeur-a-batterie-zr100.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000220/02-28626-nettoyeur-a-batterie-zr100.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28626-nettoyeur-a-batterie-zr100_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000220/03-28626-nettoyeur-a-batterie-zr100_3_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28626-nettoyeur-a-batterie-zr100_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000220/04-28626-nettoyeur-a-batterie-zr100_4_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28626-nettoyeur-a-batterie-zr100_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000220/05-28626-nettoyeur-a-batterie-zr100_2_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28626-nettoyeur-a-batterie-zr100_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000220/06-28626-nettoyeur-a-batterie-zr100_5_.jpg",
+      "skipped": false
+    }
+  ]
+}

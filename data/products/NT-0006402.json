@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0006402",
+  "url": "https://www.cabesto.com/fr/verticalite-multiplicateur-d-amarrage-paw-l-petzl-nt-0006402.html",
+  "title": "Multiplicateur d'amarrage Paw L - PETZL",
+  "brand": "PETZL",
+  "category": "Ancrages-amarrages",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Ancrages-amarrages"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Ancrages-amarrages"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Multiplicateur d'amarrage Paw L - PETZL"
+  ],
+  "description": "Achetez Multiplicateur d'amarrage Paw L - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "G063CA00",
+  "price": {
+    "amount": 89.95,
+    "currency": "EUR",
+    "formatted": "89.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006402",
+      "sku": "NT-0006402",
+      "supplierRef": "G063CA00",
+      "price": {
+        "amount": 89.95,
+        "currency": "EUR",
+        "formatted": "89.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/r/pr34_1-multiplicateur-d-amarrage-paw-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr34_1-multiplicateur-d-amarrage-paw-l-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:22:06.455Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr34_1-multiplicateur-d-amarrage-paw-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006402/01-pr34_1-multiplicateur-d-amarrage-paw-l-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr34_1-multiplicateur-d-amarrage-paw-l-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006402/02-pr34_1-multiplicateur-d-amarrage-paw-l-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

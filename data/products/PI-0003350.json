@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0003350",
+  "url": "https://www.cabesto.com/fr/piscine-superklar-0-5l-bayrol-pi-229.html",
+  "title": "SUPERKLAR 0.5L BAYROL",
+  "brand": "BAYROL",
+  "category": "Clarifier sa piscine",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SUPERKLAR 0.5L BAYROL"
+  ],
+  "description": "Achetez SUPERKLAR 0.5L BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1195329",
+  "price": {
+    "amount": 13.5,
+    "currency": "EUR",
+    "formatted": "13.5 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003350",
+      "sku": "PI-0003350",
+      "supplierRef": "1195329",
+      "price": {
+        "amount": 13.5,
+        "currency": "EUR",
+        "formatted": "13.5 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/1/61ulvwj6wcl._ac_sl1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:31:02.044Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/61ulvwj6wcl._ac_sl1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003350/01-61ulvwj6wcl._ac_sl1500_.jpg",
+      "skipped": false
+    }
+  ]
+}

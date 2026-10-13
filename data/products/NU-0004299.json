@@ -1,0 +1,65 @@
+{
+  "sku": "NU-0004299",
+  "url": "https://www.cabesto.com/fr/epoxy-solomet-ht-yachtcare.html",
+  "title": "Pate epoxy haute temperature - 56 G - au dessus de la ligne de flottaison",
+  "brand": "YACHTCARE",
+  "category": "Mastic au dessus de la ligne de flottaison",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Entretien",
+    "Nautisme",
+    "Mastic - gelcoat - Stratification",
+    "Mastic au dessus de la ligne de flottaison"
+  ],
+  "categories": [
+    "Entretien",
+    "Nautisme",
+    "Mastic - gelcoat - Stratification",
+    "Mastic au dessus de la ligne de flottaison"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pate epoxy haute temperature - 56 G - au dessus de la ligne de flottaison"
+  ],
+  "description": "Achetez Pate epoxy haute temperature - 56 G - au dessus de la ligne de flottaison chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "150112",
+  "price": {
+    "amount": 14.99,
+    "currency": "EUR",
+    "formatted": "14.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0004299",
+      "sku": "NU-0004299",
+      "supplierRef": "150112",
+      "price": {
+        "amount": 14.99,
+        "currency": "EUR",
+        "formatted": "14.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/_/p_te_poxy_solomet_ht_150112_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:56:54.040Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/_/p_te_poxy_solomet_ht_150112_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0004299/01-p_te_poxy_solomet_ht_150112_2_.jpg",
+      "skipped": false
+    }
+  ]
+}

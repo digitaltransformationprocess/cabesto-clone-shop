@@ -1,0 +1,123 @@
+{
+  "sku": "PCPL-68",
+  "url": "https://www.cabesto.com/fr/plongee-vetement-medas-5-mm-homme-cressi-sub-pcpl-68.html",
+  "title": "VETEMENT MEDAS 5 MM HOMME CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage",
+    "Destockage",
+    "VETEMENT MEDAS 5 MM HOMME CRESSI SUB"
+  ],
+  "description": "VETEMENT MEDAS 5 MM HOMME CRESSI SUBLa nouvelle combinaison Medas est un modèle classique 5 + 5 mm, qui convient aux eaux tempérées, et peut aussi se révéler utile en eaux froides avec une veste intérieure.Coupe renouvelée, avec des panneaux plus grands et anatomiques, en une association discrète et élégante de noir et de bleu pour la version hommes, et de noir et de turquoise pour la version femmes, avec des coutures contrastantes et les nouveaux logos plus modernes.La coupe de ce modèle est dérivée des modèles d’apnée Cressi les plus sophistiqués, elle est donc très anatomique avec bras et jambes préformés pour une position toujours naturelle, et sans couture dans la zone des aisselles.Poignets et chevilles disposent de micro joints d’étanchéité en néoprène lisse « Glide Skin », simples, efficaces et durables même pour les utilisations dans les centres de plongée.Renforts des genoux et tibias en Powertex®, un matériau discret et flexible, mais durable.Néoprène de haute qualité, avec un revêtement intérieur et extérieur en nylon élastique.La veste en néoprène bicouche de 5 mm offre une version à fermeture par clips pour la version homme, et un style maillot de bain pour la version femme, afin de limiter les entrées d’eau au niveau du haut de la hanche.Glissière en diagonale devant RIRI® 8 dents par pouce « 8 pitch » avec tirette métallique pour empêcher les déchirures.Le tour du visage et la zone de l’encolure ont un insert en néoprène lisse afin de réduire les fuites. Pantalon avec plastron fermé haut et glissière pour une meilleure isolation.Fermeture par clip pour la version homme et style maillot de bain pour la version femme.Le prix d’achat est maîtrisé, sa coupe, sa fabrication et son attention aux détails en font un excellent choix, et c’est l’un des modèles les plus utilisés au monde.Combinaison composée d'une veste à cagoule attenante et d'un pantalon à salopette.Veste et pantalon en néoprène de 5 mm doublé sur les deux faces.Jambes et bras préformés.Veste avec fermeture de l'aine à la joue et boutons à encastrement en bas.Renforts anti-usure sur les genoux, les chevilles et les épaules.Poignets et chevilles avec système Aquastop (garnitures en néoprène de 1.5 mm) doublé sur une face.Cette combinaison humide a été fabriquée conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 2) suivant la norme NF EN 14225-1.",
+  "supplierRef": null,
+  "price": {
+    "amount": 169,
+    "currency": "EUR",
+    "formatted": "169 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-68",
+      "sku": "PCPL-68",
+      "supplierRef": null,
+      "price": {
+        "amount": 169,
+        "currency": "EUR",
+        "formatted": "169 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/8/487_medas_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/e/medas-veste.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/8/487_medas_2_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/e/medas-pantalon.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/8/487_medas_3_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/8/487_medas_4_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/8/487_medas_5_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/8/487_medas_6_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/e/medas_5mm_2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-1043-pl-1043-picture_1-pcpl-68-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:05.616Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/8/487_medas_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-68/01-487_medas_z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/e/medas-veste.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-68/02-medas-veste.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/8/487_medas_2_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-68/03-487_medas_2_z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/e/medas-pantalon.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-68/04-medas-pantalon.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/8/487_medas_3_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-68/05-487_medas_3_z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/8/487_medas_4_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-68/06-487_medas_4_z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/8/487_medas_5_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-68/07-487_medas_5_z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/8/487_medas_6_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-68/08-487_medas_6_z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/e/medas_5mm_2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-68/09-medas_5mm_2.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-1043-pl-1043-picture_1-pcpl-68-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-68/10-pl-1043-pl-1043-picture_1-pcpl-68-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

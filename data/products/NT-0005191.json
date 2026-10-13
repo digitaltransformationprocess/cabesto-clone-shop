@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0005191",
+  "url": "https://www.cabesto.com/fr/randonnee-trousse-de-secours-pocket-pharma-voyage-nt-0005191.html",
+  "title": "Trousse de Secours Pocket - PHARMA VOYAGE",
+  "brand": "PHARMA VOYAGE",
+  "category": "Trousses de secours",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Sécurité et soin du corps",
+    "Trousses de secours"
+  ],
+  "categories": [
+    "Sécurité et soin du corps",
+    "Trousses de secours"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Trousse de Secours Pocket - PHARMA VOYAGE"
+  ],
+  "description": "Achetez Trousse de Secours Pocket - PHARMA VOYAGE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "PHTS6000403",
+  "price": {
+    "amount": 9.95,
+    "currency": "EUR",
+    "formatted": "9.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005191",
+      "sku": "NT-0005191",
+      "supplierRef": "PHTS6000403",
+      "price": {
+        "amount": 9.95,
+        "currency": "EUR",
+        "formatted": "9.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/t/kt10_1-trousse-de-secours-pocket-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/t/kt10_4-trousse-de-secours-pocket-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/t/kt10_3-trousse-de-secours-pocket-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/t/kt10_2-trousse-de-secours-pocket-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/t/kt10_1-trousse-de-secours-pocket-pharma-voyage_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:23:20.722Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/t/kt10_1-trousse-de-secours-pocket-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005191/01-kt10_1-trousse-de-secours-pocket-pharma-voyage.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/t/kt10_4-trousse-de-secours-pocket-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005191/02-kt10_4-trousse-de-secours-pocket-pharma-voyage.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/t/kt10_3-trousse-de-secours-pocket-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005191/03-kt10_3-trousse-de-secours-pocket-pharma-voyage.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/t/kt10_2-trousse-de-secours-pocket-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005191/04-kt10_2-trousse-de-secours-pocket-pharma-voyage.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/t/kt10_1-trousse-de-secours-pocket-pharma-voyage_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005191/05-kt10_1-trousse-de-secours-pocket-pharma-voyage_1.jpg",
+      "skipped": false
+    }
+  ]
+}

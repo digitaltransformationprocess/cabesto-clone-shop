@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0008711",
+  "url": "https://www.cabesto.com/fr/housse-sac-elementerre-prohos-20-30-litres-jaune.html",
+  "title": "HOUSSE SAC ELEMENTERRE Prohos 20/30 Litres jaune",
+  "brand": "ELEMENTERRE",
+  "category": "rangements-accessoires",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "sacs-a-dos-rangement",
+    "rangements-accessoires"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "sacs-a-dos-rangement",
+    "rangements-accessoires"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "HOUSSE SAC ELEMENTERRE Prohos 20/30 Litres jaune"
+  ],
+  "description": "Achetez HOUSSE SAC ELEMENTERRE Prohos 20/30 Litres jaune chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "PROHOS 20",
+  "price": {
+    "amount": 10.5,
+    "currency": "EUR",
+    "formatted": "10.5 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0008711",
+      "sku": "NT-0008711",
+      "supplierRef": "PROHOS 20",
+      "price": {
+        "amount": 10.5,
+        "currency": "EUR",
+        "formatted": "10.5 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/4310-zoom_popin/prohos-20-30l.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:44:02.174Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/4310-zoom_popin/prohos-20-30l.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0008711/01-prohos-20-30l.jpg",
+      "skipped": false
+    }
+  ]
+}

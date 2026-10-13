@@ -1,0 +1,73 @@
+{
+  "sku": "SU-0006909",
+  "url": "https://www.cabesto.com/fr/plongee-trident-plat-baby-pl-4617.html",
+  "title": "Trident vissé chasse sous-marine acier PLAT BABY IMERSION",
+  "brand": "DESIAGE",
+  "category": "accessoires",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Trident vissé chasse sous-marine acier PLAT BABY IMERSION"
+  ],
+  "description": "Trident vissé chasse sous-marine acier PLAT BABY IMERSIONAméliorez vos performances avec ce trident en acier forgé, conçu pour durer.Le trident plat Baby Imersion est un accessoire indispensable pour les chasseurs sous-marins à la recherche de précision et de durabilité.Fabriqué en acier forgé avec un revêtement en zinc fer noir, ce trident offre une excellente résistance à la corrosion et aux conditions marines exigeantes.Avec un filetage standard de 6 x 100, il s'adapte facilement à la plupart des flèches.Ses pics de 4 mm de diamètre et sa longueur de 100 mm garantissent une efficacité optimale lors de vos prises.Compact et robuste, le trident plat Baby est idéal pour les chasseurs sous-marins exigeants qui souhaitent améliorer leurs performances tout en assurant la fiabilité de leur équipement.Caractéristiques Trident plat Baby ImersionFabriqué en acier forgé avec revêtement en zinc fer noirFiletage standard 6 x 100 pour une compatibilité universelleDiamètre des pics : 4 mmLongueur du trident : 100 mmRésistance optimale à la corrosionInformations techniques :MatériauAcier forgé avec revêtement en zinc fer noirFiletage6 x 100Diamètre des pics4 mmContenu du colisUn trident plat Baby Imersion.",
+  "supplierRef": "165BC .",
+  "price": {
+    "amount": 7.99,
+    "currency": "EUR",
+    "formatted": "7.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0006909",
+      "sku": "SU-0006909",
+      "supplierRef": "165BC .",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/t/r/trident-equi-gm-forge_1__ifca7rgajs8bxy0c.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-4619-pl-4619-picture_1-pl-4619-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/-/s-l500_13_ff9f2eeb-3b59-4b37-ab00-4603bf5b23b6_4qmm9gfeptjfyavl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:31.238Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/r/trident-equi-gm-forge_1__ifca7rgajs8bxy0c.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006909/01-trident-equi-gm-forge_1__ifca7rgajs8bxy0c.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-4619-pl-4619-picture_1-pl-4619-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006909/02-pl-4619-pl-4619-picture_1-pl-4619-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/-/s-l500_13_ff9f2eeb-3b59-4b37-ab00-4603bf5b23b6_4qmm9gfeptjfyavl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006909/03-s-l500_13_ff9f2eeb-3b59-4b37-ab00-4603bf5b23b6_4qmm9gfeptjfyavl.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires"
+  ],
+  "categories": [
+    "textile",
+    "accessoires"
+  ]
+}

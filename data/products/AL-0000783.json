@@ -1,0 +1,68 @@
+{
+  "sku": "AL-0000783",
+  "url": "https://www.cabesto.com/fr/calmars-en-sauce-americaine-vigilante-tripack-3x80g.html",
+  "title": "Calmars en sauce américaine Vigilante Tripack 3x80g",
+  "brand": "CABESTO",
+  "category": "tapas",
+  "description": "Calmars en sauce américaine",
+  "price": {
+    "amount": 4.49,
+    "currency": "EUR",
+    "formatted": "4.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "In stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000783",
+      "sku": "AL-0000783",
+      "price": {
+        "amount": 4.49,
+        "currency": "EUR",
+        "formatted": "4.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "In stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/6/1/6129313-6129313-picture_1-6129313_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/1/6129313-6129313-picture_1-6129313_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/6129313-6129313-picture_1-6129313_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000783/01-6129313-6129313-picture_1-6129313_1.jpg",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:17:18.566Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/6/1/6129313-6129313-picture_1-6129313_1.jpg?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "4.49",
+    "currency": "EUR",
+    "availability": "in stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-espagnole",
+    "tapas"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-espagnole",
+    "tapas"
+  ]
+}

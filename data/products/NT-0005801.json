@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0005801",
+  "url": "https://www.cabesto.com/fr/verticalite-descendeur-simple-2019-petzl-nt-0005801.html",
+  "title": "Descendeur Simple - PETZL",
+  "brand": "PETZL",
+  "category": "Descendeurs à poulies fixes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Spéléologie",
+    "Descendeurs à poulies fixes"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Descendeurs à poulies fixes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Descendeur Simple - PETZL"
+  ],
+  "description": "Achetez Descendeur Simple - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "D004AA00",
+  "price": {
+    "amount": 74.95,
+    "currency": "EUR",
+    "formatted": "74.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005801",
+      "sku": "NT-0005801",
+      "supplierRef": "D004AA00",
+      "price": {
+        "amount": 74.95,
+        "currency": "EUR",
+        "formatted": "74.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pz85_1-descendeur-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz85_4-descendeur-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz85_3-descendeur-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz85_2-descendeur-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz85_1-descendeur-simple-2019-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:18:10.439Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz85_1-descendeur-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005801/01-pz85_1-descendeur-simple-2019-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz85_4-descendeur-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005801/02-pz85_4-descendeur-simple-2019-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz85_3-descendeur-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005801/03-pz85_3-descendeur-simple-2019-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz85_2-descendeur-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005801/04-pz85_2-descendeur-simple-2019-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz85_1-descendeur-simple-2019-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005801/05-pz85_1-descendeur-simple-2019-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

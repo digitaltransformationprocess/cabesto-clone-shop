@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0028232",
+  "url": "https://www.cabesto.com/fr/randonnee-lessive-pour-textile-respirant-frendo-nt-0028232.html",
+  "title": "Lessive Pour Textile Respirant - FRENDO",
+  "brand": "NOO",
+  "category": "Black November - Montagne",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "Entretien des textiles",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Entretien des textiles",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lessive Pour Textile Respirant - FRENDO"
+  ],
+  "description": "Achetez Lessive Pour Textile Respirant - FRENDO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "610473",
+  "price": {
+    "amount": 7.9,
+    "currency": "EUR",
+    "formatted": "7.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028232",
+      "sku": "NT-0028232",
+      "supplierRef": "610473",
+      "price": {
+        "amount": 7.9,
+        "currency": "EUR",
+        "formatted": "7.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/e/lessive-special-textile-respirant.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:28:00.117Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/lessive-special-textile-respirant.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028232/01-lessive-special-textile-respirant.jpg",
+      "skipped": false
+    }
+  ]
+}

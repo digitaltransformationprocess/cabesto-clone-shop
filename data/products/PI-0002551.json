@@ -1,0 +1,75 @@
+{
+  "sku": "PI-0002551",
+  "url": "https://www.cabesto.com/fr/robot-piscine-a-surpression-polaris-280-zodiac.html",
+  "title": "ROBOT PISCINE A SURPRESSION POLARIS 280 ZODIAC",
+  "brand": "ZODIAC",
+  "category": "Robot à surpression",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "nettoyage-et-entretien",
+    "robot-a-surpression"
+  ],
+  "categories": [
+    "piscine",
+    "nettoyage-et-entretien",
+    "robot-a-surpression"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROBOT PISCINE A SURPRESSION POLARIS 280 ZODIAC"
+  ],
+  "description": "Achetez ROBOT PISCINE A SURPRESSION POLARIS 280 ZODIAC chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "W7220000",
+  "price": {
+    "amount": 359,
+    "currency": "EUR",
+    "formatted": "359 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002551",
+      "sku": "PI-0002551",
+      "supplierRef": "W7220000",
+      "price": {
+        "amount": 359,
+        "currency": "EUR",
+        "formatted": "359 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/PI-35-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/pack-robot-polaris-280-surpresseur-boost-sta-rite-1-5-piscine-center-1436455903.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-polaris-280-piscine-center-1442392710.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:28:55.559Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-35-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002551/01-PI-35-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/pack-robot-polaris-280-surpresseur-boost-sta-rite-1-5-piscine-center-1436455903.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002551/02-pack-robot-polaris-280-surpresseur-boost-sta-rite-1-5-piscine-center-1436455903.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-polaris-280-piscine-center-1442392710.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002551/03-robot-polaris-280-piscine-center-1442392710.jpg",
+      "skipped": false
+    }
+  ]
+}

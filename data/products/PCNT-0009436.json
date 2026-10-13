@@ -1,0 +1,139 @@
+{
+  "sku": "PCNT-0009436",
+  "url": "https://www.cabesto.com/fr/chaussons-d-escalade-katana-la-sportiva-homme.html",
+  "title": "CHAUSSONS D'ESCALADE HOMME KATANA LA SPORTIVA",
+  "brand": "LA SPORTIVA",
+  "category": "Chaussons d'escalade homme, mixtes",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Chaussons d'escalade",
+    "Chaussons d'escalade homme, mixtes"
+  ],
+  "categories": [
+    "Chaussons d'escalade",
+    "Chaussons d'escalade homme, mixtes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CHAUSSONS D'ESCALADE HOMME KATANA LA SPORTIVA"
+  ],
+  "description": "L' iconique chausson Katana La Sportiva, roi de la polyvalence technique.",
+  "supplierRef": null,
+  "price": {
+    "amount": 109.9,
+    "currency": "EUR",
+    "formatted": "109.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0009436",
+      "sku": "PCNT-0009436",
+      "supplierRef": null,
+      "price": {
+        "amount": 109.9,
+        "currency": "EUR",
+        "formatted": "109.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/s/ls03_1_f-chaussons-katana-la-sportiva_16.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_05_57-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_05_36-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_05_17-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_04_54-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_04_28-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_04_03-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_11_44_57-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_42_23-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls03_1_f-chaussons-katana-la-sportiva.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls03_1_f-chaussons-katana-la-sportiva_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls03_1_f-chaussons-katana-la-sportiva_16_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls03_1_f-chaussons-katana-la-sportiva_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls03_1_f-chaussons-katana-la-sportiva_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:29:13.991Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls03_1_f-chaussons-katana-la-sportiva_16.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/01-ls03_1_f-chaussons-katana-la-sportiva_16.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_05_57-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/02-2022-10-07_12_05_57-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_05_36-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/03-2022-10-07_12_05_36-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_05_17-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/04-2022-10-07_12_05_17-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_04_54-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/05-2022-10-07_12_04_54-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_04_28-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/06-2022-10-07_12_04_28-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_04_03-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/07-2022-10-07_12_04_03-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_11_44_57-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/08-2022-10-07_11_44_57-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_42_23-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/09-2022-10-07_12_42_23-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls03_1_f-chaussons-katana-la-sportiva.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/10-ls03_1_f-chaussons-katana-la-sportiva.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls03_1_f-chaussons-katana-la-sportiva_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/11-ls03_1_f-chaussons-katana-la-sportiva_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls03_1_f-chaussons-katana-la-sportiva_16_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/12-ls03_1_f-chaussons-katana-la-sportiva_16_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls03_1_f-chaussons-katana-la-sportiva_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/13-ls03_1_f-chaussons-katana-la-sportiva_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls03_1_f-chaussons-katana-la-sportiva_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009436/14-ls03_1_f-chaussons-katana-la-sportiva_11.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "sku": "PCNT-0018419",
+  "url": "https://www.cabesto.com/fr/sac-a-corde-d-escalade-kliff-pz76.html",
+  "title": "Sac à Corde d'escalade Kliff",
+  "brand": "PETZL",
+  "category": "sacs-et-tapis-a-cordes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "cordes-sangles",
+    "accessoires-cordes",
+    "sacs-et-tapis-a-cordes"
+  ],
+  "categories": [
+    "montagne",
+    "cordes-sangles",
+    "accessoires-cordes",
+    "sacs-et-tapis-a-cordes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac à Corde d'escalade Kliff"
+  ],
+  "description": "Achetez Sac à Corde d'escalade Kliff chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 41.9,
+    "currency": "EUR",
+    "formatted": "41.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0018419",
+      "sku": "PCNT-0018419",
+      "supplierRef": null,
+      "price": {
+        "amount": 41.9,
+        "currency": "EUR",
+        "formatted": "41.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pz76_1_f-sac-a-corde-d-escalade-kliff-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz76_1_f-sac-a-corde-d-escalade-kliff-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz76_1_j-sac-a-corde-d-escalade-kliff-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:30:22.723Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz76_1_f-sac-a-corde-d-escalade-kliff-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018419/01-pz76_1_f-sac-a-corde-d-escalade-kliff-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz76_1_f-sac-a-corde-d-escalade-kliff-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018419/02-pz76_1_f-sac-a-corde-d-escalade-kliff-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz76_1_j-sac-a-corde-d-escalade-kliff-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018419/03-pz76_1_j-sac-a-corde-d-escalade-kliff-petzl.jpg",
+      "skipped": false
+    }
+  ]
+}

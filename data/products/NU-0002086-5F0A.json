@@ -1,0 +1,61 @@
+{
+  "sku": "NU-0002086-5F0A",
+  "url": "https://www.cabesto.com/fr/bache-pour-annexe-300-360-cm.html",
+  "title": "Bâche p. bateaux gris 320/380 cm 300D",
+  "brand": "OSCULATI",
+  "category": "Housses de protection et de rangement",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Confort à bord",
+    "Housses de protection et de rangement"
+  ],
+  "categories": [
+    "Confort à bord",
+    "Housses de protection et de rangement"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bâche p. bateaux gris 320/380 cm 300D"
+  ],
+  "description": "Achetez Bâche p. bateaux gris 320/380 cm 300D chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "46.501.02",
+  "price": {
+    "amount": 58.59,
+    "currency": "EUR",
+    "formatted": "58.59 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0002086-5F0A",
+      "sku": "NU-0002086-5F0A",
+      "supplierRef": "46.501.02",
+      "price": {
+        "amount": 58.59,
+        "currency": "EUR",
+        "formatted": "58.59 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/6/46.501.xx_misure_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:02:40.536Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/6/46.501.xx_misure_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0002086-5F0A/01-46.501.xx_misure_1.jpg",
+      "skipped": true
+    }
+  ]
+}

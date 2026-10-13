@@ -1,0 +1,91 @@
+{
+  "sku": "PCNT-0002271",
+  "url": "https://www.cabesto.com/fr/verticalite-mousqueton-a-vis-be-quick-beal-be38.html",
+  "title": "Mousqueton à vis Be Quick - BEAL",
+  "brand": "BEAL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Matériel métallique",
+    "Mousquetons à vis",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Matériel métallique",
+    "Mousquetons à vis",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Mousqueton à vis Be Quick - BEAL"
+  ],
+  "description": "Achetez Mousqueton à vis Be Quick - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 9.9,
+    "currency": "EUR",
+    "formatted": "9.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0002271",
+      "sku": "PCNT-0002271",
+      "supplierRef": null,
+      "price": {
+        "amount": 9.9,
+        "currency": "EUR",
+        "formatted": "9.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/e/be38_1_d-mousqueton-a-vis-be-quick-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be38_2_z-mousqueton-a-vis-be-quick-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be38_1_d-mousqueton-a-vis-be-quick-beal_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be38_1_d-mousqueton-a-vis-be-quick-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be38_2_z-mousqueton-a-vis-be-quick-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:30:05.684Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be38_1_d-mousqueton-a-vis-be-quick-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002271/01-be38_1_d-mousqueton-a-vis-be-quick-beal_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be38_2_z-mousqueton-a-vis-be-quick-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002271/02-be38_2_z-mousqueton-a-vis-be-quick-beal_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be38_1_d-mousqueton-a-vis-be-quick-beal_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002271/03-be38_1_d-mousqueton-a-vis-be-quick-beal_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be38_1_d-mousqueton-a-vis-be-quick-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002271/04-be38_1_d-mousqueton-a-vis-be-quick-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be38_2_z-mousqueton-a-vis-be-quick-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002271/05-be38_2_z-mousqueton-a-vis-be-quick-beal.jpg",
+      "skipped": false
+    }
+  ]
+}

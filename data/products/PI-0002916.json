@@ -1,0 +1,129 @@
+{
+  "sku": "PI-0002916",
+  "url": "https://www.cabesto.com/fr/robot-piscine-sans-fil-sora-p3-beatbot-pi-0001108.html",
+  "title": "ROBOT DE PISCINE SANS FIL SORA P7 BEATBOT",
+  "brand": "BEATBOT",
+  "category": "Robot électrique sans fil",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Robot électrique",
+    "Sélection Piscine",
+    "Robot électrique sans fil"
+  ],
+  "categories": [
+    "Robot électrique",
+    "Sélection Piscine",
+    "Robot électrique sans fil"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROBOT DE PISCINE SANS FIL SORA P7 BEATBOT"
+  ],
+  "description": "Achetez ROBOT DE PISCINE SANS FIL SORA P7 BEATBOT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "RO-SORA-P7",
+  "price": {
+    "amount": 1499,
+    "currency": "EUR",
+    "formatted": "1499 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002916",
+      "sku": "PI-0002916",
+      "supplierRef": "RO-SORA-P7",
+      "price": {
+        "amount": 1499,
+        "currency": "EUR",
+        "formatted": "1499 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-de-piscine-beatbot-sora-p7_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-de-piscine-beatbot-sora-p7_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-de-piscine-beatbot-sora-p7_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/image_7__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/image_6__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/image_4__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/image_8__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/image_5__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/image_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/image_2__1_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/_/4_16aaae2d-65e5-471c-8ce7-e1fb4576db31.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/-/2-_-_fr_420938d2-dcb0-4be8-a7e5-bc95d4bd8c43.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:52:44.887Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-de-piscine-beatbot-sora-p7_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002916/01-robot-de-piscine-beatbot-sora-p7_2_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-de-piscine-beatbot-sora-p7_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002916/02-robot-de-piscine-beatbot-sora-p7_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-de-piscine-beatbot-sora-p7_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002916/03-robot-de-piscine-beatbot-sora-p7_3_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/image_7__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002916/04-image_7__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/image_6__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002916/05-image_6__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/image_4__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002916/06-image_4__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/image_8__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002916/07-image_8__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/image_5__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002916/08-image_5__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/image_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002916/09-image_3_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/image_2__1_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002916/10-image_2__1_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/_/4_16aaae2d-65e5-471c-8ce7-e1fb4576db31.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002916/11-4_16aaae2d-65e5-471c-8ce7-e1fb4576db31.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/-/2-_-_fr_420938d2-dcb0-4be8-a7e5-bc95d4bd8c43.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002916/12-2-_-_fr_420938d2-dcb0-4be8-a7e5-bc95d4bd8c43.png",
+      "skipped": false
+    }
+  ]
+}

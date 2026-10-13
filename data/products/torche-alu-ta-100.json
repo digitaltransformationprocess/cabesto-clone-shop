@@ -1,0 +1,35 @@
+{
+  "sku": "torche-alu-ta-100",
+  "url": "https://www.cabesto.com/fr/torche-alu-ta-100.html",
+  "title": "Cette page a pris le large...",
+  "brand": null,
+  "category": null,
+  "topLevel": "autre",
+  "topLevelLabel": "Autre",
+  "categoryPath": [],
+  "categories": [],
+  "breadcrumbs": [],
+  "description": null,
+  "supplierRef": null,
+  "price": null,
+  "availability": {
+    "inStock": null,
+    "text": null
+  },
+  "variants": [
+    {
+      "id": null,
+      "sku": null,
+      "supplierRef": null,
+      "price": null,
+      "availability": {
+        "inStock": null,
+        "text": null
+      }
+    }
+  ],
+  "imageUrls": [],
+  "scrapedAt": "2026-10-13T12:20:31.929Z",
+  "source": "puppeteer",
+  "localImages": []
+}

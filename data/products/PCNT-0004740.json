@@ -1,0 +1,97 @@
+{
+  "sku": "PCNT-0004740",
+  "url": "https://www.cabesto.com/fr/verticalite-sous-combinaison-choranche-expe-2254.html",
+  "title": "Sous-combinaison ILLAMINA Choranche AVENTURE VERTICALE",
+  "brand": "EXPE",
+  "category": "Sous-combinaisons spéléo",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Spéléologie",
+    "Sous-combinaisons spéléo"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Sous-combinaisons spéléo"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sous-combinaison ILLAMINA Choranche AVENTURE VERTICALE"
+  ],
+  "description": "Confortable la combinaison de spéléologie ILLAMINA est conçue en polaire Stretch afin de vous garantir chaleur et aisance de mouvements",
+  "supplierRef": null,
+  "price": {
+    "amount": 132.93,
+    "currency": "EUR",
+    "formatted": "132.93 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004740",
+      "sku": "PCNT-0004740",
+      "supplierRef": null,
+      "price": {
+        "amount": 132.93,
+        "currency": "EUR",
+        "formatted": "132.93 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-avsp75-illamina.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-av-avsp75-illamina-coupe.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-avsp75-illamina_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-avsp75-illamina_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-avsp75-illamina_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-avsp75-illamina_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-avsp75-illamina_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:24:54.976Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-avsp75-illamina.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004740/01-sous-combinaison-avsp75-illamina.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-av-avsp75-illamina-coupe.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004740/02-sous-combinaison-av-avsp75-illamina-coupe.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-avsp75-illamina_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004740/03-sous-combinaison-avsp75-illamina_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-avsp75-illamina_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004740/04-sous-combinaison-avsp75-illamina_1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-avsp75-illamina_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004740/05-sous-combinaison-avsp75-illamina_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-avsp75-illamina_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004740/06-sous-combinaison-avsp75-illamina_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-avsp75-illamina_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004740/07-sous-combinaison-avsp75-illamina_4.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sku": "SU-0011122-9DEF",
+  "url": "https://www.cabesto.com/fr/porte-octopus-plongee-sous-marine-requin-tortue-de-mer-best-divers-su-0011122-9def.html",
+  "title": "Porte-octopus Plongée tortue marine BEST DIVERS",
+  "brand": "DIVERS",
+  "category": "Accessoires détendeurs plongée et octopus",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée sous-marine",
+    "Détendeurs et Octopus",
+    "Accessoires détendeurs plongée et octopus"
+  ],
+  "categories": [
+    "Plongée sous-marine",
+    "Détendeurs et Octopus",
+    "Accessoires détendeurs plongée et octopus"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Porte-octopus Plongée tortue marine BEST DIVERS"
+  ],
+  "description": "Achetez Porte-octopus Plongée tortue marine BEST DIVERS chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "AE0268",
+  "price": {
+    "amount": 21.99,
+    "currency": "EUR",
+    "formatted": "21.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0011122-9DEF",
+      "sku": "SU-0011122-9DEF",
+      "supplierRef": "AE0268",
+      "price": {
+        "amount": 21.99,
+        "currency": "EUR",
+        "formatted": "21.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/t/o/tort.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/o/tort1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:41:43.985Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/o/tort.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011122-9DEF/01-tort.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/o/tort1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011122-9DEF/02-tort1.jpg",
+      "skipped": true
+    }
+  ]
+}

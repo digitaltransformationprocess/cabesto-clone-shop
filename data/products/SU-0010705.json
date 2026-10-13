@@ -1,0 +1,155 @@
+{
+  "sku": "SU-0010705",
+  "url": "https://www.cabesto.com/fr/pack-detendeur-de-plongee-dual-62x-octopus-manometre-flexible-sacoche-mares-su-0010705.html",
+  "title": "Pack détendeur de plongée DUAL 62X + Octopus + Manomètre + Flexible + Sacoche MARES",
+  "brand": "MARES",
+  "category": "Idées cadeaux Plongée & Chasse sous-marine",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Détendeurs et Octopus",
+    "Packs détendeurs plongée + octopus plongée",
+    "Boutique de Noël",
+    "Idées cadeaux Plongée & Chasse sous-marine"
+  ],
+  "categories": [
+    "Détendeurs et Octopus",
+    "Packs détendeurs plongée + octopus plongée",
+    "Boutique de Noël",
+    "Idées cadeaux Plongée & Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pack détendeur de plongée DUAL 62X + Octopus + Manomètre + Flexible + Sacoche MARES"
+  ],
+  "description": "Découvrez le nouvel ensemble détendeur technologie membrane compensée performante & deuxième étage réglable DUAL 62X DIN MARES, le package performant haut de gamme livré dans une sacoche détendeur élégante MARES, 100 % monté et testé par MARES, comprenant",
+  "supplierRef": "416282BKDININ",
+  "price": {
+    "amount": 499.99,
+    "currency": "EUR",
+    "formatted": "499.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010705",
+      "sku": "SU-0010705",
+      "supplierRef": "416282BKDININ",
+      "price": {
+        "amount": 499.99,
+        "currency": "EUR",
+        "formatted": "499.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/2/62xmares.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32591-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-16757-pl-16757-picture_1-pl-16757-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-2062-pl-2062-picture_1-pl-2062-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/1/71ij4cuj76l._ac_sx450_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/h/thumbnail_picto-plongee-final_10_2__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/pack62x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dualx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/c/octodual.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/s/1st62x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/t/atemregler-set-mares-dual-15x-mares-starter-set-lungenautomat_6_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/d/fdsmares.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/415866_shell_regulator_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-adj-62x-black.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-adj-62x-black_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/dual-adj-62x-black_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:36:48.452Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/2/62xmares.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/01-62xmares.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32591-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/02--p-image-32591-grande.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-16757-pl-16757-picture_1-pl-16757-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/03-pl-16757-pl-16757-picture_1-pl-16757-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-2062-pl-2062-picture_1-pl-2062-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/04-pl-2062-pl-2062-picture_1-pl-2062-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/1/71ij4cuj76l._ac_sx450_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/05-71ij4cuj76l._ac_sx450_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/h/thumbnail_picto-plongee-final_10_2__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/06-thumbnail_picto-plongee-final_10_2__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/pack62x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/07-pack62x.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dualx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/08-dualx.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/octodual.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/09-octodual.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/s/1st62x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/10-1st62x.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/t/atemregler-set-mares-dual-15x-mares-starter-set-lungenautomat_6_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/11-atemregler-set-mares-dual-15x-mares-starter-set-lungenautomat_6_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/d/fdsmares.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/12-fdsmares.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/415866_shell_regulator_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/13-415866_shell_regulator_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-adj-62x-black.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/14-dual-adj-62x-black.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-adj-62x-black_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/15-dual-adj-62x-black_2_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/dual-adj-62x-black_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010705/16-dual-adj-62x-black_3_.jpg",
+      "skipped": false
+    }
+  ]
+}

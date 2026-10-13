@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0006907",
+  "url": "https://www.cabesto.com/fr/plongee-trident-equi-g-m-forge-pl-6666.html",
+  "title": "Trident vissé chasse sous-marine acier forgé EQUI GRAND MODELE IMERSION",
+  "brand": "IMERSION",
+  "category": "accessoires",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Trident vissé chasse sous-marine acier forgé EQUI GRAND MODELE IMERSION"
+  ],
+  "description": "Trident équi forgé Grand modèle Acier avec revêtement Zinc Fer noir",
+  "supplierRef": "61BC.",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0006907",
+      "sku": "SU-0006907",
+      "supplierRef": "61BC.",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-6666-pl-6666-picture_1-pl-6666-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:29.749Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-6666-pl-6666-picture_1-pl-6666-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006907/01-pl-6666-pl-6666-picture_1-pl-6666-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires"
+  ],
+  "categories": [
+    "textile",
+    "accessoires"
+  ]
+}

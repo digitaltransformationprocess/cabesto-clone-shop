@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0006111",
+  "url": "https://www.cabesto.com/fr/verticalite-bandeau-platine-textile-pixa-petzl-nt-0006111.html",
+  "title": "Bandeau + Platine textile Pixa - PETZL",
+  "brand": "PETZL",
+  "category": "Eclairage",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Eclairage"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Eclairage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bandeau + Platine textile Pixa - PETZL"
+  ],
+  "description": "Achetez Bandeau + Platine textile Pixa - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "E78900 2",
+  "price": {
+    "amount": 8.95,
+    "currency": "EUR",
+    "formatted": "8.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006111",
+      "sku": "NT-0006111",
+      "supplierRef": "E78900 2",
+      "price": {
+        "amount": 8.95,
+        "currency": "EUR",
+        "formatted": "8.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl62_1-bandeau---platine-textile-pixa-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl62_1-bandeau---platine-textile-pixa-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:27:51.294Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl62_1-bandeau---platine-textile-pixa-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006111/01-pl62_1-bandeau---platine-textile-pixa-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl62_1-bandeau---platine-textile-pixa-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006111/02-pl62_1-bandeau---platine-textile-pixa-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "sku": "PCNT-0028351",
+  "url": "https://www.cabesto.com/fr/veste-polaire-tweedy-mountain-hoodie-femme.html",
+  "title": "Veste Polaire Tweedy Mountain Hoodie Femme - MILLET",
+  "brand": "MILLET",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Veste Polaire Tweedy Mountain Hoodie Femme - MILLET"
+  ],
+  "description": "Achetez Veste Polaire Tweedy Mountain Hoodie Femme - MILLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0028351",
+      "sku": "PCNT-0028351",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/l/ml05_1_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/l/ml05_4_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/l/ml05_3_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/l/ml05_2_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/l/ml05_1_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:35:12.027Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml05_1_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028351/01-ml05_1_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml05_4_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028351/02-ml05_4_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml05_3_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028351/03-ml05_3_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml05_2_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028351/04-ml05_2_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml05_1_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028351/05-ml05_1_ah-veste-polaire-tweedy-mountain-hoodie-femme-millet_5.jpg",
+      "skipped": false
+    }
+  ]
+}

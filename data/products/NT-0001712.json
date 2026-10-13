@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0001712",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-saute-de-champignons-et-soja-aux-pates-trek-n-eat-nt-0001712.html",
+  "title": "Sauté de champignons et soja aux pâtes - TREK'N EAT",
+  "brand": "TREK'N EAT",
+  "category": "Aliments lyophilisés et déshydratés",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Aliments lyophilisés et déshydratés"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Aliments lyophilisés et déshydratés"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sauté de champignons et soja aux pâtes - TREK'N EAT"
+  ],
+  "description": "Achetez Sauté de champignons et soja aux pâtes - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "TE30404030",
+  "price": {
+    "amount": 7.95,
+    "currency": "EUR",
+    "formatted": "7.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0001712",
+      "sku": "NT-0001712",
+      "supplierRef": "TE30404030",
+      "price": {
+        "amount": 7.95,
+        "currency": "EUR",
+        "formatted": "7.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/3/0/3001_1-saute-de-champignons-et-soja-aux-pates-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3001_4-saute-de-champignons-et-soja-aux-pates-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3001_3-saute-de-champignons-et-soja-aux-pates-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3001_2-saute-de-champignons-et-soja-aux-pates-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3001_1-saute-de-champignons-et-soja-aux-pates-trek_n-eat_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:22:26.330Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3001_1-saute-de-champignons-et-soja-aux-pates-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001712/01-3001_1-saute-de-champignons-et-soja-aux-pates-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3001_4-saute-de-champignons-et-soja-aux-pates-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001712/02-3001_4-saute-de-champignons-et-soja-aux-pates-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3001_3-saute-de-champignons-et-soja-aux-pates-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001712/03-3001_3-saute-de-champignons-et-soja-aux-pates-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3001_2-saute-de-champignons-et-soja-aux-pates-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001712/04-3001_2-saute-de-champignons-et-soja-aux-pates-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3001_1-saute-de-champignons-et-soja-aux-pates-trek_n-eat_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001712/05-3001_1-saute-de-champignons-et-soja-aux-pates-trek_n-eat_1.jpg",
+      "skipped": false
+    }
+  ]
+}

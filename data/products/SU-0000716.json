@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0000716",
+  "url": "https://www.cabesto.com/fr/plongee-ardoise-3-volets-crayon-pl-10854.html",
+  "title": "Ardoise de plongée 3 volets avec crayon AXESS",
+  "brand": "AQUATYS",
+  "category": "ardoises-sous-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ardoise de plongée 3 volets avec crayon AXESS"
+  ],
+  "description": "Ardoise 3 Volets Axess - Communiquez efficacement sous l'eauUn accessoire pratique pour noter et échanger des informations en plongée.L'ardoise 3 volets d'Axess est conçue pour simplifier vos plongées grâce à une communication visuelle efficace. Son design pliable offre trois surfaces d'écriture étendues, parfaites pour noter des informations importantes telles que des plans de plongée, des relevés scientifiques ou des instructions pour votre binôme. Fabriquée en PVC robuste et léger, cette ardoise résiste aux conditions marines les plus exigeantes. Équipée d'un crayon attaché par un cordon élastique, elle reste accessible en toutes circonstances. Compacte lorsqu'elle est pliée, elle se fixe facilement à votre gilet stabilisateur ou à votre ceinture grâce à un mousqueton intégré. Que vous soyez un plongeur loisir ou professionnel, cette ardoise est l'alliée idéale pour garantir une plongée organisée et sans tracas.Caractéristiques Ardoise 3 Volets AxessTrois surfaces d'écriture pour une communication étendueFabriquée en PVC robuste et légerCrayon avec cordon élastique pour un accès rapideDesign pliable pour un rangement compactMousqueton intégré pour une fixation sécuriséeInformations techniques :RéférenceA40522EAN3701124202390MatériauPVC robusteDimensionsCompact pliéUtilisationPrise de notes sous-marineContenu du colisUne ardoise 3 volets Axess avec crayon et cordon élastique.",
+  "supplierRef": "A40522",
+  "price": {
+    "amount": 17.99,
+    "currency": "EUR",
+    "formatted": "17.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0000716",
+      "sku": "SU-0000716",
+      "supplierRef": "A40522",
+      "price": {
+        "amount": 17.99,
+        "currency": "EUR",
+        "formatted": "17.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/n/dnvhyeuu1634_shgrntuy6du63rus.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-10854-pl-10854-picture_1-pl-10854-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:47.163Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/n/dnvhyeuu1634_shgrntuy6du63rus.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000716/01-dnvhyeuu1634_shgrntuy6du63rus.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-10854-pl-10854-picture_1-pl-10854-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000716/02-pl-10854-pl-10854-picture_1-pl-10854-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "ardoises-sous-marines"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "ardoises-sous-marines"
+  ]
+}

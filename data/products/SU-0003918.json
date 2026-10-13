@@ -1,0 +1,87 @@
+{
+  "sku": "SU-0003918",
+  "url": "https://www.cabesto.com/fr/plongee-mini-planche-gonflable-imersion-pl-7691.html",
+  "title": "Bouée chasse sous-marine MINI-PLANCHE gonflable IMERSION",
+  "brand": "IMERSION",
+  "category": "ais",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bouée chasse sous-marine MINI-PLANCHE gonflable IMERSION"
+  ],
+  "description": "Transportez tout votre matériel de chasse sous-marine et jusqu'à 4 arbalètes avec la mini planche gonflable Imersion : petite, certes, mais complète et très pratique pour décharger le chasseur sous-marin !La planche de chasse gonflable Imersion petite, mais elle est dotée d'un équipement complet pour transporter arbalète et matériel de chasse et assure votre sécurité en surface grâce à son drapeau alpha fixé sur l'arrière du flotteur.Caractéristiques mini planche gonflable ImersionDouble enveloppe extérieur nylon orange 420 deniersDimensions : 75 x 26 x 10 cmDrapeau alpha de 30 cm x 30 cm fixé sur l'arrière du flotteurTresse flottante orange de 20 m avec deux mousquetons plastiqueDessus équipé de trois poches fermées par velcro une au centre deux en arrière de chaque côtéTrois anneaux plastique de type D au milieu des trois sangles nylonDeux paires de sangles velcro pour deux arbalètesSur l'arrière deux bandes élastiques avec attaches pour réserve d'eauDessous équipé de six anneaux plastique de type D trois de chaque côté dont 4 dotés de mousquetons plastiqueUn anneau type D sur l'avant pour le passage de la tresse flottanteDeux paires de sangles velcro pour deux arbalètesAu centre trois sangles velcro pour la fixation d'un enrouleur de tresseUn jeu de quatre sangles élastiques (deux de chaque côté du flotteur) pour loger des flèches de rechange",
+  "supplierRef": "B704.",
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR",
+    "formatted": "39.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003918",
+      "sku": "SU-0003918",
+      "supplierRef": "B704.",
+      "price": {
+        "amount": 39.99,
+        "currency": "EUR",
+        "formatted": "39.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/i/miniplanche.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-7691-pl-7691-picture_1-pl-7691-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/i/mini_planche.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-7691-pl-7691-picture_2-pl-7691-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_49_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:55.912Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/miniplanche.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003918/01-miniplanche.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-7691-pl-7691-picture_1-pl-7691-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003918/02-pl-7691-pl-7691-picture_1-pl-7691-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/mini_planche.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003918/03-mini_planche.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-7691-pl-7691-picture_2-pl-7691-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003918/04-pl-7691-pl-7691-picture_2-pl-7691-2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_49_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003918/05-hqdefault_49_2.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ],
+  "categories": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ]
+}

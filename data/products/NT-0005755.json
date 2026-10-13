@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0005755",
+  "url": "https://www.cabesto.com/fr/degaine-zest-17-cm-nt-0005755.html",
+  "title": "Dégaine Zest 17 cm",
+  "brand": "BEAL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Dégaines",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Dégaines",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Dégaine Zest 17 cm"
+  ],
+  "description": "Achetez Dégaine Zest 17 cm chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BMQZ.17",
+  "price": {
+    "amount": 14.9,
+    "currency": "EUR",
+    "formatted": "14.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005755",
+      "sku": "NT-0005755",
+      "supplierRef": "BMQZ.17",
+      "price": {
+        "amount": 14.9,
+        "currency": "EUR",
+        "formatted": "14.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/l/bl63_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:57.886Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl63_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005755/01-bl63_1.jpg",
+      "skipped": false
+    }
+  ]
+}

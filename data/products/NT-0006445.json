@@ -1,0 +1,95 @@
+{
+  "sku": "NT-0006445",
+  "url": "https://www.cabesto.com/fr/verticalite-sac-duffel-65-l-petzl-nt-0006445.html",
+  "title": "Sac Duffel 65 L - PETZL",
+  "brand": "PETZL",
+  "category": "Sacs voyage et expéditions",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Portage",
+    "Sacs de transport",
+    "Sacs voyage et expéditions"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Portage",
+    "Sacs de transport",
+    "Sacs voyage et expéditions"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac Duffel 65 L - PETZL"
+  ],
+  "description": "Achetez Sac Duffel 65 L - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "S045AA00",
+  "price": {
+    "amount": 143.9,
+    "currency": "EUR",
+    "formatted": "143.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006445",
+      "sku": "NT-0006445",
+      "supplierRef": "S045AA00",
+      "price": {
+        "amount": 143.9,
+        "currency": "EUR",
+        "formatted": "143.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/r/pr65_1-sac-duffel-65-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/0/802141296_303_a.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/0/802141296_303_c.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/0/802141296_303_e.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/0/802141296_303_b.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/0/802141296_303_d.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:22:20.593Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr65_1-sac-duffel-65-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006445/01-pr65_1-sac-duffel-65-l-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/0/802141296_303_a.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006445/02-802141296_303_a.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/0/802141296_303_c.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006445/03-802141296_303_c.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/0/802141296_303_e.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006445/04-802141296_303_e.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/0/802141296_303_b.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006445/05-802141296_303_b.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/0/802141296_303_d.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006445/06-802141296_303_d.jpg",
+      "skipped": false
+    }
+  ]
+}

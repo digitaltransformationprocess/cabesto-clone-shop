@@ -1,0 +1,75 @@
+{
+  "sku": "PI-0001382",
+  "url": "https://www.cabesto.com/fr/piscine-filtre-a-sable-hayward-o-612-14-m-h-pi-986.html",
+  "title": "Filtre à sable hayward ø 612 - 14 m³/h",
+  "brand": "HAYWARD",
+  "category": "Filtre side / sur côté",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Filtre piscine",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Filtre à sable",
+    "Filtre side / sur côté"
+  ],
+  "categories": [
+    "Filtre piscine",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Filtre à sable",
+    "Filtre side / sur côté"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage",
+    "Destockage",
+    "Filtre à sable hayward ø 612 - 14 m³/h"
+  ],
+  "description": "Achetez Filtre à sable hayward ø 612 - 14 m³/h chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "S244SXE",
+  "price": {
+    "amount": 439,
+    "currency": "EUR",
+    "formatted": "439 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001382",
+      "sku": "PI-0001382",
+      "supplierRef": "S244SXE",
+      "price": {
+        "amount": 439,
+        "currency": "EUR",
+        "formatted": "439 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/8/7/8754-6709-thickbox_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/a/balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-piscine-center-1485856186.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:38:31.968Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/7/8754-6709-thickbox_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001382/01-8754-6709-thickbox_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/a/balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-piscine-center-1485856186.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001382/02-balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-piscine-center-1485856186.jpg",
+      "skipped": false
+    }
+  ]
+}

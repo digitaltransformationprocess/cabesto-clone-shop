@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0003517",
+  "url": "https://www.cabesto.com/fr/piscine-tuyau-diametre-32mm-pi-335.html",
+  "title": "TUYAU DIAMETRE 32MM",
+  "brand": "INTEX",
+  "category": "Pièces détachées de piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Accessoires piscine et pièces détachées",
+    "Pièces détachées de piscine"
+  ],
+  "categories": [
+    "Accessoires piscine et pièces détachées",
+    "Pièces détachées de piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TUYAU DIAMETRE 32MM"
+  ],
+  "description": "Achetez TUYAU DIAMETRE 32MM chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "29059",
+  "price": {
+    "amount": 7.9,
+    "currency": "EUR",
+    "formatted": "7.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003517",
+      "sku": "PI-0003517",
+      "supplierRef": "29059",
+      "price": {
+        "amount": 7.9,
+        "currency": "EUR",
+        "formatted": "7.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/i/n/intex-29059-acceoire-piscine-tuyaux-de-raccord-pompe-32-mm-x-150-cm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:34:54.944Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/n/intex-29059-acceoire-piscine-tuyaux-de-raccord-pompe-32-mm-x-150-cm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003517/01-intex-29059-acceoire-piscine-tuyaux-de-raccord-pompe-32-mm-x-150-cm.jpg",
+      "skipped": false
+    }
+  ]
+}

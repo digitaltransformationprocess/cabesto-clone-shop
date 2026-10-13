@@ -1,0 +1,97 @@
+{
+  "sku": "PCPL-4503",
+  "url": "https://www.cabesto.com/fr/plongee-palmes-agua-chaussantes-cressi-bleu-pcpl-4503.html",
+  "title": "Palmes de snorkeling chaussantes AGUA bleu CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Palmes de snorkeling chaussantes AGUA bleu CRESSI SUB"
+  ],
+  "description": "Palmes de snorkeling chaussantes AGUA bleu CRESSI SUBDécouvrez la nouvelle palme de snorkeling et de randonnée aquatique AGUA CRESSI SUB, la palme courte et légère parfaite pour le snorkeling ou la plongée qui a tout d'une grande... 100 % made in Italy.Les palmes chaussantes AGUA CRESSI SUB sont faciles à utiliser, quel que soit votre niveau sportif ou technique, et proposent un rendement optimal sans fatigue musculaire ou de douleur pour leur pied.Grâce aux toutes dernières technologies et à l’expérience de CRESSI SUB dans le développement des palmes, le poids a pu être fortement réduit par rapport à une palme de même catégorie, tout en conservant une réactivité optimale.Le chausson de la palme AGUA CRESSI SUB possède le brevet original \"self adjusting foot pocket\" offrant à vos enfants confort, souplesse et adhérence grâce à sa technologie d'injection exclusive et 100 % made in Italy.La palme AGUA CRESSI vous propose une réactivité idéale avec un poids réduit ce qui en fait palmes idéale pour voyager et facile à ranger dans sa valise. Caractéristiques Palmes de snorkeling AGUA bleu CRESSI SUBPalmes chaussantes de snorkeling adulteMade in ItalyChaussons souples \"self adjusting foot pocket\"Contenu du colis1 Paire de palmes AGUA CRESSI SUB couleur bleu, pointure à choisir.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-4503",
+      "sku": "PCPL-4503",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/z/h/zhsdfjyozkbosikqf5b8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/z/azho7oooftorng2q1lk6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/k/ekbduwmzizdavs2tiai7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/j/mj0shkkbfy4yjsfgac0b.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/r/cressi-agua.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/r/cressi-agua_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/fins_agua_size_chart__web_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:31:11.597Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/h/zhsdfjyozkbosikqf5b8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4503/01-zhsdfjyozkbosikqf5b8.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/z/azho7oooftorng2q1lk6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4503/02-azho7oooftorng2q1lk6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/k/ekbduwmzizdavs2tiai7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4503/03-ekbduwmzizdavs2tiai7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/j/mj0shkkbfy4yjsfgac0b.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4503/04-mj0shkkbfy4yjsfgac0b.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/r/cressi-agua.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4503/05-cressi-agua.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/r/cressi-agua_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4503/06-cressi-agua_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/fins_agua_size_chart__web_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4503/07-fins_agua_size_chart__web_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

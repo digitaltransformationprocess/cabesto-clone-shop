@@ -1,0 +1,99 @@
+{
+  "sku": "SU-0010992",
+  "url": "https://www.cabesto.com/fr/lampe-de-plongee-i35-1500-lumens-seac-sub-su-0010992.html",
+  "title": "Lampe de plongée I35 1500 lumens SEAC SUB",
+  "brand": "SEAC",
+  "category": "Idées cadeaux Plongée & Chasse sous-marine",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Éclairage - Photo - Vidéo",
+    "Phares de plongée rechargeables",
+    "Idées cadeaux Plongée & Chasse sous-marine"
+  ],
+  "categories": [
+    "Éclairage - Photo - Vidéo",
+    "Phares de plongée rechargeables",
+    "Idées cadeaux Plongée & Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe de plongée I35 1500 lumens SEAC SUB"
+  ],
+  "description": "Explorez et éclairez confortablement en toute sécurité avec la lampe de plongée I35 1500 lumens SEAC SUB, l'éclairage sous-marin étanche rechargeable compact et puissant pour une visibilité maximale sous l'eau, même par faible visibilité.",
+  "supplierRef": "0500030020000A",
+  "price": {
+    "amount": 114.99,
+    "currency": "EUR",
+    "formatted": "114.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010992",
+      "sku": "SU-0010992",
+      "supplierRef": "0500030020000A",
+      "price": {
+        "amount": 114.99,
+        "currency": "EUR",
+        "formatted": "114.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/i/3/i35.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-19012-pl-19012-picture_3-pl-19012-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/q/5/q5_50-20_n_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/3/i355.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/3/i3555.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/3/i355555.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/3/i35555.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:21:59.808Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/3/i35.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010992/01-i35.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-19012-pl-19012-picture_3-pl-19012-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010992/02-pl-19012-pl-19012-picture_3-pl-19012-3.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/q/5/q5_50-20_n_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010992/03-q5_50-20_n_00_800.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/3/i355.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010992/04-i355.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/3/i3555.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010992/05-i3555.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/3/i355555.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010992/06-i355555.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/3/i35555.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010992/07-i35555.jpg",
+      "skipped": true
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "sku": "GL-0003272",
+  "url": "https://www.cabesto.com/fr/glisse-chariot-polyvalent-gl-0003272.html",
+  "title": "CHARIOT DE TRANSPORT POLYVALENT KAYAK/PADDLE AQUADESIGN",
+  "brand": "AQUADESIGN",
+  "category": "Idées cadeaux Glisse",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Accessoires",
+    "Accessoires",
+    "Idées cadeaux Glisse"
+  ],
+  "categories": [
+    "Accessoires",
+    "Accessoires",
+    "Idées cadeaux Glisse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CHARIOT DE TRANSPORT POLYVALENT KAYAK/PADDLE AQUADESIGN"
+  ],
+  "description": "Achetez CHARIOT DE TRANSPORT POLYVALENT KAYAK/PADDLE AQUADESIGN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "AK9000",
+  "price": {
+    "amount": 64.99,
+    "currency": "EUR",
+    "formatted": "64.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "GL-0003272",
+      "sku": "GL-0003272",
+      "supplierRef": "AK9000",
+      "price": {
+        "amount": 64.99,
+        "currency": "EUR",
+        "formatted": "64.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/l/gl-160-gl-160-picture_1-gl-160_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/l/gl-160-gl-160-picture_2-gl-160_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/l/gl-160-gl-160-picture_3-gl-160_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:28:29.353Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/l/gl-160-gl-160-picture_1-gl-160_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0003272/01-gl-160-gl-160-picture_1-gl-160_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/l/gl-160-gl-160-picture_2-gl-160_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0003272/02-gl-160-gl-160-picture_2-gl-160_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/l/gl-160-gl-160-picture_3-gl-160_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0003272/03-gl-160-gl-160-picture_3-gl-160_3.jpg",
+      "skipped": false
+    }
+  ]
+}

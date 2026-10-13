@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0001771",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-risotto-des-balkans-au-boeuf-trek-n-eat-nt-0001771.html",
+  "title": "Risotto des Balkans au boeuf - TREK'N EAT",
+  "brand": "TREK'N EAT",
+  "category": "Aliments lyophilisés et déshydratés",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Aliments lyophilisés et déshydratés"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Aliments lyophilisés et déshydratés"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Risotto des Balkans au boeuf - TREK'N EAT"
+  ],
+  "description": "Achetez Risotto des Balkans au boeuf - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "TE30202009",
+  "price": {
+    "amount": 11.95,
+    "currency": "EUR",
+    "formatted": "11.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0001771",
+      "sku": "NT-0001771",
+      "supplierRef": "TE30202009",
+      "price": {
+        "amount": 11.95,
+        "currency": "EUR",
+        "formatted": "11.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/3/0/3049_1-risotto-des-balkans-au-boeuf-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3049_4-risotto-des-balkans-au-boeuf-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3049_3-risotto-des-balkans-au-boeuf-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3049_2-risotto-des-balkans-au-boeuf-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3049_1-risotto-des-balkans-au-boeuf-trek_n-eat_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:22:50.128Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3049_1-risotto-des-balkans-au-boeuf-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001771/01-3049_1-risotto-des-balkans-au-boeuf-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3049_4-risotto-des-balkans-au-boeuf-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001771/02-3049_4-risotto-des-balkans-au-boeuf-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3049_3-risotto-des-balkans-au-boeuf-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001771/03-3049_3-risotto-des-balkans-au-boeuf-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3049_2-risotto-des-balkans-au-boeuf-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001771/04-3049_2-risotto-des-balkans-au-boeuf-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3049_1-risotto-des-balkans-au-boeuf-trek_n-eat_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001771/05-3049_1-risotto-des-balkans-au-boeuf-trek_n-eat_1.jpg",
+      "skipped": false
+    }
+  ]
+}

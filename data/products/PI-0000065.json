@@ -1,0 +1,73 @@
+{
+  "sku": "PI-0000065",
+  "url": "https://www.cabesto.com/fr/piscine-appuie-tete-deluxe-pure-spa-pi-329.html",
+  "title": "APPUIE TETE DELUXE PURE SPA",
+  "brand": "INTEX",
+  "category": "Accessoires de spa",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires"
+  ],
+  "categories": [
+    "textile",
+    "accessoires"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "APPUIE TETE DELUXE PURE SPA"
+  ],
+  "description": "Achetez APPUIE TETE DELUXE PURE SPA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "28505",
+  "price": {
+    "amount": 12.99,
+    "currency": "EUR",
+    "formatted": "12.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000065",
+      "sku": "PI-0000065",
+      "supplierRef": "28505",
+      "price": {
+        "amount": 12.99,
+        "currency": "EUR",
+        "formatted": "12.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/8/28505-appui-tete-deluxe-spa-gonflable_1_-_copie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28505-appui-tete-deluxe-spa-gonflable_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28505-appui-tete-deluxe-spa-gonflable.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:34:35.896Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28505-appui-tete-deluxe-spa-gonflable_1_-_copie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000065/01-28505-appui-tete-deluxe-spa-gonflable_1_-_copie.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28505-appui-tete-deluxe-spa-gonflable_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000065/02-28505-appui-tete-deluxe-spa-gonflable_2_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28505-appui-tete-deluxe-spa-gonflable.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000065/03-28505-appui-tete-deluxe-spa-gonflable.jpg",
+      "skipped": false
+    }
+  ]
+}

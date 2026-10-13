@@ -1,0 +1,89 @@
+{
+  "sku": "PCPL-495",
+  "url": "https://www.cabesto.com/fr/plongee-lunettes-cobra-kid-cressi-sub-pcpl-495.html",
+  "title": "LUNETTES MINI COBRA CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "enfant",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "LUNETTES MINI COBRA CRESSI SUB"
+  ],
+  "description": "LUNETTES COBRA KID CRESSI SUBProtégez les yeux de vos enfants avec les lunettes de natation COBRA KID CRESSI SUB, la lunette souple et incassable pour vos enfants...Lunettes de natation Enfants,avec une jupe spéciale souple en silicone.Verres incassables avec traitement anti-rayures et anti-UV. Traitement intérieur anti-buée.Boucles indestructibles à réglage micrométrique.Possibilité de substituer instantanément l’ensemble boucles et sangles par d’autres modèles de la gamme Cressi.Emballage spécial destiné à en préserver les qualités pendant longtemps.Cette lunette a été fabriquée conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 1).",
+  "supplierRef": null,
+  "price": {
+    "amount": 19.99,
+    "currency": "EUR",
+    "formatted": "19.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-495",
+      "sku": "PCPL-495",
+      "supplierRef": null,
+      "price": {
+        "amount": 19.99,
+        "currency": "EUR",
+        "formatted": "19.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/7/476_mini_cobra_light_blue-lime_de2_5395_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/7/476_de202040_2w5v_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/5/453_scatola_skylight_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PL-3710-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PL-3707-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:31:16.140Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/7/476_mini_cobra_light_blue-lime_de2_5395_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-495/01-476_mini_cobra_light_blue-lime_de2_5395_z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/7/476_de202040_2w5v_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-495/02-476_de202040_2w5v_z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/5/453_scatola_skylight_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-495/03-453_scatola_skylight_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PL-3710-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-495/04-PL-3710-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PL-3707-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-495/05-PL-3707-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "randonnee-aquatique",
+    "chaussure-de-plage",
+    "enfant"
+  ],
+  "categories": [
+    "plongee",
+    "randonnee-aquatique",
+    "chaussure-de-plage",
+    "enfant"
+  ]
+}

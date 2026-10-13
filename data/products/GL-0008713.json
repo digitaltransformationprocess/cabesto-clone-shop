@@ -1,0 +1,65 @@
+{
+  "sku": "GL-0008713",
+  "url": "https://www.cabesto.com/fr/glisse-mousqueton-largage-rapide-gl-147.html",
+  "title": "MOUSQUETON LARGAGE RAPIDE JOBE",
+  "brand": "JOBE",
+  "category": "Sélection Glisse",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Cordages & accessoires",
+    "Black November - Glisse",
+    "Idées cadeaux Glisse",
+    "Sélection Glisse"
+  ],
+  "categories": [
+    "Cordages & accessoires",
+    "Black November - Glisse",
+    "Idées cadeaux Glisse",
+    "Sélection Glisse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MOUSQUETON LARGAGE RAPIDE JOBE"
+  ],
+  "description": "Achetez MOUSQUETON LARGAGE RAPIDE JOBE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "210017033-PCS.",
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR",
+    "formatted": "34.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "GL-0008713",
+      "sku": "GL-0008713",
+      "supplierRef": "210017033-PCS.",
+      "price": {
+        "amount": 34.99,
+        "currency": "EUR",
+        "formatted": "34.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/l/gl-147-gl-147-picture_1-gl-147_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:28:14.574Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/l/gl-147-gl-147-picture_1-gl-147_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0008713/01-gl-147-gl-147-picture_1-gl-147_1.jpg",
+      "skipped": false
+    }
+  ]
+}

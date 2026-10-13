@@ -1,0 +1,73 @@
+{
+  "sku": "PI-0000725",
+  "url": "https://www.cabesto.com/fr/piscine-clapet-anti-retour-pvc-de-retenue-d-50-mm-pi-749.html",
+  "title": "CLAPET ANTI RETOUR A PISTON D50",
+  "brand": "INTERPLAST",
+  "category": "Pièces PVC",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Pièces PVC",
+    "Ventes privées Piscine"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Pièces PVC",
+    "Ventes privées Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CLAPET ANTI RETOUR A PISTON D50"
+  ],
+  "description": "Achetez CLAPET ANTI RETOUR A PISTON D50 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "S822050",
+  "price": {
+    "amount": 149,
+    "currency": "EUR",
+    "formatted": "149 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000725",
+      "sku": "PI-0000725",
+      "supplierRef": "S822050",
+      "price": {
+        "amount": 149,
+        "currency": "EUR",
+        "formatted": "149 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/0/50clapro_8cs2jlwcgecdbreg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/l/clapet-anti-retour-pvc-de-retenue-50-mm-3467.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:46:06.082Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/0/50clapro_8cs2jlwcgecdbreg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000725/01-50clapro_8cs2jlwcgecdbreg.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/l/clapet-anti-retour-pvc-de-retenue-50-mm-3467.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000725/02-clapet-anti-retour-pvc-de-retenue-50-mm-3467.jpg",
+      "skipped": true
+    }
+  ]
+}

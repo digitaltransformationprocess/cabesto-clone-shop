@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0001190",
+  "url": "https://www.cabesto.com/fr/echelle-de-piscine-1m07-intex.html",
+  "title": "ECHELLE DE PISCINE 1M07 - INTEX",
+  "brand": "INTEX",
+  "category": "Échelle de piscine",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ECHELLE DE PISCINE 1M07 - INTEX"
+  ],
+  "description": "Achetez ECHELLE DE PISCINE 1M07 - INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "28075",
+  "price": {
+    "amount": 65,
+    "currency": "EUR",
+    "formatted": "65 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001190",
+      "sku": "PI-0001190",
+      "supplierRef": "28075",
+      "price": {
+        "amount": 65,
+        "currency": "EUR",
+        "formatted": "65 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/shop/3790-large_default/28075-echelle-securite-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:48:01.513Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/shop/3790-large_default/28075-echelle-securite-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001190/01-28075-echelle-securite-.jpg",
+      "skipped": false
+    }
+  ]
+}

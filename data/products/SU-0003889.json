@@ -1,0 +1,69 @@
+{
+  "sku": "SU-0003889",
+  "url": "https://www.cabesto.com/fr/plongee-couteau-micro-squeeze-10-cm-lame-de-securite-pl-14289.html",
+  "title": "Couteau de plongée sous-marine lame de sécurité MICRO SQUEEZE 10 cm AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "ais",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couteau de plongée sous-marine lame de sécurité MICRO SQUEEZE 10 cm AQUALUNG"
+  ],
+  "description": "Lame Sheeps Foot : Mécanisme Squeeze-Lock, pointe et angles arrondis, coupe-fil, décapsuleur, options de fixation à un gilet de stabilisation ou à une ceinture, et sangle d'extension du manchePetit, mais robuste. Dotés d'un mécanisme \" Squeeze-Lock \" breveté et éprouvé, ces couteaux de la gamme Micro Squeeze peuvent facilement être tirés de leur fourreau, puis rangés et bloqués à l'intérieur de ce dernier. Facile d'accès, ce petit couteau s'attache à l'une des poches de votre gilet de stabilisation Aqua Lung grâce aux vis de fixation, ou encore à votre sangle pectorale, à vos bretelles ou à la sangle d'un ordinateur de plongée et vous permet ainsi de réagir très rapidement.Lame de 5,1 cm, longueur totale de 9,5 cm incluant la sangle d'extension du manche.Acier inox 304 Un mécanisme de blocage breveté empêche le couteau de sortir de son fourreau, mais se déverrouille facilement en serrant le manche.Manche et fourreau en nylon renforcé de fibre de verre pour une meilleure tenue aux chocs et à l'abrasion.Diverses options de fixation disponibles : passage de ceinture moulé et vis de fixation aux poches d'un gilet de stabilisation.",
+  "supplierRef": "705065",
+  "price": {
+    "amount": 35,
+    "currency": "EUR",
+    "formatted": "35 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003889",
+      "sku": "SU-0003889",
+      "supplierRef": "705065",
+      "price": {
+        "amount": 35,
+        "currency": "EUR",
+        "formatted": "35 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-14289-pl-14289-picture_1-pl-14289-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-14289-pl-14289-picture_2-pl-14289-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:53.449Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-14289-pl-14289-picture_1-pl-14289-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003889/01-pl-14289-pl-14289-picture_1-pl-14289-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-14289-pl-14289-picture_2-pl-14289-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003889/02-pl-14289-pl-14289-picture_2-pl-14289-2.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ],
+  "categories": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ]
+}

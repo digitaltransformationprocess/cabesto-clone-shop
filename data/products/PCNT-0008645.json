@@ -1,0 +1,127 @@
+{
+  "sku": "PCNT-0008645",
+  "url": "https://www.cabesto.com/fr/combinaison-holloch-confort.html",
+  "title": "Combinaison Spéléo - Holloch Confort - Aventure Verticale",
+  "brand": "AVENTURE VERTICALE",
+  "category": "Combinaisons spéléo",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Spéléologie",
+    "Combinaisons spéléo"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Combinaisons spéléo"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Combinaison Spéléo - Holloch Confort - Aventure Verticale"
+  ],
+  "description": "Achetez Combinaison Spéléo - Holloch Confort - Aventure Verticale chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 136,
+    "currency": "EUR",
+    "formatted": "136 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0008645",
+      "sku": "PCNT-0008645",
+      "supplierRef": null,
+      "price": {
+        "amount": 136,
+        "currency": "EUR",
+        "formatted": "136 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_a-combinaison-holloch-confort-aventure-verticale_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga12_4_b-combinaison-holloch-confort-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga12_3_b-combinaison-holloch-confort-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga12_2_b-combinaison-holloch-confort-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga12_2_a-combinaison-holloch-confort-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_b-combinaison-holloch-confort-aventure-verticale_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-11-07_17_14_51-_av_tableau_taille_vetements_fran_ais-anglais.pdf_-_adobe_acrobat_reader_64-bit_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_a-combinaison-holloch-confort-aventure-verticale_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_a-combinaison-holloch-confort-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_b-combinaison-holloch-confort-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_b-combinaison-holloch-confort-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_b-combinaison-holloch-confort-aventure-verticale_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:26:04.283Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_a-combinaison-holloch-confort-aventure-verticale_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008645/01-ga12_1_a-combinaison-holloch-confort-aventure-verticale_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga12_4_b-combinaison-holloch-confort-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008645/02-ga12_4_b-combinaison-holloch-confort-aventure-verticale.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga12_3_b-combinaison-holloch-confort-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008645/03-ga12_3_b-combinaison-holloch-confort-aventure-verticale.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga12_2_b-combinaison-holloch-confort-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008645/04-ga12_2_b-combinaison-holloch-confort-aventure-verticale.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga12_2_a-combinaison-holloch-confort-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008645/05-ga12_2_a-combinaison-holloch-confort-aventure-verticale.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_b-combinaison-holloch-confort-aventure-verticale_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008645/06-ga12_1_b-combinaison-holloch-confort-aventure-verticale_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-11-07_17_14_51-_av_tableau_taille_vetements_fran_ais-anglais.pdf_-_adobe_acrobat_reader_64-bit_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008645/07-2022-11-07_17_14_51-_av_tableau_taille_vetements_fran_ais-anglais.pdf_-_adobe_acrobat_reader_64-bit_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_a-combinaison-holloch-confort-aventure-verticale_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008645/08-ga12_1_a-combinaison-holloch-confort-aventure-verticale_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_a-combinaison-holloch-confort-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008645/09-ga12_1_a-combinaison-holloch-confort-aventure-verticale_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_b-combinaison-holloch-confort-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008645/10-ga12_1_b-combinaison-holloch-confort-aventure-verticale_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_b-combinaison-holloch-confort-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008645/11-ga12_1_b-combinaison-holloch-confort-aventure-verticale_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga12_1_b-combinaison-holloch-confort-aventure-verticale_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008645/12-ga12_1_b-combinaison-holloch-confort-aventure-verticale_5.jpg",
+      "skipped": false
+    }
+  ]
+}

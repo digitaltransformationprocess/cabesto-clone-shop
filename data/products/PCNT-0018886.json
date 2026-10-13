@@ -1,0 +1,97 @@
+{
+  "sku": "PCNT-0018886",
+  "url": "https://www.cabesto.com/fr/verticalite-sangle-de-pantin-iii-petzl-cb07.html",
+  "title": "Sangle de Pantin III - PETZL",
+  "brand": "PETZL",
+  "category": "Bloqueurs de pied",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Spéléologie",
+    "Pièces détachées descendeurs spéléo",
+    "Bloqueurs de pied",
+    "Destockage Montagne",
+    "Ventes privées Montagne"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Pièces détachées descendeurs spéléo",
+    "Bloqueurs de pied",
+    "Destockage Montagne",
+    "Ventes privées Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sangle de Pantin III - PETZL"
+  ],
+  "description": "Achetez Sangle de Pantin III - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 17.95,
+    "currency": "EUR",
+    "formatted": "17.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0018886",
+      "sku": "PCNT-0018886",
+      "supplierRef": null,
+      "price": {
+        "amount": 17.95,
+        "currency": "EUR",
+        "formatted": "17.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/b/cb07_1_a-sangle-de-pantin-iii-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/b/cb07_3_a-sangle-de-pantin-iii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/b/cb07_2_a-sangle-de-pantin-iii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/b/cb07_1_a-sangle-de-pantin-iii-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/b/cb07_1_a-sangle-de-pantin-iii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/b/cb07_1_a-sangle-de-pantin-iii-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:27:19.899Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/b/cb07_1_a-sangle-de-pantin-iii-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018886/01-cb07_1_a-sangle-de-pantin-iii-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/b/cb07_3_a-sangle-de-pantin-iii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018886/02-cb07_3_a-sangle-de-pantin-iii-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/b/cb07_2_a-sangle-de-pantin-iii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018886/03-cb07_2_a-sangle-de-pantin-iii-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/b/cb07_1_a-sangle-de-pantin-iii-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018886/04-cb07_1_a-sangle-de-pantin-iii-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/b/cb07_1_a-sangle-de-pantin-iii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018886/05-cb07_1_a-sangle-de-pantin-iii-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/b/cb07_1_a-sangle-de-pantin-iii-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018886/06-cb07_1_a-sangle-de-pantin-iii-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "PCPL-4110",
+  "url": "https://www.cabesto.com/fr/plongee-stab-hydros-pro-homme-noir-scubapro-pcpl-4110.html",
+  "title": "STAB HYDROS PRO HOMME NOIR SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "gilets-de-plongee-voyage",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "STAB HYDROS PRO HOMME NOIR SCUBAPRO"
+  ],
+  "description": "STAB HYDROS PRO HOMME NOIR SCUBAPROCe gilet stabilisateur Hydros Pro de Scubapro est une dorsale de voyage ultra confortable et haut de gamme !L’HYDROS PRO constitue une avancée majeure en matière de confort de plongée et d’ergonomie. Sa structure en gel Monprene®, sa forme ajustable et ses multiples points d’attache font de lui le plus personnalisable et le plus confortable des gilets de stabilisation. Lauréat du Red Dot Award 2016 dans la catégorie « conception de produits », l’HYDROS PRO est un bijou de technologie conçu par SCUBAPRO pour tous les passionnés de plongée.Ses bretelles interchangeables, sa taille compacte et son sac à dos pouvant contenir l’intégralité de votre matériel font de l’HYDROS PRO le gilet parfait, quels que soient la destination et le type de plongée. Résistance optimale : breveté, le harnais en gel Monprene® moulé par injection est extrêmement résistant aux UV, aux produits chimiques et à l’abrasion. Le harnais non textile n’intègre ni velcro ni fermetures à glissière.Séchage instantané : idéal pour les voyages grâce à une rétention d’eau moindre et un poids réduit après la plongée.Design modulaire « BC-4-Life » : système personnalisable par ajout/retrait de lest, de sangles et de poches. Réparations simplifiées pour une longévité accrue. La majeure partie des pièces, y compris les boucles, peuvent être remplacées sans couture.Design ergonomique 3D : s’adapte à votre morphologie pour un confort maximal.Légèreté : poids réduit grâce à l’utilisation de matériaux de pointe.Flottabilité neutre : flottabilité inhérente presque nulle pour un lestage moindre, offrant ainsi une meilleure stabilisation et une plongée d’autant plus agréable.Gel Body Grip : empêche le gilet de glisser et de remonter.Back-pack bi composant : pour une stabilité et un confort optimaux. Sa sangle pour bouteille unique facilite le gréage.Zone Torso Flex : s’ajuste automatiquement à la longueur de votre torse pour une liberté de mouvement et un confort optimaux.Bretelles articulées : elles peuvent ainsi s’adapter à votre morphologie pour un ajustement parfait.Aide au capelage : maintient les bretelles ouvertes pour un enfilage simplifié.Écoulement transversal : l’écoulement interne libre permet de réduire la rétention d’air pour une manœuvrabilité accrue et un dégonflage aisé, peu importe l’angle.Gonflage en 2 étapes : un système tri-élastique contrôle la distribution de l’air et offre une bonne compacité en plongée ainsi qu’une portance élevée en surface.Flottabilité dorsale : anti abrasion et séchage instantané. Poches de lestage « externes » optimales.Système de lest largable : simples, sûres et fiables, les boucles de largage rapide peuvent être utilisées à une seule main.Système de fixation multiple des accessoires : anneaux en D et points d’attache multiples pour couteaux, lampes, bouées et parachutes, flexibles, sous-cutales et plus encore.Design Smart-Pack : les bretelles et la sangle de taille se replient dans l’enveloppe pour former un ensemble incroyablement compact simplifiant le transport et le rangement.Différentes technologies expliquées dans la vidéo de démonstration de l'Hydros Pro par ScubaproCe gilet stabilisateur a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 2) suivant la norme NF EN 1809.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-4110",
+      "sku": "PCPL-4110",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/h/y/hydros-homme-noire_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:47.481Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/y/hydros-homme-noire_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4110/01-hydros-homme-noire_2.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "gilets-stabilisateurs",
+    "gilets-de-plongee-voyage"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "gilets-stabilisateurs",
+    "gilets-de-plongee-voyage"
+  ]
+}

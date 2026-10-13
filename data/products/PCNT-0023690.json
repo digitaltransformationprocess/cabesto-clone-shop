@@ -1,0 +1,91 @@
+{
+  "sku": "PCNT-0023690",
+  "url": "https://www.cabesto.com/fr/verticalite-casque-vertex-vent-hi-viz-petzl-px04.html",
+  "title": "Casque Vertex Vent Hi-Viz - PETZL",
+  "brand": "PETZL",
+  "category": "Casques",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Casques"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Casques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Casque Vertex Vent Hi-Viz - PETZL"
+  ],
+  "description": "Achetez Casque Vertex Vent Hi-Viz - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 99.95,
+    "currency": "EUR",
+    "formatted": "99.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0023690",
+      "sku": "PCNT-0023690",
+      "supplierRef": null,
+      "price": {
+        "amount": 99.95,
+        "currency": "EUR",
+        "formatted": "99.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/x/px04_1_e-casque-vertex-vent-hi-viz-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px04_1_g-casque-vertex-vent-hi-viz-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px04_1_e-casque-vertex-vent-hi-viz-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px04_1_e-casque-vertex-vent-hi-viz-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px04_1_g-casque-vertex-vent-hi-viz-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:31:55.459Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px04_1_e-casque-vertex-vent-hi-viz-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023690/01-px04_1_e-casque-vertex-vent-hi-viz-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px04_1_g-casque-vertex-vent-hi-viz-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023690/02-px04_1_g-casque-vertex-vent-hi-viz-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px04_1_e-casque-vertex-vent-hi-viz-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023690/03-px04_1_e-casque-vertex-vent-hi-viz-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px04_1_e-casque-vertex-vent-hi-viz-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023690/04-px04_1_e-casque-vertex-vent-hi-viz-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px04_1_g-casque-vertex-vent-hi-viz-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023690/05-px04_1_g-casque-vertex-vent-hi-viz-petzl.jpg",
+      "skipped": false
+    }
+  ]
+}

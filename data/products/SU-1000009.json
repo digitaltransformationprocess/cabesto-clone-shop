@@ -1,0 +1,137 @@
+{
+  "sku": "SU-1000009",
+  "url": "https://www.cabesto.com/fr/detendeur-de-plongee-mk11-evo-c370-din-color-scubapro-su-1000009.html",
+  "title": "Détendeur de plongée sous-marine MK11 EVO C370 DIN Noir/Graphite SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "Détendeurs plongée 1er et 2ème étage compensés",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Détendeurs et Octopus",
+    "Détendeurs plongée 1er et 2ème étage compensés"
+  ],
+  "categories": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Détendeurs et Octopus",
+    "Détendeurs plongée 1er et 2ème étage compensés"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Détendeur de plongée sous-marine MK11 EVO C370 DIN Noir/Graphite SCUBAPRO"
+  ],
+  "description": "Faites des bulles confortablement avec le nouveau MK11 EVO DIN 300 C370 SCUBAPRO coloris noir/graphite, le détendeur de plongée sous-marine à membrane équilibrée pneumatiquement avec deuxième étage série C compensé à double réglage, léger et fiable, pensé",
+  "supplierRef": "12.180.300",
+  "price": {
+    "amount": 399.99,
+    "currency": "EUR",
+    "formatted": "399.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-1000009",
+      "sku": "SU-1000009",
+      "supplierRef": "12.180.300",
+      "price": {
+        "amount": 399.99,
+        "currency": "EUR",
+        "formatted": "399.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/k/mk11__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/l/flexible-de-direct-system-scd-pour-gilet-stabilisateur-plongee-76cm-noir_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre1_7.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/p/sp_11332200_r105_octo_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/pxl_20260625_135844463.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/7/m7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/1/m1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/2/m2_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/3/m3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk11__3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/5/m5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/6/m6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/4/m4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:42:16.519Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk11__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/01-mk11__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/l/flexible-de-direct-system-scd-pour-gilet-stabilisateur-plongee-76cm-noir_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/02-flexible-de-direct-system-scd-pour-gilet-stabilisateur-plongee-76cm-noir_4_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre1_7.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/03-sans_titre1_7.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/p/sp_11332200_r105_octo_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/04-sp_11332200_r105_octo_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/pxl_20260625_135844463.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/05-pxl_20260625_135844463.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/7/m7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/06-m7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/1/m1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/07-m1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/2/m2_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/08-m2_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/3/m3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/09-m3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk11__3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/10-mk11__3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/5/m5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/11-m5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/6/m6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/12-m6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/4/m4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-1000009/13-m4.jpg",
+      "skipped": false
+    }
+  ]
+}

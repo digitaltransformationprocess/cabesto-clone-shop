@@ -1,0 +1,79 @@
+{
+  "sku": "PI-0000080",
+  "url": "https://www.cabesto.com/fr/piscine-balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-pi-725.html",
+  "title": "BALLES FILTRANTE AQUALOON 700GR",
+  "brand": "POOLEX",
+  "category": "Aqualoon",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Média filtrant",
+    "Aqualoon"
+  ],
+  "categories": [
+    "Média filtrant",
+    "Aqualoon"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BALLES FILTRANTE AQUALOON 700GR"
+  ],
+  "description": "Balles filtrantes aqualoon pour filtre à sable 4 m³/h Balles filtrantes aqualoon pour filtre à sable 4 m³/h Attention, produit révolutionnaire! L'Aqualoon est un média filtrant simple, pratique et efficace. Doté d'un pouvoir filtrant nettement",
+  "supplierRef": "AQ01 DISPLAY",
+  "price": {
+    "amount": 13.2,
+    "currency": "EUR",
+    "formatted": "13.2 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000080",
+      "sku": "PI-0000080",
+      "supplierRef": "AQ01 DISPLAY",
+      "price": {
+        "amount": 13.2,
+        "currency": "EUR",
+        "formatted": "13.2 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/a/balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-piscine-center-1485856186.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/a/balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-piscine-center-1484324752.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/a/balles-filtrantes-aqualoon.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_27_24.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:35:50.500Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/a/balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-piscine-center-1485856186.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000080/01-balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-piscine-center-1485856186.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/a/balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-piscine-center-1484324752.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000080/02-balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-piscine-center-1484324752.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/a/balles-filtrantes-aqualoon.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000080/03-balles-filtrantes-aqualoon.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_27_24.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000080/04-hqdefault_27_24.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "sku": "PCNT-0028586",
+  "url": "https://www.cabesto.com/fr/randonnee-veste-homme-micro-puff-hoody-patagonia-pt52.html",
+  "title": "Veste Homme Micro Puff Hoody - PATAGONIA",
+  "brand": "PATAGONIA",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Veste Homme Micro Puff Hoody - PATAGONIA"
+  ],
+  "description": "Achetez Veste Homme Micro Puff Hoody - PATAGONIA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0028586",
+      "sku": "PCNT-0028586",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/o/pos-wbf21_84030_suib.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:34:40.144Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pos-wbf21_84030_suib.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028586/01-pos-wbf21_84030_suib.jpg",
+      "skipped": false
+    }
+  ]
+}

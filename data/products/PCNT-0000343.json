@@ -1,0 +1,85 @@
+{
+  "sku": "PCNT-0000343",
+  "url": "https://www.cabesto.com/fr/verticalite-corde-escalade-tango-8-5-mm-60-m-petzl-pc05.html",
+  "title": "Corde Escalade Tango 8.5 mm - 60 m - PETZL",
+  "brand": "PETZL",
+  "category": "Cordes escalade",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Cordes à double",
+    "Destockage Montagne",
+    "Cordes escalade",
+    "Ventes privées Montagne"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Cordes à double",
+    "Destockage Montagne",
+    "Cordes escalade",
+    "Ventes privées Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Corde Escalade Tango 8.5 mm - 60 m - PETZL"
+  ],
+  "description": "Achetez Corde Escalade Tango 8.5 mm - 60 m - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0000343",
+      "sku": "PCNT-0000343",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pc05_1_ae-corde-tango-85-mm---60-m-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pc05_2_ae-corde-tango-85-mm---60-m-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pc05_1_g-corde-tango-85-mm---60-m-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pc05_1_ae-corde-tango-85-mm---60-m-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:26:36.211Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pc05_1_ae-corde-tango-85-mm---60-m-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000343/01-pc05_1_ae-corde-tango-85-mm---60-m-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pc05_2_ae-corde-tango-85-mm---60-m-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000343/02-pc05_2_ae-corde-tango-85-mm---60-m-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pc05_1_g-corde-tango-85-mm---60-m-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000343/03-pc05_1_g-corde-tango-85-mm---60-m-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pc05_1_ae-corde-tango-85-mm---60-m-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000343/04-pc05_1_ae-corde-tango-85-mm---60-m-petzl_2.jpg",
+      "skipped": false
+    }
+  ]
+}

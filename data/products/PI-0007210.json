@@ -1,0 +1,95 @@
+{
+  "sku": "PI-0007210",
+  "url": "https://www.cabesto.com/fr/piscine-douche-hybride-dada-37-l-gris-habillage-bois-rince-pieds-pi-1525.html",
+  "title": "Douche hybride dada 37 l - gris/habillage bois + rince pieds",
+  "brand": "CABESTO",
+  "category": "Douche piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "douche-piscine"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "douche-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Douche hybride dada 37 l - gris/habillage bois + rince pieds"
+  ],
+  "description": "Achetez Douche hybride dada 37 l - gris/habillage bois + rince pieds chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "DS-D463AW",
+  "price": {
+    "amount": 849.6,
+    "currency": "EUR",
+    "formatted": "849.6 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0007210",
+      "sku": "PI-0007210",
+      "supplierRef": "DS-D463AW",
+      "price": {
+        "amount": 849.6,
+        "currency": "EUR",
+        "formatted": "849.6 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/1/41YzZAFocHL._AC_SX569_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/41_gDtvw5LL._AC_SX569_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/1/31LoR3g_7JL._AC_SX569_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/41LOvZr9ylL._AC_SX569_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/1/51f7sC6p-WL._AC_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/41raBOJ4NNL._AC_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:40:50.449Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/41YzZAFocHL._AC_SX569_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007210/01-41YzZAFocHL._AC_SX569_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/41_gDtvw5LL._AC_SX569_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007210/02-41_gDtvw5LL._AC_SX569_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/1/31LoR3g_7JL._AC_SX569_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007210/03-31LoR3g_7JL._AC_SX569_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/41LOvZr9ylL._AC_SX569_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007210/04-41LOvZr9ylL._AC_SX569_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/1/51f7sC6p-WL._AC_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007210/05-51f7sC6p-WL._AC_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/41raBOJ4NNL._AC_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007210/06-41raBOJ4NNL._AC_.jpg",
+      "skipped": false
+    }
+  ]
+}

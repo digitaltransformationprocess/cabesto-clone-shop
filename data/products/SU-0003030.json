@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0003030",
+  "url": "https://www.cabesto.com/fr/plongee-inflateur-bpi-sans-flexible-apres-2013-pl-4503.html",
+  "title": "Inflateur pour gilet stabilisateur de plongée compensé sans flexible BPI SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "accessoires-pour-gilets-de-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Inflateur pour gilet stabilisateur de plongée compensé sans flexible BPI SCUBAPRO"
+  ],
+  "description": "L’inflateur compensé progressif (BPI) a un design épuré et ergonomique. Le bouton d’inflation est facile à trouver et nécessite peu d’efforts. Un embout souple a été ajouté. Le tuyau annelé dispose d’un nouveau levier SQAP (Safe and Quick Air Pin) et d’un raccord entre le flexible et la vanne coudée.",
+  "supplierRef": "21.610.002",
+  "price": {
+    "amount": 75,
+    "currency": "EUR",
+    "formatted": "75 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003030",
+      "sku": "SU-0003030",
+      "supplierRef": "21.610.002",
+      "price": {
+        "amount": 75,
+        "currency": "EUR",
+        "formatted": "75 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-4503-pl-4503-picture_1-pl-4503-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:28.634Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-4503-pl-4503-picture_1-pl-4503-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003030/01-pl-4503-pl-4503-picture_1-pl-4503-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "gilets-stabilisateurs",
+    "accessoires-pour-gilets-de-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "gilets-stabilisateurs",
+    "accessoires-pour-gilets-de-plongee"
+  ]
+}

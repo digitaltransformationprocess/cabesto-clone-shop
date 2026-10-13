@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0001494",
+  "url": "https://www.cabesto.com/fr/verticalite-antichute-mobile-asap-ii-petzl-nt-0001494.html",
+  "title": "Antichute mobile Asap II - PETZL",
+  "brand": "PETZL",
+  "category": "Antichutes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Antichutes"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Antichutes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Antichute mobile Asap II - PETZL"
+  ],
+  "description": "Achetez Antichute mobile Asap II - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "B070AA00",
+  "price": {
+    "amount": 179.95,
+    "currency": "EUR",
+    "formatted": "179.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0001494",
+      "sku": "NT-0001494",
+      "supplierRef": "B070AA00",
+      "price": {
+        "amount": 179.95,
+        "currency": "EUR",
+        "formatted": "179.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/p/pp10_1-antichute-mobile-asap-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp10_3-antichute-mobile-asap-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp10_2-antichute-mobile-asap-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp10_1-antichute-mobile-asap-ii-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:18:20.147Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp10_1-antichute-mobile-asap-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0001494\\01-pp10_1-antichute-mobile-asap-ii-petzl.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0001494\\01-pp10_1-antichute-mobile-asap-ii-petzl.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp10_3-antichute-mobile-asap-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001494/02-pp10_3-antichute-mobile-asap-ii-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp10_2-antichute-mobile-asap-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001494/03-pp10_2-antichute-mobile-asap-ii-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp10_1-antichute-mobile-asap-ii-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001494/04-pp10_1-antichute-mobile-asap-ii-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

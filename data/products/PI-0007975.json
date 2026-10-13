@@ -1,0 +1,97 @@
+{
+  "sku": "PI-0007975",
+  "url": "https://www.cabesto.com/fr/robot-piscine-wave-300-pi-0007975.html",
+  "title": "DOLPHIN WAVE 300 XL CABLE 43M - ROBOT POUR PISCINE COLLECTIVE",
+  "brand": "DOLPHIN",
+  "category": "Robot piscine parcs aquatiques et grands bassins",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "DOLPHIN WAVE 300 XL CABLE 43M - ROBOT POUR PISCINE COLLECTIVE"
+  ],
+  "description": "Achetez DOLPHIN WAVE 300 XL CABLE 43M - ROBOT POUR PISCINE COLLECTIVE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "99997001-FR",
+  "price": {
+    "amount": 14389,
+    "currency": "EUR",
+    "formatted": "14389 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0007975",
+      "sku": "PI-0007975",
+      "supplierRef": "99997001-FR",
+      "price": {
+        "amount": 14389,
+        "currency": "EUR",
+        "formatted": "14389 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/w/a/wave300_face.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/a/wave300xl_poignee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/a/wave300xl_transfo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/a/wave300xl_telecommande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/a/wave300cl_profil.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/a/wave300xl_nettoyage_efficace.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/a/wave_300xl_caddy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:50:59.426Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/a/wave300_face.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007975/01-wave300_face.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/a/wave300xl_poignee.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007975/02-wave300xl_poignee.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/a/wave300xl_transfo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007975/03-wave300xl_transfo.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/a/wave300xl_telecommande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007975/04-wave300xl_telecommande.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/a/wave300cl_profil.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007975/05-wave300cl_profil.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/a/wave300xl_nettoyage_efficace.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007975/06-wave300xl_nettoyage_efficace.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/a/wave_300xl_caddy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007975/07-wave_300xl_caddy.jpg",
+      "skipped": false
+    }
+  ]
+}

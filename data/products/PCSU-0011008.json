@@ -1,0 +1,145 @@
+{
+  "sku": "PCSU-0011008",
+  "url": "https://www.cabesto.com/fr/montre-ordinateur-de-plongee-sous-marine-nautic-avec-bracelet-strap-suunto-pcsu-0011008.html",
+  "title": "Ordinateur de plongée sous-marine NAUTIC SUUNTO",
+  "brand": "SUUNTO",
+  "category": "Ordinateurs avec compas intégré",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée sous-marine",
+    "Ordinateurs de plongée",
+    "Ordinateur multigaz",
+    "Ordinateur gestion d'air",
+    "Ordinateurs avec compas intégré"
+  ],
+  "categories": [
+    "Plongée sous-marine",
+    "Ordinateurs de plongée",
+    "Ordinateur multigaz",
+    "Ordinateur gestion d'air",
+    "Ordinateurs avec compas intégré"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ordinateur de plongée sous-marine NAUTIC SUUNTO"
+  ],
+  "description": "Maîtrisez vos plongées sous-marines avec le nouvel ordinateur de plongée NAUTIC SUUNTO, le top de la technologie high-tech finlandaise conçu pour les plongeurs loisirs comme pour les plongeurs de l'extrême exigeant un instrument précis, durable et fiable.",
+  "supplierRef": null,
+  "price": {
+    "amount": 699,
+    "currency": "EUR",
+    "formatted": "699 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0011008",
+      "sku": "PCSU-0011008",
+      "supplierRef": null,
+      "price": {
+        "amount": 699,
+        "currency": "EUR",
+        "formatted": "699 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/n/o/not.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pod_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_s_textile_strap_perspective_quarter_general_watchface.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/5/d5suunto.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/c/ocean_all_black_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_black_bungee_strap_front_view.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_black_velcro_strap_front_view_deco_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_black_without_strap_front_view-screen_ui_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_black_without_strap_front_view-compass.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_black_without_strap_front_view-screen_ui_02.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_without_strap_front_tilt_surface.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_without_strap_front_tilt_deco.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/a/naut_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:39:48.023Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/o/not.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011008/01-not.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pod_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011008\\02-pod_1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011008\\02-pod_1.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_s_textile_strap_perspective_quarter_general_watchface.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011008\\03-suunto_nautic_s_textile_strap_perspective_quarter_general_watchface.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011008\\03-suunto_nautic_s_textile_strap_perspective_quarter_general_watchface.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/5/d5suunto.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011008\\04-d5suunto.png.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011008\\04-d5suunto.png'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/ocean_all_black_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011008/05-ocean_all_black_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_black_bungee_strap_front_view.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "HTTP 503"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_black_velcro_strap_front_view_deco_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011008/07-suunto_nautic_black_velcro_strap_front_view_deco_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_black_without_strap_front_view-screen_ui_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011008/08-suunto_nautic_black_without_strap_front_view-screen_ui_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_black_without_strap_front_view-compass.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011008/09-suunto_nautic_black_without_strap_front_view-compass.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_black_without_strap_front_view-screen_ui_02.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011008\\10-suunto_nautic_black_without_strap_front_view-screen_ui_02.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011008\\10-suunto_nautic_black_without_strap_front_view-screen_ui_02.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_without_strap_front_tilt_surface.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011008/11-suunto_nautic_without_strap_front_tilt_surface.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/suunto_nautic_without_strap_front_tilt_deco.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011008/12-suunto_nautic_without_strap_front_tilt_deco.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/a/naut_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011008/13-naut_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011008/14-nt.jpg",
+      "skipped": false
+    }
+  ]
+}

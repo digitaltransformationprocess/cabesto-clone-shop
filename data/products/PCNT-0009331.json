@@ -1,0 +1,65 @@
+{
+  "sku": "PCNT-0009331",
+  "url": "https://www.cabesto.com/fr/pantalon-homme-k-xcs-pant.html",
+  "title": "Pantalon Homme K XCS PANT",
+  "brand": "MILLET",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Pantalons",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Pantalons",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pantalon Homme K XCS PANT"
+  ],
+  "description": "Achetez Pantalon Homme K XCS PANT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0009331",
+      "sku": "PCNT-0009331",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/l/mlp0_1_0013-pantalon-homme-k-xcs-pant-millet_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:31:23.381Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/mlp0_1_0013-pantalon-homme-k-xcs-pant-millet_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009331/01-mlp0_1_0013-pantalon-homme-k-xcs-pant-millet_3.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "sku": "PI-0004332",
+  "url": "https://www.cabesto.com/fr/piscine-chaise-longue-de-piscine-deluxe-pi-344.html",
+  "title": "CHAISE LONGUE GONFLABLE RIVER RUN",
+  "brand": "INTEX",
+  "category": "Confort",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Mobilier extérieur",
+    "Confort"
+  ],
+  "categories": [
+    "Mobilier extérieur",
+    "Confort"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CHAISE LONGUE GONFLABLE RIVER RUN"
+  ],
+  "description": "Achetez CHAISE LONGUE GONFLABLE RIVER RUN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "58868EU",
+  "price": {
+    "amount": 29.95,
+    "currency": "EUR",
+    "formatted": "29.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0004332",
+      "sku": "PI-0004332",
+      "supplierRef": "58868EU",
+      "price": {
+        "amount": 29.95,
+        "currency": "EUR",
+        "formatted": "29.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-_dqqtzaumwykzrfky.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-_yxwftykri9ofclyz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-_3xrbqr2yqc0fal5q.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-_cmfuuk1livgqpbxs.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:35:17.490Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004332/01-58868eu-chaise-longue-gonflable-river-run-.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004332/02-58868eu-chaise-longue-gonflable-river-run-_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004332/03-58868eu-chaise-longue-gonflable-river-run-_2_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-_dqqtzaumwykzrfky.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004332/04-58868eu-chaise-longue-gonflable-river-run-_dqqtzaumwykzrfky.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-_yxwftykri9ofclyz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004332/05-58868eu-chaise-longue-gonflable-river-run-_yxwftykri9ofclyz.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-_3xrbqr2yqc0fal5q.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004332/06-58868eu-chaise-longue-gonflable-river-run-_3xrbqr2yqc0fal5q.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/8/58868eu-chaise-longue-gonflable-river-run-_cmfuuk1livgqpbxs.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004332/07-58868eu-chaise-longue-gonflable-river-run-_cmfuuk1livgqpbxs.jpg",
+      "skipped": false
+    }
+  ]
+}

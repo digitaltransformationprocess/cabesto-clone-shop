@@ -1,0 +1,61 @@
+{
+  "sku": "AL-0001972",
+  "url": "https://www.cabesto.com/fr/gambas-geantes-crues-sauvages-6-8-800g.html",
+  "title": "GAMBAS GEANTES CRUES SAUVAGES 6/8 P 800G",
+  "brand": "DIVERS",
+  "category": "Gambas d'exception",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "Gambas",
+    "Gambas d'exception"
+  ],
+  "categories": [
+    "Gambas",
+    "Gambas d'exception"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "GAMBAS GEANTES CRUES SAUVAGES 6/8 P 800G"
+  ],
+  "description": "Achetez GAMBAS GEANTES CRUES SAUVAGES 6/8 P 800G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1CECINDOS06B8",
+  "price": {
+    "amount": 31.99,
+    "currency": "EUR",
+    "formatted": "31.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001972",
+      "sku": "AL-0001972",
+      "supplierRef": "1CECINDOS06B8",
+      "price": {
+        "amount": 31.99,
+        "currency": "EUR",
+        "formatted": "31.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/AL-0001972.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:55:04.706Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/AL-0001972.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001972/01-AL-0001972.jpg",
+      "skipped": true
+    }
+  ]
+}

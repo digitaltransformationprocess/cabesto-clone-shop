@@ -1,0 +1,69 @@
+{
+  "sku": "PE-0003048",
+  "url": "https://www.cabesto.com/fr/degorgeoir-plastique-pafex-fin-avec-clip.html",
+  "title": "DÉGORGEOIR PLASTIQUE PAFEX FIN AVEC CLIP",
+  "brand": "STONFO",
+  "category": "Black November - Pêche",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Dégorgeoirs",
+    "Destockage Pêche",
+    "Ventes privées Pêche",
+    "Black November - Pêche"
+  ],
+  "categories": [
+    "Dégorgeoirs",
+    "Destockage Pêche",
+    "Ventes privées Pêche",
+    "Black November - Pêche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pêche",
+    "Pêche",
+    "Équipements",
+    "Équipements",
+    "DÉGORGEOIR PLASTIQUE PAFEX FIN AVEC CLIP"
+  ],
+  "description": "Achetez DÉGORGEOIR PLASTIQUE PAFEX FIN AVEC CLIP chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "DG674",
+  "price": {
+    "amount": 1.79,
+    "currency": "EUR",
+    "formatted": "1.79 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0003048",
+      "sku": "PE-0003048",
+      "supplierRef": "DG674",
+      "price": {
+        "amount": 1.79,
+        "currency": "EUR",
+        "formatted": "1.79 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/e/degorgeoir-plastique-pafex-fin-avec-clip_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:56:33.186Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/e/degorgeoir-plastique-pafex-fin-avec-clip_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0003048/01-degorgeoir-plastique-pafex-fin-avec-clip_01.jpg",
+      "skipped": true
+    }
+  ]
+}

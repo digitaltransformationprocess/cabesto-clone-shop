@@ -1,0 +1,69 @@
+{
+  "sku": "PCPE-0020406",
+  "url": "https://www.cabesto.com/fr/cannes-pour-la-peche-aux-flotteurs-stein-yuki.html",
+  "title": "Cannes pour la pêche aux flotteurs Stein | Yuki",
+  "brand": "YUKI",
+  "category": "Flotteur, Iso",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche",
+    "cannes",
+    "flotteur-iso"
+  ],
+  "categories": [
+    "peche",
+    "cannes",
+    "flotteur-iso"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cannes pour la pêche aux flotteurs Stein | Yuki"
+  ],
+  "description": "Achetez Cannes pour la pêche aux flotteurs Stein | Yuki chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 94.99,
+    "currency": "EUR",
+    "formatted": "94.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPE-0020406",
+      "sku": "PCPE-0020406",
+      "supplierRef": null,
+      "price": {
+        "amount": 94.99,
+        "currency": "EUR",
+        "formatted": "94.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/t/stein-bolo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/t/stein-bolo_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:26:41.518Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/t/stein-bolo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020406/01-stein-bolo.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/t/stein-bolo_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020406/02-stein-bolo_1.jpg",
+      "skipped": false
+    }
+  ]
+}

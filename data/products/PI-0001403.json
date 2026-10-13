@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0001403",
+  "url": "https://www.cabesto.com/fr/piscine-filtre-a-sable-6m-h-pour-piscine-jusqu-a-36m-pi-60.html",
+  "title": "FILTRE A SABLE 6M3/H POUR PISCINE JUSQU'A 36M3",
+  "brand": "INTEX",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Platine Intex",
+    "Platine de filtration",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Platine Intex",
+    "Platine de filtration",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FILTRE A SABLE 6M3/H POUR PISCINE JUSQU'A 36M3"
+  ],
+  "description": "Achetez FILTRE A SABLE 6M3/H POUR PISCINE JUSQU'A 36M3 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "26656FR",
+  "price": {
+    "amount": 199,
+    "currency": "EUR",
+    "formatted": "199 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001403",
+      "sku": "PI-0001403",
+      "supplierRef": "26656FR",
+      "price": {
+        "amount": 199,
+        "currency": "EUR",
+        "formatted": "199 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/shop/3661-large_default/filtre-a-sable-6m3-h-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:30:13.058Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/shop/3661-large_default/filtre-a-sable-6m3-h-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001403/01-filtre-a-sable-6m3-h-.jpg",
+      "skipped": false
+    }
+  ]
+}

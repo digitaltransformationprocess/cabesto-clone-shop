@@ -1,0 +1,83 @@
+{
+  "sku": "SU-0002056",
+  "url": "https://www.cabesto.com/fr/plongee-dague-cinto-dessault-pl-7616.html",
+  "title": "Dague de chasse sous-marine CINTO DESSAULT",
+  "brand": "DESSAULT",
+  "category": "couverts-couteaux",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Dague de chasse sous-marine CINTO DESSAULT"
+  ],
+  "description": "Dague Cinto DessaultLa dague Cinto de Dessault est parfaite pour la chasse sous marine. Le plus : les sangles de bras et de chevilles !Couteau de chasse sous-marine, lame acier inoxydable de 8,3 cm traité au téflon, deux systèmes d’accroche cheville et bras sur support rigide.Lame : acier inoxydable 8,5 cm traité au téflon2 systèmes d'accroche cheville et bras",
+  "supplierRef": "DSDACIN",
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR",
+    "formatted": "29.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0002056",
+      "sku": "SU-0002056",
+      "supplierRef": "DSDACIN",
+      "price": {
+        "amount": 29.99,
+        "currency": "EUR",
+        "formatted": "29.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/i/cinto-bras1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/i/cinto.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_49.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/i/cinto-e1520522725558.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:48.448Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/i/cinto-bras1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002056/01-cinto-bras1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/i/cinto.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002056/02-cinto.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_49.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002056/03-hqdefault_49.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/i/cinto-e1520522725558.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002056/04-cinto-e1520522725558.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "bivouac",
+    "cuisine",
+    "couverts-couteaux"
+  ],
+  "categories": [
+    "montagne",
+    "bivouac",
+    "cuisine",
+    "couverts-couteaux"
+  ]
+}

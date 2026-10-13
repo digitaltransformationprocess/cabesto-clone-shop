@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0000621",
+  "url": "https://www.cabesto.com/fr/boite-se-serrer-les-coudes-palets-galettes-300g.html",
+  "title": "BOITE SE SERRER LES COUDES PALETS GALETTES 210G",
+  "brand": "SOCIETE DV",
+  "category": "Biscuiterie marine",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BOITE SE SERRER LES COUDES PALETS GALETTES 210G"
+  ],
+  "description": "Achetez BOITE SE SERRER LES COUDES PALETS GALETTES 210G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "80203503989",
+  "price": {
+    "amount": 7.99,
+    "currency": "EUR",
+    "formatted": "7.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000621",
+      "sku": "AL-0000621",
+      "supplierRef": "80203503989",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/o/boite-se-serrer-les-coudes-leplaisirdugouthe_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:58:08.783Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/o/boite-se-serrer-les-coudes-leplaisirdugouthe_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000621/01-boite-se-serrer-les-coudes-leplaisirdugouthe_1.jpg",
+      "skipped": true
+    }
+  ]
+}

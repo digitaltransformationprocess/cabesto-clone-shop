@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0001234",
+  "url": "https://www.cabesto.com/fr/plongee-bracelet-aladin-tec-prime-one-digit-2g-pl-3421.html",
+  "title": "Bracelet pour ordinateur ALADIN TEC/PRIME/ONE/DIGIT/2G SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "accessoires-ordinateurs-de-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bracelet pour ordinateur ALADIN TEC/PRIME/ONE/DIGIT/2G SCUBAPRO"
+  ],
+  "description": "Bracelet Aladin Tec/Prime/One SCUBAPROUn bracelet robuste et ajustable pour une utilisation optimale de votre ordinateur Aladin SCUBAPRO. Livré ici : 1 x bracelet mâle / 1 x bracelet femmelle avec boucles inox / 2 x axes de fixation / SANS LA CAPSULE PORTE ORDINATEUR ici...Le bracelet Aladin Tec/Prime/One de Scubapro est conçu pour offrir un confort et une durabilité exceptionnels aux plongeurs utilisant les ordinateurs Aladin Tec, Prime et One.Fabriqué en élastomère de haute qualité, ce bracelet est à la fois souple et résistant, garantissant une tenue parfaite même dans les conditions les plus exigeantes.Sa boucle en acier inoxydable assure un ajustement sécurisé et une grande longévité.Facile à installer, ce bracelet est une pièce d'origine Scubapro, spécialement conçue pour s'adapter parfaitement à votre équipement.Que vous soyez plongeur loisir ou professionnel, ce bracelet vous permet de profiter pleinement des fonctionnalités de votre ordinateur Aladin tout en assurant un confort optimal sous l'eau.Caractéristiques Bracelet Aladin Tec/Prime/OneCompatible avec les ordinateurs Aladin Tec, Prime, One, TEC 2G, DIGITAL 330Fabriqué en élastomère souple et résistantBoucle en acier inoxydable pour un ajustement sécuriséInstallation facile et rapidePièce d'origine Scubapro pour une compatibilité parfaiteInformations techniques :CompatibilitéAladin Tec, Prime, One, 2G, Digital 330MatériauÉlastomèreBoucleAcier inoxydableInstallationFacileMarqueScubaproContenu du colis1 x Bracelet Aladin Tec/Prime/One/2G/DIGI sans capsule porte ordi",
+  "supplierRef": "06.201.851",
+  "price": {
+    "amount": 36.99,
+    "currency": "EUR",
+    "formatted": "36.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0001234",
+      "sku": "SU-0001234",
+      "supplierRef": "06.201.851",
+      "price": {
+        "amount": 36.99,
+        "currency": "EUR",
+        "formatted": "36.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/r/bracelet-ordinateur-de-plongee-new.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/6/06.204.268.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:18.351Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/r/bracelet-ordinateur-de-plongee-new.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001234/01-bracelet-ordinateur-de-plongee-new.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/6/06.204.268.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001234/02-06.204.268.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee",
+    "accessoires-ordinateurs-de-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee",
+    "accessoires-ordinateurs-de-plongee"
+  ]
+}

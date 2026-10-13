@@ -1,0 +1,173 @@
+{
+  "sku": "PCSU-0011091",
+  "url": "https://www.cabesto.com/fr/combinaison-de-plongee-et-d-apnee-femme-liberty-7-mm-seac-sub-pcsu-0011091.html",
+  "title": "Combinaison de plongée sous-marine femme LIBERTY 7 mm SEAC SUB",
+  "brand": "SEAC",
+  "category": "Combinaisons de plongée femme",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée sous-marine",
+    "Combinaisons de plongée",
+    "Combinaisons de plongée femme",
+    "1er prix - Club - Association"
+  ],
+  "categories": [
+    "Plongée sous-marine",
+    "Combinaisons de plongée",
+    "Combinaisons de plongée femme",
+    "1er prix - Club - Association"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Combinaison de plongée sous-marine femme LIBERTY 7 mm SEAC SUB"
+  ],
+  "description": "Profitez de la robustesse, de la simplicité et de l'isolation thermique de la combinaison de plongée LIBERTY 7 mm SEAC SUB, l'intégrale cagoule attenante pour femme idéale en eaux froides à tempérées offrant une isolation performante et un confort durable",
+  "supplierRef": null,
+  "price": {
+    "amount": 239.99,
+    "currency": "EUR",
+    "formatted": "239.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0011091",
+      "sku": "PCSU-0011091",
+      "supplierRef": null,
+      "price": {
+        "amount": 239.99,
+        "currency": "EUR",
+        "formatted": "239.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/7/l7_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/1/1110069000_neoprene_glue_699_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/h/shtlb_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/g/ngg_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/o/comfort_3.0_16-12_00_800_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l72_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l71_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l76_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/5/l5_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l79_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l77_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l78_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l73_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l71_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l71_3_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l71_3_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l71_3_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l71_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/7/l71_3_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:41:09.355Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l7_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/01-l7_2_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/1/1110069000_neoprene_glue_699_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/02-1110069000_neoprene_glue_699_00_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/h/shtlb_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/03-shtlb_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/g/ngg_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/04-ngg_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/o/comfort_3.0_16-12_00_800_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011091\\05-comfort_3.0_16-12_00_800_7.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011091\\05-comfort_3.0_16-12_00_800_7.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l72_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011091\\06-l72_2.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011091\\06-l72_2.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l71_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/07-l71_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l76_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011091\\08-l76_2.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011091\\08-l76_2.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/5/l5_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/09-l5_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l79_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/10-l79_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l77_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/11-l77_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l78_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/12-l78_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l73_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "HTTP 503"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l71_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/14-l71_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l71_3_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/15-l71_3_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l71_3_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011091\\16-l71_3_1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011091\\16-l71_3_1.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l71_3_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/17-l71_3_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l71_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/18-l71_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/7/l71_3_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011091/19-l71_3_4.jpg",
+      "skipped": false
+    }
+  ]
+}

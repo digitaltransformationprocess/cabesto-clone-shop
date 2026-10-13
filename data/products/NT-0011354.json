@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0011354",
+  "url": "https://www.cabesto.com/fr/longe-grillon-hook-5-m-nt-0011354.html",
+  "title": "Longe Grillon Hook 5 m",
+  "brand": "PETZL",
+  "category": "longes-de-maintien",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "longes",
+    "longes-de-maintien"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "longes",
+    "longes-de-maintien"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Longe Grillon Hook 5 m"
+  ],
+  "description": "Achetez Longe Grillon Hook 5 m chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "L052BA03",
+  "price": {
+    "amount": 199.95,
+    "currency": "EUR",
+    "formatted": "199.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0011354",
+      "sku": "NT-0011354",
+      "supplierRef": "L052BA03",
+      "price": {
+        "amount": 199.95,
+        "currency": "EUR",
+        "formatted": "199.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/p/pp89_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:38:36.426Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp89_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0011354/01-pp89_1.jpg",
+      "skipped": false
+    }
+  ]
+}

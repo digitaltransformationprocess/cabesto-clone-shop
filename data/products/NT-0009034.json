@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0009034",
+  "url": "https://www.cabesto.com/fr/verticalite-jammy-35-beal-nt-0009034.html",
+  "title": "Jammy 35 - BEAL",
+  "brand": "BEAL",
+  "category": "anneaux-cousus",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "cordes-sangles",
+    "anneaux",
+    "anneaux-cousus"
+  ],
+  "categories": [
+    "montagne",
+    "cordes-sangles",
+    "anneaux",
+    "anneaux-cousus"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Jammy 35 - BEAL"
+  ],
+  "description": "Achetez Jammy 35 - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BLJ.35",
+  "price": {
+    "amount": 12.13,
+    "currency": "EUR",
+    "formatted": "12.13 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0009034",
+      "sku": "NT-0009034",
+      "supplierRef": "BLJ.35",
+      "price": {
+        "amount": 12.13,
+        "currency": "EUR",
+        "formatted": "12.13 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/l/bl83_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:38:24.416Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl83_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0009034/01-bl83_1.jpg",
+      "skipped": false
+    }
+  ]
+}

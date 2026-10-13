@@ -1,0 +1,83 @@
+{
+  "sku": "SU-0001538",
+  "url": "https://www.cabesto.com/fr/plongee-ceinture-marseillaise-beuchat-pl-342.html",
+  "title": "Ceinture de chasse sous-marine Marseillaise caoutchouc BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ceinture de chasse sous-marine Marseillaise caoutchouc BEUCHAT"
+  ],
+  "description": "Matière très souple, élastique, et boucle acier qui font de cette ceinture un accessoire de lestage indispensable pour les chasseurs et les apnéistes à la recherche d'un ceinture performante et confortable.Sangle en néoprèneBoucle en caoutchoucSe défait très facilementBon positionnement de la ceinture",
+  "supplierRef": "142776",
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR",
+    "formatted": "39.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0001538",
+      "sku": "SU-0001538",
+      "supplierRef": "142776",
+      "price": {
+        "amount": 39.99,
+        "currency": "EUR",
+        "formatted": "39.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-342-pl-342-picture_1-pl-342-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/img-86-p1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-7583-pl-7583-picture_1-pl-7583-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/e/design_sans_titre_15_.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:20:55.605Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-342-pl-342-picture_1-pl-342-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001538/01-pl-342-pl-342-picture_1-pl-342-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-86-p1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001538/02-img-86-p1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-7583-pl-7583-picture_1-pl-7583-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001538/03-pl-7583-pl-7583-picture_1-pl-7583-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/e/design_sans_titre_15_.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001538/04-design_sans_titre_15_.png",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

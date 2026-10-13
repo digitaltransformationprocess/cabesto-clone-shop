@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0002364",
+  "url": "https://www.cabesto.com/fr/marmite-du-pecheur-ttoro-1-5-kg.html",
+  "title": "MARMITE DU PECHEUR TTORO 1.5 KG",
+  "brand": "BERNADET",
+  "category": "Plats à partager",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "cuisine-monde-surgele",
+    "plats-espagnols"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "cuisine-monde-surgele",
+    "plats-espagnols"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MARMITE DU PECHEUR TTORO 1.5 KG"
+  ],
+  "description": "Achetez MARMITE DU PECHEUR TTORO 1.5 KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "00015",
+  "price": {
+    "amount": 8.99,
+    "currency": "EUR",
+    "formatted": "8.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002364",
+      "sku": "AL-0002364",
+      "supplierRef": "00015",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/a/bat_22_-_ttoro_1.5kg_mars_2023_v5...jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:24:22.981Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/a/bat_22_-_ttoro_1.5kg_mars_2023_v5...jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002364/01-bat_22_-_ttoro_1.5kg_mars_2023_v5...jpg",
+      "skipped": false
+    }
+  ]
+}

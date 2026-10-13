@@ -1,0 +1,69 @@
+{
+  "sku": "PE-0022831",
+  "url": "https://www.cabesto.com/fr/canne-buscle-yuki-peche-dorade-270-50-300gr-pe-0022831.html",
+  "title": "CANNE BUSCLE YUKI PECHE DORADE 270 50/300GR",
+  "brand": "YUKI",
+  "category": "Cannes Bateau Buscle - 2,7M",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "securite-navigation",
+    "blocs-marins-permis-bateau"
+  ],
+  "categories": [
+    "nautisme",
+    "securite-navigation",
+    "blocs-marins-permis-bateau"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CANNE BUSCLE YUKI PECHE DORADE 270 50/300GR"
+  ],
+  "description": "Achetez CANNE BUSCLE YUKI PECHE DORADE 270 50/300GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "CAPD27",
+  "price": {
+    "amount": 78.99,
+    "currency": "EUR",
+    "formatted": "78.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0022831",
+      "sku": "PE-0022831",
+      "supplierRef": "CAPD27",
+      "price": {
+        "amount": 78.99,
+        "currency": "EUR",
+        "formatted": "78.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/e/peche-dorade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/p/2peche-dorade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:27:44.601Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/peche-dorade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0022831/01-peche-dorade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/p/2peche-dorade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0022831/02-2peche-dorade.jpg",
+      "skipped": false
+    }
+  ]
+}

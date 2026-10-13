@@ -1,0 +1,97 @@
+{
+  "sku": "SU-0003420",
+  "url": "https://www.cabesto.com/fr/plongee-lampe-q5-pl-17494.html",
+  "title": "Lampe de plongée Q5 700 lumens SEAC SUB",
+  "brand": "SEAC",
+  "category": "Black November - Plongée",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée sous-marine",
+    "Éclairage - Photo - Vidéo",
+    "Lampes",
+    "Destockage Plongée / Chasse sous-marine",
+    "Black November - Plongée"
+  ],
+  "categories": [
+    "Plongée sous-marine",
+    "Éclairage - Photo - Vidéo",
+    "Lampes",
+    "Destockage Plongée / Chasse sous-marine",
+    "Black November - Plongée"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe de plongée Q5 700 lumens SEAC SUB"
+  ],
+  "description": "Lampe de plongée d'appoint à piles, la lampe Q5 Seac Sub est dotée d'une intensité lumineuse de 700 lm pour une autonomie totale de 3h. Ce petit éclairage permet de ne pas vous encombrer pendant la plongée !",
+  "supplierRef": "0500020520000A",
+  "price": {
+    "amount": 69.99,
+    "currency": "EUR",
+    "formatted": "69.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003420",
+      "sku": "SU-0003420",
+      "supplierRef": "0500020520000A",
+      "price": {
+        "amount": 69.99,
+        "currency": "EUR",
+        "formatted": "69.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/q/5/q5_50-20_n_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-17494-pl-17494-picture_2-pl-17494-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/q/5/q5_50-20_n_02_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/q/5/q5_50-20_n_04_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/q/5/q5_50-20_n_01_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/q/5/q5_50-20_n_06_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:21:59.385Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/q/5/q5_50-20_n_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003420/01-q5_50-20_n_00_800.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-17494-pl-17494-picture_2-pl-17494-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003420/02-pl-17494-pl-17494-picture_2-pl-17494-2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/q/5/q5_50-20_n_02_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003420/03-q5_50-20_n_02_800.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/q/5/q5_50-20_n_04_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003420/04-q5_50-20_n_04_800.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/q/5/q5_50-20_n_01_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003420/05-q5_50-20_n_01_800.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/q/5/q5_50-20_n_06_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003420/06-q5_50-20_n_06_800.jpg",
+      "skipped": true
+    }
+  ]
+}

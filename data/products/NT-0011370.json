@@ -1,0 +1,63 @@
+{
+  "sku": "NT-0011370",
+  "url": "https://www.cabesto.com/fr/longe-microflip-5-50-m-nt-0011370.html",
+  "title": "Longe Microflip 5.50 m",
+  "brand": "PETZL",
+  "category": "travail-en-hauteur",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "travail-en-hauteur"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "travail-en-hauteur"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Longe Microflip 5.50 m"
+  ],
+  "description": "Achetez Longe Microflip 5.50 m chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "L33 055",
+  "price": {
+    "amount": 239.95,
+    "currency": "EUR",
+    "formatted": "239.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0011370",
+      "sku": "NT-0011370",
+      "supplierRef": "L33 055",
+      "price": {
+        "amount": 239.95,
+        "currency": "EUR",
+        "formatted": "239.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/7/176s_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:38:41.346Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/176s_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0011370/01-176s_1.jpg",
+      "skipped": false
+    }
+  ]
+}

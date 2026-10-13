@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0009559",
+  "url": "https://www.cabesto.com/fr/randonnee-kit-adapt-tikka-petzl-nt-0009559.html",
+  "title": "Kit Adapt Tikka - PETZL",
+  "brand": "PETZL",
+  "category": "Accessoires lampes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Eclairage",
+    "Accessoires lampes"
+  ],
+  "categories": [
+    "Eclairage",
+    "Accessoires lampes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montagne",
+    "Montagne",
+    "Randonnée",
+    "Randonnée",
+    "Eclairage",
+    "Eclairage",
+    "Kit Adapt Tikka - PETZL"
+  ],
+  "description": "Achetez Kit Adapt Tikka - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "E93001",
+  "price": {
+    "amount": 7.95,
+    "currency": "EUR",
+    "formatted": "7.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0009559",
+      "sku": "NT-0009559",
+      "supplierRef": "E93001",
+      "price": {
+        "amount": 7.95,
+        "currency": "EUR",
+        "formatted": "7.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/e/pe14_1-kit-adapt-tikka-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe14_1-kit-adapt-tikka-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:11:55.575Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe14_1-kit-adapt-tikka-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0009559/01-pe14_1-kit-adapt-tikka-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe14_1-kit-adapt-tikka-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0009559/02-pe14_1-kit-adapt-tikka-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

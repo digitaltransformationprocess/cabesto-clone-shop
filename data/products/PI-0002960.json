@@ -1,0 +1,65 @@
+{
+  "sku": "PI-0002960",
+  "url": "https://www.cabesto.com/fr/piscine-rustine-de-reparation-pour-gonflables-intex-pi-979.html",
+  "title": "Rustine de réparation pour gonflables intex",
+  "brand": "INTEX",
+  "category": "Jeux",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "jeux"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "jeux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Rustine de réparation pour gonflables intex"
+  ],
+  "description": "Achetez Rustine de réparation pour gonflables intex chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "59631NP",
+  "price": {
+    "amount": 0.49,
+    "currency": "EUR",
+    "formatted": "0.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002960",
+      "sku": "PI-0002960",
+      "supplierRef": "59631NP",
+      "price": {
+        "amount": 0.49,
+        "currency": "EUR",
+        "formatted": "0.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/9/59631np-rustines-reparation.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:36:15.477Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/9/59631np-rustines-reparation.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002960/01-59631np-rustines-reparation.jpg",
+      "skipped": false
+    }
+  ]
+}

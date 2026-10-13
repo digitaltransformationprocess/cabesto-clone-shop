@@ -1,0 +1,75 @@
+{
+  "sku": "PCPE-0018850",
+  "url": "https://www.cabesto.com/fr/cannes-de-peche-aux-leurres-starling-yuki.html",
+  "title": "Cannes de pêche aux leurres Starling | Yuki",
+  "brand": "YUKI",
+  "category": "Black November - Pêche",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "Destockage Pêche",
+    "Ventes privées Pêche",
+    "Black November - Pêche"
+  ],
+  "categories": [
+    "Destockage Pêche",
+    "Ventes privées Pêche",
+    "Black November - Pêche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cannes de pêche aux leurres Starling | Yuki"
+  ],
+  "description": "Achetez Cannes de pêche aux leurres Starling | Yuki chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPE-0018850",
+      "sku": "PCPE-0018850",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/f/i/fishus-starling-2-40m-15-40g-p-art-cfst80m2-1_nwgw97r65wncdp1y.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/fishus-starling-2-40m-15-40g-p-art-cfst80m2-2_sti24dhwqxmxyz7i.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/fishus-starling-2-40m-15-40g-p-art-cfst80m2-3_lyjm32hvissbbrw2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:26:33.664Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/fishus-starling-2-40m-15-40g-p-art-cfst80m2-1_nwgw97r65wncdp1y.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018850/01-fishus-starling-2-40m-15-40g-p-art-cfst80m2-1_nwgw97r65wncdp1y.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/fishus-starling-2-40m-15-40g-p-art-cfst80m2-2_sti24dhwqxmxyz7i.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018850/02-fishus-starling-2-40m-15-40g-p-art-cfst80m2-2_sti24dhwqxmxyz7i.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/fishus-starling-2-40m-15-40g-p-art-cfst80m2-3_lyjm32hvissbbrw2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018850/03-fishus-starling-2-40m-15-40g-p-art-cfst80m2-3_lyjm32hvissbbrw2.jpg",
+      "skipped": false
+    }
+  ]
+}

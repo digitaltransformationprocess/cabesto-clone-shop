@@ -1,0 +1,87 @@
+{
+  "sku": "PCNT-0017006",
+  "url": "https://www.cabesto.com/fr/verticalite-pont-d-attache-petzl-px47.html",
+  "title": "Pont d'attache - PETZL",
+  "brand": "PETZL",
+  "category": "Harnais élagage",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Elagage",
+    "Harnais élagage"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Elagage",
+    "Harnais élagage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pont d'attache - PETZL"
+  ],
+  "description": "Achetez Pont d'attache - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 19.95,
+    "currency": "EUR",
+    "formatted": "19.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0017006",
+      "sku": "PCNT-0017006",
+      "supplierRef": null,
+      "price": {
+        "amount": 19.95,
+        "currency": "EUR",
+        "formatted": "19.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/x/px47_1_d-pont-d-attache-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px47_1_d-pont-d-attache-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px47_1_d-pont-d-attache-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px47_1_d-pont-d-attache-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px47_1_d-pont-d-attache-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:31:16.234Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px47_1_d-pont-d-attache-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0017006/01-px47_1_d-pont-d-attache-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px47_1_d-pont-d-attache-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0017006/02-px47_1_d-pont-d-attache-petzl_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px47_1_d-pont-d-attache-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0017006/03-px47_1_d-pont-d-attache-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px47_1_d-pont-d-attache-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0017006/04-px47_1_d-pont-d-attache-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px47_1_d-pont-d-attache-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0017006/05-px47_1_d-pont-d-attache-petzl_2.jpg",
+      "skipped": false
+    }
+  ]
+}

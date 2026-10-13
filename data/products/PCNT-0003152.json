@@ -1,0 +1,183 @@
+{
+  "sku": "PCNT-0003152",
+  "url": "https://www.cabesto.com/fr/verticalite-chaussures-canyon-guide-bestard-2655.html",
+  "title": "Chaussures Canyon Guide - BESTARD",
+  "brand": "BESTARD",
+  "category": "chaussures-de-canyonisme",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "canyoning",
+    "chaussures-de-canyonisme"
+  ],
+  "categories": [
+    "montagne",
+    "canyoning",
+    "chaussures-de-canyonisme"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussures Canyon Guide - BESTARD"
+  ],
+  "description": "Robustes, adhérentes et bénéficiant d'une excellente tenue de pied la chaussure de canyoning, CAYON GUIDE BESTARD s'est fait sa place en matière de chaussures Canyon, spéléo, eaux vives, marche aquatique.",
+  "supplierRef": null,
+  "price": {
+    "amount": 183.9,
+    "currency": "EUR",
+    "formatted": "183.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0003152",
+      "sku": "PCNT-0003152",
+      "supplierRef": null,
+      "price": {
+        "amount": 183.9,
+        "currency": "EUR",
+        "formatted": "183.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_16.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr55_1_a-chaussons-5-mm-seland_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/canyon-guide.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/canyon-guide_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/canyon-guide_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/bestard.pptx_-_powerpoint.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_12.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_16_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_16_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_16_1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:27:11.978Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_16.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/01-2655_1_a-chaussures-canyon-guide-bestard_16.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/02-gr54_1_a-chaussons-3-mm-seland_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr55_1_a-chaussons-5-mm-seland_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/03-gr55_1_a-chaussons-5-mm-seland_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canyon-guide.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/04-canyon-guide.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canyon-guide_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/05-canyon-guide_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canyon-guide_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/06-canyon-guide_2_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/bestard.pptx_-_powerpoint.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/07-bestard.pptx_-_powerpoint.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/08-2655_1_a-chaussures-canyon-guide-bestard_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/09-2655_1_a-chaussures-canyon-guide-bestard_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/10-2655_1_a-chaussures-canyon-guide-bestard_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/11-2655_1_a-chaussures-canyon-guide-bestard_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/12-2655_1_a-chaussures-canyon-guide-bestard_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/13-2655_1_a-chaussures-canyon-guide-bestard_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/14-2655_1_a-chaussures-canyon-guide-bestard_8.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/15-2655_1_a-chaussures-canyon-guide-bestard_9.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/16-2655_1_a-chaussures-canyon-guide-bestard_10.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_12.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/17-2655_1_a-chaussures-canyon-guide-bestard_12.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/18-2655_1_a-chaussures-canyon-guide-bestard_13.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_16_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/19-2655_1_a-chaussures-canyon-guide-bestard_16_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_16_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/20-2655_1_a-chaussures-canyon-guide-bestard_16_1__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/2655_1_a-chaussures-canyon-guide-bestard_16_1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003152/21-2655_1_a-chaussures-canyon-guide-bestard_16_1__2.jpg",
+      "skipped": false
+    }
+  ]
+}

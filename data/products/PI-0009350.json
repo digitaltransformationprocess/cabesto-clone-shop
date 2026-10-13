@@ -1,0 +1,87 @@
+{
+  "sku": "PI-0009350",
+  "url": "https://www.cabesto.com/fr/piscine-piscine-bois-rect-urbaine-600-x-250-x-h133-cm-couverture-automatique-pi-70.html",
+  "title": "PISCINE URBAINE 6.00x2.50xHt1.33 avec Couverture immergée automatique",
+  "brand": "BWT",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine bois",
+    "Piscine rectangulaire",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Piscine bois",
+    "Piscine rectangulaire",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE URBAINE 6.00x2.50xHt1.33 avec Couverture immergée automatique"
+  ],
+  "description": "Achetez PISCINE URBAINE 6.00x2.50xHt1.33 avec Couverture immergée automatique chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "27180614",
+  "price": {
+    "amount": 7941.3,
+    "currency": "EUR",
+    "formatted": "7941.3 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0009350",
+      "sku": "PI-0009350",
+      "supplierRef": "27180614",
+      "price": {
+        "amount": 7941.3,
+        "currency": "EUR",
+        "formatted": "7941.3 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/u/r/urbaine_6.2_classique.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/piscine-en-bois-rectangulaire-urbaine-6-00-x-2-50-m-h-133-cm-procopi-bwt-mypool_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/7/27180614_piscine_urbaine_6.00x2.50.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_42_18.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/piscine_2_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:30:45.700Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/u/r/urbaine_6.2_classique.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009350/01-urbaine_6.2_classique.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/piscine-en-bois-rectangulaire-urbaine-6-00-x-2-50-m-h-133-cm-procopi-bwt-mypool_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009350/02-piscine-en-bois-rectangulaire-urbaine-6-00-x-2-50-m-h-133-cm-procopi-bwt-mypool_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/7/27180614_piscine_urbaine_6.00x2.50.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009350/03-27180614_piscine_urbaine_6.00x2.50.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_42_18.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009350/04-hqdefault_42_18.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/piscine_2_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009350/05-piscine_2_2.jpg",
+      "skipped": false
+    }
+  ]
+}

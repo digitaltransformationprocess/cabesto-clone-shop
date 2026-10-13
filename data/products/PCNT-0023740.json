@@ -1,0 +1,101 @@
+{
+  "sku": "PCNT-0023740",
+  "url": "https://www.cabesto.com/fr/veste-bitet-vd-vert-bleu-seland.html",
+  "title": "VESTE BITET VD - VERT/BLEU - SELAND",
+  "brand": "SELAND",
+  "category": "combinaisons-neoprene-top",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "canyoning",
+    "neoprene-canyoning",
+    "combinaisons-neoprene-top"
+  ],
+  "categories": [
+    "montagne",
+    "canyoning",
+    "neoprene-canyoning",
+    "combinaisons-neoprene-top"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "VESTE BITET VD - VERT/BLEU - SELAND"
+  ],
+  "description": "Achetez VESTE BITET VD - VERT/BLEU - SELAND chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 160,
+    "currency": "EUR",
+    "formatted": "160 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0023740",
+      "sku": "PCNT-0023740",
+      "supplierRef": null,
+      "price": {
+        "amount": 160,
+        "currency": "EUR",
+        "formatted": "160 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/r/gr11_1_k-veste-bitet-vd-seland_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/tailles_seland_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr11_1_k-veste-bitet-vd-seland.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr11_1_k-veste-bitet-vd-seland_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/veste_bitet_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/veste_bitet_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/veste_bitet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:27:06.374Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr11_1_k-veste-bitet-vd-seland_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023740/01-gr11_1_k-veste-bitet-vd-seland_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/tailles_seland_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023740/02-tailles_seland_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr11_1_k-veste-bitet-vd-seland.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023740/03-gr11_1_k-veste-bitet-vd-seland.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr11_1_k-veste-bitet-vd-seland_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023740/04-gr11_1_k-veste-bitet-vd-seland_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/veste_bitet_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023740/05-veste_bitet_2_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/veste_bitet_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023740/06-veste_bitet_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/veste_bitet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023740/07-veste_bitet_4.jpg",
+      "skipped": false
+    }
+  ]
+}

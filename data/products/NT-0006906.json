@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0006906",
+  "url": "https://www.cabesto.com/fr/verticalite-fusible-pour-harnais-canyon-guide-petzl-nt-0006906.html",
+  "title": "Fusible pour harnais Canyon Guide - PETZL",
+  "brand": "PETZL",
+  "category": "Renforts, couteaux, accessoires",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Canyoning",
+    "Renforts, couteaux, accessoires"
+  ],
+  "categories": [
+    "Canyoning",
+    "Renforts, couteaux, accessoires"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Fusible pour harnais Canyon Guide - PETZL"
+  ],
+  "description": "Achetez Fusible pour harnais Canyon Guide - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "C086EA00",
+  "price": {
+    "amount": 7.95,
+    "currency": "EUR",
+    "formatted": "7.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006906",
+      "sku": "NT-0006906",
+      "supplierRef": "C086EA00",
+      "price": {
+        "amount": 7.95,
+        "currency": "EUR",
+        "formatted": "7.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pzc9_1-fusible-pour-harnais-canyon-guide-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzc9_2-fusible-pour-harnais-canyon-guide-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzc9_1-fusible-pour-harnais-canyon-guide-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:33.110Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzc9_1-fusible-pour-harnais-canyon-guide-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006906/01-pzc9_1-fusible-pour-harnais-canyon-guide-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzc9_2-fusible-pour-harnais-canyon-guide-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006906/02-pzc9_2-fusible-pour-harnais-canyon-guide-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzc9_1-fusible-pour-harnais-canyon-guide-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006906/03-pzc9_1-fusible-pour-harnais-canyon-guide-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

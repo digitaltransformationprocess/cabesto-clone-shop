@@ -1,0 +1,77 @@
+{
+  "sku": "SU-0010899",
+  "url": "https://www.cabesto.com/fr/porte-octopus-plongee-sous-marine-requin-baleine-best-divers-su-0010899.html",
+  "title": "Porte-octopus Plongée Requin Baleine BEST DIVERS",
+  "brand": "BEST DIVERS",
+  "category": "Accessoires détendeurs plongée et octopus",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Accessoires de plongée",
+    "Clips",
+    "Détendeurs et Octopus",
+    "Accessoires détendeurs plongée et octopus"
+  ],
+  "categories": [
+    "Accessoires de plongée",
+    "Clips",
+    "Détendeurs et Octopus",
+    "Accessoires détendeurs plongée et octopus"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Porte-octopus Plongée Requin Baleine BEST DIVERS"
+  ],
+  "description": "Gardez votre octopus à portée de main pendant vos plongées sous-marine avec ce porte octopus requin baleine original, décalé, fiable et pratique.",
+  "supplierRef": "AE0274",
+  "price": {
+    "amount": 21.99,
+    "currency": "EUR",
+    "formatted": "21.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010899",
+      "sku": "SU-0010899",
+      "supplierRef": "AE0274",
+      "price": {
+        "amount": 21.99,
+        "currency": "EUR",
+        "formatted": "21.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/e/req_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/packmc11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/e/req_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:38:36.071Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/e/req_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010899/01-req_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/packmc11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010899/02-packmc11.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/e/req_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010899/03-req_1_.jpg",
+      "skipped": false
+    }
+  ]
+}

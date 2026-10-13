@@ -1,0 +1,66 @@
+{
+  "sku": "AL-0004011",
+  "url": "https://www.cabesto.com/fr/soupe-des-ports-du-croisic-et-de-la-turballe-780g.html",
+  "title": "SOUPE DES PORTS DU CROISIC ET DE LA TURBALLE 780G",
+  "brand": "BERNARD MAROT",
+  "category": "poissons",
+  "description": "Soupe de poissons préparée à base de poissons entiers débarqué des ports du Croisic et de la Turballe, prête à l’emploi, conditionnée en bouteilles verre pour la vente au détail au rayon conserve",
+  "price": {
+    "amount": 4.39,
+    "currency": "EUR",
+    "formatted": "4.39 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "In stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0004011",
+      "sku": "AL-0004011",
+      "price": {
+        "amount": 4.39,
+        "currency": "EUR",
+        "formatted": "4.39 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "In stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/6/0/6041964-6041964-picture_1-6041964_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6041964-6041964-picture_1-6041964_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6041964-6041964-picture_1-6041964_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0004011/01-6041964-6041964-picture_1-6041964_1.jpg",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:11:28.639Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/6/0/6041964-6041964-picture_1-6041964_1.jpg?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "4.39",
+    "currency": "EUR",
+    "availability": "in stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "poissons"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "poissons"
+  ]
+}

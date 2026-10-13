@@ -1,0 +1,139 @@
+{
+  "sku": "PCNT-0007125",
+  "url": "https://www.cabesto.com/fr/randonnee-chaussures-randonnee-homme-alp-trainer-2-mid-gore-texr-salewa-sl12.html",
+  "title": "Chaussures Randonnée Homme Alp Trainer 2 Mid GTX SALEWA",
+  "brand": "SALEWA",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Chaussures",
+    "Destockage Montagne",
+    "Chaussures hautes homme",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Chaussures",
+    "Destockage Montagne",
+    "Chaussures hautes homme",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussures Randonnée Homme Alp Trainer 2 Mid GTX SALEWA"
+  ],
+  "description": "Les chaussures alp trainer Mid Salewa grâce à leurs légèretés et leurs agilités vous permettront d'arpenter tous les sentiers.",
+  "supplierRef": null,
+  "price": {
+    "amount": 177.9,
+    "currency": "EUR",
+    "formatted": "177.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0007125",
+      "sku": "PCNT-0007125",
+      "supplierRef": null,
+      "price": {
+        "amount": 177.9,
+        "currency": "EUR",
+        "formatted": "177.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/salewa_alp_trainer_2_mid_gtx_wallnut_fluo_orange_-_et_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/h/chaussures_de_randonn_e_salewa_alp_trainer_2_mid_gtx_wallnut_fluo_orange_-_et_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-09-19_14_24_59-alp_trainer_2_mid_gore-tex_chaussure_homme___salewa_france.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/alp_trainer_2_mid_gtx_wallnut_fluo_orange_-_et_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:36:33.812Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/01-sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_10.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/salewa_alp_trainer_2_mid_gtx_wallnut_fluo_orange_-_et_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/02-salewa_alp_trainer_2_mid_gtx_wallnut_fluo_orange_-_et_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/h/chaussures_de_randonn_e_salewa_alp_trainer_2_mid_gtx_wallnut_fluo_orange_-_et_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/03-chaussures_de_randonn_e_salewa_alp_trainer_2_mid_gtx_wallnut_fluo_orange_-_et_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-09-19_14_24_59-alp_trainer_2_mid_gore-tex_chaussure_homme___salewa_france.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/04-2022-09-19_14_24_59-alp_trainer_2_mid_gore-tex_chaussure_homme___salewa_france.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alp_trainer_2_mid_gtx_wallnut_fluo_orange_-_et_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/05-alp_trainer_2_mid_gtx_wallnut_fluo_orange_-_et_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/06-sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/07-sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/08-sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/09-sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/10-sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/11-sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/12-sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007125/13-sl12_1_gt-chaussures-randonnee-homme-alp-trainer-2-mid-gore--salewa_8.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "sku": "PCSU-0008541",
+  "url": "https://www.cabesto.com/fr/sandow-circulaire-s400-o-16-mm-noir-filetes-salvimar.html",
+  "title": "SANDOW CIRCULAIRE S400 Ø 16 MM NOIR FILETES SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "Sandows",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Chasse sous-marine",
+    "Arbalètes et fusils harpons",
+    "Accessoires arbalètes chasse sous-marine",
+    "Sandows"
+  ],
+  "categories": [
+    "Plongée",
+    "Chasse sous-marine",
+    "Arbalètes et fusils harpons",
+    "Accessoires arbalètes chasse sous-marine",
+    "Sandows"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage",
+    "Destockage",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage Plongée / Chasse sous-marine",
+    "SANDOW CIRCULAIRE S400 Ø 16 MM NOIR FILETES SALVIMAR"
+  ],
+  "description": "Bandez les nouveaux sandows circulaires visés S400 SALVIMAR noirs, ici en diamètre 16 mm, puissants, progressifs et résistants aux UV...",
+  "supplierRef": null,
+  "price": {
+    "amount": 16.99,
+    "currency": "EUR",
+    "formatted": "16.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0008541",
+      "sku": "PCSU-0008541",
+      "supplierRef": null,
+      "price": {
+        "amount": 16.99,
+        "currency": "EUR",
+        "formatted": "16.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sandow-circulaire-s400-16-mm-noir-filetes-salvimar_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:55:14.583Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sandow-circulaire-s400-16-mm-noir-filetes-salvimar_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008541/01-sandow-circulaire-s400-16-mm-noir-filetes-salvimar_01.jpg",
+      "skipped": false
+    }
+  ]
+}

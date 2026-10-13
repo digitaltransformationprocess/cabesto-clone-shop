@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0027418",
+  "url": "https://www.cabesto.com/fr/verticalite-harnais-canyon-club-petzl-nt-0027418.html",
+  "title": "Harnais Canyon Club PETZL",
+  "brand": "PETZL",
+  "category": "Cuissards et protections",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Canyoning",
+    "Cuissards et protections"
+  ],
+  "categories": [
+    "Canyoning",
+    "Cuissards et protections"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Harnais Canyon Club PETZL"
+  ],
+  "description": "Achetez Harnais Canyon Club PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "C086AA00",
+  "price": {
+    "amount": 69.95,
+    "currency": "EUR",
+    "formatted": "69.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0027418",
+      "sku": "NT-0027418",
+      "supplierRef": "C086AA00",
+      "price": {
+        "amount": 69.95,
+        "currency": "EUR",
+        "formatted": "69.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb8_1-harnais-canyon-club-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb8_4-harnais-canyon-club-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb8_3-harnais-canyon-club-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb8_2-harnais-canyon-club-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb8_1-harnais-canyon-club-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:20:51.909Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb8_1-harnais-canyon-club-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0027418/01-pzb8_1-harnais-canyon-club-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb8_4-harnais-canyon-club-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0027418/02-pzb8_4-harnais-canyon-club-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb8_3-harnais-canyon-club-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0027418/03-pzb8_3-harnais-canyon-club-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb8_2-harnais-canyon-club-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0027418/04-pzb8_2-harnais-canyon-club-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb8_1-harnais-canyon-club-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0027418/05-pzb8_1-harnais-canyon-club-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

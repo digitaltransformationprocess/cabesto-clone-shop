@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0018706",
+  "url": "https://www.cabesto.com/fr/verticalite-sac-pro-work-45l-beal-nt-0018706.html",
+  "title": "Sac Pro Work 45L - BEAL",
+  "brand": "BEAL",
+  "category": "Sacs de transport",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Portage",
+    "Sacs de transport",
+    "Destockage Montagne",
+    "Ventes privées Montagne"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Portage",
+    "Sacs de transport",
+    "Destockage Montagne",
+    "Ventes privées Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac Pro Work 45L - BEAL"
+  ],
+  "description": "Achetez Sac Pro Work 45L - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BSAC.PW45",
+  "price": {
+    "amount": 130.36,
+    "currency": "EUR",
+    "formatted": "130.36 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0018706",
+      "sku": "NT-0018706",
+      "supplierRef": "BSAC.PW45",
+      "price": {
+        "amount": 130.36,
+        "currency": "EUR",
+        "formatted": "130.36 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/1/5179_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/1/5179_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:39:22.382Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/1/5179_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0018706/01-5179_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/1/5179_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0018706/02-5179_2.jpg",
+      "skipped": false
+    }
+  ]
+}

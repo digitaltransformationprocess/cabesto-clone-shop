@@ -1,0 +1,83 @@
+{
+  "sku": "SU-0010697",
+  "url": "https://www.cabesto.com/fr/baudrier-de-plongee-7-kg-sangles-polypropylene-sublest-su-0010697.html",
+  "title": "Baudrier de plongée 7 kg sangles Polypropylène SUBLEST",
+  "brand": "SUBLEST",
+  "category": "Lestage",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Accessoires du chasseur",
+    "Lestage",
+    "Accessoires de plongée",
+    "Lestage"
+  ],
+  "categories": [
+    "Accessoires du chasseur",
+    "Lestage",
+    "Accessoires de plongée",
+    "Lestage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Baudrier de plongée 7 kg sangles Polypropylène SUBLEST"
+  ],
+  "description": "Achetez Baudrier de plongée 7 kg sangles Polypropylène SUBLEST chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "B7P",
+  "price": {
+    "amount": 98.99,
+    "currency": "EUR",
+    "formatted": "98.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010697",
+      "sku": "SU-0010697",
+      "supplierRef": "B7P",
+      "price": {
+        "amount": 98.99,
+        "currency": "EUR",
+        "formatted": "98.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/u/sublest_baudriller-b7-p-redim..jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/0/10472_007blohidvawkefw.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/0/10473_e7chk2ifqcdjzw5a.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-14351-pl-14351-picture_1-pl-14351-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:36:32.362Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/sublest_baudriller-b7-p-redim..jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010697/01-sublest_baudriller-b7-p-redim..jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/0/10472_007blohidvawkefw.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010697/02-10472_007blohidvawkefw.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/0/10473_e7chk2ifqcdjzw5a.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010697/03-10473_e7chk2ifqcdjzw5a.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-14351-pl-14351-picture_1-pl-14351-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010697/04-pl-14351-pl-14351-picture_1-pl-14351-1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "sku": "PCNT-0016266-1",
+  "url": "https://www.cabesto.com/fr/verticalite-piton-u-10mm-epaisseur-petzl-1763.html",
+  "title": "Piton U - 10mm épaisseur - PETZL",
+  "brand": "PETZL",
+  "category": "Pitons, plombs",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Escalade",
+    "Pitons, plombs"
+  ],
+  "categories": [
+    "Escalade",
+    "Pitons, plombs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piton U - 10mm épaisseur - PETZL"
+  ],
+  "description": "Achetez Piton U - 10mm épaisseur - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 15.9,
+    "currency": "EUR",
+    "formatted": "15.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0016266-1",
+      "sku": "PCNT-0016266-1",
+      "supplierRef": null,
+      "price": {
+        "amount": 15.9,
+        "currency": "EUR",
+        "formatted": "15.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/7/1763_1_un-piton-u-petzl-charlet_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/1763_1_un-piton-u-petzl-charlet_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/1763_1_un-piton-u-petzl-charlet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/1763_1_un-piton-u-petzl-charlet_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:24:01.257Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1763_1_un-piton-u-petzl-charlet_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016266-1/01-1763_1_un-piton-u-petzl-charlet_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1763_1_un-piton-u-petzl-charlet_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016266-1/02-1763_1_un-piton-u-petzl-charlet_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1763_1_un-piton-u-petzl-charlet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016266-1/03-1763_1_un-piton-u-petzl-charlet.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1763_1_un-piton-u-petzl-charlet_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016266-1/04-1763_1_un-piton-u-petzl-charlet_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "PI-0004595",
+  "url": "https://www.cabesto.com/fr/piscine-hors-sol-prism-baltik-4m57x1m22-intex.html",
+  "title": "PISCINE HORS SOL PRISM BALTIK Ø4M57X1M22 INTEX",
+  "brand": "INTEX",
+  "category": "Piscine ronde",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE HORS SOL PRISM BALTIK Ø4M57X1M22 INTEX"
+  ],
+  "description": "Achetez PISCINE HORS SOL PRISM BALTIK Ø4M57X1M22 INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "26742ND",
+  "price": {
+    "amount": 339,
+    "currency": "EUR",
+    "formatted": "339 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0004595",
+      "sku": "PI-0004595",
+      "supplierRef": "26742ND",
+      "price": {
+        "amount": 339,
+        "currency": "EUR",
+        "formatted": "339 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/i/kit-piscine-baltik_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/i/kit-piscine-baltik.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:49:21.094Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/i/kit-piscine-baltik_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004595/01-kit-piscine-baltik_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/i/kit-piscine-baltik.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004595/02-kit-piscine-baltik.jpg",
+      "skipped": false
+    }
+  ]
+}

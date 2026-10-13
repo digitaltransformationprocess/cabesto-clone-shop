@@ -1,0 +1,69 @@
+{
+  "sku": "SU-0010339",
+  "url": "https://www.cabesto.com/fr/manometre-de-plongee-sous-marine-mission-1-new-mares-su-0010339.html",
+  "title": "Manomètre de plongée sous-marine MISSION 1 NEW MARES",
+  "brand": "MARES",
+  "category": "Manomètres sous-marins et manomètres de surface",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée sous-marine",
+    "Instruments de plongée",
+    "Manomètres sous-marins et manomètres de surface"
+  ],
+  "categories": [
+    "Plongée sous-marine",
+    "Instruments de plongée",
+    "Manomètres sous-marins et manomètres de surface"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Manomètre de plongée sous-marine MISSION 1 NEW MARES"
+  ],
+  "description": "Partez en \"mission plongée sous-marine\" et contrôlez votre pression d’air en un coup d’œil grâce au nouveau manomètre MISSION 1 NEW MARES, robuste et lisible, conçu pour accompagner vos plongées en toute sérénité.",
+  "supplierRef": "414428BKIN",
+  "price": {
+    "amount": 119,
+    "currency": "EUR",
+    "formatted": "119 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010339",
+      "sku": "SU-0010339",
+      "supplierRef": "414428BKIN",
+      "price": {
+        "amount": 119,
+        "currency": "EUR",
+        "formatted": "119 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/i/miss.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre1_7.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:19:29.832Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/miss.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010339/01-miss.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre1_7.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010339/02-sans_titre1_7.png",
+      "skipped": false
+    }
+  ]
+}

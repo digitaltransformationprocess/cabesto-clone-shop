@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0002801",
+  "url": "https://www.cabesto.com/fr/piscine-raccord-union-mixte-3-pieces-d50-x-1-1-2-16-bars-pi-792.html",
+  "title": "Raccord union mixte 3 pièces D50 x 1\"1/2 - 16 bars",
+  "brand": "INTERPLAST",
+  "category": "Pièces PVC",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Raccord union mixte 3 pièces D50 x 1\"1/2 - 16 bars"
+  ],
+  "description": "Achetez Raccord union mixte 3 pièces D50 x 1\"1/2 - 16 bars chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SBO350F",
+  "price": {
+    "amount": 6.99,
+    "currency": "EUR",
+    "formatted": "6.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002801",
+      "sku": "PI-0002801",
+      "supplierRef": "SBO350F",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/u/n/union-mixte-3-pieces-fxf-d50x1-1-2-16-bars-16704.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:37:32.361Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/u/n/union-mixte-3-pieces-fxf-d50x1-1-2-16-bars-16704.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002801/01-union-mixte-3-pieces-fxf-d50x1-1-2-16-bars-16704.jpg",
+      "skipped": false
+    }
+  ]
+}

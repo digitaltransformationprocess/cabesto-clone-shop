@@ -1,0 +1,64 @@
+{
+  "sku": "AL-0002899",
+  "url": "https://www.cabesto.com/fr/pates-safranees-pour-soupe-50-gr.html",
+  "title": "PATES SAFRANEES POUR SOUPE 50 GR",
+  "brand": "AZAIS POLITO",
+  "category": "alimentation",
+  "description": "Les petites Pâtes Safranées ont été créées pour être associées à toutes nos Soupes et Veloutés afin de les déguster comme de véritables Sétois. Vous apprécierez leur délicieux goût safrané qui apporte d'autant plus une vraie typicité Méditérranéenne. Laissez-vous tenter, c'est un vrai régal !",
+  "price": {
+    "amount": 1.39,
+    "currency": "EUR",
+    "formatted": "1.39 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "In stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002899",
+      "sku": "AL-0002899",
+      "price": {
+        "amount": 1.39,
+        "currency": "EUR",
+        "formatted": "1.39 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "In stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/0/3/0339192-0339192-picture_1-0339192_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/0/3/0339192-0339192-picture_1-0339192_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/3/0339192-0339192-picture_1-0339192_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002899/01-0339192-0339192-picture_1-0339192_1.jpg",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:11:26.939Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/0/3/0339192-0339192-picture_1-0339192_1.jpg?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "1.39",
+    "currency": "EUR",
+    "availability": "in stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "offre-alimentation"
+  ],
+  "categories": [
+    "alimentation",
+    "offre-alimentation"
+  ]
+}

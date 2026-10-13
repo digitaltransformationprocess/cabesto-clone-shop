@@ -1,0 +1,73 @@
+{
+  "sku": "PCNT-0021175",
+  "url": "https://www.cabesto.com/fr/verticalite-chaussons-escalade-tarantula-la-sportiva-ls30.html",
+  "title": "Chaussons Escalade Tarantula - La Sportiva",
+  "brand": "LA SPORTIVA",
+  "category": "Chaussons d'escalade homme, mixtes",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Escalade",
+    "Chaussons d'escalade",
+    "Destockage Montagne",
+    "Chaussons d'escalade homme, mixtes",
+    "Ventes privées Montagne"
+  ],
+  "categories": [
+    "Escalade",
+    "Chaussons d'escalade",
+    "Destockage Montagne",
+    "Chaussons d'escalade homme, mixtes",
+    "Ventes privées Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussons Escalade Tarantula - La Sportiva"
+  ],
+  "description": "Achetez Chaussons Escalade Tarantula - La Sportiva chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0021175",
+      "sku": "PCNT-0021175",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/s/ls30_1_bc-chaussons-tarantula-la-sportiva_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls30_1_bc-chaussons-tarantula-la-sportiva_14.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:28:17.339Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls30_1_bc-chaussons-tarantula-la-sportiva_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0021175/01-ls30_1_bc-chaussons-tarantula-la-sportiva_13.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls30_1_bc-chaussons-tarantula-la-sportiva_14.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0021175/02-ls30_1_bc-chaussons-tarantula-la-sportiva_14.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "sku": "PCNT-0028371",
+  "url": "https://www.cabesto.com/fr/chaussures-basses-femme-moab-2-ventilator.html",
+  "title": "Chaussures Basses Femme Moab 2 Ventilator - MERRELL",
+  "brand": "MERRELL",
+  "category": "Chaussures basses femme",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Chaussures",
+    "Chaussures basses outdoor",
+    "Destockage Montagne",
+    "Chaussures basses femme",
+    "Ventes privées Montagne"
+  ],
+  "categories": [
+    "Chaussures",
+    "Chaussures basses outdoor",
+    "Destockage Montagne",
+    "Chaussures basses femme",
+    "Ventes privées Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussures Basses Femme Moab 2 Ventilator - MERRELL"
+  ],
+  "description": "Achetez Chaussures Basses Femme Moab 2 Ventilator - MERRELL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0028371",
+      "sku": "PCNT-0028371",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/r/mr04_1_cl-chaussures-basses-femme-moab-2-ventilator-merrell_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/r/mr04_4_cl-chaussures-basses-femme-moab-2-ventilator-merrell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/r/mr04_3_cl-chaussures-basses-femme-moab-2-ventilator-merrell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/r/mr04_2_cl-chaussures-basses-femme-moab-2-ventilator-merrell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/r/mr04_1_cl-chaussures-basses-femme-moab-2-ventilator-merrell_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:36:14.879Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/r/mr04_1_cl-chaussures-basses-femme-moab-2-ventilator-merrell_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028371/01-mr04_1_cl-chaussures-basses-femme-moab-2-ventilator-merrell_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/r/mr04_4_cl-chaussures-basses-femme-moab-2-ventilator-merrell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028371/02-mr04_4_cl-chaussures-basses-femme-moab-2-ventilator-merrell.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/r/mr04_3_cl-chaussures-basses-femme-moab-2-ventilator-merrell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028371/03-mr04_3_cl-chaussures-basses-femme-moab-2-ventilator-merrell.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/r/mr04_2_cl-chaussures-basses-femme-moab-2-ventilator-merrell.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028371/04-mr04_2_cl-chaussures-basses-femme-moab-2-ventilator-merrell.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/r/mr04_1_cl-chaussures-basses-femme-moab-2-ventilator-merrell_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028371/05-mr04_1_cl-chaussures-basses-femme-moab-2-ventilator-merrell_6.jpg",
+      "skipped": false
+    }
+  ]
+}

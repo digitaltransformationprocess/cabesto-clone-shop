@@ -26,8 +26,22 @@ type Ctx = {
 const g = globalThis as unknown as { __storeCtx?: React.Context<Ctx | null> };
 const StoreCtx = (g.__storeCtx ??= createContext<Ctx | null>(null));
 
-const read = <T,>(k: string, d: T): T => { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch { return d; } };
-const write = (k: string, v: unknown) => localStorage.setItem(k, JSON.stringify(v));
+const STORE_VERSION = "catalog-v2";
+const read = <T,>(k: string, d: T): T => {
+  try {
+    const v = localStorage.getItem(k);
+    return v ? (JSON.parse(v) as T) : d;
+  } catch {
+    return d;
+  }
+};
+const write = (k: string, v: unknown) => {
+  try {
+    localStorage.setItem(k, JSON.stringify(v));
+  } catch {
+    /* quota / private mode */
+  }
+};
 const cartKey = (u: User | null) => `demo-cart:${u?.email ?? "guest"}`;
 
 export function StoreProvider({ children }: { children: ReactNode }) {
@@ -38,12 +52,36 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   const [tickets, setTickets] = useState<Ticket[]>([]);
 
   useEffect(() => {
-    const u = testUsers.find((x) => x.email === localStorage.getItem("demo-user")) ?? null;
-    setUser(u);
-    setCartState(read(cartKey(u), {}));
-    setOrders(read("demo-orders", initialOrders));
-    setProfiles(read("demo-profiles", {}));
-    setTickets(read("demo-tickets", []));
+    try {
+      if (localStorage.getItem("demo-store-version") !== STORE_VERSION) {
+        for (const k of Object.keys(localStorage)) {
+          if (k.startsWith("demo-")) localStorage.removeItem(k);
+        }
+        localStorage.setItem("demo-store-version", STORE_VERSION);
+      }
+      const u = testUsers.find((x) => x.email === localStorage.getItem("demo-user")) ?? null;
+      setUser(u);
+      const rawCart = read<Record<string, number>>(cartKey(u), {});
+      const cleanCart = Object.fromEntries(
+        Object.entries(rawCart).filter(([id]) => products.some((p) => p.id === id)),
+      );
+      setCartState(cleanCart);
+      write(cartKey(u), cleanCart);
+      const rawOrders = read<Order[]>("demo-orders", initialOrders);
+      const cleanOrders = (Array.isArray(rawOrders) ? rawOrders : [])
+        .map((o) => ({
+          ...o,
+          items: (o.items ?? []).filter((i) => products.some((p) => p.id === i.id)),
+        }))
+        .filter((o) => o.items.length > 0);
+      const ordersToUse = cleanOrders.length ? cleanOrders : initialOrders;
+      setOrders(ordersToUse);
+      write("demo-orders", ordersToUse);
+      setProfiles(read("demo-profiles", {}));
+      setTickets(read("demo-tickets", []));
+    } catch (e) {
+      console.error("[StoreProvider] init failed", e);
+    }
   }, []);
 
   const setCart = (u: User | null, c: Record<string, number>) => { write(cartKey(u), c); setCartState(c); };

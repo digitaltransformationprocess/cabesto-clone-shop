@@ -1,0 +1,65 @@
+{
+  "sku": "PI-0000025",
+  "url": "https://www.cabesto.com/fr/piscine-adisan-1kg-bayrol-pi-159.html",
+  "title": "ADISAN 1KG BAYROL",
+  "brand": "BAYROL",
+  "category": "Black November - Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Produits de nettoyage et répulsif",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine"
+  ],
+  "categories": [
+    "Produits de nettoyage et répulsif",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ADISAN 1KG BAYROL"
+  ],
+  "description": "Achetez ADISAN 1KG BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1112132",
+  "price": {
+    "amount": 15.05,
+    "currency": "EUR",
+    "formatted": "15.05 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000025",
+      "sku": "PI-0000025",
+      "supplierRef": "1112132",
+      "price": {
+        "amount": 15.05,
+        "currency": "EUR",
+        "formatted": "15.05 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/h/shopping_8_.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:33:24.687Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/h/shopping_8_.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000025/01-shopping_8_.png",
+      "skipped": false
+    }
+  ]
+}

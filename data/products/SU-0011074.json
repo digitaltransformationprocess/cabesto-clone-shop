@@ -1,0 +1,101 @@
+{
+  "sku": "SU-0011074",
+  "url": "https://www.cabesto.com/fr/lampe-de-plongee-galactika-max-pro-4500-lumens-salvimar-su-0011074.html",
+  "title": "Lampe de plongée GALACTIKA MAX PRO 4500 lumens SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "Phares de plongée rechargeables",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Éclairage - Photo - Vidéo",
+    "Phares de plongée rechargeables"
+  ],
+  "categories": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Éclairage - Photo - Vidéo",
+    "Phares de plongée rechargeables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe de plongée GALACTIKA MAX PRO 4500 lumens SALVIMAR"
+  ],
+  "description": "Éclairez précisément et à longue distance avec la lampe GALACTIKA MAX PRO SALVIMAR : un éclairage sous-marin puissant, de 4 500 lumens et précis, pour explorer les fonds avec une visibilité optimale jusqu’à -100 mètres.",
+  "supplierRef": "TOR012",
+  "price": {
+    "amount": 165.99,
+    "currency": "EUR",
+    "formatted": "165.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0011074",
+      "sku": "SU-0011074",
+      "supplierRef": "TOR012",
+      "price": {
+        "amount": 165.99,
+        "currency": "EUR",
+        "formatted": "165.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/a/galac1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/d/zd710_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/o/eo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/galc2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/galc4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/galac.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sal.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:40:53.512Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/galac1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011074/01-galac1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/d/zd710_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011074/02-zd710_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/o/eo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011074/03-eo.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/galc2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011074/04-galc2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/galc4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0011074\\05-galc4.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0011074\\05-galc4.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/galac.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0011074\\06-galac.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0011074\\06-galac.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sal.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0011074\\07-sal.png.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0011074\\07-sal.png'"
+    }
+  ]
+}

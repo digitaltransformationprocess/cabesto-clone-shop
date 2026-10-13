@@ -1,0 +1,63 @@
+{
+  "sku": "SU-0007020",
+  "url": "https://www.cabesto.com/fr/plongee-tuba-gamma-noir-pl-5699.html",
+  "title": "TUBA GAMMA NOIR CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "ais",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TUBA GAMMA NOIR CRESSI SUB"
+  ],
+  "description": "TUBA GAMMA NOIR CRESSI SUBLe Gamma est un basique de Cressi en PMT ! Idéal pour snorkeling et plongée.Déflecteur incliné : il réduit considérablement l'entrée d'éclaboussures d'eau par la partie supérieure, sans diminuer la ventilation.Enganche régulable : système de fixation rapide sur la sangle du masque, mobile sur le tuba pour un positionnemement optimal.Nouveau piège à eau : concentre l'eau résiduelle à l'extrémité inférieure du tuba et supprime tout obstacle à la respiration.Soupape ovale interne : facilite l'évacuation de l'eau et rend le vidage du tuba simple et rapide.Ce tuba a été fabriqué conformément aux exigences du règlement CE 2016/425 suivant la norme NF EN 1972.",
+  "supplierRef": "EG261550",
+  "price": {
+    "amount": 15.99,
+    "currency": "EUR",
+    "formatted": "15.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0007020",
+      "sku": "SU-0007020",
+      "supplierRef": "EG261550",
+      "price": {
+        "amount": 15.99,
+        "currency": "EUR",
+        "formatted": "15.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-5699-pl-5699-picture_1-pl-5699-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:02.036Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-5699-pl-5699-picture_1-pl-5699-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0007020/01-pl-5699-pl-5699-picture_1-pl-5699-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ],
+  "categories": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ]
+}

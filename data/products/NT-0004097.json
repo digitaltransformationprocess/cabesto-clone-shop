@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0004097",
+  "url": "https://www.cabesto.com/fr/randonnee-chaufferette-mains-pocketheat-frendo-nt-0004097.html",
+  "title": "Chaufferette Mains PocketHeat - FRENDO",
+  "brand": "NOO",
+  "category": "Chaufferettes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Sécurité et soin du corps",
+    "Chaufferettes"
+  ],
+  "categories": [
+    "Sécurité et soin du corps",
+    "Chaufferettes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaufferette Mains PocketHeat - FRENDO"
+  ],
+  "description": "Achetez Chaufferette Mains PocketHeat - FRENDO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "610000",
+  "price": {
+    "amount": 2,
+    "currency": "EUR",
+    "formatted": "2 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0004097",
+      "sku": "NT-0004097",
+      "supplierRef": "610000",
+      "price": {
+        "amount": 2,
+        "currency": "EUR",
+        "formatted": "2 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/f/r/fr55_1-chaufferette-mains-pocketheat-frendo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/r/fr55_1-chaufferette-mains-pocketheat-frendo_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:19:21.829Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/r/fr55_1-chaufferette-mains-pocketheat-frendo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0004097/01-fr55_1-chaufferette-mains-pocketheat-frendo.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/r/fr55_1-chaufferette-mains-pocketheat-frendo_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0004097/02-fr55_1-chaufferette-mains-pocketheat-frendo_1.jpg",
+      "skipped": true
+    }
+  ]
+}

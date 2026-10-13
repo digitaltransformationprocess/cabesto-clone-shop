@@ -1,0 +1,75 @@
+{
+  "sku": "PI-0002117",
+  "url": "https://www.cabesto.com/fr/piscine-matelas-gonflable-semi-immerge-intex-coloris-aleatoire-pi-976.html",
+  "title": "Matelas gonflable semi-immergé intex - coloris aléatoire",
+  "brand": "INTEX",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Jeux",
+    "Confort",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Jeux",
+    "Confort",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Matelas gonflable semi-immergé intex - coloris aléatoire"
+  ],
+  "description": "Achetez Matelas gonflable semi-immergé intex - coloris aléatoire chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "58836EU",
+  "price": {
+    "amount": 16.99,
+    "currency": "EUR",
+    "formatted": "16.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002117",
+      "sku": "PI-0002117",
+      "supplierRef": "58836EU",
+      "price": {
+        "amount": 16.99,
+        "currency": "EUR",
+        "formatted": "16.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/8/58836eu-matelas-gonflable-semi-immerge.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/8/58836eu-matelas-gonflable-semi-immerge_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/8/58836eu-matelas-gonflable-semi-immerge_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:36:06.168Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/8/58836eu-matelas-gonflable-semi-immerge.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002117/01-58836eu-matelas-gonflable-semi-immerge.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/8/58836eu-matelas-gonflable-semi-immerge_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002117/02-58836eu-matelas-gonflable-semi-immerge_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/8/58836eu-matelas-gonflable-semi-immerge_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002117/03-58836eu-matelas-gonflable-semi-immerge_2_.jpg",
+      "skipped": false
+    }
+  ]
+}

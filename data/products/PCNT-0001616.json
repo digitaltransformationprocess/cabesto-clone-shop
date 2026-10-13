@@ -1,0 +1,121 @@
+{
+  "sku": "PCNT-0001616",
+  "url": "https://www.cabesto.com/fr/sous-combinaison-arbas.html",
+  "title": "Sous-combinaison Arbas - Bleu marine - Aventure Verticale",
+  "brand": "AVENTURE VERTICALE",
+  "category": "Sous-combinaisons spéléo",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Spéléologie",
+    "Sous-combinaisons spéléo"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Sous-combinaisons spéléo"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sous-combinaison Arbas - Bleu marine - Aventure Verticale"
+  ],
+  "description": "Achetez Sous-combinaison Arbas - Bleu marine - Aventure Verticale chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 119,
+    "currency": "EUR",
+    "formatted": "119 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0001616",
+      "sku": "PCNT-0001616",
+      "supplierRef": null,
+      "price": {
+        "amount": 119,
+        "currency": "EUR",
+        "formatted": "119 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2209_3_d-sous-combinaison-arbas-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2209_2_d-sous-combinaison-arbas-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-av-avsp73-arbas-coupe.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2023-05-26_11_14_09-_av_tableau_taille_vetements_fran_ais-anglais.pdf_-_adobe_acrobat_reader_64-bit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:24:50.420Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001616/01-2209_1_d-sous-combinaison-arbas-aventure-verticale_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2209_3_d-sous-combinaison-arbas-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001616/02-2209_3_d-sous-combinaison-arbas-aventure-verticale.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2209_2_d-sous-combinaison-arbas-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001616/03-2209_2_d-sous-combinaison-arbas-aventure-verticale.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001616/04-2209_1_d-sous-combinaison-arbas-aventure-verticale_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/o/sous-combinaison-av-avsp73-arbas-coupe.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001616/05-sous-combinaison-av-avsp73-arbas-coupe.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2023-05-26_11_14_09-_av_tableau_taille_vetements_fran_ais-anglais.pdf_-_adobe_acrobat_reader_64-bit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001616/06-2023-05-26_11_14_09-_av_tableau_taille_vetements_fran_ais-anglais.pdf_-_adobe_acrobat_reader_64-bit.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001616/07-2209_1_d-sous-combinaison-arbas-aventure-verticale.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001616/08-2209_1_d-sous-combinaison-arbas-aventure-verticale_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001616/09-2209_1_d-sous-combinaison-arbas-aventure-verticale_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001616/10-2209_1_d-sous-combinaison-arbas-aventure-verticale_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/2/2209_1_d-sous-combinaison-arbas-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001616/11-2209_1_d-sous-combinaison-arbas-aventure-verticale_4.jpg",
+      "skipped": false
+    }
+  ]
+}

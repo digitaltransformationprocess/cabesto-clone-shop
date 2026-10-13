@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0023964",
+  "url": "https://www.cabesto.com/fr/verticalite-visiere-vizen-petzl-nt-0023964.html",
+  "title": "Visière Vizen - PETZL",
+  "brand": "PETZL",
+  "category": "Casques",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Casques"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Casques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Visière Vizen - PETZL"
+  ],
+  "description": "Achetez Visière Vizen - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "A014AA00",
+  "price": {
+    "amount": 68.45,
+    "currency": "EUR",
+    "formatted": "68.45 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0023964",
+      "sku": "NT-0023964",
+      "supplierRef": "A014AA00",
+      "price": {
+        "amount": 68.45,
+        "currency": "EUR",
+        "formatted": "68.45 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/x/px12_1-visiere-vizen-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px12_1-visiere-vizen-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:17:59.259Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px12_1-visiere-vizen-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0023964/01-px12_1-visiere-vizen-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px12_1-visiere-vizen-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0023964/02-px12_1-visiere-vizen-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

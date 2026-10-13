@@ -1,0 +1,133 @@
+{
+  "sku": "PCSU-0010749",
+  "url": "https://www.cabesto.com/fr/gilet-stabilisateur-de-plongee-sous-marine-exotec-grey-apeks-pcsu-0010749.html",
+  "title": "Gilet stabilisateur de plongée sous-marine EXOTEC Grey APEKS",
+  "brand": "APEKS",
+  "category": "Gilets de plongée à flottabilité dorsale",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Gilets stabilisateurs",
+    "Gilets de plongée à flottabilité dorsale"
+  ],
+  "categories": [
+    "Gilets stabilisateurs",
+    "Gilets de plongée à flottabilité dorsale"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gilet stabilisateur de plongée sous-marine EXOTEC Grey APEKS"
+  ],
+  "description": "Plongez exotique et technique avec le nouveau gilet stabilisateur dorsal tek APEKS, le gilet stab EXOTEC APEKS résistant, technique et confortable.",
+  "supplierRef": null,
+  "price": {
+    "amount": 799,
+    "currency": "EUR",
+    "formatted": "799 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0010749",
+      "sku": "PCSU-0010749",
+      "supplierRef": null,
+      "price": {
+        "amount": 799,
+        "currency": "EUR",
+        "formatted": "799 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/0/20grey_2_fbf6e416-031d-4a13-b566-88c068d5a310.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-16757-pl-16757-picture_1-pl-16757-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/20grey_1_331470b8-aa69-4adb-baca-6982440de986.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/20grey_4_644de899-7bfa-4eb7-aa53-807ede885a31.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/20grey_3_cc072dce-6d24-4e6d-9ee1-34b5a1d636ac.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/20grey_5_1c210b64-bd7c-43e0-97cd-2d0bb36cc013.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/20grey_6_eac5b061-a5db-4c81-9210-31085411487d.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/20grey_7_0fc58928-eda7-43f0-a748-a2fbe587cdfd.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/20grey_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2025_04_22_11_23_32_exotec_gilet_stabilisateur_de_plong_e_apeks_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/20grey_1_331470b8-aa69-4adb-baca-6982440de986_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/20grey_1_331470b8-aa69-4adb-baca-6982440de986_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/20grey_1_331470b8-aa69-4adb-baca-6982440de986_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:37:06.951Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/20grey_2_fbf6e416-031d-4a13-b566-88c068d5a310.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/01-20grey_2_fbf6e416-031d-4a13-b566-88c068d5a310.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-16757-pl-16757-picture_1-pl-16757-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/02-pl-16757-pl-16757-picture_1-pl-16757-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/20grey_1_331470b8-aa69-4adb-baca-6982440de986.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/03-20grey_1_331470b8-aa69-4adb-baca-6982440de986.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/20grey_4_644de899-7bfa-4eb7-aa53-807ede885a31.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/04-20grey_4_644de899-7bfa-4eb7-aa53-807ede885a31.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/20grey_3_cc072dce-6d24-4e6d-9ee1-34b5a1d636ac.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/05-20grey_3_cc072dce-6d24-4e6d-9ee1-34b5a1d636ac.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/20grey_5_1c210b64-bd7c-43e0-97cd-2d0bb36cc013.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/06-20grey_5_1c210b64-bd7c-43e0-97cd-2d0bb36cc013.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/20grey_6_eac5b061-a5db-4c81-9210-31085411487d.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/07-20grey_6_eac5b061-a5db-4c81-9210-31085411487d.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/20grey_7_0fc58928-eda7-43f0-a748-a2fbe587cdfd.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/08-20grey_7_0fc58928-eda7-43f0-a748-a2fbe587cdfd.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/20grey_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/09-20grey_8.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2025_04_22_11_23_32_exotec_gilet_stabilisateur_de_plong_e_apeks_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/10-2025_04_22_11_23_32_exotec_gilet_stabilisateur_de_plong_e_apeks_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/20grey_1_331470b8-aa69-4adb-baca-6982440de986_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/11-20grey_1_331470b8-aa69-4adb-baca-6982440de986_1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/20grey_1_331470b8-aa69-4adb-baca-6982440de986_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/12-20grey_1_331470b8-aa69-4adb-baca-6982440de986_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/20grey_1_331470b8-aa69-4adb-baca-6982440de986_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010749/13-20grey_1_331470b8-aa69-4adb-baca-6982440de986_1_2.jpg",
+      "skipped": false
+    }
+  ]
+}

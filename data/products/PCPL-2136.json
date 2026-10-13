@@ -1,0 +1,143 @@
+{
+  "sku": "PCPL-2136",
+  "url": "https://www.cabesto.com/fr/plongee-lampe-de-plongee-d520-1000l-orcatorch-pcpl-2136.html",
+  "title": "Lampe de plongée D520 1000 lumens ORCA TORCH",
+  "brand": "ORCATORCH",
+  "category": "lampes",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe de plongée D520 1000 lumens ORCA TORCH"
+  ],
+  "description": "Lampe de plongée D520 1000 lumens ORCA TORCHIlluminez vos plongées sous-marine avec la lampe étanche de plongée D520 ORCA TORCH, 1000 lumens et rechargeable.Alimenté par une batterie 18650, l'autonomie maximale de la lampe de plongée D520 OrcaTorch peut atteindre 2 heures.De plus, sa construction robuste, résistante à la pression de l'eau, sa portabilité élevée et son fonctionnement facile, font de la lampe D520 un éclairage d'appoint parfait en plongée sous-marine.Caractéristiques de la lampe de plongée D520 OrcaTorchPuissance : 1000 lumensAutonomie : 2hDistance du faisceau : 250m (sur terre)Intensité : 14300cdLED Cree XM-L2 (U4)Utilise la batterie 18650 / 2CR123A / 216340Le commutateur rotatif à tête mécanique offre une grande fiabilité sous l'eauConstruction résistant à la pression d'eau, profondeur évaluée à 150 mètresProtection contre l'inversion de polarité, pour éviter une mauvaise installation de la batterieFonction de protection contre la décharge excessiveMatériau en aluminium à haute résistance d'aviationLa dernière résistance à la corrosion de l'eau de mer anodisée dure de qualité diamantRéflecteur en aluminium allié avec analyse optique professionnelleVerre trempé à deux faces avec une résistance à la pression élevée en eau profondeRésistant impact (chute) : 1mDimensions : 134,5mm (longueur) x 24mm (diamètre) x 30mm (tête)Poids (net) : 113,5g (sans la batterie)",
+  "supplierRef": null,
+  "price": {
+    "amount": 65.99,
+    "currency": "EUR",
+    "formatted": "65.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-2136",
+      "sku": "PCPL-2136",
+      "supplierRef": null,
+      "price": {
+        "amount": 65.99,
+        "currency": "EUR",
+        "formatted": "65.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/2/12764_orcatorch_d520_blue.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-d520.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-d520_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/6/8615cbb7b8-d560-4_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/8/58ef571ce8-d520.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-2136-pl-16061-picture_3-pcpl-2136-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-2136-pl-16061-picture_5-pcpl-2136-5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-2136-pl-16061-picture_2-pcpl-2136-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-2136-pl-16061-picture_4-pcpl-2136-4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_33.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/9/b/9bc16d69b7-d520-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/0/50fc1a181b-d520-5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/2/b2426a1efa-d520-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-d520_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:19.168Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/2/12764_orcatorch_d520_blue.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/01-12764_orcatorch_d520_blue.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-d520.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/02-orcatorch-lampe-torche-d520.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-d520_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/03-orcatorch-lampe-torche-d520_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/6/8615cbb7b8-d560-4_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/04-8615cbb7b8-d560-4_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/8/58ef571ce8-d520.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/05-58ef571ce8-d520.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-2136-pl-16061-picture_3-pcpl-2136-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/06-pcpl-2136-pl-16061-picture_3-pcpl-2136-3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-2136-pl-16061-picture_5-pcpl-2136-5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/07-pcpl-2136-pl-16061-picture_5-pcpl-2136-5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-2136-pl-16061-picture_2-pcpl-2136-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/08-pcpl-2136-pl-16061-picture_2-pcpl-2136-2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-2136-pl-16061-picture_4-pcpl-2136-4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/09-pcpl-2136-pl-16061-picture_4-pcpl-2136-4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_33.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/10-hqdefault_56_33.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/9/b/9bc16d69b7-d520-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/11-9bc16d69b7-d520-3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/0/50fc1a181b-d520-5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/12-50fc1a181b-d520-5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/2/b2426a1efa-d520-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/13-b2426a1efa-d520-2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-d520_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2136/14-orcatorch-lampe-torche-d520_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "eclairage-photo-video",
+    "lampes"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "eclairage-photo-video",
+    "lampes"
+  ]
+}

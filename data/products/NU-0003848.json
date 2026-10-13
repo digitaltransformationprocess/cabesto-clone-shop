@@ -1,0 +1,91 @@
+{
+  "sku": "NU-0003848",
+  "url": "https://www.cabesto.com/fr/axiom-7-ecran-tactile-multifonctions-7-wifi.html",
+  "title": "AXIOM+ 7 Écran tactile multifonctions 7”. Wifi",
+  "brand": "RAYMARINE",
+  "category": "Combiné GPS traceur et sondeur",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Electronique",
+    "Nautisme",
+    "Sondeurs / Combinés GPS-Sondeurs",
+    "Centrale de navigation",
+    "Combiné GPS traceur et sondeur"
+  ],
+  "categories": [
+    "Electronique",
+    "Nautisme",
+    "Sondeurs / Combinés GPS-Sondeurs",
+    "Centrale de navigation",
+    "Combiné GPS traceur et sondeur"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Nautisme",
+    "Nautisme",
+    "Electronique",
+    "Electronique",
+    "Centrale de navigation",
+    "Centrale de navigation",
+    "AXIOM+ 7 Écran tactile multifonctions 7”. Wifi"
+  ],
+  "description": "Achetez AXIOM+ 7 Écran tactile multifonctions 7”. Wifi chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "E70634",
+  "price": {
+    "amount": 749,
+    "currency": "EUR",
+    "formatted": "749 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0003848",
+      "sku": "NU-0003848",
+      "supplierRef": "E70634",
+      "price": {
+        "amount": 749,
+        "currency": "EUR",
+        "formatted": "749 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/x/axiom_7_front_chart.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/x/axiom_7_front_ar_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/x/axiom_7_front_homescreen_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/x/axiom_7_front_radar_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:08:57.530Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/x/axiom_7_front_chart.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003848/01-axiom_7_front_chart.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/x/axiom_7_front_ar_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003848/02-axiom_7_front_ar_1.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/x/axiom_7_front_homescreen_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003848/03-axiom_7_front_homescreen_1.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/x/axiom_7_front_radar_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003848/04-axiom_7_front_radar_1.png",
+      "skipped": true
+    }
+  ]
+}

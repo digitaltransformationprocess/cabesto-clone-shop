@@ -1,0 +1,103 @@
+{
+  "sku": "PCNT-0004720",
+  "url": "https://www.cabesto.com/fr/randonnee-chaussettes-xcr-climasocks-rywan-yw02.html",
+  "title": "Chaussettes XCR CLIMASOCKS - RYWAN",
+  "brand": "RYWAN",
+  "category": "chaussettes-basses",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "chaussures-de-randonnee",
+    "chaussettes",
+    "chaussettes-basses"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "chaussures-de-randonnee",
+    "chaussettes",
+    "chaussettes-basses"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussettes XCR CLIMASOCKS - RYWAN"
+  ],
+  "description": "Achetez Chaussettes XCR CLIMASOCKS - RYWAN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 11.99,
+    "currency": "EUR",
+    "formatted": "11.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004720",
+      "sku": "PCNT-0004720",
+      "supplierRef": null,
+      "price": {
+        "amount": 11.99,
+        "currency": "EUR",
+        "formatted": "11.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/y/w/yw02_1_ab-chaussettes-xcr-climasocks-rywan_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw02_2_ab-chaussettes-xcr-climasocks-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw02_1_ab-chaussettes-xcr-climasocks-rywan_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw02_1_ab-chaussettes-xcr-climasocks-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw02_1_ab-chaussettes-xcr-climasocks-rywan_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw02_1_ab-chaussettes-xcr-climasocks-rywan_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw02_1_ab-chaussettes-xcr-climasocks-rywan_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:31:29.477Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw02_1_ab-chaussettes-xcr-climasocks-rywan_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004720/01-yw02_1_ab-chaussettes-xcr-climasocks-rywan_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw02_2_ab-chaussettes-xcr-climasocks-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004720/02-yw02_2_ab-chaussettes-xcr-climasocks-rywan.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw02_1_ab-chaussettes-xcr-climasocks-rywan_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004720/03-yw02_1_ab-chaussettes-xcr-climasocks-rywan_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw02_1_ab-chaussettes-xcr-climasocks-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004720/04-yw02_1_ab-chaussettes-xcr-climasocks-rywan.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw02_1_ab-chaussettes-xcr-climasocks-rywan_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004720/05-yw02_1_ab-chaussettes-xcr-climasocks-rywan_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw02_1_ab-chaussettes-xcr-climasocks-rywan_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004720/06-yw02_1_ab-chaussettes-xcr-climasocks-rywan_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw02_1_ab-chaussettes-xcr-climasocks-rywan_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004720/07-yw02_1_ab-chaussettes-xcr-climasocks-rywan_3.jpg",
+      "skipped": false
+    }
+  ]
+}

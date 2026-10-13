@@ -1,0 +1,85 @@
+{
+  "sku": "PCPL-1226",
+  "url": "https://www.cabesto.com/fr/plongee-sandow-bague-noir-latex-17-18-mm-pcpl-1226.html",
+  "title": "SANDOW BAGUE NOIR LATEX 17-18 MM",
+  "brand": "SALVIMAR",
+  "category": "accessoires-arbaletes-chasse-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Plongée",
+    "Plongée",
+    "Chasse sous-marine",
+    "Chasse sous-marine",
+    "Arbalètes et fusils harpons",
+    "Arbalètes et fusils harpons",
+    "Accessoires arbalètes chasse sous-marine",
+    "Accessoires arbalètes chasse sous-marine",
+    "SANDOW BAGUE NOIR LATEX 17-18 MM"
+  ],
+  "description": "Pour un tir efficace, il faut trouver la proportion équilibrée entre l’élasticité des sandows et la masse de la flèche",
+  "supplierRef": null,
+  "price": {
+    "amount": 24.99,
+    "currency": "EUR",
+    "formatted": "24.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1226",
+      "sku": "PCPL-1226",
+      "supplierRef": null,
+      "price": {
+        "amount": 24.99,
+        "currency": "EUR",
+        "formatted": "24.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-1226-pl-9128-picture_1-pcpl-1226-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-9130-pl-9130-picture_1-pcpl-1226-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-9126-pl-9126-picture_1-pcpl-1226-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:44.646Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-1226-pl-9128-picture_1-pcpl-1226-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1226/01-pcpl-1226-pl-9128-picture_1-pcpl-1226-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-9130-pl-9130-picture_1-pcpl-1226-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1226/02-pl-9130-pl-9130-picture_1-pcpl-1226-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-9126-pl-9126-picture_1-pcpl-1226-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1226/03-pl-9126-pl-9126-picture_1-pcpl-1226-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "chasse-sous-marine",
+    "arbaletes-et-fusils-harpons",
+    "accessoires-arbaletes-chasse-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "chasse-sous-marine",
+    "arbaletes-et-fusils-harpons",
+    "accessoires-arbaletes-chasse-sous-marine"
+  ]
+}

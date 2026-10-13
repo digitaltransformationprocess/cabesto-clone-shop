@@ -1,0 +1,151 @@
+{
+  "sku": "PCSU-0009083",
+  "url": "https://www.cabesto.com/fr/combinaison-de-plongee-semi-etanche-x-trem-6-5-mm-femme-beuchat-pcsu-0009083.html",
+  "title": "Combinaison de plongée semi étanche X-TREM 6.5 mm femme BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "Black November - Plongée",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Combinaisons de plongée",
+    "Destockage Plongée / Chasse sous-marine",
+    "Semi-Etanches",
+    "Black November - Plongée",
+    "Ventes privées Plongée / Chasse sous-marine"
+  ],
+  "categories": [
+    "Combinaisons de plongée",
+    "Destockage Plongée / Chasse sous-marine",
+    "Semi-Etanches",
+    "Black November - Plongée",
+    "Ventes privées Plongée / Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Combinaison de plongée semi étanche X-TREM 6.5 mm femme BEUCHAT"
+  ],
+  "description": "Profitez de la nouvelle combinaison de plongée semi étanche X-TREM 6.5 mm femme BEUCHAT avec une très bonne protection thermique, le meilleur confort et une durabilité augmentée pour cette monopiéce zip frontale avec cagoule X-Trem en option : idéale pour",
+  "supplierRef": null,
+  "price": {
+    "amount": 579,
+    "currency": "EUR",
+    "formatted": "579 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0009083",
+      "sku": "PCSU-0009083",
+      "supplierRef": null,
+      "price": {
+        "amount": 579,
+        "currency": "EUR",
+        "formatted": "579 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_-_copie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/0/801900115.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_2__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_7_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_3__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_4__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_5__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_6__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/i/visuel-fireskin.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_15_58.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2025_04_16_12_17_02_semi_dry_x_trem_femme_beuchat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2025_03_13_12_04_20_beuchat_optima_2_combinaison_de_plong_e_sous_marine_avec_cagoule_7mm_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/taillefemmebeuchat_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_-_copie_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:37:58.964Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_-_copie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/01-semi-dry-x-trem-femme_-_copie.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/0/801900115.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/02-801900115.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/03-semi-dry-x-trem-femme_1__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_2__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/04-semi-dry-x-trem-femme_2__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_7_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/05-semi-dry-x-trem-femme_7_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_3__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/06-semi-dry-x-trem-femme_3__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_4__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/07-semi-dry-x-trem-femme_4__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_5__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/08-semi-dry-x-trem-femme_5__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_6__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/09-semi-dry-x-trem-femme_6__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/i/visuel-fireskin.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/10-visuel-fireskin.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_15_58.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/11-hqdefault_15_58.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2025_04_16_12_17_02_semi_dry_x_trem_femme_beuchat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/12-2025_04_16_12_17_02_semi_dry_x_trem_femme_beuchat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2025_03_13_12_04_20_beuchat_optima_2_combinaison_de_plong_e_sous_marine_avec_cagoule_7mm_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/13-2025_03_13_12_04_20_beuchat_optima_2_combinaison_de_plong_e_sous_marine_avec_cagoule_7mm_1_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/taillefemmebeuchat_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/14-taillefemmebeuchat_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_-_copie_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009083/15-semi-dry-x-trem-femme_-_copie_1_1.jpg",
+      "skipped": false
+    }
+  ]
+}

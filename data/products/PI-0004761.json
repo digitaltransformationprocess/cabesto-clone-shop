@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0004761",
+  "url": "https://www.cabesto.com/fr/piscine-bordnet-gel-s-bayrol-pi-161.html",
+  "title": "BORDNET GEL \"S\" BAYROL 1L",
+  "brand": "BAYROL",
+  "category": "Produits de nettoyage et répulsif",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "les-produits-d-exception"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "les-produits-d-exception"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BORDNET GEL \"S\" BAYROL 1L"
+  ],
+  "description": "Achetez BORDNET GEL \"S\" BAYROL 1L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "2113602",
+  "price": {
+    "amount": 10.6,
+    "currency": "EUR",
+    "formatted": "10.6 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0004761",
+      "sku": "PI-0004761",
+      "supplierRef": "2113602",
+      "price": {
+        "amount": 10.6,
+        "currency": "EUR",
+        "formatted": "10.6 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/a/bayrol-bordnet-gel-s-detartrant-concentre-pour-eliminer-les-depots-2113602.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:33:16.997Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/a/bayrol-bordnet-gel-s-detartrant-concentre-pour-eliminer-les-depots-2113602.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004761/01-bayrol-bordnet-gel-s-detartrant-concentre-pour-eliminer-les-depots-2113602.jpg",
+      "skipped": false
+    }
+  ]
+}

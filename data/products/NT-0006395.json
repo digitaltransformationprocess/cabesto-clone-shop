@@ -1,0 +1,87 @@
+{
+  "sku": "NT-0006395",
+  "url": "https://www.cabesto.com/fr/lampe-frontale-duo-rl-petzl.html",
+  "title": "LAMPE FRONTALE DUO RL PETZL",
+  "brand": "PETZL",
+  "category": "lampes-frontales",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "securite-navigation",
+    "signalisation-visuelle-et-sonore",
+    "lampes-frontales"
+  ],
+  "categories": [
+    "nautisme",
+    "securite-navigation",
+    "signalisation-visuelle-et-sonore",
+    "lampes-frontales"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Randonnée",
+    "Randonnée",
+    "Montagne",
+    "Montagne",
+    "LAMPE FRONTALE DUO RL PETZL"
+  ],
+  "description": "Achetez LAMPE FRONTALE DUO RL PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "E103AA00",
+  "price": {
+    "amount": 623.99,
+    "currency": "EUR",
+    "formatted": "623.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006395",
+      "sku": "NT-0006395",
+      "supplierRef": "E103AA00",
+      "price": {
+        "amount": 623.99,
+        "currency": "EUR",
+        "formatted": "623.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/1/e103aa00-duo-rl_lowres.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/1/e103aa00-duo-rl-focus-1_lowres_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/1/e103aa00-duo-rl-focus-2_lowres.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/1/e103aa00-duo-rl-focus-4_lowres.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:40:50.028Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/1/e103aa00-duo-rl_lowres.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006395/01-e103aa00-duo-rl_lowres.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/1/e103aa00-duo-rl-focus-1_lowres_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006395/02-e103aa00-duo-rl-focus-1_lowres_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/1/e103aa00-duo-rl-focus-2_lowres.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006395/03-e103aa00-duo-rl-focus-2_lowres.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/1/e103aa00-duo-rl-focus-4_lowres.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006395/04-e103aa00-duo-rl-focus-4_lowres.jpg",
+      "skipped": false
+    }
+  ]
+}

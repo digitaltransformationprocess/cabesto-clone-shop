@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0028961",
+  "url": "https://www.cabesto.com/fr/embout-de-marquage-pour-corde-parallel-10-5-petzl.html",
+  "title": "EMBOUT DE MARQUAGE POUR CORDE PARALLEL 10.5 - PETZL",
+  "brand": "PETZL",
+  "category": "accessoires-pour-cordes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "cordes",
+    "accessoires-pour-cordes"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "cordes",
+    "accessoires-pour-cordes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "EMBOUT DE MARQUAGE POUR CORDE PARALLEL 10.5 - PETZL"
+  ],
+  "description": "Achetez EMBOUT DE MARQUAGE POUR CORDE PARALLEL 10.5 - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "R004AA00",
+  "price": {
+    "amount": 26.95,
+    "currency": "EUR",
+    "formatted": "26.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028961",
+      "sku": "NT-0028961",
+      "supplierRef": "R004AA00",
+      "price": {
+        "amount": 26.95,
+        "currency": "EUR",
+        "formatted": "26.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/0/r004ba00-embout-de-marquage-axis-11-mm_lowres.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:54:45.867Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/0/r004ba00-embout-de-marquage-axis-11-mm_lowres.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028961/01-r004ba00-embout-de-marquage-axis-11-mm_lowres.jpg",
+      "skipped": false
+    }
+  ]
+}

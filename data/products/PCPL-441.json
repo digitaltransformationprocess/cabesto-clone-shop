@@ -1,0 +1,113 @@
+{
+  "sku": "PCPL-441",
+  "url": "https://www.cabesto.com/fr/plongee-gilet-homme-pcpl-441.html",
+  "title": "GILET sous combinaison de plongée homme SEAC SUB",
+  "brand": "SEAC SUB",
+  "category": "sous-combinaisons",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "GILET sous combinaison de plongée homme SEAC SUB"
+  ],
+  "description": "Gilet sous combinaison homme de plongée SEAC SUBChoisissez le gilet sous combinaison de plongée de chez SEAC SUB pour un confort thermique optimal lors de vos sessions de sports aquatiques ou subaquatiques... Conçue pour être portée sous votre combinaison principale, cette sous-combinaison sans manches en néoprène de 2,5 mm d’épaisseur offre une isolation thermique supplémentaire.Idéale pour prolonger vos sessions dans l’eau froide, le gilet SEAC SUB améliore le confort thermique tout en préservant une grande liberté de mouvement au niveau des bras et des épaules.Spécialement adaptée à la morphologie masculine, il constitue un complément efficace pour vos plongées, sorties en apnée ou activités nautiques.Sous-vêtement en neoprene souple 2,5 mmMatériau très douce avec excellentes caractéristiques thermiquesFacile à porter, léger, idéal pour le pmt, la natation, les mers tropicale et tous les sports aquatiquePatronage concu pour etre utilisé sous la combinaison de plongéeFinitions des coutures antiabrasionCaractéristiques gilet sous combinaison de plongée homme SEAC SUB\"Souris\" sous combinaison en néoprène Epaisseur 2,5 mmExtérieur noir / Intérieur plushGilet sans manches offrant une grande liberté de mouvementIdéal à porter sous une combinaisonConvient à tous types de pratiquesInformations techniques :MatériauNéoprèneCoupeHommeMatériau extérieurNylon noirMatériau intérieurPlush grisÉpaisseur2.5 mmUtilisationPlongée sous-marine, chasse sous-marine, snorkeling, Longe-côte Contenu du colis1 x Gilet sous combinaison de plongée homme SEAC SUB, taille à choisir.",
+  "supplierRef": null,
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR",
+    "formatted": "39.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-441",
+      "sku": "PCPL-441",
+      "supplierRef": null,
+      "price": {
+        "amount": 39.99,
+        "currency": "EUR",
+        "formatted": "39.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/h/short_vest_11-4_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/presentation-412465_pioneer_5_front.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/q/aqualung-homme-wave-shorty-rev-4-mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/image_2_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seac-gilet-2.5-mm_1_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/o/sous-veste-homme_3_ds3zijibaxopwbim.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/o/sous-veste-homme_3_t5a70tfff4k2hevi.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3373-pl-3373-picture_1-pcpl-441-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3375-pl-3375-picture_1-pcpl-441-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:28:54.838Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/h/short_vest_11-4_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-441/01-short_vest_11-4_00_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presentation-412465_pioneer_5_front.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-441/02-presentation-412465_pioneer_5_front.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/q/aqualung-homme-wave-shorty-rev-4-mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-441/03-aqualung-homme-wave-shorty-rev-4-mm.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/image_2_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-441/04-image_2_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seac-gilet-2.5-mm_1_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-441/05-seac-gilet-2.5-mm_1_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/o/sous-veste-homme_3_ds3zijibaxopwbim.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-441/06-sous-veste-homme_3_ds3zijibaxopwbim.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/o/sous-veste-homme_3_t5a70tfff4k2hevi.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-441/07-sous-veste-homme_3_t5a70tfff4k2hevi.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3373-pl-3373-picture_1-pcpl-441-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-441/08-pl-3373-pl-3373-picture_1-pcpl-441-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3375-pl-3375-picture_1-pcpl-441-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-441/09-pl-3375-pl-3375-picture_1-pcpl-441-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-neoprene-plongee",
+    "sous-combinaisons"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-neoprene-plongee",
+    "sous-combinaisons"
+  ]
+}

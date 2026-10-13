@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0004408",
+  "url": "https://www.cabesto.com/fr/plongee-obus-tahitien-plastique-filete-tige-diam-4-mm-pl-13228.html",
+  "title": "Ogives vissées arbalète chasse sous-marine TAHITIEN plastique tige 4 Ø mm IMERSION",
+  "brand": "DESIAGE",
+  "category": "Obus",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ogives vissées arbalète chasse sous-marine TAHITIEN plastique tige 4 Ø mm IMERSION"
+  ],
+  "description": "détaillée 9,99 € Quantité Ajouter au panier En stock Livraison estimée entre le 15/10/2026 et le 19/10/2026 Selon le mode de livraison choisi et les délais du transporteur. Vérifie la disponibilité... Vérifier la disponibilité dans votre magasin Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation.",
+  "supplierRef": "7814BC .",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004408",
+      "sku": "SU-0004408",
+      "supplierRef": "7814BC .",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/o/b/obus-tahiti-imersion-p-image-35497-grande_1s0vndmqlmv2dspz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-13228-pl-13228-picture_1-pl-13228-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:26.891Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/b/obus-tahiti-imersion-p-image-35497-grande_1s0vndmqlmv2dspz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004408/01-obus-tahiti-imersion-p-image-35497-grande_1s0vndmqlmv2dspz.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-13228-pl-13228-picture_1-pl-13228-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004408/02-pl-13228-pl-13228-picture_1-pl-13228-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Obus"
+  ],
+  "categories": [
+    "Obus"
+  ]
+}

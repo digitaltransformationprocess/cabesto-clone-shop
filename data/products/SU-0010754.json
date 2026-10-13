@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0010754",
+  "url": "https://www.cabesto.com/fr/sac-de-plongee-sous-marine-mesh-backpack-elite-114l-su-0010754.html",
+  "title": "Sac de plongée-sous-marine MESH BACKPACK ELITE 114L",
+  "brand": "MARES",
+  "category": "plongee",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac de plongée-sous-marine MESH BACKPACK ELITE 114L"
+  ],
+  "description": "Achetez Sac de plongée-sous-marine MESH BACKPACK ELITE 114L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "415441BK",
+  "price": {
+    "amount": 89,
+    "currency": "EUR",
+    "formatted": "89 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010754",
+      "sku": "SU-0010754",
+      "supplierRef": "415441BK",
+      "price": {
+        "amount": 89,
+        "currency": "EUR",
+        "formatted": "89 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/7/1/7138xb2bw6l._ac_sx569__brnncrfnrfx3fkd0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:37:12.059Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/1/7138xb2bw6l._ac_sx569__brnncrfnrfx3fkd0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010754/01-7138xb2bw6l._ac_sx569__brnncrfnrfx3fkd0.jpg",
+      "skipped": false
+    }
+  ]
+}

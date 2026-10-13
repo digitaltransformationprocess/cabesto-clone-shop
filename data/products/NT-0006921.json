@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0006921",
+  "url": "https://www.cabesto.com/fr/verticalite-bretelles-speleo-torse-petzl-nt-0006921.html",
+  "title": "Bretelles Spéléo Torse - PETZL",
+  "brand": "PETZL",
+  "category": "Torses spéléo",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Spéléologie",
+    "Torses spéléo"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Torses spéléo"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bretelles Spéléo Torse - PETZL"
+  ],
+  "description": "Achetez Bretelles Spéléo Torse - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "C026AA00",
+  "price": {
+    "amount": 22.95,
+    "currency": "EUR",
+    "formatted": "22.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006921",
+      "sku": "NT-0006921",
+      "supplierRef": "C026AA00",
+      "price": {
+        "amount": 22.95,
+        "currency": "EUR",
+        "formatted": "22.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pze4_1-bretelles-speleo-torse-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pze4_1-bretelles-speleo-torse-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:23:00.571Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pze4_1-bretelles-speleo-torse-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006921/01-pze4_1-bretelles-speleo-torse-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pze4_1-bretelles-speleo-torse-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006921/02-pze4_1-bretelles-speleo-torse-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

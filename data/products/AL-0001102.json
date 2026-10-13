@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0001102",
+  "url": "https://www.cabesto.com/fr/coffret-cookies-eclats-de-chocolat-400g.html",
+  "title": "COFFRET COOKIES ECLATS DE CHOCOLAT 400G",
+  "brand": "BISCUITERIE MERE POULARD",
+  "category": "Biscuiterie marine",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "COFFRET COOKIES ECLATS DE CHOCOLAT 400G"
+  ],
+  "description": "Achetez COFFRET COOKIES ECLATS DE CHOCOLAT 400G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "40569",
+  "price": {
+    "amount": 12.99,
+    "currency": "EUR",
+    "formatted": "12.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001102",
+      "sku": "AL-0001102",
+      "supplierRef": "40569",
+      "price": {
+        "amount": 12.99,
+        "currency": "EUR",
+        "formatted": "12.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/o/coffret-mythique-cookie-1_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:57:12.745Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/o/coffret-mythique-cookie-1_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001102/01-coffret-mythique-cookie-1_1.png",
+      "skipped": true
+    }
+  ]
+}

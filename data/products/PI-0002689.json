@@ -1,0 +1,103 @@
+{
+  "sku": "PI-0002689",
+  "url": "https://www.cabesto.com/fr/piscine-piscine-hors-sol-prism-3m66-x-122cm-pi-7.html",
+  "title": "PISCINE HORS SOL PRISM Ø3M66 X 122CM INTEX",
+  "brand": "INTEX",
+  "category": "Piscine ronde",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine tubulaire",
+    "Piscine ronde"
+  ],
+  "categories": [
+    "Piscine tubulaire",
+    "Piscine ronde"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE HORS SOL PRISM Ø3M66 X 122CM INTEX"
+  ],
+  "description": "Achetez PISCINE HORS SOL PRISM Ø3M66 X 122CM INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "26718FS",
+  "price": {
+    "amount": 249,
+    "currency": "EUR",
+    "formatted": "249 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002689",
+      "sku": "PI-0002689",
+      "supplierRef": "26718FS",
+      "price": {
+        "amount": 249,
+        "currency": "EUR",
+        "formatted": "249 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/PI-7-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PI-5-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26716np-kit-piscine-prism-frame-ronde.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sac-de-sable-de-25-kg-piscine-center-1487165681.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/shop/3658-large_default/filtre-a-sable-4m3-h-_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/a/balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-piscine-center-1485856186.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26718fr-kit-piscine-prism-frame-ronde.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26716np-kit-piscine-prism-frame-ronde.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:29:33.041Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-7-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002689/01-PI-7-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-5-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002689/02-PI-5-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26716np-kit-piscine-prism-frame-ronde.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002689/03-26716np-kit-piscine-prism-frame-ronde.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sac-de-sable-de-25-kg-piscine-center-1487165681.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002689/04-sac-de-sable-de-25-kg-piscine-center-1487165681.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/shop/3658-large_default/filtre-a-sable-4m3-h-_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002689/05-filtre-a-sable-4m3-h-_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/a/balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-piscine-center-1485856186.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002689/06-balles-filtrantes-aqualoon-pour-filtre-a-sable-4-m-h-piscine-center-1485856186.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26718fr-kit-piscine-prism-frame-ronde.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002689/07-26718fr-kit-piscine-prism-frame-ronde.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26716np-kit-piscine-prism-frame-ronde.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002689/08-26716np-kit-piscine-prism-frame-ronde.jpg",
+      "skipped": false
+    }
+  ]
+}

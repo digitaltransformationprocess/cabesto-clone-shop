@@ -1,0 +1,85 @@
+{
+  "sku": "PCNT-0006032",
+  "url": "https://www.cabesto.com/fr/verticalite-pack-4-casques-boreo-club-petzl-pe55.html",
+  "title": "Pack 4 Casques Boreo Club - PETZL",
+  "brand": "PETZL",
+  "category": "promotions-montagne",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-montagne"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pack 4 Casques Boreo Club - PETZL"
+  ],
+  "description": "Achetez Pack 4 Casques Boreo Club - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 240,
+    "currency": "EUR",
+    "formatted": "240 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0006032",
+      "sku": "PCNT-0006032",
+      "supplierRef": null,
+      "price": {
+        "amount": 240,
+        "currency": "EUR",
+        "formatted": "240 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/e/pe55_1_a-pack-4-casques-boreo-club-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe55_1_e.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe55_2_a.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe55_1_a-pack-4-casques-boreo-club-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe55_1_e-pack-4-casques-boreo-club-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:28:37.386Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe55_1_a-pack-4-casques-boreo-club-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006032/01-pe55_1_a-pack-4-casques-boreo-club-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe55_1_e.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006032/02-pe55_1_e.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe55_2_a.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006032/03-pe55_2_a.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe55_1_a-pack-4-casques-boreo-club-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006032/04-pe55_1_a-pack-4-casques-boreo-club-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe55_1_e-pack-4-casques-boreo-club-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006032/05-pe55_1_e-pack-4-casques-boreo-club-petzl.jpg",
+      "skipped": false
+    }
+  ]
+}

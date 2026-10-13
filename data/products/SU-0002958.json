@@ -1,0 +1,101 @@
+{
+  "sku": "SU-0002958",
+  "url": "https://www.cabesto.com/fr/plongee-boussole-pratique-handy-compass-mares-pl-617.html",
+  "title": "Compas de plongée sous-marine boussole pratique HANDY COMPASS MARES",
+  "brand": "MARES",
+  "category": "compas-et-boussoles-sous-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Compas de plongée sous-marine boussole pratique HANDY COMPASS MARES"
+  ],
+  "description": "Compas de plongée sous-marine boussole pratique HANDY COMPASS MARESTrouvez le Nord et votre route en plongée sous-marine grâce au compas pratique \"handy compass\" MARES, le compas malin à plat à accrocher sur votre gilet stabilisateur.Compas avec boîtier, spécialement conçu pour être fixé au gilet, à utiliser avec un enrouleur (non fourni ici). Design modulairePoints de fixation multiplesAffichage permettant une lecture facileBoîtier élastomère résistant anti chocs et les éraflures Dimensions : 105 x 70 x 27 mmPoids : 100 grContenu du colis1 x Compas à plat avec boîtier pour hemispère Nord MARES, livré sans fixation ou accrochage.",
+  "supplierRef": "414504",
+  "price": {
+    "amount": 78,
+    "currency": "EUR",
+    "formatted": "78 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0002958",
+      "sku": "SU-0002958",
+      "supplierRef": "414504",
+      "price": {
+        "amount": 78,
+        "currency": "EUR",
+        "formatted": "78 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-617-pl-617-picture_1-pl-617-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3416-pl-3416-picture_1-pl-3416-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-295-pl-295-picture_1-pl-295-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022_03_25_09_16_32_la_gamme_aquatys__quipement_pour_la_plong_e_et_la_chasse_sous_marine_axess_ma_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/p/spirale_extensible_et_mousqueton_de_securite-22865-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/packpuckcompas_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/2/622xx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:21:05.755Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-617-pl-617-picture_1-pl-617-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002958/01-pl-617-pl-617-picture_1-pl-617-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3416-pl-3416-picture_1-pl-3416-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002958/02-pl-3416-pl-3416-picture_1-pl-3416-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-295-pl-295-picture_1-pl-295-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002958/03-pl-295-pl-295-picture_1-pl-295-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022_03_25_09_16_32_la_gamme_aquatys__quipement_pour_la_plong_e_et_la_chasse_sous_marine_axess_ma_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002958/04-2022_03_25_09_16_32_la_gamme_aquatys__quipement_pour_la_plong_e_et_la_chasse_sous_marine_axess_ma_1.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/p/spirale_extensible_et_mousqueton_de_securite-22865-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002958/05-spirale_extensible_et_mousqueton_de_securite-22865-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/packpuckcompas_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002958/06-packpuckcompas_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/2/622xx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002958/07-622xx.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "instruments-de-plongee",
+    "compas-et-boussoles-sous-marines"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "instruments-de-plongee",
+    "compas-et-boussoles-sous-marines"
+  ]
+}

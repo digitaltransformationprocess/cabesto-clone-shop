@@ -1,0 +1,105 @@
+{
+  "sku": "PCPL-2502",
+  "url": "https://www.cabesto.com/fr/plongee-double-sandows-formula-r-roller-hero-o16mm-salvimar-pcpl-2502.html",
+  "title": "Sandow ligaturé chasse sous-marine circulaire à l'unité S400 Ø 16mm noir SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "ais",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sandow ligaturé chasse sous-marine circulaire à l'unité S400 Ø 16mm noir SALVIMAR"
+  ],
+  "description": "Sandow circulaire S400 Ø16mm noir ligaturé SALVIMAR pour chasse sous-marinePerformance, longévité et sécurité optimale pour tous les chasseurs sous-marins exigeants avec le sandow circulaire ligaturé S400 Ø 16 mm noir SALVIMAR.Le sandow SALVIMAR S400 de diamètre 16 mm se distingue par sa conception en latex pur et sa ligature professionnelle qui garantissent une élasticité progressive et une puissance contrôlée lors de chaque sortie de chasse sous-marine.Produit en Italie selon le cahier des charges SALVIMAR, ce sandow circulaire combine robustesse face aux UV, excellente résistance à l’abrasion et polyvalence pour s’adapter à la majorité des arbalètes du marché.L’obus Dynema assure une sécurité optimale et une mise en place facile tout en protégeant efficacement le tireur.Grâce à son diamètre standard de 16 mm, le S400 convient parfaitement aux chasseurs, débutants comme expérimentés, en leur offrant une propulsion régulière et fiable pour améliorer la précision et la portée.Ce modèle circulaire permet un montage rapide et économique, garantissant des performances supérieures pour manœuvrer aisément sous l’eau tout en bénéficiant d’un excellent rapport qualité/prix.Le sandow S400 noir est idéal pour les pêches dans toutes les conditions grâce à sa résistance et à sa force d’impact accrue, qui contribue à des prélèvements maîtrisés et des tirs précis, même en profondeur.Les élastiques Salvimar sont fabriqués à partir de latex 100 % malaisien, enrichi d'un additif anti-vieillissement pour prolonger leur durée de vie.Le processus de fabrication du sandow S400 SALVIMAR comprend les étapes suivantes : 1. Tréfilage : cette technologie assure un diamètre uniforme2. Tunnel de pré-vulcanisation3. Premier contrôle qualité4. Premier traitement au silicone5. Vulcanisation : séchage lent au four à température constante pendant 2 à 5 jours6. Application manuelle de silicone7. Contrôle qualité finalEntetien :Pour optimiser l'efficacité du produit, nous recommandons de protéger l'élastique en l'enduisant périodiquement de silicone liquide. Longueur de sandow S400 à choisir en fonction de la longueur de votre arbalète : Sandow S400 SALVIMAR Ø 16 mm 48 cm = Arbalète HERO ou ROLLER longueur 75 cmSandow S400 SALVIMAR Ø 16 mm 54 cm = Arbalète HERO ou ROLLER longueur 85 cmSandow S400 SALVIMAR Ø 16 mm 60 cm = Arbalète HERO ou ROLLER longueur 95 cmSandow S400 SALVIMAR Ø 16 mm 64 cm = Arbalète HERO ou ROLLER longueur 105 cmCaractéristiques Sandow circulaire S400 Ø16mm noir ligaturé SALVIMARLatex pur premium, produit en ItalieDiamètre standard 16 mm, polyvalentRésistant aux UV et à l’abrasionMise en place avec obus Dynema sécuriséePuissance et élasticité progressive pour tirs précisInformations techniques : Diamètre sandowØ 16mmMatériauLatex 100% naturelColisageVendu à l'unitéObusDynema ligaturé livréCouleurNoirContenu du colis1 x Sandow circulaire ligaturé S400 Ø16mm noir avec obus Dynema, vendu à l'unité",
+  "supplierRef": null,
+  "price": {
+    "amount": 23.99,
+    "currency": "EUR",
+    "formatted": "23.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-2502",
+      "sku": "PCPL-2502",
+      "supplierRef": null,
+      "price": {
+        "amount": 23.99,
+        "currency": "EUR",
+        "formatted": "23.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/4/s400.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/p/ap040_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/img-342-p1_1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/i/sigal__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/4/s400_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/4/s400_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/4/s400_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/4/s400_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:23.393Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/4/s400.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2502/01-s400.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/p/ap040_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2502/02-ap040_0.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-342-p1_1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2502/03-img-342-p1_1_1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/i/sigal__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2502/04-sigal__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/4/s400_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2502/05-s400_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/4/s400_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2502/06-s400_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/4/s400_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2502/07-s400_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/4/s400_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2502/08-s400_4.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ],
+  "categories": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ]
+}

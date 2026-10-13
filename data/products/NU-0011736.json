@@ -1,0 +1,75 @@
+{
+  "sku": "NU-0011736",
+  "url": "https://www.cabesto.com/fr/sondeur-couleur-piranha-max4-sonde-tableau-arriere.html",
+  "title": "Sondeur couleur Piranha MAX4 sonde tableau arrière",
+  "brand": "HUMMINBIRD",
+  "category": "Sondeurs de pêche",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Electronique",
+    "Sondeurs / Combinés GPS-Sondeurs",
+    "Sondeurs de pêche"
+  ],
+  "categories": [
+    "Electronique",
+    "Sondeurs / Combinés GPS-Sondeurs",
+    "Sondeurs de pêche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sondeur couleur Piranha MAX4 sonde tableau arrière"
+  ],
+  "description": "Achetez Sondeur couleur Piranha MAX4 sonde tableau arrière chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SP-MAX4TA",
+  "price": {
+    "amount": 189,
+    "currency": "EUR",
+    "formatted": "189 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0011736",
+      "sku": "NU-0011736",
+      "supplierRef": "SP-MAX4TA",
+      "price": {
+        "amount": 189,
+        "currency": "EUR",
+        "formatted": "189 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/7/172829.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/1/611x489-347729_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/piranha-max4-2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:03:37.972Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/172829.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0011736/01-172829.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/611x489-347729_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0011736/02-611x489-347729_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/piranha-max4-2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0011736/03-piranha-max4-2_1.jpg",
+      "skipped": true
+    }
+  ]
+}

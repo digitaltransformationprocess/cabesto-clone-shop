@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0003144",
+  "url": "https://www.cabesto.com/fr/plongee-kit-batterie-zoop-vyper-cobra-a-l-unite-suunto-pl-15764.html",
+  "title": "Kit pile à l'unité pour ordinateur ZOOP / VYPER / COBRA SUUNTO",
+  "brand": "SUUNTO",
+  "category": "accessoires-ordinateurs-de-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Kit pile à l'unité pour ordinateur ZOOP / VYPER / COBRA SUUNTO"
+  ],
+  "description": "Kit pile à l'unité pour ordinateur ZOOP / VYPER / COBRA SUUNTOChangez la pile de votre ordinateur de plongée sous-marine SUNNTO ZOOP, VYPER ou COBRA SUUNTO avec la pile bouton lithium CR2450 3V, vendue ici à l'unité avec sa porte de compartiment pile et son joint torique... Kit pile d'origine comprenant : 1 pile 24501 Joint torique1 Porte compartiment pileInformations techniques :Référence CR2450Type de pile LithiumVoltage 3 VFormat BoutonContenu du colis1 x Pile lithium CR2450 3V.1 x Joint torique.1 x Porte arrière compartiment pile.",
+  "supplierRef": "23243000",
+  "price": {
+    "amount": 19,
+    "currency": "EUR",
+    "formatted": "19 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003144",
+      "sku": "SU-0003144",
+      "supplierRef": "23243000",
+      "price": {
+        "amount": 19,
+        "currency": "EUR",
+        "formatted": "19 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-15764-pl-15764-picture_1-pl-15764-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-15764-pl-15764-picture_2-pl-15764-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:27:13.299Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-15764-pl-15764-picture_1-pl-15764-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003144/01-pl-15764-pl-15764-picture_1-pl-15764-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-15764-pl-15764-picture_2-pl-15764-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003144/02-pl-15764-pl-15764-picture_2-pl-15764-2.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee",
+    "accessoires-ordinateurs-de-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee",
+    "accessoires-ordinateurs-de-plongee"
+  ]
+}

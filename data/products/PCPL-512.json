@@ -1,0 +1,121 @@
+{
+  "sku": "PCPL-512",
+  "url": "https://www.cabesto.com/fr/plongee-vetement-fisterra-8-mm-cressi-sub-pcpl-512.html",
+  "title": "VETEMENT FISTERRA 8 MM CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "VETEMENT FISTERRA 8 MM CRESSI SUB"
+  ],
+  "description": "Combinaison de plongée homme FISTERRA 8 mm CRESSI SUB.La combinaison pour les eaux froides (13° et moins...)Doublée \"Plush High Stretch\" à l'intérieur et recouverte de nylon à l'extérieur SANS FERMETURE ECLAIRFabriquée en néoprène double épaisseur pour protéger du froid tout en laissant une bonne liberté de mouvement : 8mm sur la poitrine, l'abdomen et le dos, 7mm pour les membres et la tête.Manchons étanches poignets et chevillesrenforts Powertex aux genoux.Pantalon salopetteVeste Cagoule attenante",
+  "supplierRef": null,
+  "price": {
+    "amount": 299.99,
+    "currency": "EUR",
+    "formatted": "299.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-512",
+      "sku": "PCPL-512",
+      "supplierRef": null,
+      "price": {
+        "amount": 299.99,
+        "currency": "EUR",
+        "formatted": "299.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-512-pl-3809-picture_1-pcpl-512-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/1/817y2wfyayl._ac_sl1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/o/combinaion-fisterra_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/_/t_l_chargement_2__6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/_/t_l_chargement_3__6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/_/t_l_chargement_4__3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/taillehommecressi_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3809-pl-3809-picture_1-pcpl-512-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3805-pl-3805-picture_1-pcpl-512-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3806-pl-3806-picture_1-pcpl-512-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3807-pl-3807-picture_1-pcpl-512-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:28:59.707Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-512-pl-3809-picture_1-pcpl-512-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-512/01-pcpl-512-pl-3809-picture_1-pcpl-512-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/1/817y2wfyayl._ac_sl1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-512/02-817y2wfyayl._ac_sl1500_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/o/combinaion-fisterra_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-512/03-combinaion-fisterra_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/_/t_l_chargement_2__6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-512/04-t_l_chargement_2__6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/_/t_l_chargement_3__6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-512/05-t_l_chargement_3__6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/_/t_l_chargement_4__3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-512/06-t_l_chargement_4__3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/taillehommecressi_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-512/07-taillehommecressi_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3809-pl-3809-picture_1-pcpl-512-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-512/08-pl-3809-pl-3809-picture_1-pcpl-512-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3805-pl-3805-picture_1-pcpl-512-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-512/09-pl-3805-pl-3805-picture_1-pcpl-512-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3806-pl-3806-picture_1-pcpl-512-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-512/10-pl-3806-pl-3806-picture_1-pcpl-512-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3807-pl-3807-picture_1-pcpl-512-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-512/11-pl-3807-pl-3807-picture_1-pcpl-512-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

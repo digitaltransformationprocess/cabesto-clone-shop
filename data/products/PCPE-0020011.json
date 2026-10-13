@@ -1,0 +1,117 @@
+{
+  "sku": "PCPE-0020011",
+  "url": "https://www.cabesto.com/fr/leurres-de-peche-dans-les-chasses-cast-hacker-savagear.html",
+  "title": "Leurres de pêche dans les chasses Cast Hacker | SAVAGEAR",
+  "brand": "SAVAGEAR",
+  "category": "Leurres Chasse Thon",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche",
+    "leurres",
+    "leurres-chasse-thon"
+  ],
+  "categories": [
+    "peche",
+    "leurres",
+    "leurres-chasse-thon"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Leurres de pêche dans les chasses Cast Hacker | SAVAGEAR"
+  ],
+  "description": "Achetez Leurres de pêche dans les chasses Cast Hacker | SAVAGEAR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 13.99,
+    "currency": "EUR",
+    "formatted": "13.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPE-0020011",
+      "sku": "PCPE-0020011",
+      "supplierRef": null,
+      "price": {
+        "amount": 13.99,
+        "currency": "EUR",
+        "formatted": "13.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_44g_mayu_savagear.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_44g_ph_savagear.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_32g_ph_savagear.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/7/77248.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_73g_gs_savagear.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/7/77248_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_32g_ph_savagear_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_44g_ph_savagear_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_44g_mayu_savagear_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_73g_gs_savagear_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:26:41.188Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_44g_mayu_savagear.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020011/01-cast_hacker_44g_mayu_savagear.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_44g_ph_savagear.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020011/02-cast_hacker_44g_ph_savagear.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_32g_ph_savagear.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020011/03-cast_hacker_32g_ph_savagear.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/7/77248.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020011/04-77248.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_73g_gs_savagear.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020011/05-cast_hacker_73g_gs_savagear.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/7/77248_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020011/06-77248_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_32g_ph_savagear_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020011/07-cast_hacker_32g_ph_savagear_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_44g_ph_savagear_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020011/08-cast_hacker_44g_ph_savagear_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_44g_mayu_savagear_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020011/09-cast_hacker_44g_mayu_savagear_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cast_hacker_73g_gs_savagear_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020011/10-cast_hacker_73g_gs_savagear_1.jpg",
+      "skipped": false
+    }
+  ]
+}

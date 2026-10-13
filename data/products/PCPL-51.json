@@ -1,0 +1,129 @@
+{
+  "sku": "PCPL-51",
+  "url": "https://www.cabesto.com/fr/stab-rover-dc-mares.html",
+  "title": "Gilet Stabilisateur de plongée sous-marine ROVER DC MARES",
+  "brand": "MARES",
+  "category": "Gilets de plongée réglables",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Gilets stabilisateurs",
+    "Gilets de plongée réglables",
+    "1er prix - Club - Association"
+  ],
+  "categories": [
+    "Gilets stabilisateurs",
+    "Gilets de plongée réglables",
+    "1er prix - Club - Association"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gilet Stabilisateur de plongée sous-marine ROVER DC MARES"
+  ],
+  "description": "Plongez avec le gilet stabilisateur ROVER DC MARES, ultra-robuste pour toutes toutes les morphologie, idéal pour débuter ou pratiquer régulièrement.",
+  "supplierRef": null,
+  "price": {
+    "amount": 235,
+    "currency": "EUR",
+    "formatted": "235 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-51",
+      "sku": "PCPL-51",
+      "supplierRef": null,
+      "price": {
+        "amount": 235,
+        "currency": "EUR",
+        "formatted": "235 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-51-pl-788-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2024_06_27_16_21_27_gilet_rover_dc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2024_06_27_16_22_14_gilet_rover_dc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2024_06_27_16_23_07_gilet_rover_dc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/t/stab-rover-detail.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022_11_30_14_38_53_47201404_bcd_size_guide_product_details.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-786-pl-786-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-784-pl-784-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-783-pl-783-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-785-pl-785-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-788-pl-788-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-787-pl-787-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:55:35.431Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-51-pl-788-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-51/01-pcpl-51-pl-788-picture_1-pcpl-51-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2024_06_27_16_21_27_gilet_rover_dc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-51/02-2024_06_27_16_21_27_gilet_rover_dc.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2024_06_27_16_22_14_gilet_rover_dc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-51/03-2024_06_27_16_22_14_gilet_rover_dc.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2024_06_27_16_23_07_gilet_rover_dc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-51/04-2024_06_27_16_23_07_gilet_rover_dc.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/t/stab-rover-detail.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-51/05-stab-rover-detail.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022_11_30_14_38_53_47201404_bcd_size_guide_product_details.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-51/06-2022_11_30_14_38_53_47201404_bcd_size_guide_product_details.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-786-pl-786-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-51/07-pl-786-pl-786-picture_1-pcpl-51-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-784-pl-784-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-51/08-pl-784-pl-784-picture_1-pcpl-51-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-783-pl-783-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-51/09-pl-783-pl-783-picture_1-pcpl-51-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-785-pl-785-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-51/10-pl-785-pl-785-picture_1-pcpl-51-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-788-pl-788-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-51/11-pl-788-pl-788-picture_1-pcpl-51-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-787-pl-787-picture_1-pcpl-51-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-51/12-pl-787-pl-787-picture_1-pcpl-51-1.jpg",
+      "skipped": true
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "sku": "SU-0004486",
+  "url": "https://www.cabesto.com/fr/plongee-montre-partner-seac-sub-pl-18734.html",
+  "title": "Montre ordinateur chasse sous-marine apnée PARTNER SEAC SUB",
+  "brand": null,
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montre ordinateur chasse sous-marine apnée PARTNER SEAC SUB"
+  ],
+  "description": "Montre ordinateur chasse sous-marine et apnée PARTNER SEAC SUBSEAC SUB propose avec la montre ordinateur PARTNER un instrument simple et pas cher parfaitement adapté à un pratique récréative de l'apnée ou de la chasse sous-marine.Etanche à 100 mètres, le PARTNER SEAC enregistre dans sa mémoire jusqu'à 99 plongées, se rétro-éclaire et vous donnera profondeur instantanée, profondeur maxi, temps de vos plongées, intervalle de surface et température de l'eau...Toutes les infos dont vous avez besoin. Le bracelet de la montre ordinateur PARTNER SEAC SUB peut se porter sur des combinaisons néoprènes très épaisses type 7 ou 9 MM...SEAC SUB propose avec la montre ordinateur PARTNER un instrument simple et pas cher parfaitement adapté à un pratique récréative de l'apnée ou de la chasse sous-marine. Etanche à 100 mètres, le PARTNER SEAC enregistre dans sa mémoire jusqu'à 99 plongées, se rétro-éclaire et vous donnera profondeur instantanée, profondeur maxi, temps de vos plongées, intervalle de surface et température de l'eau...Toutes les infos dont vous avez besoin. Le bracelet de la montre ordinateur PARTNER SEAC SUB peut se porter sur des combinaisons néoprènes très épaisses type 7 ou 9 MM...Ordinateurs de plongée récréatifs au poignet avec affichage rétro-éclairé facile à utiliser. Enregistre vos sessions de plongée en apnée jusqu'à 99 plongées. Chronomètre et compte à rebours. Temps de plongée, temps de descente / montée, profondeur et température sur le même écran. Batterie standard CR2032.Etanche 100 mètresPile CR2032 changeable par l'utilisateurcarnet de plongée : 99 immersionsFonction chrono et compte à rebourg4 boutonsBracelet adaptable sur combinaison épaisseTous nos ordinateurs de plongée sont couverts par la garantie légale de deux ans du fabricant, hors usure de piles. Toutefois, CABESTO prend à sa charge toute éventuelle usure prématurée de la pile dans les six mois suivant l'achat, après contrôle de la mémoire et de l'état de l'ordinateur de plongée.",
+  "supplierRef": "1600004000520A",
+  "price": {
+    "amount": 99.99,
+    "currency": "EUR",
+    "formatted": "99.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004486",
+      "sku": "SU-0004486",
+      "supplierRef": "1600004000520A",
+      "price": {
+        "amount": 99.99,
+        "currency": "EUR",
+        "formatted": "99.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18734-pl-18734-picture_1-pl-18734-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18734-pl-18734-picture_4-pl-18734-4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18734-pl-18734-picture_3-pl-18734-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18734-pl-18734-picture_2-pl-18734-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18734-pl-18734-picture_5-pl-18734-5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seac-partner_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:20:46.390Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18734-pl-18734-picture_1-pl-18734-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004486/01-pl-18734-pl-18734-picture_1-pl-18734-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18734-pl-18734-picture_4-pl-18734-4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004486/02-pl-18734-pl-18734-picture_4-pl-18734-4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18734-pl-18734-picture_3-pl-18734-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004486/03-pl-18734-pl-18734-picture_3-pl-18734-3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18734-pl-18734-picture_2-pl-18734-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004486/04-pl-18734-pl-18734-picture_2-pl-18734-2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18734-pl-18734-picture_5-pl-18734-5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004486/05-pl-18734-pl-18734-picture_5-pl-18734-5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seac-partner_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004486/06-seac-partner_1_.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "sku": "PI-0003327",
+  "url": "https://www.cabesto.com/fr/piscine-chlorilong-power5-5kg-bayrol-pi-216.html",
+  "title": "POWER 5 250GR 5KG BAYROL CHLORE 5 FONCTIONS",
+  "brand": "BAYROL",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Chlore et chlore multifonction bayrol",
+    "Chlore",
+    "Chlore multifonction",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Chlore et chlore multifonction bayrol",
+    "Chlore",
+    "Chlore multifonction",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piscine",
+    "Piscine",
+    "Traitement de l'eau",
+    "Traitement de l'eau",
+    "Chlore",
+    "Chlore",
+    "POWER 5 250GR 5KG BAYROL CHLORE 5 FONCTIONS"
+  ],
+  "description": "Achetez POWER 5 250GR 5KG BAYROL CHLORE 5 FONCTIONS chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "2199265",
+  "price": {
+    "amount": 53.4,
+    "currency": "EUR",
+    "formatted": "53.4 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003327",
+      "sku": "PI-0003327",
+      "supplierRef": "2199265",
+      "price": {
+        "amount": 53.4,
+        "currency": "EUR",
+        "formatted": "53.4 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/media/catalog/product/cache/17/thumbnail/600x/9df78eab33525d08d6e5fb8d27136e95/e/-/e-chlorilong-power5_5kg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:31:24.924Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/media/catalog/product/cache/17/thumbnail/600x/9df78eab33525d08d6e5fb8d27136e95/e/-/e-chlorilong-power5_5kg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003327/01-e-chlorilong-power5_5kg.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "PI-0003487",
+  "url": "https://www.cabesto.com/fr/piscine-trousse-analyse-ph-chlore-pi-573.html",
+  "title": "TROUSSE ANALYSE PH CHLORE",
+  "brand": "KSD KOKIDO",
+  "category": "Trousse d'analyse",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Matériel d'analyse d'eau",
+    "Trousse d'analyse"
+  ],
+  "categories": [
+    "Matériel d'analyse d'eau",
+    "Trousse d'analyse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TROUSSE ANALYSE PH CHLORE"
+  ],
+  "description": "Achetez TROUSSE ANALYSE PH CHLORE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "K045CBX24",
+  "price": {
+    "amount": 6.99,
+    "currency": "EUR",
+    "formatted": "6.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003487",
+      "sku": "PI-0003487",
+      "supplierRef": "K045CBX24",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/s/estuche-test-de-cloro-ph-y-bromo-kokido-800x800_dkvzdafhrm7fqgxy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/1/51at7vrxual._ac__1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/1/61ei9uhlcgl._ac_sl1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:35:34.929Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/s/estuche-test-de-cloro-ph-y-bromo-kokido-800x800_dkvzdafhrm7fqgxy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003487/01-estuche-test-de-cloro-ph-y-bromo-kokido-800x800_dkvzdafhrm7fqgxy.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/1/51at7vrxual._ac__1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003487/02-51at7vrxual._ac__1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/61ei9uhlcgl._ac_sl1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003487/03-61ei9uhlcgl._ac_sl1500_.jpg",
+      "skipped": false
+    }
+  ]
+}

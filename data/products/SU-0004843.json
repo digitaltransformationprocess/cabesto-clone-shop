@@ -1,0 +1,89 @@
+{
+  "sku": "SU-0004843",
+  "url": "https://www.cabesto.com/fr/fixation-poignee-pour-lampe-de-plongee-sous-marine-orcatorch-su-0004843.html",
+  "title": "Fixation poignée pour lampe de plongée-sous-marine ORCATORCH",
+  "brand": "ORCATORCH",
+  "category": "Black November - Plongée",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Éclairage - Photo - Vidéo",
+    "Accessoires lampes de plongée & phares de plongée",
+    "Destockage Plongée / Chasse sous-marine",
+    "Black November - Plongée",
+    "Ventes privées Plongée / Chasse sous-marine"
+  ],
+  "categories": [
+    "Éclairage - Photo - Vidéo",
+    "Accessoires lampes de plongée & phares de plongée",
+    "Destockage Plongée / Chasse sous-marine",
+    "Black November - Plongée",
+    "Ventes privées Plongée / Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage",
+    "Destockage",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage Plongée / Chasse sous-marine",
+    "Fixation poignée pour lampe de plongée-sous-marine ORCATORCH"
+  ],
+  "description": "Fixez votre lampe ORCATORCH sur votre main avec la fixation poignée pour lampe de plongée sous-marine ORCATORCH, la dragonne de poignet qui vous laisse les mains libres.",
+  "supplierRef": "WS02",
+  "price": {
+    "amount": 6.99,
+    "currency": "EUR",
+    "formatted": "6.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004843",
+      "sku": "SU-0004843",
+      "supplierRef": "WS02",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/w/s/ws02.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/d/zd710_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/s/ws022.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_16_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:22:08.194Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/s/ws02.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004843/01-ws02.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/d/zd710_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004843/02-zd710_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/s/ws022.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004843/03-ws022.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_16_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004843/04-sans_titre_16_3.jpg",
+      "skipped": true
+    }
+  ]
+}

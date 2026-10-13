@@ -1,0 +1,91 @@
+{
+  "sku": "PI-0002044",
+  "url": "https://www.cabesto.com/fr/piscine-graphite-rectangulaire-4mx3mx1-24m-intex-pi-0002044.html",
+  "title": "PISCINE GRAPHITE RECTANGULAIRE 4MX3MX1.24M INTEX",
+  "brand": "INTEX",
+  "category": "Piscine rectangulaire",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine tubulaire",
+    "Piscine rectangulaire"
+  ],
+  "categories": [
+    "Piscine tubulaire",
+    "Piscine rectangulaire"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE GRAPHITE RECTANGULAIRE 4MX3MX1.24M INTEX"
+  ],
+  "description": "Achetez PISCINE GRAPHITE RECTANGULAIRE 4MX3MX1.24M INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "26396GN",
+  "price": {
+    "amount": 1390,
+    "currency": "EUR",
+    "formatted": "1390 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002044",
+      "sku": "PI-0002044",
+      "supplierRef": "26396GN",
+      "price": {
+        "amount": 1390,
+        "currency": "EUR",
+        "formatted": "1390 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/6/26396gn-kit-piscine-graphite-rectangulaire-.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26396gn-kit-piscine-graphite-rectangulaire-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26396gn-kit-piscine-graphite-rectangulaire-_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26396gn-kit-piscine-graphite-rectangulaire-_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26396gn-kit-piscine-graphite-rectangulaire-_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26396gn-kit-piscine-graphite-rectangulaire-_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:51:49.293Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26396gn-kit-piscine-graphite-rectangulaire-.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002044/01-26396gn-kit-piscine-graphite-rectangulaire-.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26396gn-kit-piscine-graphite-rectangulaire-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002044/02-26396gn-kit-piscine-graphite-rectangulaire-.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26396gn-kit-piscine-graphite-rectangulaire-_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002044/03-26396gn-kit-piscine-graphite-rectangulaire-_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26396gn-kit-piscine-graphite-rectangulaire-_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002044/04-26396gn-kit-piscine-graphite-rectangulaire-_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26396gn-kit-piscine-graphite-rectangulaire-_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002044/05-26396gn-kit-piscine-graphite-rectangulaire-_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26396gn-kit-piscine-graphite-rectangulaire-_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002044/06-26396gn-kit-piscine-graphite-rectangulaire-_4.jpg",
+      "skipped": false
+    }
+  ]
+}

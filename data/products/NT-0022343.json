@@ -1,0 +1,61 @@
+{
+  "sku": "NT-0022343",
+  "url": "https://www.cabesto.com/fr/triangle-bermude.html",
+  "title": "Triangle Bermude",
+  "brand": "PETZL",
+  "category": "accessoires",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires"
+  ],
+  "categories": [
+    "textile",
+    "accessoires"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Triangle Bermude"
+  ],
+  "description": "Achetez Triangle Bermude chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "C80",
+  "price": {
+    "amount": 89.9,
+    "currency": "EUR",
+    "formatted": "89.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0022343",
+      "sku": "NT-0022343",
+      "supplierRef": "C80",
+      "price": {
+        "amount": 89.9,
+        "currency": "EUR",
+        "formatted": "89.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/p/pp59_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:39:42.721Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp59_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0022343/01-pp59_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "sku": "SU-0010762",
+  "url": "https://www.cabesto.com/fr/octopus-de-plongee-sous-marine-mc11-zen-din-cressi-su-0010762.html",
+  "title": "Octopus de plongée-sous-marine ZEN CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "Black November - Plongée",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Détendeurs et Octopus",
+    "Deuxième étage octopus plongée et détendeur plongée complet de secours",
+    "Destockage Plongée / Chasse sous-marine",
+    "Black November - Plongée",
+    "Ventes privées Plongée / Chasse sous-marine"
+  ],
+  "categories": [
+    "Détendeurs et Octopus",
+    "Deuxième étage octopus plongée et détendeur plongée complet de secours",
+    "Destockage Plongée / Chasse sous-marine",
+    "Black November - Plongée",
+    "Ventes privées Plongée / Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Octopus de plongée-sous-marine ZEN CRESSI SUB"
+  ],
+  "description": "Plongez en toute sécurité avec l'octopus ZEN CRESSI SUB, l'octopus léger, robuste, performant et fiable pour les plongées en eaux chaudes, idéal pour la sécurité et le confort sous l’eau.",
+  "supplierRef": "HX790200",
+  "price": {
+    "amount": 119,
+    "currency": "EUR",
+    "formatted": "119 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010762",
+      "sku": "SU-0010762",
+      "supplierRef": "HX790200",
+      "price": {
+        "amount": 119,
+        "currency": "EUR",
+        "formatted": "119 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/o/c/octozen_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/c/mc11-zen__gold___din__hx791111_01__web_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/packmc11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/c/octozen.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/c/octozen_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/c/octozen_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/c/octozen_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:37:11.510Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/octozen_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010762/01-octozen_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/c/mc11-zen__gold___din__hx791111_01__web_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010762/02-mc11-zen__gold___din__hx791111_01__web_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/packmc11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010762/03-packmc11.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/octozen.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010762/04-octozen.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/octozen_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010762/05-octozen_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/octozen_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010762/06-octozen_3_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/octozen_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010762/07-octozen_2_.jpg",
+      "skipped": false
+    }
+  ]
+}

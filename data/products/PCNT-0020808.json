@@ -1,0 +1,87 @@
+{
+  "sku": "PCNT-0020808",
+  "url": "https://www.cabesto.com/fr/piolet-summit.html",
+  "title": "Piolet Summit - PETZL",
+  "brand": "PETZL",
+  "category": "Piolets classiques et techniques",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Neige & Glace",
+    "Alpinisme",
+    "Piolets classiques et techniques"
+  ],
+  "categories": [
+    "Neige & Glace",
+    "Alpinisme",
+    "Piolets classiques et techniques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piolet Summit - PETZL"
+  ],
+  "description": "Achetez Piolet Summit - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 104.9,
+    "currency": "EUR",
+    "formatted": "104.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0020808",
+      "sku": "PCNT-0020808",
+      "supplierRef": null,
+      "price": {
+        "amount": 104.9,
+        "currency": "EUR",
+        "formatted": "104.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/v/pv33_1_d-piolet-summit-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/v/pv33_1_d-piolet-summit-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/v/pv33_1_d-piolet-summit-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/v/pv33_1_d-piolet-summit-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/v/pv33_1_d-piolet-summit-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:26:35.703Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/v/pv33_1_d-piolet-summit-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020808/01-pv33_1_d-piolet-summit-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/v/pv33_1_d-piolet-summit-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020808/02-pv33_1_d-piolet-summit-petzl_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/v/pv33_1_d-piolet-summit-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020808/03-pv33_1_d-piolet-summit-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/v/pv33_1_d-piolet-summit-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020808/04-pv33_1_d-piolet-summit-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/v/pv33_1_d-piolet-summit-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020808/05-pv33_1_d-piolet-summit-petzl_2.jpg",
+      "skipped": false
+    }
+  ]
+}

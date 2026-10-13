@@ -1,0 +1,97 @@
+{
+  "sku": "SU-0010818",
+  "url": "https://www.cabesto.com/fr/sac-de-plongee-etanche-a-roulettes-oversea-104-litres-aquatys-su-0010818.html",
+  "title": "Sac de plongée étanche à roulettes ROLLER 110 litres noir AQUATYS",
+  "brand": "AQUATYS",
+  "category": "Sac de plongée à roulettes",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Sacs de plongée",
+    "Sac de plongée à roulettes"
+  ],
+  "categories": [
+    "Sacs de plongée",
+    "Sac de plongée à roulettes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac de plongée étanche à roulettes ROLLER 110 litres noir AQUATYS"
+  ],
+  "description": "Voyagez et roulez partout facilement avec le sac de plongée sous-marine OVERSEA AQUATYS, le sac à roulettes et poignée télescopique résistantes en toile PVC étanches idéal pour tout votre équipement de plongée avec son volume de 110 litres.",
+  "supplierRef": "A80239BK",
+  "price": {
+    "amount": 99.99,
+    "currency": "EUR",
+    "formatted": "99.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010818",
+      "sku": "SU-0010818",
+      "supplierRef": "A80239BK",
+      "price": {
+        "amount": 99.99,
+        "currency": "EUR",
+        "formatted": "99.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/o/v/oversea_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18808-pl-18808-picture_1-pl-18808-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/q/aquatys-sac-en-filet-80l.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/v/oversea_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/v/oversea_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/v/oversea_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/v/oversea_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:38:04.000Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/v/oversea_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010818/01-oversea_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18808-pl-18808-picture_1-pl-18808-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010818/02-pl-18808-pl-18808-picture_1-pl-18808-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/q/aquatys-sac-en-filet-80l.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010818/03-aquatys-sac-en-filet-80l.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/v/oversea_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010818/04-oversea_3_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/v/oversea_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010818/05-oversea_4_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/v/oversea_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010818/06-oversea_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/v/oversea_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010818/07-oversea_5_.jpg",
+      "skipped": false
+    }
+  ]
+}

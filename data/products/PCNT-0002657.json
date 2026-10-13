@@ -1,0 +1,109 @@
+{
+  "sku": "PCNT-0002657",
+  "url": "https://www.cabesto.com/fr/randonnee-sandales-stream-femme-source-7602.html",
+  "title": "Sandales de marche femme STREAM SOURCE",
+  "brand": "SOURCE",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Sandales",
+    "Destockage Montagne",
+    "Sandales Femme",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Sandales",
+    "Destockage Montagne",
+    "Sandales Femme",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sandales de marche femme STREAM SOURCE"
+  ],
+  "description": "Classiques et reconnues, les sandales de marche ou après marche femme Stream SOURCE sont idéales pour les passages en milieux humides.",
+  "supplierRef": null,
+  "price": {
+    "amount": 85,
+    "currency": "EUR",
+    "formatted": "85 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0002657",
+      "sku": "PCNT-0002657",
+      "supplierRef": null,
+      "price": {
+        "amount": 85,
+        "currency": "EUR",
+        "formatted": "85 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/7/6/7602_1_m.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sandale_zimbella_femme.jpg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sandale_curcuma_femme.jpg_2_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/o/source-stream-women-sandals-midnight-blue.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/o/source-stream-women-sandals-midnight-blue_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/semelle_parra_green_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/6/7602_3_k.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/6/7602_1_k-sandales-stream-femme-source.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:25:28.563Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/6/7602_1_m.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002657/01-7602_1_m.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sandale_zimbella_femme.jpg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002657/02-sandale_zimbella_femme.jpg.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sandale_curcuma_femme.jpg_2_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002657/03-sandale_curcuma_femme.jpg_2_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/o/source-stream-women-sandals-midnight-blue.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002657/04-source-stream-women-sandals-midnight-blue.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/o/source-stream-women-sandals-midnight-blue_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002657/05-source-stream-women-sandals-midnight-blue_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/semelle_parra_green_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002657/06-semelle_parra_green_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/6/7602_3_k.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002657/07-7602_3_k.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/6/7602_1_k-sandales-stream-femme-source.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002657/08-7602_1_k-sandales-stream-femme-source.jpg",
+      "skipped": false
+    }
+  ]
+}

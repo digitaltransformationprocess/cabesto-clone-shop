@@ -1,0 +1,65 @@
+{
+  "sku": "PI-0007814",
+  "url": "https://www.cabesto.com/fr/piscine-douche-solaire-so-happy-go-bleu-23l-rince-pieds-pi-1496.html",
+  "title": "DOUCHE SOLAIRE SO HAPPY GO BLEU 23L + RINCE PIEDS",
+  "brand": "DIVERS",
+  "category": "Douche piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "douche-piscine"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "douche-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "DOUCHE SOLAIRE SO HAPPY GO BLEU 23L + RINCE PIEDS"
+  ],
+  "description": "Achetez DOUCHE SOLAIRE SO HAPPY GO BLEU 23L + RINCE PIEDS chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "DSHG142BL",
+  "price": {
+    "amount": 199,
+    "currency": "EUR",
+    "formatted": "199 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0007814",
+      "sku": "PI-0007814",
+      "supplierRef": "DSHG142BL",
+      "price": {
+        "amount": 199,
+        "currency": "EUR",
+        "formatted": "199 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/o/douche-solaire-so-happy-go-bleu-23l-rince-pieds-33846.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:40:34.141Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/o/douche-solaire-so-happy-go-bleu-23l-rince-pieds-33846.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007814/01-douche-solaire-so-happy-go-bleu-23l-rince-pieds-33846.jpg",
+      "skipped": false
+    }
+  ]
+}

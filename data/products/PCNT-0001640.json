@@ -1,0 +1,103 @@
+{
+  "sku": "PCNT-0001640",
+  "url": "https://www.cabesto.com/fr/sous-combinaison-arphidia-ii-bi-stretch.html",
+  "title": "Sous-combinaison Arphidia II Bi-Stretch - Aventure Verticale",
+  "brand": "AVENTURE VERTICALE",
+  "category": "Sous-combinaisons spéléo",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Spéléologie",
+    "Sous-combinaisons spéléo"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Sous-combinaisons spéléo"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sous-combinaison Arphidia II Bi-Stretch - Aventure Verticale"
+  ],
+  "description": "Achetez Sous-combinaison Arphidia II Bi-Stretch - Aventure Verticale chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 119,
+    "currency": "EUR",
+    "formatted": "119 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0001640",
+      "sku": "PCNT-0001640",
+      "supplierRef": null,
+      "price": {
+        "amount": 119,
+        "currency": "EUR",
+        "formatted": "119 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/u/guide_taille_arphidia_aventure_verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:25:59.810Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001640/01-ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001640/02-ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_8.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/u/guide_taille_arphidia_aventure_verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001640/03-guide_taille_arphidia_aventure_verticale.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001640/04-ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001640/05-ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001640/06-ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001640/07-ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001640/08-ga01_1_d-sous-combinaison-arphidia-ii-bi-stretch-aventure-verticale_4.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "sku": "NT-0028373",
+  "url": "https://www.cabesto.com/fr/verticalite-pack-6-mousquetons-litewire-black-diamond-nt-0028373.html",
+  "title": "Pack 6 mousquetons LITEWIRE - BLACK DIAMOND",
+  "brand": "BLACK DIAMOND",
+  "category": "Mousquetons doigt droit",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Matériel métallique",
+    "Mousquetons doigt droit"
+  ],
+  "categories": [
+    "Matériel métallique",
+    "Mousquetons doigt droit"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pack 6 mousquetons LITEWIRE - BLACK DIAMOND"
+  ],
+  "description": "Achetez Pack 6 mousquetons LITEWIRE - BLACK DIAMOND chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BD3811270000ALL1",
+  "price": {
+    "amount": 39.9,
+    "currency": "EUR",
+    "formatted": "39.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028373",
+      "sku": "NT-0028373",
+      "supplierRef": "BD3811270000ALL1",
+      "price": {
+        "amount": 39.9,
+        "currency": "EUR",
+        "formatted": "39.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/d/bdf2_1_un-pack-6-mousquetons-litewire-black-diamond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:34:22.754Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bdf2_1_un-pack-6-mousquetons-litewire-black-diamond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028373/01-bdf2_1_un-pack-6-mousquetons-litewire-black-diamond_1.jpg",
+      "skipped": false
+    }
+  ]
+}

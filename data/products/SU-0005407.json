@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0005407",
+  "url": "https://www.cabesto.com/fr/plongee-pointe-de-fleche-diam-9-mm-baionnette-pl-13143.html",
+  "title": "Pointe tahitienne vissée ronde INOX Ø 9 mm IMERSION",
+  "brand": "IMERSION",
+  "category": "accessoires",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pointe tahitienne vissée ronde INOX Ø 9 mm IMERSION"
+  ],
+  "description": "Pointe tahitienne vissée ronde INOX Ø 9 mm IMERSIONVissez la pointe ronde INOX Ø 9 mm sur votre flèche vissée en filetage 6x100 IMERSION.Pointe de flèche simple barbe Ø 9 mm ronde en inox.Se visse sur les flèches au filetage 6 x 100.Longueur pointe : 64 mm.Longueur ardillons : 48 mm.",
+  "supplierRef": "101BC",
+  "price": {
+    "amount": 5.99,
+    "currency": "EUR",
+    "formatted": "5.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005407",
+      "sku": "SU-0005407",
+      "supplierRef": "101BC",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/8/7/87bc-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:21.825Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/7/87bc-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005407/01-87bc-2.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires"
+  ],
+  "categories": [
+    "textile",
+    "accessoires"
+  ]
+}

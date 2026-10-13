@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0004125",
+  "url": "https://www.cabesto.com/fr/tapas-de-calmars-100g.html",
+  "title": "TAPAS DE CALMARS 100G",
+  "brand": "ATELIER DU CUISINIER",
+  "category": "Tartinables",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tartinable-mer",
+    "tartinables"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tartinable-mer",
+    "tartinables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TAPAS DE CALMARS 100G"
+  ],
+  "description": "Achetez TAPAS DE CALMARS 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "TDC~100G",
+  "price": {
+    "amount": 4.99,
+    "currency": "EUR",
+    "formatted": "4.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0004125",
+      "sku": "AL-0004125",
+      "supplierRef": "TDC~100G",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6049858-6049858-picture_1-6049858_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:54:51.595Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6049858-6049858-picture_1-6049858_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0004125/01-6049858-6049858-picture_1-6049858_1.jpg",
+      "skipped": true
+    }
+  ]
+}

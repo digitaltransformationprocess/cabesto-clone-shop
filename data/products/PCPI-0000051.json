@@ -1,0 +1,61 @@
+{
+  "sku": "PCPI-0000051",
+  "url": "https://www.cabesto.com/fr/piscine-electrolyseur-au-sel-zodiac-gensalt-oe-pour-piscine-jusque-110m-pcpi-0000051.html",
+  "title": "Electrolyseur au sel Zodiac GenSalt OE",
+  "brand": "ZODIAC",
+  "category": "Électrolyse et sel",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Électrolyseur de piscine",
+    "Électrolyse et sel"
+  ],
+  "categories": [
+    "Électrolyseur de piscine",
+    "Électrolyse et sel"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Electrolyseur au sel Zodiac GenSalt OE"
+  ],
+  "description": "Electrolyseur au sel Zodiac GenSalt OE pour piscine jusque 110m³ Electrolyseur au sel Zodiac GenSalt OE pour piscine jusque 110m³ Simple et endurant DurableL'un des électrolyseurs le plus durable de sa catégorie (jusqu'à 7 500 heures) grâce à son él",
+  "supplierRef": null,
+  "price": {
+    "amount": 849,
+    "currency": "EUR",
+    "formatted": "849 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPI-0000051",
+      "sku": "PCPI-0000051",
+      "supplierRef": null,
+      "price": {
+        "amount": 849,
+        "currency": "EUR",
+        "formatted": "849 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/z/o/zodiac-gensalt-oe-iq-20.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:45:56.843Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/o/zodiac-gensalt-oe-iq-20.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0000051/01-zodiac-gensalt-oe-iq-20.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "PCPL-667",
+  "url": "https://www.cabesto.com/fr/plongee-masque-nano-dark-pcpl-667.html",
+  "title": "MASQUE NANO DARK",
+  "brand": "CRESSI",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MASQUE NANO DARK"
+  ],
+  "description": "Masque pour la plongée libre et la chasse sous-marine, il offre un profil extrêmement hydrodynamique et une forme compacte qui permet au plongeur de fendre l'eau et de se déplacer facilement dans les petits espaces. Son volume intérieur est minimal, et n'exige pas d'équilibrage volontaire.Les boucles pivotantes disposent d´un réglage micrométrique. Vitres en verre trempé disposées en oblique.Sangle anatomique.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-667",
+      "sku": "PCPL-667",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-667-pl-4994-picture_1-pcpl-667-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:31:30.494Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-667-pl-4994-picture_1-pcpl-667-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-667/01-pcpl-667-pl-4994-picture_1-pcpl-667-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

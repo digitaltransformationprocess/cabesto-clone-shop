@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0000762",
+  "url": "https://www.cabesto.com/fr/cake-tradition-350g.html",
+  "title": "BISCUITS CROUSTILLANT CARAMELISE 200G",
+  "brand": "BERROU",
+  "category": "Biscuiterie marine",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BISCUITS CROUSTILLANT CARAMELISE 200G"
+  ],
+  "description": "Achetez BISCUITS CROUSTILLANT CARAMELISE 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "313....",
+  "price": {
+    "amount": 5.99,
+    "currency": "EUR",
+    "formatted": "5.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000762",
+      "sku": "AL-0000762",
+      "supplierRef": "313....",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/3/d39708_8acc48bcf8b84953bf9ab3119f5fc300_mv2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:02:35.277Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/3/d39708_8acc48bcf8b84953bf9ab3119f5fc300_mv2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000762/01-d39708_8acc48bcf8b84953bf9ab3119f5fc300_mv2.png",
+      "skipped": false
+    }
+  ]
+}

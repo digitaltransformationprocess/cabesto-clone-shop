@@ -1,0 +1,109 @@
+{
+  "sku": "PCNT-0028347",
+  "url": "https://www.cabesto.com/fr/sac-a-dos-randonnee-airzone-active-22.html",
+  "title": "SAC A DOS RANDONNEE AIRZONE ACTIVE 22 LOWE ALPINE",
+  "brand": "LOWE ALPINE",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Sacs à dos, rangement",
+    "Sacs à dos moins de 30 litres",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Sacs à dos, rangement",
+    "Sacs à dos moins de 30 litres",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SAC A DOS RANDONNEE AIRZONE ACTIVE 22 LOWE ALPINE"
+  ],
+  "description": "Compact et complet, l'Airzone Active 22 Litres Lowe Alpine est idéal pour les randonnées à la journée par temps chaud ou rythme soutenu.",
+  "supplierRef": null,
+  "price": {
+    "amount": 74.9,
+    "currency": "EUR",
+    "formatted": "74.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0028347",
+      "sku": "PCNT-0028347",
+      "supplierRef": null,
+      "price": {
+        "amount": 74.9,
+        "currency": "EUR",
+        "formatted": "74.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/w/lw02_1_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/w/lw02_6_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/w/lw02_5_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/w/lw02_4_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/w/lw02_3_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/w/lw02_2_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/w/lw02_1_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/w/lw02_1_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:35:25.850Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/w/lw02_1_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028347/01-lw02_1_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/w/lw02_6_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028347/02-lw02_6_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/w/lw02_5_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028347/03-lw02_5_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/w/lw02_4_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028347/04-lw02_4_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/w/lw02_3_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028347/05-lw02_3_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/w/lw02_2_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028347/06-lw02_2_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/w/lw02_1_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028347/07-lw02_1_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/w/lw02_1_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028347/08-lw02_1_bt-sac-a-dos-randonnee-airzone-active-22-lowe-alpine.jpg",
+      "skipped": false
+    }
+  ]
+}

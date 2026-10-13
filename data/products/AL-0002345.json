@@ -1,0 +1,63 @@
+{
+  "sku": "AL-0002345",
+  "url": "https://www.cabesto.com/fr/maquereaux-filets-sancerre-176g.html",
+  "title": "MAQUEREAUX FILETS SANCERRE 176G",
+  "brand": "LA POINTE DE PENMARCH",
+  "category": "Conserves Maquereaux",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "conserves-de-la-mer"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "conserves-de-la-mer"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MAQUEREAUX FILETS SANCERRE 176G"
+  ],
+  "description": "Achetez MAQUEREAUX FILETS SANCERRE 176G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "mp0000523",
+  "price": {
+    "amount": 5.49,
+    "currency": "EUR",
+    "formatted": "5.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002345",
+      "sku": "AL-0002345",
+      "supplierRef": "mp0000523",
+      "price": {
+        "amount": 5.49,
+        "currency": "EUR",
+        "formatted": "5.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0002345.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:56:35.593Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0002345.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002345/01-al-0002345.png",
+      "skipped": true
+    }
+  ]
+}

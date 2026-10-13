@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0003571",
+  "url": "https://www.cabesto.com/fr/sachet-croquants-caramel-noisette.html",
+  "title": "PAIN EPICES FIGUES SPECIAL FOIE GRAS 250G",
+  "brand": "BISCUITS D'YS",
+  "category": "Biscuiterie marine",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PAIN EPICES FIGUES SPECIAL FOIE GRAS 250G"
+  ],
+  "description": "Achetez PAIN EPICES FIGUES SPECIAL FOIE GRAS 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3335440210564.",
+  "price": {
+    "amount": 6.99,
+    "currency": "EUR",
+    "formatted": "6.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003571",
+      "sku": "AL-0003571",
+      "supplierRef": "3335440210564.",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6069480-6069480-picture_1-6069480_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:56:08.384Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6069480-6069480-picture_1-6069480_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003571/01-6069480-6069480-picture_1-6069480_1.jpg",
+      "skipped": true
+    }
+  ]
+}

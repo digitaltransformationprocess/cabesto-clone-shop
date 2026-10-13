@@ -1,0 +1,95 @@
+{
+  "sku": "SU-0005839",
+  "url": "https://www.cabesto.com/fr/plongee-sangle-de-bras-pour-couteau-pl-15698.html",
+  "title": "Sangle de bras pour dague de chasse sous-marine SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "couverts-couteaux",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sangle de bras pour dague de chasse sous-marine SALVIMAR"
+  ],
+  "description": "Bande en velcro pour fixer votre couteau de chasse sous-marine à votre bras et toujours l'avoir à portée de main en cas de besoin.",
+  "supplierRef": "400120",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005839",
+      "sku": "SU-0005839",
+      "supplierRef": "400120",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/r/brassard-elastique-salvimar-pour-couteau_g0yq6rua284nigm5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/a/fascia-611-fc-verde.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/t/statlantis.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-15698-pl-15698-picture_1-pl-15698-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-15698-pl-15698-picture_2-pl-15698-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/r/brassard-elastique-salvimar-pour-couteau_xe03spq2tlos11u3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:27:03.185Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/r/brassard-elastique-salvimar-pour-couteau_g0yq6rua284nigm5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005839/01-brassard-elastique-salvimar-pour-couteau_g0yq6rua284nigm5.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/a/fascia-611-fc-verde.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005839/02-fascia-611-fc-verde.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/t/statlantis.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005839/03-statlantis.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-15698-pl-15698-picture_1-pl-15698-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005839/04-pl-15698-pl-15698-picture_1-pl-15698-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-15698-pl-15698-picture_2-pl-15698-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005839/05-pl-15698-pl-15698-picture_2-pl-15698-2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/r/brassard-elastique-salvimar-pour-couteau_xe03spq2tlos11u3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005839/06-brassard-elastique-salvimar-pour-couteau_xe03spq2tlos11u3.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "bivouac",
+    "cuisine",
+    "couverts-couteaux"
+  ],
+  "categories": [
+    "montagne",
+    "bivouac",
+    "cuisine",
+    "couverts-couteaux"
+  ]
+}

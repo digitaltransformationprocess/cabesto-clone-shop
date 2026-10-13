@@ -1,0 +1,95 @@
+{
+  "sku": "PCNT-0000749",
+  "url": "https://www.cabesto.com/fr/randonnee-sac-a-dos-alpinisme-prolighter-30-10-millet-10g6.html",
+  "title": "Sac à dos Alpinisme Prolighter 30+10 - MILLET",
+  "brand": "MILLET",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Sacs à dos 30 à 50 litres",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Sacs à dos 30 à 50 litres",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac à dos Alpinisme Prolighter 30+10 - MILLET"
+  ],
+  "description": "Achetez Sac à dos Alpinisme Prolighter 30+10 - MILLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0000749",
+      "sku": "PCNT-0000749",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/i/mis2113_8737_0_prolighter_30_10_1280_1280_1.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/i/mis2113_8737_2_prolighter_30_10_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/i/mis2113_8737_3_prolighter_30_10_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/i/mis2113_8737_1_prolighter_30_10_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/0/10g6_1_mf-sac-a-dos-prolighter-30---10-millet_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/i/mis2113_8737_6_prolighter_30_10_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:28:52.827Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/mis2113_8737_0_prolighter_30_10_1280_1280_1.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000749/01-mis2113_8737_0_prolighter_30_10_1280_1280_1.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/mis2113_8737_2_prolighter_30_10_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000749/02-mis2113_8737_2_prolighter_30_10_1280_1280.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/mis2113_8737_3_prolighter_30_10_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000749/03-mis2113_8737_3_prolighter_30_10_1280_1280.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/mis2113_8737_1_prolighter_30_10_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000749/04-mis2113_8737_1_prolighter_30_10_1280_1280.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/0/10g6_1_mf-sac-a-dos-prolighter-30---10-millet_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000749/05-10g6_1_mf-sac-a-dos-prolighter-30---10-millet_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/mis2113_8737_6_prolighter_30_10_1280_1280.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000749/06-mis2113_8737_6_prolighter_30_10_1280_1280.jpeg",
+      "skipped": false
+    }
+  ]
+}

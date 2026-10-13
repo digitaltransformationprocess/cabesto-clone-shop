@@ -1,0 +1,69 @@
+{
+  "sku": "PCNT-0005488",
+  "url": "https://www.cabesto.com/fr/veste-polaire-elevation-power-homme.html",
+  "title": "Veste Polaire Elevation Power Homme - MILLET",
+  "brand": "MILLET",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Veste Polaire Elevation Power Homme - MILLET"
+  ],
+  "description": "Achetez Veste Polaire Elevation Power Homme - MILLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0005488",
+      "sku": "PCNT-0005488",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/l/ml04_1_ae-veste-polaire-elevation-power-homme-millet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/l/ml04_1_ae-veste-polaire-elevation-power-homme-millet_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:35:25.494Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml04_1_ae-veste-polaire-elevation-power-homme-millet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0005488/01-ml04_1_ae-veste-polaire-elevation-power-homme-millet_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml04_1_ae-veste-polaire-elevation-power-homme-millet_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0005488/02-ml04_1_ae-veste-polaire-elevation-power-homme-millet_5.jpg",
+      "skipped": false
+    }
+  ]
+}

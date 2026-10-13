@@ -1,0 +1,73 @@
+{
+  "sku": "SU-0009332",
+  "url": "https://www.cabesto.com/fr/sac-de-plongee-cruise-reg-pour-detendeur-mares-su-0009332.html",
+  "title": "Sac de plongée pour détendeur CRUISE REG MARES",
+  "brand": "MARES",
+  "category": "Accessoires détendeurs plongée et octopus",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Détendeurs et Octopus",
+    "Accessoires détendeurs plongée et octopus"
+  ],
+  "categories": [
+    "Détendeurs et Octopus",
+    "Accessoires détendeurs plongée et octopus"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac de plongée pour détendeur CRUISE REG MARES"
+  ],
+  "description": "Protégez et transportez aisément votre détendeur de plongée avec le sac CRUISE REG MARES, spécialement conçu pour vos détendeurs de plongée sous-marine.",
+  "supplierRef": "415471",
+  "price": {
+    "amount": 23.9,
+    "currency": "EUR",
+    "formatted": "23.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0009332",
+      "sku": "SU-0009332",
+      "supplierRef": "415471",
+      "price": {
+        "amount": 23.9,
+        "currency": "EUR",
+        "formatted": "23.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/1/415471_cruise_reg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/pxl_20260625_135844463.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/2/622xx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:22:16.545Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/415471_cruise_reg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009332/01-415471_cruise_reg.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/pxl_20260625_135844463.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009332/02-pxl_20260625_135844463.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/2/622xx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009332/03-622xx.jpg",
+      "skipped": true
+    }
+  ]
+}

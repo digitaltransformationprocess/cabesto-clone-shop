@@ -1,0 +1,85 @@
+{
+  "sku": "PCNT-0001047",
+  "url": "https://www.cabesto.com/fr/verticalite-piton-livanos-2mm-epaisseur-petzl-charlet-1764.html",
+  "title": "Piton Livanos - 2mm épaisseur - PETZL CHARLET",
+  "brand": "PETZL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Escalade",
+    "Pitons, plombs",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Escalade",
+    "Pitons, plombs",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piton Livanos - 2mm épaisseur - PETZL CHARLET"
+  ],
+  "description": "Achetez Piton Livanos - 2mm épaisseur - PETZL CHARLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 14.9,
+    "currency": "EUR",
+    "formatted": "14.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0001047",
+      "sku": "PCNT-0001047",
+      "supplierRef": null,
+      "price": {
+        "amount": 14.9,
+        "currency": "EUR",
+        "formatted": "14.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/7/1764_1_m-piton-livanos-petzl-charlet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/1764_1_m-piton-livanos-petzl-charlet_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/1764_1_m-piton-livanos-petzl-charlet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/1764_1_m-piton-livanos-petzl-charlet_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:24:02.668Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1764_1_m-piton-livanos-petzl-charlet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001047/01-1764_1_m-piton-livanos-petzl-charlet_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1764_1_m-piton-livanos-petzl-charlet_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001047/02-1764_1_m-piton-livanos-petzl-charlet_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1764_1_m-piton-livanos-petzl-charlet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001047/03-1764_1_m-piton-livanos-petzl-charlet.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1764_1_m-piton-livanos-petzl-charlet_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001047/04-1764_1_m-piton-livanos-petzl-charlet_1.jpg",
+      "skipped": false
+    }
+  ]
+}

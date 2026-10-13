@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0002404",
+  "url": "https://www.cabesto.com/fr/verticalite-blister-cordelette-4-mm-x-7-m-beal-nt-0002404.html",
+  "title": "Blister Cordelette 4 mm x 7 m - BEAL",
+  "brand": "BEAL",
+  "category": "Cordelettes de montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Cordelettes de montagne"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Cordelettes de montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Blister Cordelette 4 mm x 7 m - BEAL"
+  ],
+  "description": "Achetez Blister Cordelette 4 mm x 7 m - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BC04.7 unitée",
+  "price": {
+    "amount": 7.62,
+    "currency": "EUR",
+    "formatted": "7.62 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0002404",
+      "sku": "NT-0002404",
+      "supplierRef": "BC04.7 unitée",
+      "price": {
+        "amount": 7.62,
+        "currency": "EUR",
+        "formatted": "7.62 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/l/bla6_1-blister-cordelette-4-mm-x-7-m-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bla6_2-blister-cordelette-4-mm-x-7-m-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bla6_1-blister-cordelette-4-mm-x-7-m-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:18:28.197Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bla6_1-blister-cordelette-4-mm-x-7-m-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0002404/01-bla6_1-blister-cordelette-4-mm-x-7-m-beal.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bla6_2-blister-cordelette-4-mm-x-7-m-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0002404/02-bla6_2-blister-cordelette-4-mm-x-7-m-beal.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bla6_1-blister-cordelette-4-mm-x-7-m-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0002404/03-bla6_1-blister-cordelette-4-mm-x-7-m-beal_1.jpg",
+      "skipped": true
+    }
+  ]
+}

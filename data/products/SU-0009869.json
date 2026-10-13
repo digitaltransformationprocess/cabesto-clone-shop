@@ -1,0 +1,109 @@
+{
+  "sku": "SU-0009869",
+  "url": "https://www.cabesto.com/fr/lampe-de-plongee-sous-marine-hl1000n-bigblue-su-0009869.html",
+  "title": "Lampe frontale de plongée-sous-marine HL1000N BIGBLUE",
+  "brand": "BIGBLUE DIVE LIGHTS",
+  "category": "Phares de plongée rechargeables",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Éclairage - Photo - Vidéo",
+    "Phares de plongée rechargeables",
+    "Destockage Plongée / Chasse sous-marine"
+  ],
+  "categories": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Éclairage - Photo - Vidéo",
+    "Phares de plongée rechargeables",
+    "Destockage Plongée / Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe frontale de plongée-sous-marine HL1000N BIGBLUE"
+  ],
+  "description": "Libérez vos mains sous l'eau grâce à la lampe frontale étanche HL1000N BIGBLUE, la lampe frontale de plongée sous-marine ergonomique qui délivre une puissance lumineuse exceptionnelle de 1000 lumens avec un faisceau concentré de 8° pour une exploration pr",
+  "supplierRef": "HL1000N",
+  "price": {
+    "amount": 185,
+    "currency": "EUR",
+    "formatted": "185 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0009869",
+      "sku": "SU-0009869",
+      "supplierRef": "HL1000N",
+      "price": {
+        "amount": 185,
+        "currency": "EUR",
+        "formatted": "185 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/h/l/hl1000.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/6/4666.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/l/hl4500.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/9/2999.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/o/molly.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/t/vtl2999.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/p/npt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/l/hl10001.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:42:45.632Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/l/hl1000.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009869/01-hl1000.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/6/4666.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009869/02-4666.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/l/hl4500.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009869/03-hl4500.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/2999.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009869/04-2999.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/o/molly.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009869/05-molly.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/t/vtl2999.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009869/06-vtl2999.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/p/npt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009869/07-npt.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/l/hl10001.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009869/08-hl10001.jpg",
+      "skipped": false
+    }
+  ]
+}

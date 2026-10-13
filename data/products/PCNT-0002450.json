@@ -1,0 +1,79 @@
+{
+  "sku": "PCNT-0002450",
+  "url": "https://www.cabesto.com/fr/verticalite-harnais-fly-in-kratos-safety-5202.html",
+  "title": "Harnais Fly'In - Kratos Safety",
+  "brand": "KRATOS SAFETY",
+  "category": "Harnais antichute",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Harnais antichute"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Harnais antichute"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Harnais Fly'In - Kratos Safety"
+  ],
+  "description": "Achetez Harnais Fly'In - Kratos Safety chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 174,
+    "currency": "EUR",
+    "formatted": "174 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0002450",
+      "sku": "PCNT-0002450",
+      "supplierRef": null,
+      "price": {
+        "amount": 174,
+        "currency": "EUR",
+        "formatted": "174 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/2/5202_1_un-harnais-fly-in-kratos-safety_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/2/5202_1_un-harnais-fly-in-kratos-safety_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/2/5202_1_un-harnais-fly-in-kratos-safety_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:25:15.912Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5202_1_un-harnais-fly-in-kratos-safety_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002450/01-5202_1_un-harnais-fly-in-kratos-safety_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5202_1_un-harnais-fly-in-kratos-safety_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002450/02-5202_1_un-harnais-fly-in-kratos-safety_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5202_1_un-harnais-fly-in-kratos-safety_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002450/03-5202_1_un-harnais-fly-in-kratos-safety_1.jpg",
+      "skipped": false
+    }
+  ]
+}

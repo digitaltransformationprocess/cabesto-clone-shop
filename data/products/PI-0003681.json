@@ -1,0 +1,129 @@
+{
+  "sku": "PI-0003681",
+  "url": "https://www.cabesto.com/fr/robot-piscine-t35-chariot-et-swivel-dolphin.html",
+  "title": "ROBOT DE PISCINE FILAIRE T35 DOLPHIN",
+  "brand": "DOLPHIN",
+  "category": "Robot électrique filaire",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Robot électrique",
+    "Idées cadeaux Piscine",
+    "Robot électrique filaire"
+  ],
+  "categories": [
+    "Robot électrique",
+    "Idées cadeaux Piscine",
+    "Robot électrique filaire"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROBOT DE PISCINE FILAIRE T35 DOLPHIN"
+  ],
+  "description": "Robot piscine dolphin t35 avec chariot ROBOT DE PISCINE T35-LE ROBOT ULTRA PERFORMANT VENDU AVEC CHARIOT Le robot de piscine Dolphin T35 est un équipement complet pour le nettoyage du fond, des parois et de la ligne d’eau de votre piscine. Un concentré d",
+  "supplierRef": "99996241-T35",
+  "price": {
+    "amount": 899,
+    "currency": "EUR",
+    "formatted": "899 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003681",
+      "sku": "PI-0003681",
+      "supplierRef": "99996241-T35",
+      "price": {
+        "amount": 899,
+        "currency": "EUR",
+        "formatted": "899 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-dolphin-t35-avec-chariot-35200.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PI-32-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/o/dolphin_t45.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/o/dolphin-t35-aveccaddy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/o/lowres-ep_t35_env_ps_45_lft_horiz_us_copy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-dolphin-t35-avec-chariot-piscine-center-1555398902.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-dolphin-t35-avec-chariot-piscine-center-1555398380.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-dolphin-t35-avec-chariot-piscine-center-1614088087.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-dolphin-t35-avec-chariot-piscine-center-1614088226.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/l/dl99996240-t3_6_233.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/p/ep_t35_env_ps_use_us_opt1_copy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_10_39.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:47:06.457Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-dolphin-t35-avec-chariot-35200.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003681/01-robot-piscine-dolphin-t35-avec-chariot-35200.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-32-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003681/02-PI-32-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/o/dolphin_t45.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003681/03-dolphin_t45.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/o/dolphin-t35-aveccaddy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003681/04-dolphin-t35-aveccaddy.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/o/lowres-ep_t35_env_ps_45_lft_horiz_us_copy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003681/05-lowres-ep_t35_env_ps_45_lft_horiz_us_copy.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-dolphin-t35-avec-chariot-piscine-center-1555398902.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003681/06-robot-piscine-dolphin-t35-avec-chariot-piscine-center-1555398902.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-dolphin-t35-avec-chariot-piscine-center-1555398380.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003681/07-robot-piscine-dolphin-t35-avec-chariot-piscine-center-1555398380.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-dolphin-t35-avec-chariot-piscine-center-1614088087.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003681/08-robot-piscine-dolphin-t35-avec-chariot-piscine-center-1614088087.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-dolphin-t35-avec-chariot-piscine-center-1614088226.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003681/09-robot-piscine-dolphin-t35-avec-chariot-piscine-center-1614088226.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/l/dl99996240-t3_6_233.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003681/10-dl99996240-t3_6_233.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/ep_t35_env_ps_use_us_opt1_copy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003681/11-ep_t35_env_ps_use_us_opt1_copy.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_10_39.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003681/12-hqdefault_10_39.jpg",
+      "skipped": true
+    }
+  ]
+}

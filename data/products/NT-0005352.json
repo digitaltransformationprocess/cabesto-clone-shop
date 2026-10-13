@@ -1,0 +1,109 @@
+{
+  "sku": "NT-0005352",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-matelas-z-lite-sol-thermarest-nt-0005352.html",
+  "title": "Matelas randonnée Z Lite Sol THERMAREST",
+  "brand": "THERMAREST",
+  "category": "matelas-mousse",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "bivouac",
+    "couchage",
+    "matelas",
+    "matelas-mousse"
+  ],
+  "categories": [
+    "montagne",
+    "bivouac",
+    "couchage",
+    "matelas",
+    "matelas-mousse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Matelas randonnée Z Lite Sol THERMAREST"
+  ],
+  "description": "La robustesse à toute épreuve grâce à ce matelas mousse de bivouac Z Lite SOL Thermarest léger, compact et encore plus chaud.",
+  "supplierRef": "06670",
+  "price": {
+    "amount": 55.17,
+    "currency": "EUR",
+    "formatted": "55.17 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005352",
+      "sku": "NT-0005352",
+      "supplierRef": "06670",
+      "price": {
+        "amount": 55.17,
+        "currency": "EUR",
+        "formatted": "55.17 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/a/la22_1-matelas-z-lite-sol-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/8875-large_default/matelas-mousse-nemo-switchback-insulated-regular.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2023-04-27_15_29_19-matelas_neoair_xtherm_nxt___matelas_de_camping_ultral_gers___therm-a-rest_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/se80_1-matelas-ultralight-regular-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/a/la22_4-matelas-z-lite-sol-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/a/la22_3-matelas-z-lite-sol-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/a/la22_2-matelas-z-lite-sol-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/a/la22_1-matelas-z-lite-sol-thermarest_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:23:08.331Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/a/la22_1-matelas-z-lite-sol-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005352/01-la22_1-matelas-z-lite-sol-thermarest.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/8875-large_default/matelas-mousse-nemo-switchback-insulated-regular.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005352/02-matelas-mousse-nemo-switchback-insulated-regular.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2023-04-27_15_29_19-matelas_neoair_xtherm_nxt___matelas_de_camping_ultral_gers___therm-a-rest_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005352/03-2023-04-27_15_29_19-matelas_neoair_xtherm_nxt___matelas_de_camping_ultral_gers___therm-a-rest_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/se80_1-matelas-ultralight-regular-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005352/04-se80_1-matelas-ultralight-regular-sea-to-summit.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/a/la22_4-matelas-z-lite-sol-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005352/05-la22_4-matelas-z-lite-sol-thermarest.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/a/la22_3-matelas-z-lite-sol-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005352/06-la22_3-matelas-z-lite-sol-thermarest.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/a/la22_2-matelas-z-lite-sol-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005352/07-la22_2-matelas-z-lite-sol-thermarest.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/a/la22_1-matelas-z-lite-sol-thermarest_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005352/08-la22_1-matelas-z-lite-sol-thermarest_1.jpg",
+      "skipped": false
+    }
+  ]
+}

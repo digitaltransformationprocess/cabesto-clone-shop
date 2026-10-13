@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0002200",
+  "url": "https://www.cabesto.com/fr/limoncello-24-5-70cl.html",
+  "title": "PERNICI LIMONCELLO 22° 70CL PERNICI",
+  "brand": "PERNICI",
+  "category": "Boissons italiennes",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "boissons-italiennes"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "boissons-italiennes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PERNICI LIMONCELLO 22° 70CL PERNICI"
+  ],
+  "description": "Achetez PERNICI LIMONCELLO 22° 70CL PERNICI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "A0020PE",
+  "price": {
+    "amount": 12.99,
+    "currency": "EUR",
+    "formatted": "12.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002200",
+      "sku": "AL-0002200",
+      "supplierRef": "A0020PE",
+      "price": {
+        "amount": 12.99,
+        "currency": "EUR",
+        "formatted": "12.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/0/3/0352826-0352826-picture_1-0352826_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:59:57.404Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/3/0352826-0352826-picture_1-0352826_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002200/01-0352826-0352826-picture_1-0352826_1.jpg",
+      "skipped": true
+    }
+  ]
+}

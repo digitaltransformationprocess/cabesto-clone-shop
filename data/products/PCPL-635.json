@@ -1,0 +1,83 @@
+{
+  "sku": "PCPL-635",
+  "url": "https://www.cabesto.com/fr/plongee-arbalete-challenger-pro-28-mm-pcpl-635.html",
+  "title": "Arbalète de chasse sous-marine CHALLENGER PRO 28 mm IMERSION",
+  "brand": "IMERSION",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Arbalète de chasse sous-marine CHALLENGER PRO 28 mm IMERSION"
+  ],
+  "description": "Arbalète de chasse sous-marine CHALLENGER PRO 28 mm IMERSIONChassez made in France avec l'arbalète de chasse sous-marine CHALLENGER PRO 28 mm IMERSION, simple robuste et durable.Un tube aluminium Ø 28 mmUne flèche inox Ø 7 mmUn jeu d’obus articulésUne paire de sandows latex Ø 16 mmEtanchéité garantie réalisée par des éléments de flottabilité en résine alvéolaire.Géométrie du tube assurant une rigidité parfaite.Correspondance de taille arbalète / flèche / Sandow : TubeFlèche1 Paire sandow D.16 mm50 cm75 cm13 cm60 cm100 cm16 cm75 cm115 cm19 cm90 cm130 cm22 cmAprès utilisation rincer à l’eau douce. Faire sécher le matériel et le stocker dans un endroit sec, à l’abri de la lumière.Informations techniques :Tube Aluminium Ø 28 mm étancheFlèche Inox Ø 7 mm à 2 encochesObus ArticuléSandows Latex noir Ø 16 mmTête ferméeGun Butt Oui, fixeGuide flèche Oui, réglableLargue fil Oui, automatiqueMade in FranceContenu du colis1 x Arbalète CHALLENGER PRO 28 mm IMERSION, longueur à choisir.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-635",
+      "sku": "PCPL-635",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/c/achp-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-635-pl-4760-picture_1-pcpl-635-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/c/dc113.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/t/dtu-1-scaled.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:31:27.276Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/c/achp-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-635/01-achp-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-635-pl-4760-picture_1-pcpl-635-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-635/02-pcpl-635-pl-4760-picture_1-pcpl-635-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/c/dc113.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-635/03-dc113.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/t/dtu-1-scaled.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-635/04-dtu-1-scaled.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

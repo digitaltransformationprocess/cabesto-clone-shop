@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0002252",
+  "url": "https://www.cabesto.com/fr/plongee-embout-comfo-femme-aqualung-pl-8593.html",
+  "title": "Embout buccal détendeur de plongée femme COMFO small silicone noir AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "accessoires-detendeurs-plongee-et-octopus",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Embout buccal détendeur de plongée femme COMFO small silicone noir AQUALUNG"
+  ],
+  "description": "Embout Comfo Small Femme Aqualung - Confort et ajustement parfait pour vos plongéesUn embout ergonomique conçu pour les plongeuses, offrant un confort inégalé.L'embout Comfo Small Femme d'Aqualung est spécialement conçu pour s'adapter aux petites mâchoires, offrant un confort optimal lors de vos plongées. Fabriqué en silicone noir hypoallergénique, il garantit une douceur exceptionnelle et une parfaite étanchéité, même pendant de longues sessions sous l'eau. Sa taille réduite et son design ergonomique permettent une adaptation idéale à la morphologie féminine, réduisant la fatigue de la mâchoire et améliorant l'expérience de plongée. Facile à installer sur la plupart des détendeurs, cet embout est un choix incontournable pour les plongeuses à la recherche de confort et de performance. Durable et résistant aux conditions marines, il est conçu pour accompagner vos aventures sous-marines les plus exigeantes.Caractéristiques Embout Comfo Small Femme AqualungConçu pour les petites mâchoires, idéal pour les plongeusesFabriqué en silicone noir hypoallergéniqueRéduit la fatigue de la mâchoire pour un confort optimalCompatible avec la plupart des détendeursDurable et résistant aux conditions marinesInformations techniques :RéférenceRG911252EAN3661666005289MatériauSilicone hypoallergéniqueUtilisationAccessoire pour détendeurCouleurNoirContenu du colisUn embout Comfo Small Femme Aqualung.",
+  "supplierRef": "706020",
+  "price": {
+    "amount": 8.99,
+    "currency": "EUR",
+    "formatted": "8.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0002252",
+      "sku": "SU-0002252",
+      "supplierRef": "706020",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/m/embout_aqualung_ayemzzr4poml77td.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-8593-pl-8593-picture_1-pl-8593-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:18.888Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/m/embout_aqualung_ayemzzr4poml77td.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002252/01-embout_aqualung_ayemzzr4poml77td.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-8593-pl-8593-picture_1-pl-8593-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002252/02-pl-8593-pl-8593-picture_1-pl-8593-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "detendeurs-et-octopus",
+    "accessoires-detendeurs-plongee-et-octopus"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "detendeurs-et-octopus",
+    "accessoires-detendeurs-plongee-et-octopus"
+  ]
+}

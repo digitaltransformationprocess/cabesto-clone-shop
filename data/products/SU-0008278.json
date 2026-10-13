@@ -1,0 +1,69 @@
+{
+  "sku": "SU-0008278",
+  "url": "https://www.cabesto.com/fr/plongee-perche-3rd-person-viewer-pour-vaquita-paralenz-pl-79959.html",
+  "title": "Perche télescopique pour caméra sous-marine VAQUITA",
+  "brand": "DIVERS",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage",
+    "Destockage",
+    "Perche télescopique pour caméra sous-marine VAQUITA"
+  ],
+  "description": "Perche télescopique pour caméra sous-marine VAQUITAUne nouvelle perspective sur vos plongée sous-marine.Perche télescopique permettant de filmer avec une caméra sous-marine VAQUITA et de se filmer à la 3ème personne.Les flotteurs assurent la stabilité lorsque vous vous filmez à la 3ème personne.Longeur de 30 cm à 1,8mEnregistrement vidéo mains libres vous permettant de vous enregistrer.Fabriqué en fibre de carbone et en poly-carbonateSécurité magnétiquePoids : 245 gr incluant les flotteurs, le mousqueton et le dispositif de sécurité magnétiqueMatériaux : Fibre de carbone, polycarbonate et vis en acier inoxydableContenu du colis :1 x Perche Carbone2 x Flotteurs1 x Système d'attache magnétique rapide pour la stab",
+  "supplierRef": "PAR20102",
+  "price": {
+    "amount": 119,
+    "currency": "EUR",
+    "formatted": "119 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0008278",
+      "sku": "SU-0008278",
+      "supplierRef": "PAR20102",
+      "price": {
+        "amount": 119,
+        "currency": "EUR",
+        "formatted": "119 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/e/perche.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:32:04.101Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/perche.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008278/01-perche.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "sku": "PCNT-0002581",
+  "url": "https://www.cabesto.com/fr/veste-storm-2-0-5287.html",
+  "title": "Veste Storm 2.0",
+  "brand": "COURANT",
+  "category": "vestes",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "femme",
+    "marin",
+    "vestes"
+  ],
+  "categories": [
+    "textile",
+    "femme",
+    "marin",
+    "vestes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Veste Storm 2.0"
+  ],
+  "description": "Achetez Veste Storm 2.0 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 204,
+    "currency": "EUR",
+    "formatted": "204 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0002581",
+      "sku": "PCNT-0002581",
+      "supplierRef": null,
+      "price": {
+        "amount": 204,
+        "currency": "EUR",
+        "formatted": "204 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/2/5287_1_g-veste-storm-2-0-courant_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/2/5287_1_g-veste-storm-2-0-courant.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/2/5287_1_g-veste-storm-2-0-courant_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/2/5287_1_g-veste-storm-2-0-courant_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/2/5287_1_g-veste-storm-2-0-courant_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/2/5287_1_g-veste-storm-2-0-courant_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:30:18.305Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5287_1_g-veste-storm-2-0-courant_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002581/01-5287_1_g-veste-storm-2-0-courant_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5287_1_g-veste-storm-2-0-courant.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002581/02-5287_1_g-veste-storm-2-0-courant.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5287_1_g-veste-storm-2-0-courant_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002581/03-5287_1_g-veste-storm-2-0-courant_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5287_1_g-veste-storm-2-0-courant_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002581/04-5287_1_g-veste-storm-2-0-courant_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5287_1_g-veste-storm-2-0-courant_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002581/05-5287_1_g-veste-storm-2-0-courant_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5287_1_g-veste-storm-2-0-courant_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0002581/06-5287_1_g-veste-storm-2-0-courant_4.jpg",
+      "skipped": false
+    }
+  ]
+}

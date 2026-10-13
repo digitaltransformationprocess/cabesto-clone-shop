@@ -1,0 +1,121 @@
+{
+  "sku": "PCNT-0003078",
+  "url": "https://www.cabesto.com/fr/verticalite-gants-enduits-pu-aventure-verticale-av05.html",
+  "title": "Gants enduits PU - Aventure Verticale",
+  "brand": "AVENTURE VERTICALE",
+  "category": "Gants, genouillères, coudières",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Spéléologie",
+    "Gants, genouillères, coudières"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Gants, genouillères, coudières"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gants enduits PU - Aventure Verticale"
+  ],
+  "description": "Gants nylon HPPE enduits PU appelés dyneema assurent une bonne protection en conservant une excellente dextérité pour les manips en spéléo, canyon, secours...",
+  "supplierRef": null,
+  "price": {
+    "amount": 14.36,
+    "currency": "EUR",
+    "formatted": "14.36 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0003078",
+      "sku": "PCNT-0003078",
+      "supplierRef": null,
+      "price": {
+        "amount": 14.36,
+        "currency": "EUR",
+        "formatted": "14.36 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/4/0452_1_b-sac-de-ceinture-aventure-verticale_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pze4_1-bretelles-speleo-torse-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/v/av02_1_j-gants-speleo-aventure-verticale_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:34:46.433Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003078/01-av05_1_m-gants-enduits-pu-aventure-verticale_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/4/0452_1_b-sac-de-ceinture-aventure-verticale_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003078/02-0452_1_b-sac-de-ceinture-aventure-verticale_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pze4_1-bretelles-speleo-torse-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003078/03-pze4_1-bretelles-speleo-torse-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av02_1_j-gants-speleo-aventure-verticale_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003078/04-av02_1_j-gants-speleo-aventure-verticale_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003078/05-av05_1_m-gants-enduits-pu-aventure-verticale_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003078/06-av05_1_m-gants-enduits-pu-aventure-verticale.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003078/07-av05_1_m-gants-enduits-pu-aventure-verticale_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003078/08-av05_1_m-gants-enduits-pu-aventure-verticale_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003078/09-av05_1_m-gants-enduits-pu-aventure-verticale_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003078/10-av05_1_m-gants-enduits-pu-aventure-verticale_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/v/av05_1_m-gants-enduits-pu-aventure-verticale_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003078/11-av05_1_m-gants-enduits-pu-aventure-verticale_5.jpg",
+      "skipped": false
+    }
+  ]
+}

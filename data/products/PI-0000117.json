@@ -1,0 +1,73 @@
+{
+  "sku": "PI-0000117",
+  "url": "https://www.cabesto.com/fr/piscine-bache-a-bulles-de-piscine-ronde-de-diametre-366cm-pi-314.html",
+  "title": "Bâche à bulles de piscine ronde de diamètre 366cm",
+  "brand": "INTEX",
+  "category": "Bâche à bulles",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Bâche à bulles",
+    "Bâche à bulles"
+  ],
+  "categories": [
+    "Bâche à bulles",
+    "Bâche à bulles"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bâche à bulles de piscine ronde de diamètre 366cm"
+  ],
+  "description": "Bâche à bulles de piscine ronde de diamètre 366cm BACHE A BULLES DIAMETRE 366CM - IDEAL POUR MAINTENIR LA CHALEUR DE SA PISCINE Cette couverture solaire de piscine de la marque Intex repose directement sur la surface de l'eau, à l'intérieur des bords de",
+  "supplierRef": "28012",
+  "price": {
+    "amount": 23.9,
+    "currency": "EUR",
+    "formatted": "23.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000117",
+      "sku": "PI-0000117",
+      "supplierRef": "28012",
+      "price": {
+        "amount": 23.9,
+        "currency": "EUR",
+        "formatted": "23.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/9/29022-bache-bulles-ronde_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/9/29022-bache-bulles-ronde_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_4.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:33:46.543Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/29022-bache-bulles-ronde_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000117/01-29022-bache-bulles-ronde_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/29022-bache-bulles-ronde_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000117/02-29022-bache-bulles-ronde_3_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_4.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000117/03-sans_titre_4.png",
+      "skipped": false
+    }
+  ]
+}

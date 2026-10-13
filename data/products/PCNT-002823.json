@@ -1,0 +1,91 @@
+{
+  "sku": "PCNT-002823",
+  "url": "https://www.cabesto.com/fr/plongee-pochette-telephone-etanche-frendo-nt-0028237-0028238-0028239.html",
+  "title": "Pochette Téléphone Etanche FRENDO",
+  "brand": "FRENDO",
+  "category": "promotions-montagne",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pochette Téléphone Etanche FRENDO"
+  ],
+  "description": "Pochette Téléphone Etanche FRENDOLa pochette étanche pour téléphone garde vos appareils à l’abri de l’eau, du sable et de la neige.CARACTERISTIQUES TECHNIQUES DE LA POCHETTE TELEPHONE ÉTANCHE :Immersion sans risque jusqu'à 10 mètres.Fermeture à clapet et double ergot de sécurité.Compatible avec tous les téléphones jusqu’à 5,7\".Etanche IPX8.Tactile.",
+  "supplierRef": "61084",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-002823",
+      "sku": "PCNT-002823",
+      "supplierRef": "61084",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/1/610846_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pochette-etanche-pour-smartphone_1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pochette-etanche-pour-smartphone_1__1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/1/610846_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pochette-etanche-pour-smartphone_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pochette-etanche-pour-smartphone_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:32:48.079Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/610846_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-002823/01-610846_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pochette-etanche-pour-smartphone_1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-002823/02-pochette-etanche-pour-smartphone_1__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pochette-etanche-pour-smartphone_1__1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-002823/03-pochette-etanche-pour-smartphone_1__1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/610846_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-002823/04-610846_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pochette-etanche-pour-smartphone_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-002823/05-pochette-etanche-pour-smartphone_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pochette-etanche-pour-smartphone_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-002823/06-pochette-etanche-pour-smartphone_1__1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-montagne"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-montagne"
+  ]
+}

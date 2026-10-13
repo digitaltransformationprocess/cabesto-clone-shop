@@ -1,0 +1,77 @@
+{
+  "sku": "AL-0001854",
+  "url": "https://www.cabesto.com/fr/gambas-sauvages-7-10-pieces-500gr.html",
+  "title": "GAMBAS SAUVAGES 7/10 PIECES 500GR",
+  "brand": "GEL PECHE",
+  "category": "gambas",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "crevettes-et-gambas",
+    "gambas"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "crevettes-et-gambas",
+    "gambas"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "GAMBAS SAUVAGES 7/10 PIECES 500GR"
+  ],
+  "description": "Achetez GAMBAS SAUVAGES 7/10 PIECES 500GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1HOS0710BROSIN11",
+  "price": {
+    "amount": 14.39,
+    "currency": "EUR",
+    "formatted": "14.39 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001854",
+      "sku": "AL-0001854",
+      "supplierRef": "1HOS0710BROSIN11",
+      "price": {
+        "amount": 14.39,
+        "currency": "EUR",
+        "formatted": "14.39 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/a/gambas_sauvages_g_antes_inde_500g_7-10.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/s/istock-1204161822_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/AL-0001854.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:53:25.657Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/gambas_sauvages_g_antes_inde_500g_7-10.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001854/01-gambas_sauvages_g_antes_inde_500g_7-10.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/s/istock-1204161822_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001854/02-istock-1204161822_1_.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/AL-0001854.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001854/03-AL-0001854.jpg",
+      "skipped": true
+    }
+  ]
+}

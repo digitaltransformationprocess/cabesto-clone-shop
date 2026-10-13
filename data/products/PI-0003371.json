@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0003371",
+  "url": "https://www.cabesto.com/fr/piscine-surpresseur-waterfull-plus-1cv-mono-compatible-boost-rite-pi-524.html",
+  "title": "Surpresseur waterfull plus 1cv mono compatible boost rite",
+  "brand": "EPAI",
+  "category": "Surpresseur de piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "filtration",
+    "surpresseur-de-piscine"
+  ],
+  "categories": [
+    "piscine",
+    "filtration",
+    "surpresseur-de-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Surpresseur waterfull plus 1cv mono compatible boost rite"
+  ],
+  "description": "Achetez Surpresseur waterfull plus 1cv mono compatible boost rite chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "DBM204M",
+  "price": {
+    "amount": 189,
+    "currency": "EUR",
+    "formatted": "189 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003371",
+      "sku": "PI-0003371",
+      "supplierRef": "DBM204M",
+      "price": {
+        "amount": 189,
+        "currency": "EUR",
+        "formatted": "189 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/u/surpresseur-waterfull-plus-1cv-mono-compatible-boost-rite-33802.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:35:21.170Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/surpresseur-waterfull-plus-1cv-mono-compatible-boost-rite-33802.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003371/01-surpresseur-waterfull-plus-1cv-mono-compatible-boost-rite-33802.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "PCNT-0013642",
+  "url": "https://www.cabesto.com/fr/randonnee-chaussures-approche-randonnee-femme-mojito-trail-scarpa-sc42.html",
+  "title": "Chaussures approche randonnée Femme Mojito Trail - SCARPA",
+  "brand": "SCARPA",
+  "category": "Chaussures basses femme",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Randonnée",
+    "Chaussures",
+    "Chaussures basses outdoor",
+    "Destockage Montagne",
+    "Chaussures basses femme"
+  ],
+  "categories": [
+    "Randonnée",
+    "Chaussures",
+    "Chaussures basses outdoor",
+    "Destockage Montagne",
+    "Chaussures basses femme"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussures approche randonnée Femme Mojito Trail - SCARPA"
+  ],
+  "description": "Achetez Chaussures approche randonnée Femme Mojito Trail - SCARPA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0013642",
+      "sku": "PCNT-0013642",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/c/sc42_1_bh-chaussures-approche-randonnee-femme-mojito-trail-scarpa_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:30:45.412Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc42_1_bh-chaussures-approche-randonnee-femme-mojito-trail-scarpa_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0013642/01-sc42_1_bh-chaussures-approche-randonnee-femme-mojito-trail-scarpa_8.jpg",
+      "skipped": false
+    }
+  ]
+}

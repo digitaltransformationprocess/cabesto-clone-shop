@@ -1,0 +1,77 @@
+{
+  "sku": "NT-0018899",
+  "url": "https://www.cabesto.com/fr/sangle-finesse-10-cm-nt-0018899.html",
+  "title": "Sangle de dégaine Finesse 10 cm PETZL",
+  "brand": "PETZL",
+  "category": "anneaux-express",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "cordes-sangles",
+    "anneaux",
+    "anneaux-express"
+  ],
+  "categories": [
+    "montagne",
+    "cordes-sangles",
+    "anneaux",
+    "anneaux-express"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sangle de dégaine Finesse 10 cm PETZL"
+  ],
+  "description": "Achetez Sangle de dégaine Finesse 10 cm PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "C042AA00",
+  "price": {
+    "amount": 6.45,
+    "currency": "EUR",
+    "formatted": "6.45 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0018899",
+      "sku": "NT-0018899",
+      "supplierRef": "C042AA00",
+      "price": {
+        "amount": 6.45,
+        "currency": "EUR",
+        "formatted": "6.45 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pz59_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz60_1-sangle-de-degaine-finesse-17-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/al43_1-tricky-tool-climbing-technology.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:39:24.188Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz59_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0018899/01-pz59_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz60_1-sangle-de-degaine-finesse-17-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0018899/02-pz60_1-sangle-de-degaine-finesse-17-cm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al43_1-tricky-tool-climbing-technology.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0018899/03-al43_1-tricky-tool-climbing-technology.jpg",
+      "skipped": false
+    }
+  ]
+}

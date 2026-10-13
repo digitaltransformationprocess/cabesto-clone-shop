@@ -1,0 +1,89 @@
+{
+  "sku": "PI-0009365",
+  "url": "https://www.cabesto.com/fr/piscine-piscine-bois-rectangle-weva-800-x-400-x-h146-cm-bleu-pi-85.html",
+  "title": "PISCINE BOIS WEVA+840 8.44X4.90Xh1.46M- Piscine octogonale allongée avec hauteur de 1m46",
+  "brand": "BWT",
+  "category": "Piscine octogonale allongée",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine bois",
+    "Piscine octogonale allongée"
+  ],
+  "categories": [
+    "Piscine bois",
+    "Piscine octogonale allongée"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piscine",
+    "Piscine",
+    "Piscine hors-sol",
+    "Piscine hors-sol",
+    "PISCINE BOIS WEVA+840 8.44X4.90Xh1.46M- Piscine octogonale allongée avec hauteur de 1m46"
+  ],
+  "description": "Achetez PISCINE BOIS WEVA+840 8.44X4.90Xh1.46M- Piscine octogonale allongée avec hauteur de 1m46 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "27138210",
+  "price": {
+    "amount": 10550,
+    "currency": "EUR",
+    "formatted": "10550 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0009365",
+      "sku": "PI-0009365",
+      "supplierRef": "27138210",
+      "price": {
+        "amount": 10550,
+        "currency": "EUR",
+        "formatted": "10550 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/w/e/weva_840_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/weva_840_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/weva_840_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_12_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/weva_840_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:30:19.312Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/weva_840_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009365/01-weva_840_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/weva_840_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009365/02-weva_840_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/weva_840_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009365/03-weva_840_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_12_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009365/04-hqdefault_12_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/weva_840_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009365/05-weva_840_.jpg",
+      "skipped": false
+    }
+  ]
+}

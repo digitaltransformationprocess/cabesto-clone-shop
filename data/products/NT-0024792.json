@@ -1,0 +1,61 @@
+{
+  "sku": "NT-0024792",
+  "url": "https://www.cabesto.com/fr/william-ball-lock.html",
+  "title": "William Ball-Lock",
+  "brand": "PETZL",
+  "category": "mousquetons-degaines-maillons",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "mousquetons-degaines-maillons"
+  ],
+  "categories": [
+    "montagne",
+    "mousquetons-degaines-maillons"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "William Ball-Lock"
+  ],
+  "description": "Achetez William Ball-Lock chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "M36A BL",
+  "price": {
+    "amount": 26.95,
+    "currency": "EUR",
+    "formatted": "26.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0024792",
+      "sku": "NT-0024792",
+      "supplierRef": "M36A BL",
+      "price": {
+        "amount": 26.95,
+        "currency": "EUR",
+        "formatted": "26.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/1/119_william.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:39:52.089Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/1/119_william.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0024792/01-119_william.jpeg",
+      "skipped": false
+    }
+  ]
+}

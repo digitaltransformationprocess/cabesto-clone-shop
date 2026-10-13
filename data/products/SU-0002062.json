@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0002062",
+  "url": "https://www.cabesto.com/fr/plongee-dague-kayen-dessault-pl-7617.html",
+  "title": "Dague de chasse sous-marine KAYEN DESSAULT",
+  "brand": "DESSAULT",
+  "category": "couverts-couteaux",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Dague de chasse sous-marine KAYEN DESSAULT"
+  ],
+  "description": "La dague Kayen est un couteau de chasse sous-marine classique, avec lame de 11 cm acier inoxydable traité téflon, et fixation cheville. Made by Dessault !Lame : 11 cm acier inoxydable traité TéflonFixation : cheville UNIQUEMENT",
+  "supplierRef": "DSDAKAY",
+  "price": {
+    "amount": 24.99,
+    "currency": "EUR",
+    "formatted": "24.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0002062",
+      "sku": "SU-0002062",
+      "supplierRef": "DSDAKAY",
+      "price": {
+        "amount": 24.99,
+        "currency": "EUR",
+        "formatted": "24.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-7617-pl-7617-picture_1-pl-7617-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:49.138Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-7617-pl-7617-picture_1-pl-7617-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002062/01-pl-7617-pl-7617-picture_1-pl-7617-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "bivouac",
+    "cuisine",
+    "couverts-couteaux"
+  ],
+  "categories": [
+    "montagne",
+    "bivouac",
+    "cuisine",
+    "couverts-couteaux"
+  ]
+}

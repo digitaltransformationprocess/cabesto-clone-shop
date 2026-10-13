@@ -1,0 +1,85 @@
+{
+  "sku": "PCNT-0004750",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-bouteille-acier-inoxydable-1-l-360-hc04.html",
+  "title": "Bouteille acier inoxydable 1 L - 360°",
+  "brand": null,
+  "category": "Gourdes et housses",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Gourdes et housses"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Gourdes et housses"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bouteille acier inoxydable 1 L - 360°"
+  ],
+  "description": "Achetez Bouteille acier inoxydable 1 L - 360° chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 16.95,
+    "currency": "EUR",
+    "formatted": "16.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004750",
+      "sku": "PCNT-0004750",
+      "supplierRef": null,
+      "price": {
+        "amount": 16.95,
+        "currency": "EUR",
+        "formatted": "16.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/h/c/hc04_1_a-bouteille-acier-inoxydable-1-l-360_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hc04_1_b-bouteille-acier-inoxydable-1-l-360_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hc04_1_a-bouteille-acier-inoxydable-1-l-360_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hc04_1_a-bouteille-acier-inoxydable-1-l-360.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/c/hc04_1_b-bouteille-acier-inoxydable-1-l-360.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:36:11.469Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hc04_1_a-bouteille-acier-inoxydable-1-l-360_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004750/01-hc04_1_a-bouteille-acier-inoxydable-1-l-360_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hc04_1_b-bouteille-acier-inoxydable-1-l-360_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004750/02-hc04_1_b-bouteille-acier-inoxydable-1-l-360_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hc04_1_a-bouteille-acier-inoxydable-1-l-360_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004750/03-hc04_1_a-bouteille-acier-inoxydable-1-l-360_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hc04_1_a-bouteille-acier-inoxydable-1-l-360.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004750/04-hc04_1_a-bouteille-acier-inoxydable-1-l-360.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hc04_1_b-bouteille-acier-inoxydable-1-l-360.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004750/05-hc04_1_b-bouteille-acier-inoxydable-1-l-360.jpg",
+      "skipped": false
+    }
+  ]
+}

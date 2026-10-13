@@ -1,0 +1,85 @@
+{
+  "sku": "PI-0000683",
+  "url": "https://www.cabesto.com/fr/piscine-chlore-choc-granule-5kg-pi-174.html",
+  "title": "CHLORE CHOC GRANULE 5KG",
+  "brand": "CABESTO",
+  "category": "Chlore choc de piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Chlore",
+    "Chlore choc de piscine"
+  ],
+  "categories": [
+    "Chlore",
+    "Chlore choc de piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piscine",
+    "Piscine",
+    "Traitement de l'eau",
+    "Traitement de l'eau",
+    "Chlore",
+    "Chlore",
+    "CHLORE CHOC GRANULE 5KG"
+  ],
+  "description": "Achetez CHLORE CHOC GRANULE 5KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "108400",
+  "price": {
+    "amount": 29.9,
+    "currency": "EUR",
+    "formatted": "29.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000683",
+      "sku": "PI-0000683",
+      "supplierRef": "108400",
+      "price": {
+        "amount": 29.9,
+        "currency": "EUR",
+        "formatted": "29.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/h/chlore_choc_granul_5_kg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/g/sgh07_pointexclamation_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/g/sgh09_environnement_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/g/sgh05_corrosion_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:45:06.356Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/h/chlore_choc_granul_5_kg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000683/01-chlore_choc_granul_5_kg.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/g/sgh07_pointexclamation_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000683/02-sgh07_pointexclamation_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/g/sgh09_environnement_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000683/03-sgh09_environnement_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/g/sgh05_corrosion_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000683/04-sgh05_corrosion_2.jpg",
+      "skipped": false
+    }
+  ]
+}

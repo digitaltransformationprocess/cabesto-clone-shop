@@ -1,0 +1,103 @@
+{
+  "sku": "PCNT-0007124",
+  "url": "https://www.cabesto.com/fr/chaussures-femme-mtn-trainer-2-gtx.html",
+  "title": "Chaussures Femme Mtn Trainer 2 Gtx SALEWA",
+  "brand": "SALEWA",
+  "category": "Chaussures basses femme",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Chaussures",
+    "Chaussures basses outdoor",
+    "Destockage Montagne",
+    "Chaussures basses femme",
+    "Ventes privées Montagne"
+  ],
+  "categories": [
+    "Chaussures",
+    "Chaussures basses outdoor",
+    "Destockage Montagne",
+    "Chaussures basses femme",
+    "Ventes privées Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussures Femme Mtn Trainer 2 Gtx SALEWA"
+  ],
+  "description": "Conçue pour les approches difficiles et techniques par tout temps, la MTN TRAINER 2 Gore-Tex Femme s'affranchit des limites des terrains escarpés.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0007124",
+      "sku": "PCNT-0007124",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/l/sl11_1_gs-chaussures-femme-mtn-trainer-2-gtx-salewa_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl11_6_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl11_5_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl11_4_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl11_3_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl11_2_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl11_1_gs-chaussures-femme-mtn-trainer-2-gtx-salewa_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:34:58.742Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl11_1_gs-chaussures-femme-mtn-trainer-2-gtx-salewa_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007124/01-sl11_1_gs-chaussures-femme-mtn-trainer-2-gtx-salewa_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl11_6_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007124/02-sl11_6_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl11_5_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007124/03-sl11_5_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl11_4_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007124/04-sl11_4_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl11_3_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007124/05-sl11_3_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl11_2_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007124/06-sl11_2_gs-chaussures-femme-mtn-trainer-2-gtx-salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl11_1_gs-chaussures-femme-mtn-trainer-2-gtx-salewa_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007124/07-sl11_1_gs-chaussures-femme-mtn-trainer-2-gtx-salewa_7.jpg",
+      "skipped": false
+    }
+  ]
+}

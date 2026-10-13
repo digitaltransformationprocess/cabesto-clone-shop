@@ -1,0 +1,87 @@
+{
+  "sku": "PCNT-0018493",
+  "url": "https://www.cabesto.com/fr/verticalite-sac-a-lancer-jet-petzl-5223.html",
+  "title": "Sac à lancer JET - PETZL",
+  "brand": "PETZL",
+  "category": "Accessoires élagage",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Elagage",
+    "Accessoires élagage"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Elagage",
+    "Accessoires élagage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac à lancer JET - PETZL"
+  ],
+  "description": "Achetez Sac à lancer JET - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 25.95,
+    "currency": "EUR",
+    "formatted": "25.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0018493",
+      "sku": "PCNT-0018493",
+      "supplierRef": null,
+      "price": {
+        "amount": 25.95,
+        "currency": "EUR",
+        "formatted": "25.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/2/5223_1_g-sac-a-lancer-jet-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/2/5223_1_g-sac-a-lancer-jet-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/2/5223_1_g-sac-a-lancer-jet-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/2/5223_1_g-sac-a-lancer-jet-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/2/5223_1_g-sac-a-lancer-jet-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:24:26.192Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5223_1_g-sac-a-lancer-jet-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018493/01-5223_1_g-sac-a-lancer-jet-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5223_1_g-sac-a-lancer-jet-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018493/02-5223_1_g-sac-a-lancer-jet-petzl_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5223_1_g-sac-a-lancer-jet-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018493/03-5223_1_g-sac-a-lancer-jet-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5223_1_g-sac-a-lancer-jet-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018493/04-5223_1_g-sac-a-lancer-jet-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/2/5223_1_g-sac-a-lancer-jet-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018493/05-5223_1_g-sac-a-lancer-jet-petzl_2.jpg",
+      "skipped": false
+    }
+  ]
+}

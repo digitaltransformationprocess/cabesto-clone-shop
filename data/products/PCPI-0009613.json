@@ -1,0 +1,147 @@
+{
+  "sku": "PCPI-0009613",
+  "url": "https://www.cabesto.com/fr/pompe-piscine-powerline-mono-hayward.html",
+  "title": "POMPE FILTRATION PISCINE POWERLINE MONO - HAYWARD",
+  "brand": "HAYWARD",
+  "category": "Pompe Hayward",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "annexe-moteur",
+    "huiles-filtres-pompes"
+  ],
+  "categories": [
+    "nautisme",
+    "annexe-moteur",
+    "huiles-filtres-pompes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "POMPE FILTRATION PISCINE POWERLINE MONO - HAYWARD"
+  ],
+  "description": "Achetez POMPE FILTRATION PISCINE POWERLINE MONO - HAYWARD chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 179,
+    "currency": "EUR",
+    "formatted": "179 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPI-0009613",
+      "sku": "PCPI-0009613",
+      "supplierRef": null,
+      "price": {
+        "amount": 179,
+        "currency": "EUR",
+        "formatted": "179 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/11432-thick_idpiscine/pompe-filtration-piscines-hayward-powerline-025-cv-mono.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-hayward-powerline-0-50-cv-mono-piscine-center-1486371143_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-hayward-powerline-plus-0-50-cv-mono-piscine-center-1396338848_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-hayward-powerline-plus-0-50-cv-mono-piscine-center-1396339417_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-25-cv-mono-piscine-center-1610464790_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-25-cv-mono-piscine-center-1610465089_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-25-cv-mono-piscine-center-1613731266_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-75-cv-mono-43731_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-hayward-powerline-0-50-cv-mono-piscine-center-1486371143_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-hayward-powerline-plus-0-50-cv-mono-piscine-center-1396338848_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-hayward-powerline-plus-0-50-cv-mono-piscine-center-1396339417_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-25-cv-mono-piscine-center-1610464790.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-25-cv-mono-piscine-center-1610465089_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-25-cv-mono-piscine-center-1613731266_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-75-cv-mono-43731_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:46:52.148Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/11432-thick_idpiscine/pompe-filtration-piscines-hayward-powerline-025-cv-mono.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/01-pompe-filtration-piscines-hayward-powerline-025-cv-mono.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-hayward-powerline-0-50-cv-mono-piscine-center-1486371143_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/02-pompe-hayward-powerline-0-50-cv-mono-piscine-center-1486371143_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-hayward-powerline-plus-0-50-cv-mono-piscine-center-1396338848_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/03-pompe-hayward-powerline-plus-0-50-cv-mono-piscine-center-1396338848_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-hayward-powerline-plus-0-50-cv-mono-piscine-center-1396339417_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/04-pompe-hayward-powerline-plus-0-50-cv-mono-piscine-center-1396339417_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-25-cv-mono-piscine-center-1610464790_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/05-pompe-powerline-0-25-cv-mono-piscine-center-1610464790_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-25-cv-mono-piscine-center-1610465089_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/06-pompe-powerline-0-25-cv-mono-piscine-center-1610465089_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-25-cv-mono-piscine-center-1613731266_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/07-pompe-powerline-0-25-cv-mono-piscine-center-1613731266_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-75-cv-mono-43731_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/08-pompe-powerline-0-75-cv-mono-43731_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-hayward-powerline-0-50-cv-mono-piscine-center-1486371143_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/09-pompe-hayward-powerline-0-50-cv-mono-piscine-center-1486371143_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-hayward-powerline-plus-0-50-cv-mono-piscine-center-1396338848_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/10-pompe-hayward-powerline-plus-0-50-cv-mono-piscine-center-1396338848_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-hayward-powerline-plus-0-50-cv-mono-piscine-center-1396339417_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/11-pompe-hayward-powerline-plus-0-50-cv-mono-piscine-center-1396339417_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-25-cv-mono-piscine-center-1610464790.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/12-pompe-powerline-0-25-cv-mono-piscine-center-1610464790.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-25-cv-mono-piscine-center-1610465089_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/13-pompe-powerline-0-25-cv-mono-piscine-center-1610465089_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-25-cv-mono-piscine-center-1613731266_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/14-pompe-powerline-0-25-cv-mono-piscine-center-1613731266_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-powerline-0-75-cv-mono-43731_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0009613/15-pompe-powerline-0-75-cv-mono-43731_1.jpg",
+      "skipped": false
+    }
+  ]
+}

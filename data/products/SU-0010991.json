@@ -1,0 +1,151 @@
+{
+  "sku": "SU-0010991",
+  "url": "https://www.cabesto.com/fr/ordinateur-de-plongee-sous-marine-tablet-emetteur-seac-sub-su-0010991.html",
+  "title": "Ordinateur de plongée sous-marine TABLET + Emetteur SEAC SUB",
+  "brand": "SEAC",
+  "category": "Idées cadeaux Plongée et Chasse sous-marine",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Ordinateurs de plongée",
+    "Ordinateur gestion d'air",
+    "Packs Ordinateurs de plongée",
+    "Idées cadeaux Plongée & Chasse sous-marine",
+    "Idées cadeaux Plongée et Chasse sous-marine"
+  ],
+  "categories": [
+    "Ordinateurs de plongée",
+    "Ordinateur gestion d'air",
+    "Packs Ordinateurs de plongée",
+    "Idées cadeaux Plongée & Chasse sous-marine",
+    "Idées cadeaux Plongée et Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ordinateur de plongée sous-marine TABLET + Emetteur SEAC SUB"
+  ],
+  "description": "Découvrez la précision, la connectivité et la sécurité de l'ordinateur de plongée TABLET SEAC SUB livré ici avec son émetteur sans fil pour la gestion d'air, l'instrument de plongée multi-gaz intuitif garantissant des immersions en toute sérénité au meill",
+  "supplierRef": "1600061525000A",
+  "price": {
+    "amount": 459,
+    "currency": "EUR",
+    "formatted": "459 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010991",
+      "sku": "SU-0010991",
+      "supplierRef": "1600061525000A",
+      "price": {
+        "amount": 459,
+        "currency": "EUR",
+        "formatted": "459 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/t/a/tablet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/n/interface-usb-pour-ordis-screen-seac-sub_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/tab3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/tab.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/tab2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/tab1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/m/emt2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/tab4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/tab5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/m/emet1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/m/emet6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/m/emet4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/m/emet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/tab8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/tab9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:39:16.947Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/tablet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010991/01-tablet.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/n/interface-usb-pour-ordis-screen-seac-sub_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010991/02-interface-usb-pour-ordis-screen-seac-sub_01.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/tab3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010991/03-tab3.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/tab.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010991/04-tab.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/tab2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010991/05-tab2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/tab1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0010991\\06-tab1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0010991\\06-tab1.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/m/emt2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010991/07-emt2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/tab4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0010991\\08-tab4.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0010991\\08-tab4.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/tab5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010991/09-tab5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/m/emet1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "UNKNOWN: unknown error, open 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0010991\\10-emet1.jpg.part'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/m/emet6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010991/11-emet6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/m/emet4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010991/12-emet4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/m/emet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010991/13-emet.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/tab8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0010991\\14-tab8.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\SU-0010991\\14-tab8.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/tab9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010991/15-tab9.jpg",
+      "skipped": false
+    }
+  ]
+}

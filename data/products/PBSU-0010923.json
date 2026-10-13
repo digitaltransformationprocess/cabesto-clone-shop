@@ -1,0 +1,85 @@
+{
+  "sku": "PBSU-0010923",
+  "url": "https://www.cabesto.com/fr/pack-montre-ordinateur-de-plongee-sirius-l-bracelet-couleur-supplementaire-mares.html",
+  "title": "Pack montre ordinateur de plongée SIRIUS L + Bracelet couleur supplémentaire MARES",
+  "brand": "MARES",
+  "category": "Idées cadeaux Plongée & Chasse sous-marine",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée sous-marine",
+    "Ordinateurs de plongée",
+    "Ordinateur multigaz",
+    "Boutique de Noël",
+    "Idées cadeaux Plongée & Chasse sous-marine"
+  ],
+  "categories": [
+    "Plongée sous-marine",
+    "Ordinateurs de plongée",
+    "Ordinateur multigaz",
+    "Boutique de Noël",
+    "Idées cadeaux Plongée & Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pack montre ordinateur de plongée SIRIUS L + Bracelet couleur supplémentaire MARES"
+  ],
+  "description": "Plongez avec la nouvelle montre SIRIUS L MARES est profitez d'un bracelet supplémentaire couleur en silicone offert dans ce pack Noël.",
+  "supplierRef": null,
+  "price": {
+    "amount": 249,
+    "currency": "EUR",
+    "formatted": "249 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PBSU-0010923",
+      "sku": "PBSU-0010923",
+      "supplierRef": null,
+      "price": {
+        "amount": 249,
+        "currency": "EUR",
+        "formatted": "249 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/i/siriusnoel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/_/l_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/414816_siriusstrap_kit_rd_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/414816_siriusstrap_kit_bl_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:40:08.868Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/i/siriusnoel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PBSU-0010923/01-siriusnoel.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/_/l_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PBSU-0010923/02-l_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/414816_siriusstrap_kit_rd_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PBSU-0010923/03-414816_siriusstrap_kit_rd_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/414816_siriusstrap_kit_bl_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PBSU-0010923/04-414816_siriusstrap_kit_bl_1_1.jpg",
+      "skipped": false
+    }
+  ]
+}

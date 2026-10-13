@@ -1,0 +1,79 @@
+{
+  "sku": "NT-0017083",
+  "url": "https://www.cabesto.com/fr/verticalite-poulie-pour-simple-2019-petzl-nt-0017083.html",
+  "title": "Poulie pour SIMPLE 2019 - PETZL",
+  "brand": "PETZL",
+  "category": "Pièces détachées descendeurs spéléo",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Spéléologie",
+    "Pièces détachées descendeurs spéléo"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Pièces détachées descendeurs spéléo"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Poulie pour SIMPLE 2019 - PETZL"
+  ],
+  "description": "La poulie de remplacement permet de prolonger la durée de vie des descendeurs SIMPLE.",
+  "supplierRef": "D004CA00",
+  "price": {
+    "amount": 11.95,
+    "currency": "EUR",
+    "formatted": "11.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0017083",
+      "sku": "NT-0017083",
+      "supplierRef": "D004CA00",
+      "price": {
+        "amount": 11.95,
+        "currency": "EUR",
+        "formatted": "11.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pz86_1-poulie-pour-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/6/0624_1-poulie-superieure-pour-simple-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz85_1-descendeur-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz86_1-poulie-pour-simple-2019-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:20:36.924Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz86_1-poulie-pour-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0017083/01-pz86_1-poulie-pour-simple-2019-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/6/0624_1-poulie-superieure-pour-simple-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0017083/02-0624_1-poulie-superieure-pour-simple-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz85_1-descendeur-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0017083/03-pz85_1-descendeur-simple-2019-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz86_1-poulie-pour-simple-2019-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0017083/04-pz86_1-poulie-pour-simple-2019-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

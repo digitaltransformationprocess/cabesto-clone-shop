@@ -1,0 +1,123 @@
+{
+  "sku": "SU-0004914",
+  "url": "https://www.cabesto.com/fr/plongee-planche-de-chasse-sous-marine-pluma-beuchat-pl-10760.html",
+  "title": "Planche de chasse sous-marine PLUMA BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "signalisation",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Planche de chasse sous-marine PLUMA BEUCHAT"
+  ],
+  "description": "Planche de chasse sous-marine et d'apnée PLUMA BEUCHATLa nouvelle planche de chasse sous marine et d'apnée Pluma Beuchat sert à la fois d'aide de palmage, de bouée de signalisation, de flotteur accroche poisson et de transport pour votre arbalète et matériel de chasse sous-marine. Hydrodynamique, elle assure votre sécurité en surface à petit prix !Constituée d'une enveloppe en nylon haute résistance, le planche de chasse et d'apnée Pluma Beuchat assure votre sécurité en surface notamment grâce à sa couleur rouge. Elle est équipée de trois vessies indépendantes, deux latérales et une centrale ; qui assurent une flottabilité stable et sécurisante, même en pleine mer.La planche est aussi livrée avec deux pavillons montés sur mât, garantissant une bonne visibilité et donc une meilleure sécurité lors des sorties.Elle est conçue pour offrir un véritable confort de nage, notamment lors de longs déplacements grâce à son excellent soutien au palmage. Son coussin central permet non seulement de se reposer facilement en surface, mais améliore également l’hydrodynamisme pour une progression fluide dans l’eau.Pratique pour les chasseurs sous-marins, elle dispose d’un système d’attache ingénieux permettant de fixer jusqu’à deux arbalètes grâce à des crochets solides et des anneaux en caoutchouc.Elle permet également de transporter votre équipement, vos proies avec 8 anneaux d’accrochage d’équipement, 3 anneaux de tractage et de mouillage pouvant aussi servir à l’accrochage d’équipement de chasse sous-marine.Un compartiment de rangement à l’avant fermé par un rabat velcro permet également d'entreposer d'autres accessoires. Des cordons élastiques sur le coussin central sécurisent le matériel du chasseur.La planche de chasse et d'apnée Pluma Beuchat est l'équipement indispensable, fiable et confortable, pensé pour les passionnés d'apnée et de chasse sous-marine exigeants.Informations techniques :Matériau Nylon haute résistanceTransport d'arbalètes 28 anneaux d´accrochage (Ø 40mm)3 anneaux (Ø 50mm) de tractage et de mouillageCouleur RougePoids 1430kgContenu du colis1x planche de chasse et d'apnée PLUMA BEUCHAT, 1x vendu dans un sac mesh réutilisable avec deux pavillons",
+  "supplierRef": "142830",
+  "price": {
+    "amount": 96,
+    "currency": "EUR",
+    "formatted": "96 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004914",
+      "sku": "SU-0004914",
+      "supplierRef": "142830",
+      "price": {
+        "amount": 96,
+        "currency": "EUR",
+        "formatted": "96 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-10760-pl-10760-picture_1-pl-10760-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/7/b705.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/y/hydro_backpack_buoy_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/i/sideral-u-m.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/b/mb001-copertina_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/4/c4-carbon-boa-tavolara_web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-10760-pl-10760-picture_2-pl-10760-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32976-grande_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32975-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32977-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32974-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:41.365Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-10760-pl-10760-picture_1-pl-10760-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004914/01-pl-10760-pl-10760-picture_1-pl-10760-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/7/b705.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004914/02-b705.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/y/hydro_backpack_buoy_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004914/03-hydro_backpack_buoy_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/i/sideral-u-m.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004914/04-sideral-u-m.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/b/mb001-copertina_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004914/05-mb001-copertina_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/4/c4-carbon-boa-tavolara_web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004914/06-c4-carbon-boa-tavolara_web.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-10760-pl-10760-picture_2-pl-10760-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004914/07-pl-10760-pl-10760-picture_2-pl-10760-2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32976-grande_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004914/08--p-image-32976-grande_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32975-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004914/09--p-image-32975-grande.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32977-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004914/10--p-image-32977-grande.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/-/p/-p-image-32974-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004914/11--p-image-32974-grande.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "chasse-sous-marine",
+    "signalisation"
+  ],
+  "categories": [
+    "plongee",
+    "chasse-sous-marine",
+    "signalisation"
+  ]
+}

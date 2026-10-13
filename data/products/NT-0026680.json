@@ -1,0 +1,61 @@
+{
+  "sku": "NT-0026680",
+  "url": "https://www.cabesto.com/fr/randonnee-gel-nettoyant-et-impermeabilisant-vetements-2en1-300ml-grangers-nt-0026680.html",
+  "title": "Gel Nettoyant et Imperméabilisant Vêtements 2en1 - 300ml - GRANGERS",
+  "brand": "GRANGERS",
+  "category": "Entretien des textiles",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Protection et Entretien",
+    "Entretien des textiles"
+  ],
+  "categories": [
+    "Protection et Entretien",
+    "Entretien des textiles"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gel Nettoyant et Imperméabilisant Vêtements 2en1 - 300ml - GRANGERS"
+  ],
+  "description": "Achetez Gel Nettoyant et Imperméabilisant Vêtements 2en1 - 300ml - GRANGERS chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "GRF73",
+  "price": {
+    "amount": 18.95,
+    "currency": "EUR",
+    "formatted": "18.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0026680",
+      "sku": "NT-0026680",
+      "supplierRef": "GRF73",
+      "price": {
+        "amount": 18.95,
+        "currency": "EUR",
+        "formatted": "18.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/v/sv26_1-gel-nettoyant-et-impermeabilisant-vetements-2en1---grangers.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:04.748Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/v/sv26_1-gel-nettoyant-et-impermeabilisant-vetements-2en1---grangers.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0026680/01-sv26_1-gel-nettoyant-et-impermeabilisant-vetements-2en1---grangers.jpg",
+      "skipped": false
+    }
+  ]
+}

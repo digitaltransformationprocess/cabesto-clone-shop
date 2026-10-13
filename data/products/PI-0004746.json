@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0004746",
+  "url": "https://www.cabesto.com/fr/piscine-nettoyeur-de-cartouche-de-filtration-pi-581.html",
+  "title": "NETTOYEUR DE CARTOUCHE DE FILTRATION",
+  "brand": "KSD KOKIDO",
+  "category": "Nettoyage manuel",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Entretenir son eau",
+    "Accessoires de spa",
+    "Nettoyage manuel"
+  ],
+  "categories": [
+    "Entretenir son eau",
+    "Accessoires de spa",
+    "Nettoyage manuel"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "NETTOYEUR DE CARTOUCHE DE FILTRATION"
+  ],
+  "description": "Achetez NETTOYEUR DE CARTOUCHE DE FILTRATION chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "K140CBX/SPA",
+  "price": {
+    "amount": 11.99,
+    "currency": "EUR",
+    "formatted": "11.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0004746",
+      "sku": "PI-0004746",
+      "supplierRef": "K140CBX/SPA",
+      "price": {
+        "amount": 11.99,
+        "currency": "EUR",
+        "formatted": "11.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/n/e/nettoyeur-pour-cartouches-de-filtration-kokido_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:35:49.378Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/e/nettoyeur-pour-cartouches-de-filtration-kokido_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004746/01-nettoyeur-pour-cartouches-de-filtration-kokido_1.jpg",
+      "skipped": false
+    }
+  ]
+}

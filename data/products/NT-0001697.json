@@ -1,0 +1,103 @@
+{
+  "sku": "NT-0001697",
+  "url": "https://www.cabesto.com/fr/verticalite-anneau-dyneema-10mm-180cm-beal-nt-0001697.html",
+  "title": "Anneau Dyneema 10mm 180cm BEAL",
+  "brand": "BEAL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Anneaux cousus",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Anneaux cousus",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Anneau Dyneema 10mm 180cm BEAL"
+  ],
+  "description": "Léger, souple et résistant cet anneau de sangle est idéal pour l'alpinisme, les grandes voies le T.a....",
+  "supplierRef": "BSAD10.180 à l'unitée",
+  "price": {
+    "amount": 17.9,
+    "currency": "EUR",
+    "formatted": "17.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0001697",
+      "sku": "NT-0001697",
+      "supplierRef": "BSAD10.180 à l'unitée",
+      "price": {
+        "amount": 17.9,
+        "currency": "EUR",
+        "formatted": "17.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/9/2975_1-anneau-dyneema-10-mm-180-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/9/2972_1-anneau-dyneema-10-mm-240-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/be38_1_d-mousqueton-a-vis-be-quick-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/9/2975_4-anneau-dyneema-10-mm-180-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/9/2975_3-anneau-dyneema-10-mm-180-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/9/2975_2-anneau-dyneema-10-mm-180-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/9/2975_1-anneau-dyneema-10-mm-180-cm-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:18:40.203Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/2975_1-anneau-dyneema-10-mm-180-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001697/01-2975_1-anneau-dyneema-10-mm-180-cm-beal.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/2972_1-anneau-dyneema-10-mm-240-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0001697\\02-2972_1-anneau-dyneema-10-mm-240-cm-beal.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0001697\\02-2972_1-anneau-dyneema-10-mm-240-cm-beal.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/be38_1_d-mousqueton-a-vis-be-quick-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001697/03-be38_1_d-mousqueton-a-vis-be-quick-beal_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/2975_4-anneau-dyneema-10-mm-180-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0001697\\04-2975_4-anneau-dyneema-10-mm-180-cm-beal.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0001697\\04-2975_4-anneau-dyneema-10-mm-180-cm-beal.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/2975_3-anneau-dyneema-10-mm-180-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001697/05-2975_3-anneau-dyneema-10-mm-180-cm-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/2975_2-anneau-dyneema-10-mm-180-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001697/06-2975_2-anneau-dyneema-10-mm-180-cm-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/2975_1-anneau-dyneema-10-mm-180-cm-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0001697\\07-2975_1-anneau-dyneema-10-mm-180-cm-beal_1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0001697\\07-2975_1-anneau-dyneema-10-mm-180-cm-beal_1.jpg'"
+    }
+  ]
+}

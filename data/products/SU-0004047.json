@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0004047",
+  "url": "https://www.cabesto.com/fr/plongee-moulinet-r30-pl-11860.html",
+  "title": "Moulinet de chasse sous-marine R30 CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "moulinets",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Moulinet de chasse sous-marine R30 CRESSI SUB"
+  ],
+  "description": "Tambour flotteurObtenu par enlèvement de matièreFriction en metalDouille de defilement ligneMobileBride en acier inoxydable 316 Compatible Cherokee ocean, Pacific, Cherokee Open, Yuma, Geronimo, Comanche, Moicano, Sioux",
+  "supplierRef": "FA359030",
+  "price": {
+    "amount": 55.99,
+    "currency": "EUR",
+    "formatted": "55.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004047",
+      "sku": "SU-0004047",
+      "supplierRef": "FA359030",
+      "price": {
+        "amount": 55.99,
+        "currency": "EUR",
+        "formatted": "55.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-11860-pl-11860-picture_1-pl-11860-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:56.369Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-11860-pl-11860-picture_1-pl-11860-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004047/01-pl-11860-pl-11860-picture_1-pl-11860-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche",
+    "moulinets"
+  ],
+  "categories": [
+    "peche",
+    "moulinets"
+  ]
+}

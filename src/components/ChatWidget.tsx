@@ -1,7 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { useServerFn } from "@tanstack/react-start";
 import { chatWithAi } from "@/lib/chat.functions";
-import { readAiConfig } from "@/lib/ai-config";
 import { categories, euro, orderTotal, products } from "@/lib/data";
 import { shippingCost, SHIPPING_FREE_FROM, useStore } from "@/lib/store";
 
@@ -22,7 +20,6 @@ function render(text: string) {
 
 export function ChatWidget() {
   const { user, orders, cart } = useStore();
-  const send = useServerFn(chatWithAi);
   const [open, setOpen] = useState(false);
   const [msgs, setMsgs] = useState<Msg[]>([]);
   const [input, setInput] = useState("");
@@ -31,28 +28,45 @@ export function ChatWidget() {
   useEffect(() => end.current?.scrollIntoView({ behavior: "smooth" }), [msgs, busy]);
 
   const context = () => {
-    const cat = products.map((p) => `- ${p.id} | ${p.name} | ${p.brand} | ${categories.find((c) => c.slug === p.category)?.name} | ${euro(p.price)}${p.oldPrice ? ` (au lieu de ${euro(p.oldPrice)})` : ""} | stock ${p.stock} | ${p.description}`).join("\n");
+    const cat = products
+      .filter((p) => p.stock > 0)
+      .slice(0, 60)
+      .map((p) => `- ${p.id} | ${p.name} | ${p.brand} | ${categories.find((c) => c.slug === p.category)?.name ?? p.category} | ${euro(p.price)} | stock ${p.stock}`)
+      .join("\n");
     const mine = user ? orders.filter((o) => o.email === user.email) : [];
     const ord = mine.map((o) => `- ${o.id} du ${o.date} | statut ${o.status} | ${o.carrier}${["Expédiée", "En transit", "Livrée"].includes(o.status) ? ` | suivi ${o.carrier.slice(0, 2).toUpperCase()}${o.id.replace("CMD-", "")}FR` : ""} | total ${euro(orderTotal(o))} | articles : ${o.items.map((i) => `${i.qty}× ${products.find((p) => p.id === i.id)?.name}`).join(", ")}`).join("\n");
     const cartTxt = Object.entries(cart).map(([id, q]) => `${q}× ${products.find((p) => p.id === id)?.name}`).join(", ") || "vide";
-    return `## Client\n${user ? `${user.name} (${user.email}), connecté` : "Visiteur non connecté (pour les commandes, l'inviter à se connecter via /connexion)"}\nPanier : ${cartTxt}\nFrais de port : gratuits dès ${SHIPPING_FREE_FROM} €, sinon Colissimo ${euro(shippingCost(0, "Colissimo"))}, Chronopost ${euro(shippingCost(0, "Chronopost"))}, retrait magasin gratuit.\n\n## Commandes du client\n${ord || "aucune"}\n\n## Catalogue (id | nom | marque | catégorie | prix | stock | description)\n${cat}`;
+    return `## Client\n${user ? `${user.name} (${user.email}), connecté` : "Visiteur non connecté (pour les commandes, l'inviter à se connecter via /connexion)"}\nPanier : ${cartTxt}\nFrais de port : gratuits dès ${SHIPPING_FREE_FROM} €, sinon Colissimo ${euro(shippingCost(0, "Colissimo"))}, Chronopost ${euro(shippingCost(0, "Chronopost"))}, retrait magasin gratuit.\n\n## Commandes du client\n${ord || "aucune"}\n\n## Catalogue (extrait stock — id | nom | marque | catégorie | prix | stock)\n${cat}`;
   };
 
   const ask = async (text: string) => {
     if (!text.trim() || busy) return;
     const next = [...msgs, { role: "user" as const, content: text }];
-    setMsgs(next); setInput(""); setBusy(true);
-    const config = readAiConfig();
-    if (!config?.apiKey) {
-      setMsgs([...next, { role: "assistant", content: "L'assistant n'est pas encore configuré. Un administrateur doit ajouter une clé API dans **Back-office → Assistant IA**." }]);
-      setBusy(false); return;
-    }
+    setMsgs(next);
+    setInput("");
+    setBusy(true);
     try {
-      const r = await send({ data: { config, messages: next, context: context() } });
-      setMsgs([...next, { role: "assistant", content: r.ok ? r.reply : `⚠️ ${r.reply}` }]);
+      // Appel direct (sans useServerFn) pour éviter qu'une erreur serveur
+      // ne remonte jusqu'à l'error boundary de la page (vu hors navigateur Cursor).
+      const r = await chatWithAi({ data: { messages: next, context: context() } });
+      const reply =
+        r && typeof r === "object" && "reply" in r
+          ? String((r as { reply: string }).reply)
+          : "Réponse invalide du serveur.";
+      const ok = Boolean(r && typeof r === "object" && "ok" in r && (r as { ok: boolean }).ok);
+      setMsgs([...next, { role: "assistant", content: ok ? reply : `⚠️ ${reply}` }]);
     } catch (e) {
-      setMsgs([...next, { role: "assistant", content: `⚠️ ${(e as Error).message}` }]);
-    } finally { setBusy(false); }
+      const msg = e instanceof Error ? e.message : String(e);
+      setMsgs([
+        ...next,
+        {
+          role: "assistant",
+          content: `⚠️ Impossible de joindre l'assistant (${msg}). Ouvre http://localhost:8080/ (pas l'IP réseau), puis Ctrl+Shift+R.`,
+        },
+      ]);
+    } finally {
+      setBusy(false);
+    }
   };
 
   return (

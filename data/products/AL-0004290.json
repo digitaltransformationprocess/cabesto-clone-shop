@@ -1,0 +1,63 @@
+{
+  "sku": "AL-0004290",
+  "url": "https://www.cabesto.com/fr/thon-blanc-germon-huile-olive-bio-160g.html",
+  "title": "THON BLANC GERMON HUILE OLIVE BIO 160G",
+  "brand": "GONIDEC",
+  "category": "Conserves Thon",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "conserves-de-la-mer"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "conserves-de-la-mer"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "THON BLANC GERMON HUILE OLIVE BIO 160G"
+  ],
+  "description": "Tranche entière de thon blanc recouverte d'huile d'olive vierge extra bio, première pression à froid.",
+  "supplierRef": "JGTB05B",
+  "price": {
+    "amount": 6.79,
+    "currency": "EUR",
+    "formatted": "6.79 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0004290",
+      "sku": "AL-0004290",
+      "supplierRef": "JGTB05B",
+      "price": {
+        "amount": 6.79,
+        "currency": "EUR",
+        "formatted": "6.79 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6067272-6067272-picture_1-6067272_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:55:40.502Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6067272-6067272-picture_1-6067272_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0004290/01-6067272-6067272-picture_1-6067272_1.jpg",
+      "skipped": true
+    }
+  ]
+}

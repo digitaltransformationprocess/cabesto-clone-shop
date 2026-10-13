@@ -1,0 +1,67 @@
+{
+  "sku": "SU-0004905",
+  "url": "https://www.cabesto.com/fr/plongee-planche-de-chasse-sous-marine-challenger-imersion-avec-gonfleur-pl-80073.html",
+  "title": "Planche de chasse sous-marine avec gonfleur CHALLENGER IMERSION",
+  "brand": "IMERSION",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Planche de chasse sous-marine avec gonfleur CHALLENGER IMERSION"
+  ],
+  "description": "Planche de chasse sous-marine CHALLENGER IMERSION avec gonfleurLa nouvelle planche de chasse sous marine Challenger Imersion en exclusivité à plusieurs fonctions.Elle sert à la fois d'aide de palmage, de bouée de signalisation, de flotteur accroche poisson et de transport pour votre arbalète et matériel de chasse sous-marine. Hydrodynamique, elle assure votre sécurité en surface à petit prix !Aide au palmage (notamment sur longue distance)Bouée de signalisationTransport d´arbalètes et du matériel (ligne de mouillage, accessoires de pêche, ravitaillement, documents/effets personnels)Flotteur accroche-poissons Transport du matérielAttache pour 2 arbalètes par crochets et sangles elatiquesCompartiment à l’avant fermé par un rabat velcro8 anneaux d´accrochage (Ø 40mm)3 anneaux (Ø 50mm) de tractage et de mouillage pouvant aussi servir à l´accrochage d´équipement SécuritéVisibilité de la couleur rougePermet de nager ou de se reposer en appui sur la plancheLivrée avec 1 pavillon monté sur mat3 vessies (2 latérales et celle du coussin central) Déplacement et hydrodynamismeConfort de nage grâce au coussin central de nageAvant de la planche surélevée pour un meilleur hydrodynamisme lorsqu’elle est chargéeNylon haute résistanceVendu dans un sac mesh réutilisable et un GONFLEURPoids: 1430kgConstituée d'une enveloppe en nylon haute résistance, le planche de chasse Challenger Imersion assure votre sécurité en surface notamment grâce à sa couleur rouge et ses pavillons. Elle permet également de transporter votre équipement vos proies avec 8 anneaux d’accrochage d’équipement, 3 anneaux de tractage et de mouillage pouvant aussi servir à l’accrochage d’équipement de chasse sous-marine. Un compartiment de rangement à l’avant fermé par un rabat velcro permet également d'entreposer d'autres accessoires. Des cordons élastiques sur le coussin central sécurisent le matériel du chasseur.",
+  "supplierRef": "B723",
+  "price": {
+    "amount": 69.99,
+    "currency": "EUR",
+    "formatted": "69.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004905",
+      "sku": "SU-0004905",
+      "supplierRef": "B723",
+      "price": {
+        "amount": 69.99,
+        "currency": "EUR",
+        "formatted": "69.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/planche-challenger.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:32:46.305Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/planche-challenger.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004905/01-planche-challenger.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004905/02-hqdefault_56_6.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

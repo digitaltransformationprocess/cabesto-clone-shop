@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0004336",
+  "url": "https://www.cabesto.com/fr/toscoro-vinaigre-balsamique-50cl.html",
+  "title": "TOSCORO VINAIGRE BALSAMIQUE 50CL",
+  "brand": "TOSCORO",
+  "category": "Sauces et condiments italiens",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "sauces-et-condiments-italiens"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "sauces-et-condiments-italiens"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TOSCORO VINAIGRE BALSAMIQUE 50CL"
+  ],
+  "description": "Achetez TOSCORO VINAIGRE BALSAMIQUE 50CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "A5993TO",
+  "price": {
+    "amount": 4.49,
+    "currency": "EUR",
+    "formatted": "4.49 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0004336",
+      "sku": "AL-0004336",
+      "supplierRef": "A5993TO",
+      "price": {
+        "amount": 4.49,
+        "currency": "EUR",
+        "formatted": "4.49 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/1/6128412-6128412-picture_1-6128412_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:56:53.316Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/6128412-6128412-picture_1-6128412_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0004336/01-6128412-6128412-picture_1-6128412_1.jpg",
+      "skipped": true
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0008443",
+  "url": "https://www.cabesto.com/fr/plongee-profondimetre-a-aiguille-trainante-70-metres-pl-19476.html",
+  "title": "Profondimètre de plongée sous-marine - 70 m AQUATYS",
+  "brand": "AQUATYS",
+  "category": "gilets-de-sauvetage-peche-et-chasse",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Profondimètre de plongée sous-marine - 70 m AQUATYS"
+  ],
+  "description": "PROFONDIMETRE A AIGUILLE TRAINANTE - 70 METRESLe meilleur rapport qualité/prix.Ce profondimètre a été fabriqué conformément aux exigences du règlement CE 2016 / 425 suivant la norme NF EN 13319.",
+  "supplierRef": "INST10",
+  "price": {
+    "amount": 59,
+    "currency": "EUR",
+    "formatted": "59 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0008443",
+      "sku": "SU-0008443",
+      "supplierRef": "INST10",
+      "price": {
+        "amount": 59,
+        "currency": "EUR",
+        "formatted": "59 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:32.558Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008443/01-sans_titre_2.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "securite-navigation",
+    "gilets-de-sauvetage",
+    "gilets-de-sauvetage-peche-et-chasse"
+  ],
+  "categories": [
+    "nautisme",
+    "securite-navigation",
+    "gilets-de-sauvetage",
+    "gilets-de-sauvetage-peche-et-chasse"
+  ]
+}

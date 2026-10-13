@@ -1,0 +1,97 @@
+{
+  "sku": "PCPL-1260",
+  "url": "https://www.cabesto.com/fr/plongee-masque-ocean-pcpl-1260.html",
+  "title": "MASQUE OCEAN CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MASQUE OCEAN CRESSI SUB"
+  ],
+  "description": "MASQUE OCEAN CRESSI SUBPlongez avec le masque OCEAN CRESSI-SUB et ses verres en gouttes d'eau pour un champs visuel maximum au meilleur prix, toujours made in Italy...Le concept (breveté) des verres inclinés et de leur configuration particulière en forme de gouttes d’eau a été encore amélioré. Les verres se trouvent dans une position la plus proche possible des yeux, augmentant encore le champ de vision et le portant aux plus hauts niveaux envisageables.Le cerclage, d’un dessin nouveau, est très fin et se révèle invisible lorsque le masque est porté.La jupe en silicone souple possède un nouveau profil et une large lèvre d’appui pour une étanchéité excellente et un confort sans précédent.Le volume interne du masque est exceptionnellement réduit et même inférieur à celui de plusieurs modèles destinés à l’apnée. Son poids aussi est particulièrement contenu.Les boucles de la sangle sont basculantes, à réglage instantané. C´est un très bon masque pour toutes utilisations: P.M.T., plongée bouteille, apnée.2 verresTempered GlassBoucles réglables micrométriquesCe masque a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 1) suivant la norme NF EN 16805.",
+  "supplierRef": null,
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR",
+    "formatted": "29.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1260",
+      "sku": "PCPL-1260",
+      "supplierRef": null,
+      "price": {
+        "amount": 29.99,
+        "currency": "EUR",
+        "formatted": "29.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/z/_/z_0dn291050_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/_/z_0dn291060_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/_/z_0dn291063_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/9/2/924_cressi-ocean-acquamarine_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PL-9466-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PL-9465-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PL-9464-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:46.044Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/_/z_0dn291050_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1260/01-z_0dn291050_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/_/z_0dn291060_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1260/02-z_0dn291060_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/_/z_0dn291063_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1260/03-z_0dn291063_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/9/2/924_cressi-ocean-acquamarine_z.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1260/04-924_cressi-ocean-acquamarine_z.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PL-9466-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1260/05-PL-9466-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PL-9465-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1260/06-PL-9465-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PL-9464-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1260/07-PL-9464-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "1er-prix-club-association"
+  ],
+  "categories": [
+    "plongee",
+    "1er-prix-club-association"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "PI-0000040",
+  "url": "https://www.cabesto.com/fr/alcaplus-pour-ph-piscine-bayrol.html",
+  "title": "ALCAPLUS POUR PH PISCINE - BAYROL",
+  "brand": "BAYROL",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Régulation ph",
+    "Régulation du pH",
+    "pH moins",
+    "pH plus",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Régulation ph",
+    "Régulation du pH",
+    "pH moins",
+    "pH plus",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ALCAPLUS POUR PH PISCINE - BAYROL"
+  ],
+  "description": "Achetez ALCAPLUS POUR PH PISCINE - BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1194530",
+  "price": {
+    "amount": 36.9,
+    "currency": "EUR",
+    "formatted": "36.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000040",
+      "sku": "PI-0000040",
+      "supplierRef": "1194530",
+      "price": {
+        "amount": 36.9,
+        "currency": "EUR",
+        "formatted": "36.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/uploads/pictures/6062ed976f6d8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:48:20.005Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/uploads/pictures/6062ed976f6d8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000040/01-6062ed976f6d8.jpg",
+      "skipped": false
+    }
+  ]
+}

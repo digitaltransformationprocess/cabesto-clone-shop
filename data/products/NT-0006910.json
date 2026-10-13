@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0006910",
+  "url": "https://www.cabesto.com/fr/verticalite-fixation-tactikka-pour-strato-et-vertex-petzl-nt-0006910.html",
+  "title": "Fixation Tactikka pour Strato et Vertex - PETZL",
+  "brand": "PETZL",
+  "category": "Eclairage",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Industrie",
+    "Eclairage",
+    "Destockage Montagne",
+    "Ventes privées Montagne"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Industrie",
+    "Eclairage",
+    "Destockage Montagne",
+    "Ventes privées Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Fixation Tactikka pour Strato et Vertex - PETZL"
+  ],
+  "description": "Achetez Fixation Tactikka pour Strato et Vertex - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "E093CA00",
+  "price": {
+    "amount": 5.95,
+    "currency": "EUR",
+    "formatted": "5.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006910",
+      "sku": "NT-0006910",
+      "supplierRef": "E093CA00",
+      "price": {
+        "amount": 5.95,
+        "currency": "EUR",
+        "formatted": "5.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pzd3_1-fixation-tactikka-pour-strato-et-vertex-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzd3_3-fixation-tactikka-pour-strato-et-vertex-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzd3_2-fixation-tactikka-pour-strato-et-vertex-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzd3_1-fixation-tactikka-pour-strato-et-vertex-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:38.893Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzd3_1-fixation-tactikka-pour-strato-et-vertex-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006910/01-pzd3_1-fixation-tactikka-pour-strato-et-vertex-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzd3_3-fixation-tactikka-pour-strato-et-vertex-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006910/02-pzd3_3-fixation-tactikka-pour-strato-et-vertex-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzd3_2-fixation-tactikka-pour-strato-et-vertex-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006910/03-pzd3_2-fixation-tactikka-pour-strato-et-vertex-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzd3_1-fixation-tactikka-pour-strato-et-vertex-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006910/04-pzd3_1-fixation-tactikka-pour-strato-et-vertex-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

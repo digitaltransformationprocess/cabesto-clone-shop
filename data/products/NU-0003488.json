@@ -1,0 +1,79 @@
+{
+  "sku": "NU-0003488",
+  "url": "https://www.cabesto.com/fr/sondeur-profondeur-speedometre-duet-clipper-avec-passe-coque-sonde-7m-de-cable.html",
+  "title": "Pack Sondeur profondeur + speedomètre DUET CLIPPER",
+  "brand": "NASA MARINE",
+  "category": "Centrale de navigation",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Electronique",
+    "Centrale de navigation"
+  ],
+  "categories": [
+    "Electronique",
+    "Centrale de navigation"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Nautisme",
+    "Nautisme",
+    "Electronique",
+    "Electronique",
+    "Centrale de navigation",
+    "Centrale de navigation",
+    "Pack Sondeur profondeur + speedomètre DUET CLIPPER"
+  ],
+  "description": "Achetez Pack Sondeur profondeur + speedomètre DUET CLIPPER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "NAS-NDCLIP1",
+  "price": {
+    "amount": 280.31,
+    "currency": "EUR",
+    "formatted": "280.31 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0003488",
+      "sku": "NU-0003488",
+      "supplierRef": "NAS-NDCLIP1",
+      "price": {
+        "amount": 280.31,
+        "currency": "EUR",
+        "formatted": "280.31 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/u/duet_sondeur_et_speedo_avec_accesoires.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/u/duet_clipper_speedo_et_profondeur_nasa_marine_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/2/426345_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:07:19.674Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/duet_sondeur_et_speedo_avec_accesoires.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003488/01-duet_sondeur_et_speedo_avec_accesoires.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/duet_clipper_speedo_et_profondeur_nasa_marine_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003488/02-duet_clipper_speedo_et_profondeur_nasa_marine_1.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/2/426345_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003488/03-426345_1.jpg",
+      "skipped": false
+    }
+  ]
+}

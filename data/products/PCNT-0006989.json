@@ -1,0 +1,103 @@
+{
+  "sku": "PCNT-0006989",
+  "url": "https://www.cabesto.com/fr/chaussures-d-alpinisme-manta-tech-gtx-homme.html",
+  "title": "Chaussures d'Alpinisme Manta Tech GTX Homme SCARPA",
+  "brand": "SCARPA",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Chaussures",
+    "Chaussures d'alpinisme",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Chaussures",
+    "Chaussures d'alpinisme",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussures d'Alpinisme Manta Tech GTX Homme SCARPA"
+  ],
+  "description": "Créée pour l'alpinisme classique, les treks d'altitude ou toute autre activité intense en terrains variés et techniques, la Manta Tech GTX Homme est une chaussure robuste et polyvalente.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0006989",
+      "sku": "PCNT-0006989",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/c/sc07_1_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/c/sc07_6_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/c/sc07_5_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/c/sc07_4_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/c/sc07_3_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/c/sc07_2_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/c/sc07_1_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:36:36.616Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc07_1_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006989/01-sc07_1_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc07_6_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006989/02-sc07_6_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc07_5_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006989/03-sc07_5_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc07_4_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006989/04-sc07_4_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc07_3_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006989/05-sc07_3_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc07_2_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006989/06-sc07_2_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc07_1_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006989/07-sc07_1_cw-chaussures-d-alpinisme-manta-tech-gtx-homme-scarpa_8.jpg",
+      "skipped": false
+    }
+  ]
+}

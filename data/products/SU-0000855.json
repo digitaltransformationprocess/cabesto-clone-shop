@@ -1,0 +1,69 @@
+{
+  "sku": "SU-0000855",
+  "url": "https://www.cabesto.com/fr/plongee-baudrier-largage-rapide-noir-taille-unique-pl-14351.html",
+  "title": "Baudrier de chasse sous-marine taille unique LARGAGE RAPIDE BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "ais",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Baudrier de chasse sous-marine taille unique LARGAGE RAPIDE BEUCHAT"
+  ],
+  "description": "Système de largage rapide à une seule mainLe largage du baudrier s’effectue grâce à l’ouverture d’une seule boucleBoucle de largage à prégnance pensée pour être utilisée avec des gants et à une seule mainDispositif de blocage arrière au niveau de la ceinture conçu pour se libérer lors du largageLa forme et les matières ont été étudiées pour apporter le moins de flottabilité possible afin de conserver l’entière efficacitédu lestL’utilisation du néoprène a été réduite pour n’être conservée qu’aux endroits où elle était nécessairePossibilité d’incorporer jusqu’à 8 kilos de lest (non inclus)Répartition du lest pour optimiser le confort et la mobilité:2 poches basses pour 2 kilos4 poches pour 1 kiloToile 840 deniers enduite PVC pour une grande résistance à l’usage (même quand il est en contact avec le sol)Un atout pour la sécurité du chasseur sous-marinSifflet de détresse de couleur orange accroché au giletAccroche couteau intégréLa dimension sécurité est encore plus forte avec le modèle Spot. En effet, le marquage Spot de Beuchat a été conçu pourque le pêcheur sous-marin soit visible par son équipier et en surface.1 taille unique et 3 couleurs pour optimiser l’assortimentTaille unique avec bretelles réglables (avec maintien de l’excédent de sangle par une élastique)3 couleurs : noir, Spot, X-Ray Camo",
+  "supplierRef": "142752",
+  "price": {
+    "amount": 33.99,
+    "currency": "EUR",
+    "formatted": "33.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0000855",
+      "sku": "SU-0000855",
+      "supplierRef": "142752",
+      "price": {
+        "amount": 33.99,
+        "currency": "EUR",
+        "formatted": "33.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-14351-pl-14351-picture_1-pl-14351-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-14351-pl-14351-picture_2-pl-14351-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:58.998Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-14351-pl-14351-picture_1-pl-14351-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000855/01-pl-14351-pl-14351-picture_1-pl-14351-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-14351-pl-14351-picture_2-pl-14351-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000855/02-pl-14351-pl-14351-picture_2-pl-14351-2.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ],
+  "categories": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ]
+}

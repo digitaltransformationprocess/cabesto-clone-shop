@@ -1,0 +1,67 @@
+{
+  "sku": "NU-0002605",
+  "url": "https://www.cabesto.com/fr/capot-de-protection-pour-s400-navman-3100-navman-100-ps-621198.html",
+  "title": "Capot de protection pour S400 - Navman 3100 - Navman 100",
+  "brand": "PLASTIMO",
+  "category": "Centrale de navigation",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Electronique",
+    "Centrale de navigation"
+  ],
+  "categories": [
+    "Electronique",
+    "Centrale de navigation"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Nautisme",
+    "Nautisme",
+    "Electronique",
+    "Electronique",
+    "Centrale de navigation",
+    "Centrale de navigation",
+    "Capot de protection pour S400 - Navman 3100 - Navman 100"
+  ],
+  "description": "Achetez Capot de protection pour S400 - Navman 3100 - Navman 100 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "57764",
+  "price": {
+    "amount": 12.99,
+    "currency": "EUR",
+    "formatted": "12.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0002605",
+      "sku": "NU-0002605",
+      "supplierRef": "57764",
+      "price": {
+        "amount": 12.99,
+        "currency": "EUR",
+        "formatted": "12.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/d/advansea-capot-de-protection-s400-navman_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:00:44.448Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/d/advansea-capot-de-protection-s400-navman_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0002605/01-advansea-capot-de-protection-s400-navman_1.jpg",
+      "skipped": true
+    }
+  ]
+}

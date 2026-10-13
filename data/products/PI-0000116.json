@@ -1,0 +1,69 @@
+{
+  "sku": "PI-0000116",
+  "url": "https://www.cabesto.com/fr/piscine-bache-a-bulles-diam-2m87-pour-piscine-diam-3m05-pi-334.html",
+  "title": "BÂCHE A BULLES DIAM 2M87 POUR PISCINE DIAM 3M05",
+  "brand": "INTEX",
+  "category": "Bâche à bulles",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Accessoires piscine et pièces détachées",
+    "Bâche à bulles",
+    "Bâche à bulles"
+  ],
+  "categories": [
+    "Accessoires piscine et pièces détachées",
+    "Bâche à bulles",
+    "Bâche à bulles"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BÂCHE A BULLES DIAM 2M87 POUR PISCINE DIAM 3M05"
+  ],
+  "description": "Achetez BÂCHE A BULLES DIAM 2M87 POUR PISCINE DIAM 3M05 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "28011",
+  "price": {
+    "amount": 16.9,
+    "currency": "EUR",
+    "formatted": "16.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000116",
+      "sku": "PI-0000116",
+      "supplierRef": "28011",
+      "price": {
+        "amount": 16.9,
+        "currency": "EUR",
+        "formatted": "16.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/8/28202np-kit-piscine-metal-frame-ronde.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28202np-kit-piscine-metal-frame-ronde_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:34:50.042Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28202np-kit-piscine-metal-frame-ronde.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000116/01-28202np-kit-piscine-metal-frame-ronde.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28202np-kit-piscine-metal-frame-ronde_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000116/02-28202np-kit-piscine-metal-frame-ronde_1.jpg",
+      "skipped": false
+    }
+  ]
+}

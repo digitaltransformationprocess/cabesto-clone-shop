@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0007300",
+  "url": "https://www.cabesto.com/fr/plongee-zip-care-60ml-pcb-12-pl-10871.html",
+  "title": "Nettoyant et lubrifiant pour fermeture de plongée ZIP CARE 60 ml McNETT",
+  "brand": "SCUBAPRO",
+  "category": "colles-et-graisses",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Nettoyant et lubrifiant pour fermeture de plongée ZIP CARE 60 ml McNETT"
+  ],
+  "description": "Flacon de 60 ml avec applicateur brosse sans silicone.Zip Care est le produit d'entretien des fermetures à glissière en plastique, Nylon ou métal par excellence. Un applicateur à brosse unique permet d'appliquer le produit entre les dents des fermetures et d'éliminer physiquement les saletés, le sable et les résidus de sel susceptibles de les bloquer.",
+  "supplierRef": "841.029.006",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0007300",
+      "sku": "SU-0007300",
+      "supplierRef": "841.029.006",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-10871-pl-10871-picture_1-pl-10871-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:51.108Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-10871-pl-10871-picture_1-pl-10871-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0007300/01-pl-10871-pl-10871-picture_1-pl-10871-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "colles-et-graisses"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "colles-et-graisses"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "NU-0012205",
+  "url": "https://www.cabesto.com/fr/targette-57-mm-x-40-mm-x-17-mm-cabesto.html",
+  "title": "TARGETTE 57 MM X 40 MM X 17 MM - CABESTO",
+  "brand": "CABESTO",
+  "category": "Black November - Nautisme",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Cadenas, loquets",
+    "Destockage Nautisme",
+    "Black November - Nautisme",
+    "Ventes privées Nautisme"
+  ],
+  "categories": [
+    "Cadenas, loquets",
+    "Destockage Nautisme",
+    "Black November - Nautisme",
+    "Ventes privées Nautisme"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TARGETTE 57 MM X 40 MM X 17 MM - CABESTO"
+  ],
+  "description": "Achetez TARGETTE 57 MM X 40 MM X 17 MM - CABESTO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SM1825",
+  "price": {
+    "amount": 12.99,
+    "currency": "EUR",
+    "formatted": "12.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0012205",
+      "sku": "NU-0012205",
+      "supplierRef": "SM1825",
+      "price": {
+        "amount": 12.99,
+        "currency": "EUR",
+        "formatted": "12.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/t/a/targette-57-mm-x-40-mm-x-17-mm-cabesto_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:58:54.337Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/targette-57-mm-x-40-mm-x-17-mm-cabesto_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0012205/01-targette-57-mm-x-40-mm-x-17-mm-cabesto_01.jpg",
+      "skipped": false
+    }
+  ]
+}

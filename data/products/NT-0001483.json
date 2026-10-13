@@ -1,0 +1,61 @@
+{
+  "sku": "NT-0001483",
+  "url": "https://www.cabesto.com/fr/antibruit-optime-iii-36-db.html",
+  "title": "Antibruit Optime III 36 dB",
+  "brand": "PELTOR",
+  "category": "accessoires",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires"
+  ],
+  "categories": [
+    "textile",
+    "accessoires"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Antibruit Optime III 36 dB"
+  ],
+  "description": "Achetez Antibruit Optime III 36 dB chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "ID10H10P3E",
+  "price": {
+    "amount": 47.5,
+    "currency": "EUR",
+    "formatted": "47.5 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0001483",
+      "sku": "NT-0001483",
+      "supplierRef": "ID10H10P3E",
+      "price": {
+        "amount": 47.5,
+        "currency": "EUR",
+        "formatted": "47.5 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/0/101_casque_3m.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:21.666Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/0/101_casque_3m.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001483/01-101_casque_3m.jpg",
+      "skipped": false
+    }
+  ]
+}

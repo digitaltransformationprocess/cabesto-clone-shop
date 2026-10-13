@@ -1,0 +1,211 @@
+{
+  "sku": "PCNT-0020079",
+  "url": "https://www.cabesto.com/fr/verticalite-chaussons-skwama-la-sportiva-ka05.html",
+  "title": "CHAUSSONS D'ESCALADE SKWAMA LA SPORTIVA",
+  "brand": "LA SPORTIVA",
+  "category": "Chaussons d'escalade homme, mixtes",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Chaussons d'escalade",
+    "Chaussons d'escalade homme, mixtes"
+  ],
+  "categories": [
+    "Chaussons d'escalade",
+    "Chaussons d'escalade homme, mixtes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CHAUSSONS D'ESCALADE SKWAMA LA SPORTIVA"
+  ],
+  "description": "Skwama, les chaussons d'escalade seconde peau, avec les écailles pour l'adhérence.",
+  "supplierRef": null,
+  "price": {
+    "amount": 127.95,
+    "currency": "EUR",
+    "formatted": "127.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0020079",
+      "sku": "PCNT-0020079",
+      "supplierRef": null,
+      "price": {
+        "amount": 127.95,
+        "currency": "EUR",
+        "formatted": "127.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_20_28-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_20_13-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_19_55-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_19_37-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_19_16-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_18_58-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_18_38-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_35_11-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_42_23-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_51_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_22_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_12.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_14.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_15.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_16.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_17.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_18.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_20.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:27:59.645Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/01-ka05_1_ag-chaussons-skwama-la-sportiva_22.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_20_28-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/02-2022-10-07_14_20_28-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_20_13-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/03-2022-10-07_14_20_13-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_19_55-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/04-2022-10-07_14_19_55-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_19_37-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/05-2022-10-07_14_19_37-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_19_16-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/06-2022-10-07_14_19_16-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_18_58-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/07-2022-10-07_14_18_58-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_18_38-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/08-2022-10-07_14_18_38-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_14_35_11-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/09-2022-10-07_14_35_11-la_sportiva___skwama_homme_-_noir_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_42_23-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/10-2022-10-07_12_42_23-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_51_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/11-hqdefault_51_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/12-ka05_1_ag-chaussons-skwama-la-sportiva.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/13-ka05_1_ag-chaussons-skwama-la-sportiva_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/14-ka05_1_ag-chaussons-skwama-la-sportiva_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/15-ka05_1_ag-chaussons-skwama-la-sportiva_9.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/16-ka05_1_ag-chaussons-skwama-la-sportiva_10.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/17-ka05_1_ag-chaussons-skwama-la-sportiva_11.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_22_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/18-ka05_1_ag-chaussons-skwama-la-sportiva_22_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_12.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/19-ka05_1_ag-chaussons-skwama-la-sportiva_12.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/20-ka05_1_ag-chaussons-skwama-la-sportiva_13.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_14.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/21-ka05_1_ag-chaussons-skwama-la-sportiva_14.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_15.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/22-ka05_1_ag-chaussons-skwama-la-sportiva_15.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_16.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/23-ka05_1_ag-chaussons-skwama-la-sportiva_16.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_17.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/24-ka05_1_ag-chaussons-skwama-la-sportiva_17.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_18.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/25-ka05_1_ag-chaussons-skwama-la-sportiva_18.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/a/ka05_1_ag-chaussons-skwama-la-sportiva_20.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0020079/26-ka05_1_ag-chaussons-skwama-la-sportiva_20.jpg",
+      "skipped": false
+    }
+  ]
+}

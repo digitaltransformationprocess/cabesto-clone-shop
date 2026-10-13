@@ -1,0 +1,103 @@
+{
+  "sku": "GL-0005972",
+  "url": "https://www.cabesto.com/fr/glisse-gilet-junior-nylon-rouge-50n-gl-66.html",
+  "title": "Gilet d'aide à la flottabilité Nylon Enfant bleu 50N JOBE",
+  "brand": "JOBE",
+  "category": "Idées cadeaux Glisse",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Gilets",
+    "Black November - Glisse",
+    "Idées cadeaux Glisse",
+    "Prix en baisse",
+    "Prix en baisse Glisse"
+  ],
+  "categories": [
+    "Gilets",
+    "Black November - Glisse",
+    "Idées cadeaux Glisse",
+    "Prix en baisse",
+    "Prix en baisse Glisse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gilet d'aide à la flottabilité Nylon Enfant bleu 50N JOBE"
+  ],
+  "description": "Sécurisez vos enfants avec le gilet d'aide à la flottabilité Nylon Enfant bleu 50N JOBE, idéal pour toutes vos activités nautiques.",
+  "supplierRef": "244823014-PCS.",
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR",
+    "formatted": "39.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "GL-0005972",
+      "sku": "GL-0005972",
+      "supplierRef": "244823014-PCS.",
+      "price": {
+        "amount": 39.99,
+        "currency": "EUR",
+        "formatted": "39.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/j/u/ju.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/b/jbbbb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/r/jr.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/u/jujuju.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/u/juju.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/u/jujuuu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/j/u/ju1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:44:04.643Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/u/ju.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0005972/01-ju.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/b/jbbbb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0005972/02-jbbbb.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/r/jr.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0005972/03-jr.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/u/jujuju.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0005972/04-jujuju.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/u/juju.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0005972/05-juju.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/u/jujuuu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0005972/06-jujuuu.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/u/ju1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0005972/07-ju1.jpg",
+      "skipped": false
+    }
+  ]
+}

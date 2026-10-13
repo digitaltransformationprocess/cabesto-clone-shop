@@ -1,0 +1,69 @@
+{
+  "sku": "NU-0003478",
+  "url": "https://www.cabesto.com/fr/pack-girouette-anemometre-clipper-v2-indicateur-capot-ps-7412138.html",
+  "title": "Pack girouette Anémomètre Clipper V2 + indicateur + capot",
+  "brand": "NASA MARINE",
+  "category": "Capteur: vitesse, niveau, pression...",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Electronique",
+    "Nautisme",
+    "Capteur: vitesse, niveau, pression..."
+  ],
+  "categories": [
+    "Electronique",
+    "Nautisme",
+    "Capteur: vitesse, niveau, pression..."
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pack girouette Anémomètre Clipper V2 + indicateur + capot"
+  ],
+  "description": "Mesure précise du vent et orientation fiable en mer avec le pack girouette anémomètre Clipper V2 de NASA Marine.",
+  "supplierRef": "NAS-NGCLIP1",
+  "price": {
+    "amount": 319,
+    "currency": "EUR",
+    "formatted": "319 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0003478",
+      "sku": "NU-0003478",
+      "supplierRef": "NAS-NGCLIP1",
+      "price": {
+        "amount": 319,
+        "currency": "EUR",
+        "formatted": "319 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/e/repnasa6981.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/e/repnasa95.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:04:31.849Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/e/repnasa6981.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003478/01-repnasa6981.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/e/repnasa95.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003478/02-repnasa95.jpg",
+      "skipped": true
+    }
+  ]
+}

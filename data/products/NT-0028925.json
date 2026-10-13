@@ -1,0 +1,71 @@
+{
+  "sku": "NT-0028925",
+  "url": "https://www.cabesto.com/fr/sac-a-dos-frendo-sainte-beaume-9l-noir.html",
+  "title": "Sac à Dos Sainte-Beaume 9L Noir FRENDO",
+  "brand": "FRENDO",
+  "category": "sacs-a-dos-plus-de-50-litres",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "sacs-a-dos-rangement",
+    "sacs-a-dos-plus-de-50-litres"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "sacs-a-dos-rangement",
+    "sacs-a-dos-plus-de-50-litres"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac à Dos Sainte-Beaume 9L Noir FRENDO"
+  ],
+  "description": "Complet et compact, le sac à dos multi-activités Sainte-Beaume 9 L Frendo permet une grande liberté de mouvements.",
+  "supplierRef": "205535",
+  "price": {
+    "amount": 34.9,
+    "currency": "EUR",
+    "formatted": "34.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028925",
+      "sku": "NT-0028925",
+      "supplierRef": "205535",
+      "price": {
+        "amount": 34.9,
+        "currency": "EUR",
+        "formatted": "34.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/1109-thickbox_default/sainte-beaume-jaune.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sainte-beaume-jaune.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:44:43.909Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/1109-thickbox_default/sainte-beaume-jaune.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028925/01-sainte-beaume-jaune.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sainte-beaume-jaune.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028925/02-sainte-beaume-jaune.jpg",
+      "skipped": false
+    }
+  ]
+}

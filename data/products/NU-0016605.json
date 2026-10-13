@@ -1,0 +1,63 @@
+{
+  "sku": "NU-0016605",
+  "url": "https://www.cabesto.com/fr/kits-entretien-wc-manuels-pompe-wc-complet-twist-n-lock.html",
+  "title": "Kits entretien wc manuels - Pompe wc.complet twist n lock",
+  "brand": "JABSCO",
+  "category": "WC marin",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Confort à bord",
+    "WC marin et accessoires",
+    "WC marin"
+  ],
+  "categories": [
+    "Confort à bord",
+    "WC marin et accessoires",
+    "WC marin"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Kits entretien wc manuels - Pompe wc.complet twist n lock"
+  ],
+  "description": "Achetez Kits entretien wc manuels - Pompe wc.complet twist n lock chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "JAB29040-3000",
+  "price": {
+    "amount": 119.99,
+    "currency": "EUR",
+    "formatted": "119.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0016605",
+      "sku": "NU-0016605",
+      "supplierRef": "JAB29040-3000",
+      "price": {
+        "amount": 119.99,
+        "currency": "EUR",
+        "formatted": "119.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/all_1262____1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:00:27.957Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/all_1262____1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0016605/01-all_1262____1.jpg",
+      "skipped": true
+    }
+  ]
+}

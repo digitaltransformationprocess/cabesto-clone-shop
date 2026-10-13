@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0028435",
+  "url": "https://www.cabesto.com/fr/verticalite-bobine-200-m-contract-10-5-mm-beal-nt-0028435.html",
+  "title": "Bobine 200 m Contract 10.5 mm - BEAL",
+  "brand": "BEAL",
+  "category": "cordes-statiques",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "cordes",
+    "cordes-statiques"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "cordes",
+    "cordes-statiques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bobine 200 m Contract 10.5 mm - BEAL"
+  ],
+  "description": "Achetez Bobine 200 m Contract 10.5 mm - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BCS105C.200",
+  "price": {
+    "amount": 299,
+    "currency": "EUR",
+    "formatted": "299 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028435",
+      "sku": "NT-0028435",
+      "supplierRef": "BCS105C.200",
+      "price": {
+        "amount": 299,
+        "currency": "EUR",
+        "formatted": "299 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/0/1016.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:40:01.690Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/0/1016.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028435/01-1016.jpg",
+      "skipped": false
+    }
+  ]
+}

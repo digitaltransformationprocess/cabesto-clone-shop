@@ -1,0 +1,63 @@
+{
+  "sku": "NT-0017036",
+  "url": "https://www.cabesto.com/fr/porte-badge-pour-vertexr-et-strato-nt-0017036.html",
+  "title": "Porte-badge pour Vertex et Strato",
+  "brand": "PETZL",
+  "category": "travail-en-hauteur",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "travail-en-hauteur"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "travail-en-hauteur"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Porte-badge pour Vertex et Strato"
+  ],
+  "description": "Achetez Porte-badge pour Vertex et Strato chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "A018AA00",
+  "price": {
+    "amount": 12.45,
+    "currency": "EUR",
+    "formatted": "12.45 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0017036",
+      "sku": "NT-0017036",
+      "supplierRef": "A018AA00",
+      "price": {
+        "amount": 12.45,
+        "currency": "EUR",
+        "formatted": "12.45 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/x/px39_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:38:58.126Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px39_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0017036/01-px39_1.jpg",
+      "skipped": false
+    }
+  ]
+}

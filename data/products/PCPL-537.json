@@ -1,0 +1,159 @@
+{
+  "sku": "PCPL-537",
+  "url": "https://www.cabesto.com/fr/veste-de-chasse-sous-marine-tracina-5-mm-cressi-sub.html",
+  "title": "Veste de chasse sous-marine TRACINA 5 mm CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "Eaux tempérées 5 mm",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Chasse sous-marine",
+    "Combinaisons de chasse",
+    "Eaux tempérées 5 mm",
+    "Prix en baisse",
+    "Prix en baisse Plongée et Chasse sous-marine"
+  ],
+  "categories": [
+    "Chasse sous-marine",
+    "Combinaisons de chasse",
+    "Eaux tempérées 5 mm",
+    "Prix en baisse",
+    "Prix en baisse Plongée et Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Plongée",
+    "Plongée",
+    "Chasse sous-marine",
+    "Chasse sous-marine",
+    "Combinaisons de chasse",
+    "Combinaisons de chasse",
+    "Eaux tempérées 5 mm",
+    "Eaux tempérées 5 mm",
+    "Veste de chasse sous-marine TRACINA 5 mm CRESSI SUB"
+  ],
+  "description": "Chassez confortablement et un camouflage parfait avec la veste de chasse sous-marine TRACINA 5 mm CRESSI SUB, la veste mimétique de référence ici en 5 mm, idéale pour une utilisation printemps, été et automne.",
+  "supplierRef": null,
+  "price": {
+    "amount": 123.99,
+    "currency": "EUR",
+    "formatted": "123.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-537",
+      "sku": "PCPL-537",
+      "supplierRef": null,
+      "price": {
+        "amount": 123.99,
+        "currency": "EUR",
+        "formatted": "123.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_spearfishing_2_pieces_tracina_man_6__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/a/facilitateur-d-habillage-fluid-z-abyssnaut_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-540-pl-3953-picture_1-pcpl-540-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_spearfishing_2_pieces_tracina_man_5__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/gants-high-stretch-3-5-mm-cressi.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_spearfishing_2_pieces_tracina_man_2__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_spearfishing_2_pieces_tracina_man_1__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_11_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_49_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_23.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3938-pl-3938-picture_1-pcpl-537-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3939-pl-3939-picture_1-pcpl-537-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3940-pl-3940-picture_1-pcpl-537-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3941-pl-3941-picture_1-pcpl-537-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3942-pl-3942-picture_1-pcpl-537-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:55:39.872Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_spearfishing_2_pieces_tracina_man_6__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/01-wetsuits_spearfishing_2_pieces_tracina_man_6__web.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/a/facilitateur-d-habillage-fluid-z-abyssnaut_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/02-facilitateur-d-habillage-fluid-z-abyssnaut_01.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-540-pl-3953-picture_1-pcpl-540-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/03-pcpl-540-pl-3953-picture_1-pcpl-540-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_spearfishing_2_pieces_tracina_man_5__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/04-wetsuits_spearfishing_2_pieces_tracina_man_5__web.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/gants-high-stretch-3-5-mm-cressi.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/05-gants-high-stretch-3-5-mm-cressi.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_spearfishing_2_pieces_tracina_man_2__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/06-wetsuits_spearfishing_2_pieces_tracina_man_2__web.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_spearfishing_2_pieces_tracina_man_1__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/07-wetsuits_spearfishing_2_pieces_tracina_man_1__web.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_11_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/08-hqdefault_11_11.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_49_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/09-hqdefault_49_3.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_23.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/10-hqdefault_56_23.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3938-pl-3938-picture_1-pcpl-537-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/11-pl-3938-pl-3938-picture_1-pcpl-537-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3939-pl-3939-picture_1-pcpl-537-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/12-pl-3939-pl-3939-picture_1-pcpl-537-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3940-pl-3940-picture_1-pcpl-537-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/13-pl-3940-pl-3940-picture_1-pcpl-537-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3941-pl-3941-picture_1-pcpl-537-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/14-pl-3941-pl-3941-picture_1-pcpl-537-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3942-pl-3942-picture_1-pcpl-537-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-537/15-pl-3942-pl-3942-picture_1-pcpl-537-1.jpg",
+      "skipped": true
+    }
+  ]
+}

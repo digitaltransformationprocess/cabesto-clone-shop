@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0006074",
+  "url": "https://www.cabesto.com/fr/verticalite-longe-absorbica-i-80-petzl-nt-0006074.html",
+  "title": "Longe Absorbica I 80 - PETZL",
+  "brand": "PETZL",
+  "category": "Longes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Longes"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Longes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Longe Absorbica I 80 - PETZL"
+  ],
+  "description": "Achetez Longe Absorbica I 80 - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "L011AA00",
+  "price": {
+    "amount": 40.8,
+    "currency": "EUR",
+    "formatted": "40.8 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006074",
+      "sku": "NT-0006074",
+      "supplierRef": "L011AA00",
+      "price": {
+        "amount": 40.8,
+        "currency": "EUR",
+        "formatted": "40.8 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl30_1-longe-absorbica-i-80-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl30_4-longe-absorbica-i-80-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl30_2-longe-absorbica-i-80-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl30_1-longe-absorbica-i-80-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:19:47.439Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl30_1-longe-absorbica-i-80-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006074/01-pl30_1-longe-absorbica-i-80-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl30_4-longe-absorbica-i-80-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006074/02-pl30_4-longe-absorbica-i-80-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl30_2-longe-absorbica-i-80-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006074/03-pl30_2-longe-absorbica-i-80-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl30_1-longe-absorbica-i-80-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006074/04-pl30_1-longe-absorbica-i-80-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

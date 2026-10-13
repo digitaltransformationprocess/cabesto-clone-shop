@@ -1,0 +1,67 @@
+{
+  "sku": "AL-0000492",
+  "url": "https://www.cabesto.com/fr/biere-bourbon-btle-33cl.html",
+  "title": "BIERE BOURBON BTLE 33CL",
+  "brand": "BOURBON",
+  "category": "Bières des iles",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "Bières",
+    "Bières des iles"
+  ],
+  "categories": [
+    "Bières",
+    "Bières des iles"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BIERE BOURBON BTLE 33CL"
+  ],
+  "description": "Achetez BIERE BOURBON BTLE 33CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3278720000960.",
+  "price": {
+    "amount": 2.39,
+    "currency": "EUR",
+    "formatted": "2.39 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000492",
+      "sku": "AL-0000492",
+      "supplierRef": "3278720000960.",
+      "price": {
+        "amount": 2.39,
+        "currency": "EUR",
+        "formatted": "2.39 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/i/biere-bourbon-bouteille-33cl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/0/6015588-6015588-picture_1-6015588_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:03:04.244Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/biere-bourbon-bouteille-33cl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000492/01-biere-bourbon-bouteille-33cl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6015588-6015588-picture_1-6015588_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000492/02-6015588-6015588-picture_1-6015588_1.jpg",
+      "skipped": false
+    }
+  ]
+}

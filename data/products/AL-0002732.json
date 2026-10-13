@@ -1,0 +1,61 @@
+{
+  "sku": "AL-0002732",
+  "url": "https://www.cabesto.com/fr/olives-vertes-geantes-gordal-plaza-del-sol-185g.html",
+  "title": "OLIVES VERTES GEANTES GORDAL 185G",
+  "brand": "PLAZA DEL SOL",
+  "category": "Tapas",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "Tapas",
+    "Tapas"
+  ],
+  "categories": [
+    "Tapas",
+    "Tapas"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "OLIVES VERTES GEANTES GORDAL 185G"
+  ],
+  "description": "Achetez OLIVES VERTES GEANTES GORDAL 185G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1C5820",
+  "price": {
+    "amount": 3.99,
+    "currency": "EUR",
+    "formatted": "3.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002732",
+      "sku": "AL-0002732",
+      "supplierRef": "1C5820",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/1/6129336-6129336-picture_1-6129336_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:57:55.259Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/6129336-6129336-picture_1-6129336_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002732/01-6129336-6129336-picture_1-6129336_1.jpg",
+      "skipped": true
+    }
+  ]
+}

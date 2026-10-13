@@ -1,0 +1,61 @@
+{
+  "sku": "PCNT-0004751",
+  "url": "https://www.cabesto.com/fr/bouteille-acier-inoxydable-750-ml.html",
+  "title": "Bouteille acier inoxydable 750 ml - 360°",
+  "brand": null,
+  "category": "Gourdes et housses",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Gourdes et housses"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Gourdes et housses"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bouteille acier inoxydable 750 ml - 360°"
+  ],
+  "description": "Achetez Bouteille acier inoxydable 750 ml - 360° chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004751",
+      "sku": "PCNT-0004751",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/h/c/hc07_1_c-bouteille-acier-inoxydable-750-ml-360_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:36:13.508Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/c/hc07_1_c-bouteille-acier-inoxydable-750-ml-360_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004751/01-hc07_1_c-bouteille-acier-inoxydable-750-ml-360_1.jpg",
+      "skipped": false
+    }
+  ]
+}

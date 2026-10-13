@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0007653",
+  "url": "https://www.cabesto.com/fr/plongee-kit-batterie-pour-chromis-pl-8195.html",
+  "title": "Kit batterie pour ordinateur de plongée CHROMIS SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "changement-de-piles-ordinateurs",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Kit batterie pour ordinateur de plongée CHROMIS SCUBAPRO"
+  ],
+  "description": "Kit batterie pour ordinateur de plongée CHROMIS SCUBAPROChangez la pile de votre ordinateur de plongée Chromis Scubapro avec le kit pile + joint pour montre ordinateur CHROMIS, vendue ici à l'unité.Informations techniques :Référence CR2032Type de pile LithiumVoltage 3 VFormat BoutonContenu du colis1 x Pile CR2032 + 1 Joint torique pour ordinateur de plongée CHROMIS SCUBAPRO, vendu à l'unité.",
+  "supplierRef": "06.204.730",
+  "price": {
+    "amount": 19,
+    "currency": "EUR",
+    "formatted": "19 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0007653",
+      "sku": "SU-0007653",
+      "supplierRef": "06.204.730",
+      "price": {
+        "amount": 19,
+        "currency": "EUR",
+        "formatted": "19 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-8195-pl-8195-picture_1-pl-8195-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:59.900Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-8195-pl-8195-picture_1-pl-8195-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0007653/01-pl-8195-pl-8195-picture_1-pl-8195-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee",
+    "changement-de-piles-ordinateurs"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee",
+    "changement-de-piles-ordinateurs"
+  ]
+}

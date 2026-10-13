@@ -1,0 +1,185 @@
+{
+  "sku": "PCSU-0011018",
+  "url": "https://www.cabesto.com/fr/masque-de-plongee-sous-marine-drake-anti-buee-sangle-silicone-salvimar-pcsu-0011018.html",
+  "title": "Masque de plongée sous-marine DRAKE anti-buée sangle silicone SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "Masques de plongée polyvalent tout type de visage",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée sous-marine",
+    "Masques de plongée",
+    "Masques de plongée pour visages larges",
+    "Masques de plongée polyvalent tout type de visage"
+  ],
+  "categories": [
+    "Plongée sous-marine",
+    "Masques de plongée",
+    "Masques de plongée pour visages larges",
+    "Masques de plongée polyvalent tout type de visage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Masque de plongée sous-marine DRAKE anti-buée sangle silicone SALVIMAR"
+  ],
+  "description": "Découvrez le confort et le design haut de gamme du nouveau masque DRAKE anti-buée SALVIMAR, le masque mono verre ultra léger à construction frameless avec un traitement intégré anti fog efficace et durable.",
+  "supplierRef": null,
+  "price": {
+    "amount": 55.99,
+    "currency": "EUR",
+    "formatted": "55.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0011018",
+      "sku": "PCSU-0011018",
+      "supplierRef": null,
+      "price": {
+        "amount": 55.99,
+        "currency": "EUR",
+        "formatted": "55.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/k/dk.s.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/o/noah_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/o/morpheus.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/e/neo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/o/morf.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/k/dka.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/k/dkn.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/k/dknn.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/k/dkb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/k/dkb1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/k/dk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/k/dk1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/k/dkk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/k/dkk1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/k/dk_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/r/drake4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/r/drake1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/r/drake.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/r/drake2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/k/dkb_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/k/dkk_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:41:49.161Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dk.s.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\01-dk.s.png.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\01-dk.s.png'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/o/noah_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011018/02-noah_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/o/morpheus.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\03-morpheus.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\03-morpheus.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/e/neo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\04-neo.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\04-neo.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/o/morf.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\05-morf.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\05-morf.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dka.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\06-dka.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\06-dka.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dkn.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011018/07-dkn.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dknn.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011018/08-dknn.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dkb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011018/09-dkb.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dkb1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011018/10-dkb1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\11-dk.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\11-dk.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dk1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011018/12-dk1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dkk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\13-dkk.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\13-dkk.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dkk1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011018/14-dkk1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dk_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011018/15-dk_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/r/drake4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011018/16-drake4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/r/drake1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\17-drake1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0011018\\17-drake1.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/r/drake.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "HTTP 503"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/r/drake2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011018/19-drake2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dkb_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011018/20-dkb_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/k/dkk_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011018/21-dkk_1.jpg",
+      "skipped": false
+    }
+  ]
+}

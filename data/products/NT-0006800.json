@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0006800",
+  "url": "https://www.cabesto.com/fr/neige-glace-broche-a-glace-express-ice-screw-19-cm-black-diamond-nt-0006800.html",
+  "title": "Broche à glace Express Ice Screw 19 cm - BLACK DIAMOND",
+  "brand": "BLACK DIAMOND",
+  "category": "broches-a-glace",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "neige-glace",
+    "alpinisme",
+    "broches-a-glace"
+  ],
+  "categories": [
+    "montagne",
+    "neige-glace",
+    "alpinisme",
+    "broches-a-glace"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Broche à glace Express Ice Screw 19 cm - BLACK DIAMOND"
+  ],
+  "description": "Achetez Broche à glace Express Ice Screw 19 cm - BLACK DIAMOND chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BD4902190000ALL1",
+  "price": {
+    "amount": 63.9,
+    "currency": "EUR",
+    "formatted": "63.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006800",
+      "sku": "NT-0006800",
+      "supplierRef": "BD4902190000ALL1",
+      "price": {
+        "amount": 63.9,
+        "currency": "EUR",
+        "formatted": "63.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/7/1793.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:38:12.532Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1793.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006800/01-1793.jpg",
+      "skipped": false
+    }
+  ]
+}

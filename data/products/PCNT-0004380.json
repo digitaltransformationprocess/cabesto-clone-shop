@@ -1,0 +1,113 @@
+{
+  "sku": "PCNT-0004380",
+  "url": "https://www.cabesto.com/fr/veste-polaire-oxford-ef04.html",
+  "title": "Veste polaire Oxford",
+  "brand": "HELLY HANSEN WORK",
+  "category": "vestes",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "femme",
+    "marin",
+    "vestes"
+  ],
+  "categories": [
+    "textile",
+    "femme",
+    "marin",
+    "vestes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Veste polaire Oxford"
+  ],
+  "description": "Achetez Veste polaire Oxford chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 90,
+    "currency": "EUR",
+    "formatted": "90 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004380",
+      "sku": "PCNT-0004380",
+      "supplierRef": null,
+      "price": {
+        "amount": 90,
+        "currency": "EUR",
+        "formatted": "90 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_2_1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_2_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_2_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:33:12.480Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004380/01-ef04_1_c-veste-polaire-oxford-helly-hansen-work_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004380/02-ef04_1_c-veste-polaire-oxford-helly-hansen-work.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_2_1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004380/03-ef04_1_c-veste-polaire-oxford-helly-hansen-work_2_1__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_2_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004380/04-ef04_1_c-veste-polaire-oxford-helly-hansen-work_2_1__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_2_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004380/05-ef04_1_c-veste-polaire-oxford-helly-hansen-work_2_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004380/06-ef04_1_c-veste-polaire-oxford-helly-hansen-work_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004380/07-ef04_1_c-veste-polaire-oxford-helly-hansen-work_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004380/08-ef04_1_c-veste-polaire-oxford-helly-hansen-work_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/f/ef04_1_c-veste-polaire-oxford-helly-hansen-work_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004380/09-ef04_1_c-veste-polaire-oxford-helly-hansen-work_4.jpg",
+      "skipped": false
+    }
+  ]
+}

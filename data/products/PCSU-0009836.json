@@ -1,0 +1,101 @@
+{
+  "sku": "PCSU-0009836",
+  "url": "https://www.cabesto.com/fr/stab-pro-hd-noir-gris-aqua-lung.html",
+  "title": "Gilet stabilisateur de plongée sous-marine PRO HD noir/gris AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "Gilets de plongée réglables",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Gilets stabilisateurs",
+    "Gilets de plongée réglables"
+  ],
+  "categories": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Gilets stabilisateurs",
+    "Gilets de plongée réglables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gilet stabilisateur de plongée sous-marine PRO HD noir/gris AQUALUNG"
+  ],
+  "description": "Plongez avec le nouveau gilet stabilisateur PRO HD AQUALUNG noir et gris, confortable et économique avec son accastillage haut de gamme...",
+  "supplierRef": null,
+  "price": {
+    "amount": 369,
+    "currency": "EUR",
+    "formatted": "369 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0009836",
+      "sku": "PCSU-0009836",
+      "supplierRef": null,
+      "price": {
+        "amount": 369,
+        "currency": "EUR",
+        "formatted": "369 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/c/bc1660193-pro-hd-noir-gris-29-04-22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pro_hdaqualung_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/t/stab-pro-hd-noir-gris-aqua-lung_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/t/stab-pro-hd-noir-gris-aqua-lung_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/t/stab-pro-hd-noir-gris-aqua-lung_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/t/stab-pro-hd-noir-gris-aqua-lung_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/t/stab-pro-hd-noir-gris-aqua-lung_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:55:06.610Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc1660193-pro-hd-noir-gris-29-04-22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009836/01-bc1660193-pro-hd-noir-gris-29-04-22.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pro_hdaqualung_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009836/02-pro_hdaqualung_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/t/stab-pro-hd-noir-gris-aqua-lung_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009836/03-stab-pro-hd-noir-gris-aqua-lung_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/t/stab-pro-hd-noir-gris-aqua-lung_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009836/04-stab-pro-hd-noir-gris-aqua-lung_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/t/stab-pro-hd-noir-gris-aqua-lung_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009836/05-stab-pro-hd-noir-gris-aqua-lung_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/t/stab-pro-hd-noir-gris-aqua-lung_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009836/06-stab-pro-hd-noir-gris-aqua-lung_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/t/stab-pro-hd-noir-gris-aqua-lung_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009836/07-stab-pro-hd-noir-gris-aqua-lung_5.jpg",
+      "skipped": false
+    }
+  ]
+}

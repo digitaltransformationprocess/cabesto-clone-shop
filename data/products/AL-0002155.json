@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0002155",
+  "url": "https://www.cabesto.com/fr/langoustines-aux-brisures-de-truffes-80g.html",
+  "title": "LANGOUSTINES BRISURES TRUFFES 80-90G",
+  "brand": "ATELIER DU CUISINIER",
+  "category": "Tartinables",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tartinable-mer",
+    "tartinables"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tartinable-mer",
+    "tartinables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "LANGOUSTINES BRISURES TRUFFES 80-90G"
+  ],
+  "description": "Achetez LANGOUSTINES BRISURES TRUFFES 80-90G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "ATC-RLA",
+  "price": {
+    "amount": 5.49,
+    "currency": "EUR",
+    "formatted": "5.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002155",
+      "sku": "AL-0002155",
+      "supplierRef": "ATC-RLA",
+      "price": {
+        "amount": 5.49,
+        "currency": "EUR",
+        "formatted": "5.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6002961-6002961-picture_1-6002961_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:54:29.873Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6002961-6002961-picture_1-6002961_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002155/01-6002961-6002961-picture_1-6002961_1.jpg",
+      "skipped": true
+    }
+  ]
+}

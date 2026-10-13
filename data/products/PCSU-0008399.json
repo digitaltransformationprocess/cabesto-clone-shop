@@ -1,0 +1,157 @@
+{
+  "sku": "PCSU-0008399",
+  "url": "https://www.cabesto.com/fr/combinaison-de-plongee-shorty-altum-femme-3-mm-cressi-sub-pcsu-0008399.html",
+  "title": "Combinaison de plongée shorty ALTUM femme 3 mm CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "Combinaisons de longe-côte",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Combinaisons de natation",
+    "Femme eaux chaudes",
+    "Combinaisons de plongée femme",
+    "Shortys et Survestes",
+    "Combinaisons de longe-côte"
+  ],
+  "categories": [
+    "Combinaisons de natation",
+    "Femme eaux chaudes",
+    "Combinaisons de plongée femme",
+    "Shortys et Survestes",
+    "Combinaisons de longe-côte"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Combinaison de plongée shorty ALTUM femme 3 mm CRESSI SUB"
+  ],
+  "description": "Nagez, plongez, voyagez, snorkellez et randonnez en mer avec le shorty ALTUM 3 mm CRESSI SUB, ici pour femme, confortable et élégant.",
+  "supplierRef": null,
+  "price": {
+    "amount": 95,
+    "currency": "EUR",
+    "formatted": "95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0008399",
+      "sku": "PCSU-0008399",
+      "supplierRef": null,
+      "price": {
+        "amount": 95,
+        "currency": "EUR",
+        "formatted": "95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_6__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mutasnoaquaticjgirl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuit_monopiece_altum_lady__sq__size__web_it_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_7__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/altumf_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_5__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_8__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_2__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_1__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_3__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_4__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_5__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_5__web_500x_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_5__web_500x_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_5__web_500x_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:38:55.192Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_6__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/01-wetsuits_surface_shorty_altum_lady_6__web.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mutasnoaquaticjgirl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/02-mutasnoaquaticjgirl_2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/03-mutafreeshortyaquaticlady_0.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuit_monopiece_altum_lady__sq__size__web_it_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/04-wetsuit_monopiece_altum_lady__sq__size__web_it_.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_7__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/05-wetsuits_surface_shorty_altum_lady_7__web.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/altumf_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/06-altumf_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_5__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/07-wetsuits_surface_shorty_altum_lady_5__web.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_8__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/08-wetsuits_surface_shorty_altum_lady_8__web.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_2__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/09-wetsuits_surface_shorty_altum_lady_2__web.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_1__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/10-wetsuits_surface_shorty_altum_lady_1__web.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_3__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/11-wetsuits_surface_shorty_altum_lady_3__web.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_4__web.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/12-wetsuits_surface_shorty_altum_lady_4__web.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_5__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/13-wetsuits_surface_shorty_altum_lady_5__web_500x.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_5__web_500x_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/14-wetsuits_surface_shorty_altum_lady_5__web_500x_4.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_5__web_500x_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/15-wetsuits_surface_shorty_altum_lady_5__web_500x_3.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/wetsuits_surface_shorty_altum_lady_5__web_500x_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008399/16-wetsuits_surface_shorty_altum_lady_5__web_500x_5.jpg",
+      "skipped": true
+    }
+  ]
+}

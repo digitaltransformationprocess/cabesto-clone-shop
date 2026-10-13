@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0002032",
+  "url": "https://www.cabesto.com/fr/plongee-crochet-pour-recif-simple-pl-1920.html",
+  "title": "Crochet à récifs de plongée simple BESTDIVERS",
+  "brand": "BEST DIVERS",
+  "category": "dragonnes-et-mousquetons",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Crochet à récifs de plongée simple BESTDIVERS"
+  ],
+  "description": "CROCHET POUR RECIF SIMPLE BEST DIVERSSécurisez vos paliers en eaux tropicales avec le crochet pour récif simple BEST DIVERS.Une production exclusive Best Divers entièrement Made in Italy.Accessoire indispensable pour une décompression en toute sécurité en présence de courants forts.Crochet en acier inoxydableProtection de la pointe en caoutchoucAnneau de fixation de ligneMade in Italy",
+  "supplierRef": "TK0127S",
+  "price": {
+    "amount": 11.99,
+    "currency": "EUR",
+    "formatted": "11.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0002032",
+      "sku": "SU-0002032",
+      "supplierRef": "TK0127S",
+      "price": {
+        "amount": 11.99,
+        "currency": "EUR",
+        "formatted": "11.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-1920-pl-1920-picture_1-pl-1920-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:09.383Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-1920-pl-1920-picture_1-pl-1920-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002032/01-pl-1920-pl-1920-picture_1-pl-1920-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "dragonnes-et-mousquetons"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "dragonnes-et-mousquetons"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "sku": "SU-0011072",
+  "url": "https://www.cabesto.com/fr/detendeur-de-plongee-planet-88x-tbp-din-mares-su-0011072.html",
+  "title": "Détendeur de plongée PLANET 88X TBP DIN MARES",
+  "brand": "MARES",
+  "category": "Détendeurs eaux froides",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée sous-marine",
+    "Détendeurs et Octopus",
+    "Détendeurs plongée 1er et 2ème étage compensés",
+    "Détendeurs eaux froides"
+  ],
+  "categories": [
+    "Plongée sous-marine",
+    "Détendeurs et Octopus",
+    "Détendeurs plongée 1er et 2ème étage compensés",
+    "Détendeurs eaux froides"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Détendeur de plongée PLANET 88X TBP DIN MARES"
+  ],
+  "description": "Respirez naturellement et librement avec le nouveau détendeur PLANET 88X TBP DIN avec deuxième étage AIRMATIC, le détendeur haut de gamme doté d'une nouvelle technologie, pensé pour offrir une respiration fluide, stable et sécurisante, même en eau froide",
+  "supplierRef": "416260DIN",
+  "price": {
+    "amount": 899,
+    "currency": "EUR",
+    "formatted": "899 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0011072",
+      "sku": "SU-0011072",
+      "supplierRef": "416260DIN",
+      "price": {
+        "amount": 899,
+        "currency": "EUR",
+        "formatted": "899 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/8/8/88x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/416556_octopus_dual_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/d/fds.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/415471_cruise_reg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/416260_planet_88x_din_open_box.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/416260_88x_din.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/416260_planet_88x_airmatic.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/416260_planet_88x_ovveride_button_detail.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/416260_planet_88x_purge_button_detail.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/416260_planet_88x_button_pressed.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/416260_88x_swivel_turret_detail.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/416260_planet_88x_box.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:22:34.204Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/8/88x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011072/01-88x.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/416556_octopus_dual_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011072/02-416556_octopus_dual_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/d/fds.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011072/03-fds.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/415471_cruise_reg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011072/04-415471_cruise_reg.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/416260_planet_88x_din_open_box.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011072/05-416260_planet_88x_din_open_box.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/416260_88x_din.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011072/06-416260_88x_din.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/416260_planet_88x_airmatic.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011072/07-416260_planet_88x_airmatic.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/416260_planet_88x_ovveride_button_detail.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011072/08-416260_planet_88x_ovveride_button_detail.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/416260_planet_88x_purge_button_detail.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011072/09-416260_planet_88x_purge_button_detail.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/416260_planet_88x_button_pressed.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011072/10-416260_planet_88x_button_pressed.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/416260_88x_swivel_turret_detail.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011072/11-416260_88x_swivel_turret_detail.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/416260_planet_88x_box.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0011072/12-416260_planet_88x_box.jpg",
+      "skipped": true
+    }
+  ]
+}

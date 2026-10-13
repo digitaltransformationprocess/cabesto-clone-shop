@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0006654",
+  "url": "https://www.cabesto.com/fr/plongee-table-immergeable-nitrox-pl-432.html",
+  "title": "TABLE IMMERGEABLE NITROX",
+  "brand": null,
+  "category": "tables-de-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TABLE IMMERGEABLE NITROX"
+  ],
+  "description": "Tables Nitrox Immergeables : Précision et Fiabilité pour vos PlongéesDes tables immergeables conçues pour une planification optimale de vos plongées au Nitrox.Les \"Tables Nitrox Immergeables\" sont un outil indispensable pour les plongeurs utilisant des mélanges enrichis en oxygène. Conçues pour résister à l'immersion, ces tables recto-verso offrent des informations précises pour planifier vos plongées en toute sécurité. Elles incluent des données pour les mélanges Nitrox 32/68, 36/64 et 40/60, ainsi que des tableaux détaillant les valeurs d'azote résiduel et les majorations pour les plongées successives. Basées sur les tables FFESSM et les tables MN90 de la Marine Nationale, elles garantissent une fiabilité éprouvée. Avec un format compact de 9 x 13 cm, ces tables sont faciles à transporter et à consulter sous l'eau. Que vous soyez plongeur loisir ou professionnel, elles vous accompagnent dans toutes vos aventures subaquatiques.Caractéristiques Tables Nitrox ImmergeablesInformations pour les mélanges Nitrox 32/68, 36/64 et 40/60Format compact et pratique : 9 x 13 cmRésistantes à l'immersion pour une utilisation sous l'eauBasées sur les tables FFESSM et MN90Idéal pour planifier des plongées sécuriséesInformations techniques :Nombre de tables4Format9 x 13 cmMélanges couvertsNitrox 32/68, 36/64, 40/60BaseTables FFESSM et MN90UtilisationImmergeableContenu du colis4 x Tables Nitrox Immergeables",
+  "supplierRef": "GAP29",
+  "price": {
+    "amount": 11.99,
+    "currency": "EUR",
+    "formatted": "11.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0006654",
+      "sku": "SU-0006654",
+      "supplierRef": "GAP29",
+      "price": {
+        "amount": 11.99,
+        "currency": "EUR",
+        "formatted": "11.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/n/t/ntxx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/ntxxx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:20:59.129Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/ntxx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006654/01-ntxx.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/ntxxx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006654/02-ntxxx.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "tables-de-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "tables-de-plongee"
+  ]
+}

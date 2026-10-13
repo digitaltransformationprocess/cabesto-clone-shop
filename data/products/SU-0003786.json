@@ -1,0 +1,103 @@
+{
+  "sku": "SU-0003786",
+  "url": "https://www.cabesto.com/fr/plongee-masque-big-eyes-evolution-noir-noir-pl-4984.html",
+  "title": "MSQ BIG EYES EVO NOIR/NOIR",
+  "brand": "CRESSI",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MSQ BIG EYES EVO NOIR/NOIR"
+  ],
+  "description": "Masque de plongée sous-marine BIG EYES EVOLUTION noir CRESSI SUBPlongez avec le masque Big Eyes Evolution noir de Cressi : un masque révolutionnaire réalisé en High Seal, un nouveau matériau qui offre un confort extraordinaire et inédit. Idéal pour les descentes profondes !Exceptionnellement souple et confortable, la jupe du masque BIG EYES EVOLUTION profite des nouvelles technologies CRESSI SUB qui permettent d’avoir un point de contact du masque sur le visage selon un angle très ouvert.Le masque s’appuie sur le visage avec un confort jamais vu auparavant et ne laisse aucune trace sur la peau, même après une utilisation prolongée.Bien évidemment, pour obtenir un résultat semblable, toute la structure de la jupe a été revue, avec des nervures internes qui rigidifient les points les plus sollicités du masque.Les verres inclinés en forme de gouttes renversées (brevet Cressi) sont de dimensions réduites et rapprochés le plus possible de la pupille, afin d’augmenter de 25% la visibilité déjà extraordinaire du Matrix.Le cerclage bénéficie du système Cressi exclusif (breveté) de double injection d’un élastomère sur un élément rigide. Ceci permet de monter les boucles du sanglage non sur la structure de la jupe, comme la concurrence, mais sur un élément élastique et indestructible qui bascule sur le plan vertical et qui est complètement repliable latéralement dans un rayon de 180°.L’épaisseur du cerclage a été réduite et il disparaît ainsi complètement de la vue quand le masque est porté.Big Eyes Evolution est conçu pour le montage de verres correcteurs: un petit tournevis et quelques secondes sont suffisantes pour monter à la place des verres d’origine les verres correcteurs prescrits par l’oculiste.Les composants de la confection du Big Eyes Evolution sont totalement recyclables et la partie noire inférieure est réalisée avec des matériaux recyclés : Cressi pense aussi à l’environnement !Les vitres inclinées offrent un champ de vision parfait.Les vitres en larme inversée améliorent la visibilité vers le bas, permettant de bien surveiller le matériel accroché au gilet stabilisateur.Un faible volume intérieur permet un vidage sans effortLa jupe en silicone double densité s'adapte à un joint parfait le long du visage, et soutient bien la structureLa jupe nervurée offre un bon soutien là où cela est nécessaire pour un ajustement souple et flexibleDes boucles réglables micrométriques permettent un ajustement précis de la sangleDes boucles pivotantes sont fixées sur des plots indestructibles en élastomère, pour une longévité et un confort parfaits.Accepte des verres correcteursBoite rigide de protectionCe masque a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 1) suivant la norme NF EN 16805.",
+  "supplierRef": "DS336550",
+  "price": {
+    "amount": 55.99,
+    "currency": "EUR",
+    "formatted": "55.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003786",
+      "sku": "SU-0003786",
+      "supplierRef": "DS336550",
+      "price": {
+        "amount": 55.99,
+        "currency": "EUR",
+        "formatted": "55.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_big_eyes_evolution_black_5__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-731-pl-731-picture_1-pl-731-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-732-pl-732-picture_1-pl-732-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/n/antifog_bio_gel_1608_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-4984-pl-4984-picture_1-pcpl-664-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_big_eyes_evolution_black_2__web_500x_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_big_eyes_evolution_black_1__web_500x_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/protective_box_for_masks_medium_dz250098__web_8b08f47d-25eb-41ae-9aa1-fc6e6a06e11e_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:27:46.291Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_big_eyes_evolution_black_5__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003786/01-masks_big_eyes_evolution_black_5__web_500x.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-731-pl-731-picture_1-pl-731-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003786/02-pl-731-pl-731-picture_1-pl-731-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-732-pl-732-picture_1-pl-732-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003786/03-pl-732-pl-732-picture_1-pl-732-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/n/antifog_bio_gel_1608_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003786/04-antifog_bio_gel_1608_00_800.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-4984-pl-4984-picture_1-pcpl-664-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003786/05-pl-4984-pl-4984-picture_1-pcpl-664-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_big_eyes_evolution_black_2__web_500x_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003786/06-masks_big_eyes_evolution_black_2__web_500x_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_big_eyes_evolution_black_1__web_500x_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003786/07-masks_big_eyes_evolution_black_1__web_500x_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/protective_box_for_masks_medium_dz250098__web_8b08f47d-25eb-41ae-9aa1-fc6e6a06e11e_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003786/08-protective_box_for_masks_medium_dz250098__web_8b08f47d-25eb-41ae-9aa1-fc6e6a06e11e_500x.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "PCNT-0019430",
+  "url": "https://www.cabesto.com/fr/neige-glace-harnais-escalade-baudrier-shadow-soft-beal-bl55.html",
+  "title": "Harnais baudrier d'escalade SHADOW SOFT BEAL",
+  "brand": "BEAL",
+  "category": "Harnais, torses de montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Neige & Glace",
+    "Escalade",
+    "Alpinisme",
+    "Harnais cuisses réglables",
+    "Harnais, torses de montagne"
+  ],
+  "categories": [
+    "Neige & Glace",
+    "Escalade",
+    "Alpinisme",
+    "Harnais cuisses réglables",
+    "Harnais, torses de montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Harnais baudrier d'escalade SHADOW SOFT BEAL"
+  ],
+  "description": "Compact et léger, le harnais d'escalade réglable polyvalent Shadow soft BEAL vous accompagnera dans toutes vos aventures verticales.",
+  "supplierRef": null,
+  "price": {
+    "amount": 49,
+    "currency": "EUR",
+    "formatted": "49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0019430",
+      "sku": "PCNT-0019430",
+      "supplierRef": null,
+      "price": {
+        "amount": 49,
+        "currency": "EUR",
+        "formatted": "49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/l/bl55_1_e-harnais-shadow-soft-beal_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/c/dc70_1-be-one-vis-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bl09_1-dynadoubleclip-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bl55_2_e-harnais-shadow-soft-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bl55_1_e-harnais-shadow-soft-beal_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/h/shadow_soft.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/a/harnais_shadow_soft.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bl55_1_e-harnais-shadow-soft-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bl55_1_e-harnais-shadow-soft-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:27:26.463Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl55_1_e-harnais-shadow-soft-beal_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0019430/01-bl55_1_e-harnais-shadow-soft-beal_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/c/dc70_1-be-one-vis-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0019430/02-dc70_1-be-one-vis-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl09_1-dynadoubleclip-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0019430/03-bl09_1-dynadoubleclip-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl55_2_e-harnais-shadow-soft-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0019430/04-bl55_2_e-harnais-shadow-soft-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl55_1_e-harnais-shadow-soft-beal_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0019430/05-bl55_1_e-harnais-shadow-soft-beal_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/h/shadow_soft.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0019430/06-shadow_soft.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/a/harnais_shadow_soft.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0019430/07-harnais_shadow_soft.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl55_1_e-harnais-shadow-soft-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0019430/08-bl55_1_e-harnais-shadow-soft-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl55_1_e-harnais-shadow-soft-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0019430/09-bl55_1_e-harnais-shadow-soft-beal_1.jpg",
+      "skipped": false
+    }
+  ]
+}

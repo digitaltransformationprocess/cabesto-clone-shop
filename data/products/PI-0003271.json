@@ -1,0 +1,93 @@
+{
+  "sku": "PI-0003271",
+  "url": "https://www.cabesto.com/fr/piscine-spa-portable-a-structure-semi-rigide-netspa-octopus-4-6-places-mobilier-pi-306.html",
+  "title": "Spa portable à structure semi rigide netspa octopus 4/6 places + mobilier",
+  "brand": "POOLSTAR",
+  "category": "Spa avec habillage",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Spa gonflable",
+    "Spa 6 places",
+    "Spa avec habillage"
+  ],
+  "categories": [
+    "Spa gonflable",
+    "Spa 6 places",
+    "Spa avec habillage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Spa portable à structure semi rigide netspa octopus 4/6 places + mobilier"
+  ],
+  "description": "Spa portable à structure semi rigide netspa octopus 4/6 places + mobilier SPA PORTABLE SEMI RIGIDE NETSPA - UN COMPROMIS ENTRE SPA GONFLABLE ET RIGIDE Le spa semi rigide Netspa est une véritable alternative aux spas rigides, un spa haut de gamme accessib",
+  "supplierRef": "SP-OCT165/MOB2",
+  "price": {
+    "amount": 1599.6,
+    "currency": "EUR",
+    "formatted": "1599.6 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003271",
+      "sku": "PI-0003271",
+      "supplierRef": "SP-OCT165/MOB2",
+      "price": {
+        "amount": 1599.6,
+        "currency": "EUR",
+        "formatted": "1599.6 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/7/1/71qRZBzRIkL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/9/1/91F03I9dASL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/9/1/91dyIMarQUL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/1/71AwIea-giL._AC_SL1000_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/1/712jPgbUecL._AC_SL1000_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/1/81db4V01kRL._AC_SL1000_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:33:38.678Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/1/71qRZBzRIkL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003271/01-71qRZBzRIkL._AC_SL1500_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/9/1/91F03I9dASL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003271/02-91F03I9dASL._AC_SL1500_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/9/1/91dyIMarQUL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003271/03-91dyIMarQUL._AC_SL1500_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/1/71AwIea-giL._AC_SL1000_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003271/04-71AwIea-giL._AC_SL1000_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/1/712jPgbUecL._AC_SL1000_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003271/05-712jPgbUecL._AC_SL1000_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/1/81db4V01kRL._AC_SL1000_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003271/06-81db4V01kRL._AC_SL1000_.jpg",
+      "skipped": false
+    }
+  ]
+}

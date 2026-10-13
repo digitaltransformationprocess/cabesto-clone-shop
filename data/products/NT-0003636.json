@@ -1,0 +1,97 @@
+{
+  "sku": "NT-0003636",
+  "url": "https://www.cabesto.com/fr/neige-glace-harnais-escalade-baudrier-aero-classic-ii-beal-nt-0003636.html",
+  "title": "Harnais baudrier réglable AERO CLASSIC II BEAL",
+  "brand": "BEAL",
+  "category": "Harnais, torses de montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Neige & Glace",
+    "Escalade",
+    "Alpinisme",
+    "Harnais cuisses réglables",
+    "Harnais, torses de montagne"
+  ],
+  "categories": [
+    "Neige & Glace",
+    "Escalade",
+    "Alpinisme",
+    "Harnais cuisses réglables",
+    "Harnais, torses de montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Harnais baudrier réglable AERO CLASSIC II BEAL"
+  ],
+  "description": "Polyvalent et léger, le harnais d'escalade réglable AERO CLASSIC II BEAL permettra de s'équiper pour de multiples utilisations au meilleur prix.",
+  "supplierRef": "BHAC.BK",
+  "price": {
+    "amount": 47.9,
+    "currency": "EUR",
+    "formatted": "47.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0003636",
+      "sku": "NT-0003636",
+      "supplierRef": "BHAC.BK",
+      "price": {
+        "amount": 47.9,
+        "currency": "EUR",
+        "formatted": "47.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/l/bl89_1-harnais-escalade-aero-classic-ii-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/6/4693.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp03_1-mousqueton-attache-ii-sl-noir-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/i/birdie_7_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bl89_2-harnais-escalade-aero-classic-ii-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bl89_1-harnais-escalade-aero-classic-ii-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:23:16.955Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl89_1-harnais-escalade-aero-classic-ii-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0003636/01-bl89_1-harnais-escalade-aero-classic-ii-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/6/4693.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0003636/02-4693.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp03_1-mousqueton-attache-ii-sl-noir-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0003636/03-pp03_1-mousqueton-attache-ii-sl-noir-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/birdie_7_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0003636/04-birdie_7_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl89_2-harnais-escalade-aero-classic-ii-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0003636/05-bl89_2-harnais-escalade-aero-classic-ii-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl89_1-harnais-escalade-aero-classic-ii-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0003636/06-bl89_1-harnais-escalade-aero-classic-ii-beal_1.jpg",
+      "skipped": false
+    }
+  ]
+}

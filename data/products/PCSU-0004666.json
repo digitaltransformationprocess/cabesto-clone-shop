@@ -1,0 +1,121 @@
+{
+  "sku": "PCSU-0004666",
+  "url": "https://www.cabesto.com/fr/palmes-de-plongee-chaussantes-x-voyager-bleu-beuchat-pcsu-0004666.html",
+  "title": "Palmes de plongée chaussantes X-VOYAGER Bleu BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "Palmes de plongée chaussantes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Randonnée Aquatique",
+    "Palmes snorkeling",
+    "Adultes",
+    "Palmes de plongée",
+    "Palmes de plongée chaussantes"
+  ],
+  "categories": [
+    "Randonnée Aquatique",
+    "Palmes snorkeling",
+    "Adultes",
+    "Palmes de plongée",
+    "Palmes de plongée chaussantes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Palmes de plongée chaussantes X-VOYAGER Bleu BEUCHAT"
+  ],
+  "description": "Palmez léger, fluide et efficace grâce aux palmes de plongée chaussantes X-Voyager Bleu, propulsion fluide et précise pour la plongée, le snorkeling ou la nage palmée, avec un chausson anatomique très confortable.",
+  "supplierRef": null,
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR",
+    "formatted": "39.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0004666",
+      "sku": "PCSU-0004666",
+      "supplierRef": null,
+      "price": {
+        "amount": 39.99,
+        "currency": "EUR",
+        "formatted": "39.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/x/v/xvoyager.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/u/fuga_71-4b_05_800_1_3_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/e/reaction_pro_black_bg195000_1__web_500x_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/o/volo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/x/v/xvoyager2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/x/-/x-voyager.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/x/v/xvoyager2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/x/v/xvoyager2_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/x/v/xvoyager2_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/x/v/xvoyager2_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:40:38.648Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/v/xvoyager.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0004666/01-xvoyager.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/u/fuga_71-4b_05_800_1_3_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0004666/02-fuga_71-4b_05_800_1_3_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/e/reaction_pro_black_bg195000_1__web_500x_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0004666/03-reaction_pro_black_bg195000_1__web_500x_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/o/volo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0004666/04-volo.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/v/xvoyager2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0004666\\05-xvoyager2.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0004666\\05-xvoyager2.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/-/x-voyager.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0004666/06-x-voyager.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/v/xvoyager2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0004666/07-xvoyager2_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/v/xvoyager2_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0004666\\08-xvoyager2_2.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0004666\\08-xvoyager2_2.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/v/xvoyager2_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0004666/09-xvoyager2_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/v/xvoyager2_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0004666\\10-xvoyager2_4.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0004666\\10-xvoyager2_4.jpg'"
+    }
+  ]
+}

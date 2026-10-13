@@ -1,0 +1,151 @@
+{
+  "sku": "PCSU-0008400",
+  "url": "https://www.cabesto.com/fr/combinaison-de-plongee-sous-marine-et-apnee-alize-femme-3-mm-beuchat-pcsu-0008400.html",
+  "title": "Combinaison de plongée sous-marine et apnée ALIZE femme 3 mm BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "Combinaisons de plongée femme",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Combinaisons snorkeling",
+    "Monopièces femme",
+    "Combinaisons de plongée",
+    "Combinaisons de plongée femme",
+    "Destockage Plongée / Chasse sous-marine"
+  ],
+  "categories": [
+    "Combinaisons snorkeling",
+    "Monopièces femme",
+    "Combinaisons de plongée",
+    "Combinaisons de plongée femme",
+    "Destockage Plongée / Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Combinaison de plongée sous-marine et apnée ALIZE femme 3 mm BEUCHAT"
+  ],
+  "description": "Plongez en toute liberté et élégance avec la combinaison de randonnée aquatique et plongée sous-marine BEUCHAT ALIZE pour femme, alliant le néoprène souple ELASKIN BEUCHAT 3 mm confortable et durable avec une grande liberté de mouvement pour vos aventures",
+  "supplierRef": null,
+  "price": {
+    "amount": 129.99,
+    "currency": "EUR",
+    "formatted": "129.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0008400",
+      "sku": "PCSU-0008400",
+      "supplierRef": null,
+      "price": {
+        "amount": 129.99,
+        "currency": "EUR",
+        "formatted": "129.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/aliz3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/u/luxx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/i/divingxcare_250ml_eng.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/p/spycolor.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/c/oceoadulte.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/aliz3col.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/alizzzz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/alizzz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/alizz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/aliz33.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18856-pl-18856-picture_1-pcpl-2575-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18854-pl-18854-picture_1-pcpl-2575-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18853-pl-18853-picture_1-pcpl-2575-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18855-pl-18855-picture_1-pcpl-2575-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18857-pl-18857-picture_1-pcpl-2575-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:40:15.350Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/aliz3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/01-aliz3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/u/luxx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/02-luxx.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/i/divingxcare_250ml_eng.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/03-divingxcare_250ml_eng.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/p/spycolor.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0008400\\04-spycolor.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0008400\\04-spycolor.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/oceoadulte.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/05-oceoadulte.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/aliz3col.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0008400\\06-aliz3col.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0008400\\06-aliz3col.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alizzzz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/07-alizzzz.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alizzz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/08-alizzz.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/alizz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/09-alizz.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/aliz33.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/10-aliz33.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18856-pl-18856-picture_1-pcpl-2575-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/11-pl-18856-pl-18856-picture_1-pcpl-2575-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18854-pl-18854-picture_1-pcpl-2575-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/12-pl-18854-pl-18854-picture_1-pcpl-2575-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18853-pl-18853-picture_1-pcpl-2575-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/13-pl-18853-pl-18853-picture_1-pcpl-2575-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18855-pl-18855-picture_1-pcpl-2575-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/14-pl-18855-pl-18855-picture_1-pcpl-2575-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18857-pl-18857-picture_1-pcpl-2575-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008400/15-pl-18857-pl-18857-picture_1-pcpl-2575-1.jpg",
+      "skipped": false
+    }
+  ]
+}

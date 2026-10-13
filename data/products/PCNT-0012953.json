@@ -1,0 +1,77 @@
+{
+  "sku": "PCNT-0012953",
+  "url": "https://www.cabesto.com/fr/randonnee-collant-homme-en-laine-200-oasis-icebreaker-ib53.html",
+  "title": "Collant homme en laine 200 Oasis - ICEBREAKER",
+  "brand": "ICEBREAKER",
+  "category": "Black November - Montagne",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "Sous-vêtements techniques",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Sous-vêtements techniques",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Collant homme en laine 200 Oasis - ICEBREAKER"
+  ],
+  "description": "Achetez Collant homme en laine 200 Oasis - ICEBREAKER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 59.97,
+    "currency": "EUR",
+    "formatted": "59.97 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0012953",
+      "sku": "PCNT-0012953",
+      "supplierRef": null,
+      "price": {
+        "amount": 59.97,
+        "currency": "EUR",
+        "formatted": "59.97 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/i/b/ib53_1_gk-collant-homme-en-laine-200-oasis-icebreaker_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/b/ib53_1_gk-collant-homme-en-laine-200-oasis-icebreaker_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/b/ib53_1_gk-collant-homme-en-laine-200-oasis-icebreaker_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:29:22.713Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/b/ib53_1_gk-collant-homme-en-laine-200-oasis-icebreaker_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012953/01-ib53_1_gk-collant-homme-en-laine-200-oasis-icebreaker_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/b/ib53_1_gk-collant-homme-en-laine-200-oasis-icebreaker_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012953/02-ib53_1_gk-collant-homme-en-laine-200-oasis-icebreaker_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/b/ib53_1_gk-collant-homme-en-laine-200-oasis-icebreaker_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012953/03-ib53_1_gk-collant-homme-en-laine-200-oasis-icebreaker_2.jpg",
+      "skipped": false
+    }
+  ]
+}

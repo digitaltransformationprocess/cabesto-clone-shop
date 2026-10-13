@@ -1,0 +1,75 @@
+{
+  "sku": "PCPE-0018811",
+  "url": "https://www.cabesto.com/fr/cannes-de-peche-aux-leurres-speciz-sakura.html",
+  "title": "Canne spinning Speciz Seabass Game | SAKURA",
+  "brand": "SAKURA",
+  "category": "Cannes Leurres 2,1M",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "Cannes Leurres 2,1M",
+    "Prix en baisse",
+    "Prix en baisse Pêche"
+  ],
+  "categories": [
+    "Cannes Leurres 2,1M",
+    "Prix en baisse",
+    "Prix en baisse Pêche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Canne spinning Speciz Seabass Game | SAKURA"
+  ],
+  "description": "Achetez Canne spinning Speciz Seabass Game | SAKURA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 60,
+    "currency": "EUR",
+    "formatted": "60 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPE-0018811",
+      "sku": "PCPE-0018811",
+      "supplierRef": null,
+      "price": {
+        "amount": 60,
+        "currency": "EUR",
+        "formatted": "60 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-sakura-speciz-20-spes-seabass-game-z-2503-250399_irltqw5sostijpam.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-sakura-speciz-20-spes-seabass-game-z-2503-250399_qrzch2flywngcwwu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/p/spesiz-spinb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:26:50.091Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-sakura-speciz-20-spes-seabass-game-z-2503-250399_irltqw5sostijpam.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018811/01-canne-spinning-sakura-speciz-20-spes-seabass-game-z-2503-250399_irltqw5sostijpam.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-sakura-speciz-20-spes-seabass-game-z-2503-250399_qrzch2flywngcwwu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018811/02-canne-spinning-sakura-speciz-20-spes-seabass-game-z-2503-250399_qrzch2flywngcwwu.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/p/spesiz-spinb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018811/03-spesiz-spinb.jpg",
+      "skipped": false
+    }
+  ]
+}

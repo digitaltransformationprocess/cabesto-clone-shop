@@ -1,0 +1,83 @@
+{
+  "sku": "PCPL-4292",
+  "url": "https://www.cabesto.com/fr/plongee-gilet-stab-bella-scubapro-rose-pcpl-4292.html",
+  "title": "Gilet stabilisateur de plongée sous-marine femme BELLA rose SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gilet stabilisateur de plongée sous-marine femme BELLA rose SCUBAPRO"
+  ],
+  "description": "Gilet stabilisateur de plongée sous-marine femme BELLA rose SCUBAPRODécouvrez la gilet stabilisateur préféré des dames, la stab BELLA SCUBAPRO, ici en rose.Le gilet BELLA a été spécialement conçu et soigneusement dessinée pour mieux s'adapter à la morphologie des plongeuses.Le gilet Bella a été spécialement conçu, ajusté et taillé pour les plongeuses qui préfèrent le confort et la sécurité d’un gilet de stabilisation réglable.Ce gilet présente de nombreuses caractéristiques pratiques et performantes, telles qu’une vessie enveloppante exclusive qui garde sa forme unique même lorsqu’elle est entièrement gonflée, offrant ainsi un ajustement confortable et un bon équilibre en profondeur comme en surface.Il est également muni de bretelles Y-Fit qui s’adaptent à la morphologie du plongeur pour une stabilisation remarquable et une grande liberté de mouvement des bras. Son anneau triangulaire en inox concentre les forces au centre du Y, équilibrant ainsi la pression appliquée au corps et stabilisant le harnais, quelle que soit votre position dans l’eau.L’exploration des profondeurs devient ainsi plus sure et plus confortable.Caractéristiques : Poids (taille M) : 3.6 kgNombre d'anneaux D : 6Type de poche : Fermeture à glissièreCapacité de levage (taille M) : 15.4 kgBackpack : Pack rigide à contour rembourréNombre de poches : 2Poches à lest intégrés : Oui Ce gilet stabilisateur a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 2) suivant la norme NF EN 1809.Contenu du colis :1 x Gilet stab femme BELLA SCUBAPRO avec poches largables, taille à choisir.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-4292",
+      "sku": "PCPL-4292",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-4292-pl-17900-picture_1-pcpl-4292-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/product_b_e_bella-c-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/product_b_e_bella-e-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/e/bella-detail.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:55.858Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-4292-pl-17900-picture_1-pcpl-4292-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4292/01-pcpl-4292-pl-17900-picture_1-pcpl-4292-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/product_b_e_bella-c-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4292/02-product_b_e_bella-c-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/product_b_e_bella-e-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4292/03-product_b_e_bella-e-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/e/bella-detail.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4292/04-bella-detail.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

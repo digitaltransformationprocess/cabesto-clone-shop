@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0028272",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-couteau-opinel-n-7-hetre-bout-rond-nt-0028272.html",
+  "title": "Couteau OPINEL n°7 Hêtre bout rond",
+  "brand": "OPINEL",
+  "category": "Couverts, couteaux",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Couverts, couteaux"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Couverts, couteaux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couteau OPINEL n°7 Hêtre bout rond"
+  ],
+  "description": "Achetez Couteau OPINEL n°7 Hêtre bout rond chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "11696,",
+  "price": {
+    "amount": 10.99,
+    "currency": "EUR",
+    "formatted": "10.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028272",
+      "sku": "NT-0028272",
+      "supplierRef": "11696,",
+      "price": {
+        "amount": 10.99,
+        "currency": "EUR",
+        "formatted": "10.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/g/bg05_1-opinel-n-7-hetre-bout-rond-opinel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/g/bg05_2-opinel-n-7-hetre-bout-rond-opinel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/g/bg05_1-opinel-n-7-hetre-bout-rond-opinel_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:57.301Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/g/bg05_1-opinel-n-7-hetre-bout-rond-opinel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028272/01-bg05_1-opinel-n-7-hetre-bout-rond-opinel.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/g/bg05_2-opinel-n-7-hetre-bout-rond-opinel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028272/02-bg05_2-opinel-n-7-hetre-bout-rond-opinel.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/g/bg05_1-opinel-n-7-hetre-bout-rond-opinel_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028272/03-bg05_1-opinel-n-7-hetre-bout-rond-opinel_1.jpg",
+      "skipped": false
+    }
+  ]
+}

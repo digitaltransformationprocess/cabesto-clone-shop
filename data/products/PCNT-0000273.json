@@ -1,0 +1,135 @@
+{
+  "sku": "PCNT-0000273",
+  "url": "https://www.cabesto.com/fr/verticalite-corde-cobra-ii-unicore-8-6-mm-50-m-beal-ac71.html",
+  "title": "Corde d'escalade Cobra II Unicore DRY COVER Ø 8.6 mm 50 m BEAL",
+  "brand": "BEAL",
+  "category": "Cordes escalade",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Cordes à double",
+    "Cordes escalade"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Cordes à double",
+    "Cordes escalade"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Corde d'escalade Cobra II Unicore DRY COVER Ø 8.6 mm 50 m BEAL"
+  ],
+  "description": "La grande classique des terrains d'aventure, légère et fluide pour être à l'aise en grandes voies , en falaise et en alpinisme.",
+  "supplierRef": null,
+  "price": {
+    "amount": 114.9,
+    "currency": "EUR",
+    "formatted": "114.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0000273",
+      "sku": "PCNT-0000273",
+      "supplierRef": null,
+      "price": {
+        "amount": 114.9,
+        "currency": "EUR",
+        "formatted": "114.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/i/m/image3_2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc086c.b_cobra_ii_8_6_blue_dry_cover_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc086c.b_cobra_ii_8_6_blue_dry_cover_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc086c.b_cobra_ii_8_6_blue_dry_cover_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc086c.b_cobra_ii_8_6_blue_dry_cover_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc086c.b_cobra_ii_8_6_blue_dry_cover_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc086c.o_cobra_ii_8_6_orange_dry_cover_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc086c.o_cobra_ii_8_6_orange_dry_cover_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc086c.o_cobra_ii_8_6_orange_dry_cover_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc086c.o_cobra_ii_8_6_orange_dry_cover_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc086c.o_cobra_ii_8_6_orange_dry_cover_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc086c.o_cobra_ii_8_6_orange_dry_cover_1_ld_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc086c.b_cobra_ii_8_6_blue_dry_cover_1_ld_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:25:40.109Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/image3_2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/01-image3_2.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc086c.b_cobra_ii_8_6_blue_dry_cover_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/02-bc086c.b_cobra_ii_8_6_blue_dry_cover_1_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc086c.b_cobra_ii_8_6_blue_dry_cover_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/03-bc086c.b_cobra_ii_8_6_blue_dry_cover_2_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc086c.b_cobra_ii_8_6_blue_dry_cover_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/04-bc086c.b_cobra_ii_8_6_blue_dry_cover_3_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc086c.b_cobra_ii_8_6_blue_dry_cover_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/05-bc086c.b_cobra_ii_8_6_blue_dry_cover_4_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc086c.b_cobra_ii_8_6_blue_dry_cover_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/06-bc086c.b_cobra_ii_8_6_blue_dry_cover_5_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc086c.o_cobra_ii_8_6_orange_dry_cover_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/07-bc086c.o_cobra_ii_8_6_orange_dry_cover_1_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc086c.o_cobra_ii_8_6_orange_dry_cover_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/08-bc086c.o_cobra_ii_8_6_orange_dry_cover_2_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc086c.o_cobra_ii_8_6_orange_dry_cover_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/09-bc086c.o_cobra_ii_8_6_orange_dry_cover_3_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc086c.o_cobra_ii_8_6_orange_dry_cover_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/10-bc086c.o_cobra_ii_8_6_orange_dry_cover_4_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc086c.o_cobra_ii_8_6_orange_dry_cover_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/11-bc086c.o_cobra_ii_8_6_orange_dry_cover_5_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc086c.o_cobra_ii_8_6_orange_dry_cover_1_ld_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/12-bc086c.o_cobra_ii_8_6_orange_dry_cover_1_ld_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc086c.b_cobra_ii_8_6_blue_dry_cover_1_ld_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000273/13-bc086c.b_cobra_ii_8_6_blue_dry_cover_1_ld_1.jpg",
+      "skipped": false
+    }
+  ]
+}

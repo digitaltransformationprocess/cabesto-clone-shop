@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0000872",
+  "url": "https://www.cabesto.com/fr/cdr-prestige-le-serre-rge-75cl.html",
+  "title": "CDR PRESTIGE LE SERRE ROUGE75CL",
+  "brand": "LE SERRE",
+  "category": "Vin rouge",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "vins-et-petillants",
+    "vin-rouge"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "vins-et-petillants",
+    "vin-rouge"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CDR PRESTIGE LE SERRE ROUGE75CL"
+  ],
+  "description": "Achetez CDR PRESTIGE LE SERRE ROUGE75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "909339",
+  "price": {
+    "amount": 6.49,
+    "currency": "EUR",
+    "formatted": "6.49 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000872",
+      "sku": "AL-0000872",
+      "supplierRef": "909339",
+      "price": {
+        "amount": 6.49,
+        "currency": "EUR",
+        "formatted": "6.49 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/0/3/0345233-0345233-picture_1-0345233_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:59:01.542Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/3/0345233-0345233-picture_1-0345233_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000872/01-0345233-0345233-picture_1-0345233_1.jpg",
+      "skipped": true
+    }
+  ]
+}

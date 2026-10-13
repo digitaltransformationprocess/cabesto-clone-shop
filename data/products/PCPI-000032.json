@@ -1,0 +1,87 @@
+{
+  "sku": "PCPI-000032",
+  "url": "https://www.cabesto.com/fr/pompe-a-chaleur-piscine-jetline-selection-full-inverter-jusqu-a-110m-poolex.html",
+  "title": "Pompe À Chaleur Piscine Jetline Selection Full Inverter Jusqu'À 110m3 Poolex",
+  "brand": "POOLEX",
+  "category": "Technologie Full Inverter",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Pompe à chaleur",
+    "Pour profiter toute l’année",
+    "Technologie Full Inverter"
+  ],
+  "categories": [
+    "Pompe à chaleur",
+    "Pour profiter toute l’année",
+    "Technologie Full Inverter"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pompe À Chaleur Piscine Jetline Selection Full Inverter Jusqu'À 110m3 Poolex"
+  ],
+  "description": "Achetez Pompe À Chaleur Piscine Jetline Selection Full Inverter Jusqu'À 110m3 Poolex chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 1459.2,
+    "currency": "EUR",
+    "formatted": "1459.2 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPI-000032",
+      "sku": "PCPI-000032",
+      "supplierRef": null,
+      "price": {
+        "amount": 1459.2,
+        "currency": "EUR",
+        "formatted": "1459.2 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/4/2428_large_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/4/2428_large_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/4/2428_large_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/4/2428_large_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/4/2428_large_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:38:55.213Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/4/2428_large_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-000032/01-2428_large_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/4/2428_large_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-000032/02-2428_large_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/4/2428_large_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-000032/03-2428_large_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/4/2428_large_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-000032/04-2428_large_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/4/2428_large_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-000032/05-2428_large_5.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0000013",
+  "url": "https://www.cabesto.com/fr/randonnee-sangle-de-compression-1-5-m-20-mm-avec-crochet-sea-to-summit-nt-0000013.html",
+  "title": "Sangle de compression 1.5 m 20 mm avec crochet - SEA TO SUMMIT",
+  "brand": "SEA TO SUMMIT",
+  "category": "Rangements, accessoires",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Sacs à dos, rangement",
+    "Rangements, accessoires"
+  ],
+  "categories": [
+    "Sacs à dos, rangement",
+    "Rangements, accessoires"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sangle de compression 1.5 m 20 mm avec crochet - SEA TO SUMMIT"
+  ],
+  "description": "Achetez Sangle de compression 1.5 m 20 mm avec crochet - SEA TO SUMMIT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "DSANGLE",
+  "price": {
+    "amount": 13.95,
+    "currency": "EUR",
+    "formatted": "13.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0000013",
+      "sku": "NT-0000013",
+      "supplierRef": "DSANGLE",
+      "price": {
+        "amount": 13.95,
+        "currency": "EUR",
+        "formatted": "13.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/e/se14_1-sangle-de-compression-1-5-m-20-mm-avec-crochet-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/se14_1-sangle-de-compression-1-5-m-20-mm-avec-crochet-sea-to-summit_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:14:19.346Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/se14_1-sangle-de-compression-1-5-m-20-mm-avec-crochet-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000013/01-se14_1-sangle-de-compression-1-5-m-20-mm-avec-crochet-sea-to-summit.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/se14_1-sangle-de-compression-1-5-m-20-mm-avec-crochet-sea-to-summit_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000013/02-se14_1-sangle-de-compression-1-5-m-20-mm-avec-crochet-sea-to-summit_1.jpg",
+      "skipped": true
+    }
+  ]
+}

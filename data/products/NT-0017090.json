@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0017090",
+  "url": "https://www.cabesto.com/fr/poulie-simple-omni-block-1-5.html",
+  "title": "Poulie simple Omni Block 1.5 - ROCK EXOTICA",
+  "brand": "ROCK EXOTICA",
+  "category": "poulies-roulettes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "materiel-metallique",
+    "poulies-roulettes"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "materiel-metallique",
+    "poulies-roulettes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Poulie simple Omni Block 1.5 - ROCK EXOTICA"
+  ],
+  "description": "Achetez Poulie simple Omni Block 1.5 - ROCK EXOTICA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "P51-0601-ORANGE",
+  "price": {
+    "amount": 110.4,
+    "currency": "EUR",
+    "formatted": "110.4 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0017090",
+      "sku": "NT-0017090",
+      "supplierRef": "P51-0601-ORANGE",
+      "price": {
+        "amount": 110.4,
+        "currency": "EUR",
+        "formatted": "110.4 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/1/5174.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:39:04.008Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/1/5174.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0017090/01-5174.jpg",
+      "skipped": false
+    }
+  ]
+}

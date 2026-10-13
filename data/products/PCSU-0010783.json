@@ -1,0 +1,115 @@
+{
+  "sku": "PCSU-0010783",
+  "url": "https://www.cabesto.com/fr/tuba-de-plongee-sous-marine-a-soupape-etanche-seal-dry-cressi-sub-pcsu-0010783.html",
+  "title": "Tuba de plongée sous-marine à soupape étanche SEAL DRY CRESSI-SUB",
+  "brand": "CRESSI",
+  "category": "Tubas à soupape avec déflecteur et tuba à soupape étanche",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Tubas de plongée",
+    "Tubas à soupape avec déflecteur et tuba à soupape étanche"
+  ],
+  "categories": [
+    "Tubas de plongée",
+    "Tubas à soupape avec déflecteur et tuba à soupape étanche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Tuba de plongée sous-marine à soupape étanche SEAL DRY CRESSI-SUB"
+  ],
+  "description": "Profitez d'une expérience de snorkeling sûre et agréable avec le tuba de plongée à soupape 100% étanche SEAL DRY CRESSI-SUB.",
+  "supplierRef": null,
+  "price": {
+    "amount": 24.99,
+    "currency": "EUR",
+    "formatted": "24.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0010783",
+      "sku": "PCSU-0010783",
+      "supplierRef": null,
+      "price": {
+        "amount": 24.99,
+        "currency": "EUR",
+        "formatted": "24.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/e/sealdry.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-2646-pl-2646-picture_1-pl-2646-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3732-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/prisma.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/_/z_0dn291050_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/o/force_x_all_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seal_dry__clear-azure__es330022_01__web__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seal_dry__clear-black__es330050_01__web__sk6ipk7jq15qscwo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seal_dry__black-black__es330550_01__web__hrcpja3hykrzb9rc_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seal_dry__clear-black__es330050_01__web__cxducsau4lgaszua.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:37:21.544Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/sealdry.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010783/01-sealdry.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-2646-pl-2646-picture_1-pl-2646-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010783/02-pl-2646-pl-2646-picture_1-pl-2646-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3732-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010783/03-pl-3732-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/prisma.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010783/04-prisma.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/_/z_0dn291050_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010783/05-z_0dn291050_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/o/force_x_all_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010783/06-force_x_all_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seal_dry__clear-azure__es330022_01__web__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010783/07-seal_dry__clear-azure__es330022_01__web__1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seal_dry__clear-black__es330050_01__web__sk6ipk7jq15qscwo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010783/08-seal_dry__clear-black__es330050_01__web__sk6ipk7jq15qscwo.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seal_dry__black-black__es330550_01__web__hrcpja3hykrzb9rc_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010783/09-seal_dry__black-black__es330550_01__web__hrcpja3hykrzb9rc_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seal_dry__clear-black__es330050_01__web__cxducsau4lgaszua.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010783/10-seal_dry__clear-black__es330050_01__web__cxducsau4lgaszua.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "sku": "PI-0008702",
+  "url": "https://www.cabesto.com/fr/velo-de-piscine-waterflex-wr3-pi-0008702.html",
+  "title": "VELO DE PISCINE WATERFLEX WR3",
+  "brand": "POOLSTAR",
+  "category": "Aquafitness",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Aquafitness"
+  ],
+  "categories": [
+    "Aquafitness"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "VELO DE PISCINE WATERFLEX WR3"
+  ],
+  "description": "Achetez VELO DE PISCINE WATERFLEX WR3 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "WX-WR3",
+  "price": {
+    "amount": 898.8,
+    "currency": "EUR",
+    "formatted": "898.8 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0008702",
+      "sku": "PI-0008702",
+      "supplierRef": "WX-WR3",
+      "price": {
+        "amount": 898.8,
+        "currency": "EUR",
+        "formatted": "898.8 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/8/6834_large.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/8/6832_large.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/8/6833_large_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/8/588_large.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:51:41.886Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/6834_large.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0008702/01-6834_large.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/6832_large.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0008702/02-6832_large.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/6833_large_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0008702/03-6833_large_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/8/588_large.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0008702/04-588_large.jpg",
+      "skipped": false
+    }
+  ]
+}

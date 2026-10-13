@@ -1,0 +1,89 @@
+{
+  "sku": "PCPL-2393",
+  "url": "https://www.cabesto.com/fr/plongee-shorty-ciao-enfant-2-5-mm-seac-sub-pcpl-2393.html",
+  "title": "Shorty Ciao Enfant 2,5 mm Seac Sub",
+  "brand": "SEAC SUB",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Shorty Ciao Enfant 2,5 mm Seac Sub"
+  ],
+  "description": "Shorty Ciao Enfant 2,5 mm Seac SubDécouvrez le shorty CIAO KID SEAC SUB, facile à mettre avec sa fermeture ventrale, résistant et pas cher...La combinaison pour enfants Seac Ciao Kid permet aux enfants et aux adolescents de pratiquer leurs sports aquatiques en tout confort et sûreté. La combinaison en néoprène pour enfants Seac Ciao Kid est en néoprène doublé de 2, 5 mm et a une fermeture à glissière devant sur tout le buste avec panneau interne pour empêcher les infiltrations et coutures plates qui évitent les irritations. Le col est très doux et fini sur le bord en lycre anti- abrasion.La combinaison pour enfants Seac Ciao Kid est utile pour le snorkeling et la plongée mais même pour les autres sports aquatiques : surf, windsurf, canoë, natation... Elle est disponible en cinq tailles et habille les enfants de cinq à 14 ans.Fermeture à glissière devant: la combinaison Seac Ciao Kid, conçue pour pour les enfants et les filles, possède une fermeture pratique à glissière devant sur tout le buste pour la porter et la faire porter facilementCoutures plates: la combinaison en néoprène pour enfants Seac Ciao Kid convient également aux peaux les plus délicates, grâce aux coutures plates qui évitent les irritationsNéoprène 2,5 mm : la combinaison enfant est indiquée pour snorkeling, natation et plongée en eaux douces (25°-30°)Enfants et adolescents:la combinaison courte pour enfants Seac Ciao Kid est disponible en cinq tailles et habille les enfants de cinq à 14 ans: le tableau sur la photo permet d’évaluer la taille la plus appropriéeQualité Seac:la qualité de la combinaison pour enfants Seac Ciao Kid est garantie par Seacsub S.P.A., point di référence dans l’industrie de la plongée en Italie depuis 1971Doublure extérieure : Nylon standardDoublure intérieure : Nylon standardFermeture : zip standardEpaisseur : 2,5 mmPas de cagoule",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-2393",
+      "sku": "PCPL-2393",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/i/ciao_kid_1-20_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/i/ciao_kid_1-20_03_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/i/ciao_kid_1-20_02_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/i/ciao_kid_1-20_01_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/i/ciao_kid_1-20_05_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:28:43.075Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/i/ciao_kid_1-20_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2393/01-ciao_kid_1-20_00_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/i/ciao_kid_1-20_03_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2393/02-ciao_kid_1-20_03_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/i/ciao_kid_1-20_02_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2393/03-ciao_kid_1-20_02_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/i/ciao_kid_1-20_01_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2393/04-ciao_kid_1-20_01_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/i/ciao_kid_1-20_05_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-2393/05-ciao_kid_1-20_05_800.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

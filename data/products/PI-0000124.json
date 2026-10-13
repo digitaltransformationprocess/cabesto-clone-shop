@@ -1,0 +1,69 @@
+{
+  "sku": "PI-0000124",
+  "url": "https://www.cabesto.com/fr/piscine-bache-a-bulles-de-piscine-rectangulaire-4m88x2m44-pi-320.html",
+  "title": "Bâche à bulles de piscine rectangulaire 4m88x2m44",
+  "brand": "INTEX",
+  "category": "Bâche à bulles",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "chauffage",
+    "bache-a-bulle"
+  ],
+  "categories": [
+    "piscine",
+    "chauffage",
+    "bache-a-bulle"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bâche à bulles de piscine rectangulaire 4m88x2m44"
+  ],
+  "description": "Bâche à bulles de piscine rectangulaire 4m88x2m44 BACHE A BULLES 4M88X2M44 - IDEAL POUR MAINTENIR LA CHALEUR DE SA PISCINE Cette couverture solaire de piscine de la marque Intex repose directement sur la surface de l'eau, à l'intérieur des bords de la pi",
+  "supplierRef": "28029",
+  "price": {
+    "amount": 29.9,
+    "currency": "EUR",
+    "formatted": "29.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000124",
+      "sku": "PI-0000124",
+      "supplierRef": "28029",
+      "price": {
+        "amount": 29.9,
+        "currency": "EUR",
+        "formatted": "29.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/9/29026-bache-bulles-rectangulaire-_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_4_6.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:34:09.226Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/29026-bache-bulles-rectangulaire-_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000124/01-29026-bache-bulles-rectangulaire-_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_4_6.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000124/02-sans_titre_4_6.png",
+      "skipped": false
+    }
+  ]
+}

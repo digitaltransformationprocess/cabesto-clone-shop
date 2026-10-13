@@ -1,0 +1,63 @@
+{
+  "sku": "PCNT-0000852",
+  "url": "https://www.cabesto.com/fr/10-prises-absolute-slopers-l.html",
+  "title": "10 prises Absolute Slopers L",
+  "brand": "ENTRE-PRISES",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "10 prises Absolute Slopers L"
+  ],
+  "description": "Achetez 10 prises Absolute Slopers L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0000852",
+      "sku": "PCNT-0000852",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/2/1284_1_l-10-prises-absolute-slopers-l-entre-prises_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:28:07.174Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/2/1284_1_l-10-prises-absolute-slopers-l-entre-prises_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000852/01-1284_1_l-10-prises-absolute-slopers-l-entre-prises_1.jpg",
+      "skipped": false
+    }
+  ]
+}

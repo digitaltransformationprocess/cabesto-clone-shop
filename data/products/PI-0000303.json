@@ -1,0 +1,73 @@
+{
+  "sku": "PI-0000303",
+  "url": "https://www.cabesto.com/fr/piscine-boite-de-connexion-pour-piscine-cofies-hayward-gris-pale-pi-929.html",
+  "title": "Boîte de connexion pour piscine cofies hayward - gris pâle",
+  "brand": "ASTRAL",
+  "category": "Boites de connexion",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Pièces à sceller",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine",
+    "Boites de connexion"
+  ],
+  "categories": [
+    "Pièces à sceller",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine",
+    "Boites de connexion"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Boîte de connexion pour piscine cofies hayward - gris pâle"
+  ],
+  "description": "Achetez Boîte de connexion pour piscine cofies hayward - gris pâle chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "75972",
+  "price": {
+    "amount": 16.99,
+    "currency": "EUR",
+    "formatted": "16.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000303",
+      "sku": "PI-0000303",
+      "supplierRef": "75972",
+      "price": {
+        "amount": 16.99,
+        "currency": "EUR",
+        "formatted": "16.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/P/r/ProductImages_75972_75972CL090_75972CL129_75972CL144.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/5/75972.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:38:25.375Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/P/r/ProductImages_75972_75972CL090_75972CL129_75972CL144.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000303/01-ProductImages_75972_75972CL090_75972CL129_75972CL144.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/5/75972.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000303/02-75972.jpg",
+      "skipped": false
+    }
+  ]
+}

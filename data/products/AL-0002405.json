@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0002405",
+  "url": "https://www.cabesto.com/fr/melange-rhum-la-reunion-vanille-banane-40g.html",
+  "title": "MELANGE RHUM LA REUNION (VANILLE BANANE) 40G",
+  "brand": "QUAI SUD",
+  "category": "Rhums arrangés",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-exotique",
+    "les-rhums"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-exotique",
+    "les-rhums"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MELANGE RHUM LA REUNION (VANILLE BANANE) 40G"
+  ],
+  "description": "Achetez MELANGE RHUM LA REUNION (VANILLE BANANE) 40G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1RREUNS",
+  "price": {
+    "amount": 5.99,
+    "currency": "EUR",
+    "formatted": "5.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002405",
+      "sku": "AL-0002405",
+      "supplierRef": "1RREUNS",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/0/3/0352003-0352003-picture_1-0352003_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:59:51.443Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/3/0352003-0352003-picture_1-0352003_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002405/01-0352003-0352003-picture_1-0352003_1.jpg",
+      "skipped": true
+    }
+  ]
+}

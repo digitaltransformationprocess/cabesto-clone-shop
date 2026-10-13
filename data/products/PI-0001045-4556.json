@@ -1,0 +1,65 @@
+{
+  "sku": "PI-0001045-4556",
+  "url": "https://www.cabesto.com/fr/piscine-desalgine-jet-3l-bayrol-pi-218.html",
+  "title": "DESALGINE JET 3L BAYROL",
+  "brand": "BAYROL",
+  "category": "Black November - Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Anti-algues",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine"
+  ],
+  "categories": [
+    "Anti-algues",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "DESALGINE JET 3L BAYROL"
+  ],
+  "description": "Achetez DESALGINE JET 3L BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1141502",
+  "price": {
+    "amount": 45,
+    "currency": "EUR",
+    "formatted": "45 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001045-4556",
+      "sku": "PI-0001045-4556",
+      "supplierRef": "1141502",
+      "price": {
+        "amount": 45,
+        "currency": "EUR",
+        "formatted": "45 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/3/8/385x385_420280_desalgine_jet_6l_bayrol.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:31:21.023Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/8/385x385_420280_desalgine_jet_6l_bayrol.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001045-4556/01-385x385_420280_desalgine_jet_6l_bayrol.jpg",
+      "skipped": false
+    }
+  ]
+}

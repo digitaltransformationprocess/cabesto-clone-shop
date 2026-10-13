@@ -1,0 +1,81 @@
+{
+  "sku": "NU-0005859",
+  "url": "https://www.cabesto.com/fr/feu-flash-automatique.html",
+  "title": "LAMPE FLASH AUTOMATIQUE",
+  "brand": "PLASTIMO",
+  "category": "Sélection Nautisme",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "Sécurité - Navigation",
+    "Signalisation visuelle et sonore",
+    "Lampe flash",
+    "Idées cadeaux Nautisme",
+    "Sélection Nautisme"
+  ],
+  "categories": [
+    "Sécurité - Navigation",
+    "Signalisation visuelle et sonore",
+    "Lampe flash",
+    "Idées cadeaux Nautisme",
+    "Sélection Nautisme"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Nautisme",
+    "Nautisme",
+    "Sécurité - Navigation",
+    "Sécurité - Navigation",
+    "Signalisation visuelle et sonore",
+    "Signalisation visuelle et sonore",
+    "Lampe flash",
+    "Lampe flash",
+    "LAMPE FLASH AUTOMATIQUE"
+  ],
+  "description": "Achetez LAMPE FLASH AUTOMATIQUE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "2263071",
+  "price": {
+    "amount": 12.99,
+    "currency": "EUR",
+    "formatted": "12.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0005859",
+      "sku": "NU-0005859",
+      "supplierRef": "2263071",
+      "price": {
+        "amount": 12.99,
+        "currency": "EUR",
+        "formatted": "12.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/a/lampe_flash.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2019-12-17_14_22_52-window_2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:04:37.686Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/a/lampe_flash.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0005859/01-lampe_flash.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2019-12-17_14_22_52-window_2.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0005859/02-2019-12-17_14_22_52-window_2.png",
+      "skipped": true
+    }
+  ]
+}

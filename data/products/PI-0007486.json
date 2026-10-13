@@ -1,0 +1,67 @@
+{
+  "sku": "PI-0007486",
+  "url": "https://www.cabesto.com/fr/aspirateur-automatique-vektro-rechargeable-pour-piscine-a-fond-plat-pi-0007486.html",
+  "title": "ASPIRATEUR AUTOMATIQUE VEKTRO RECHARGEABLE POUR PISCINE A FOND PLAT",
+  "brand": "KOKIDO",
+  "category": "Sélection Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Aspirateur autonome",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine",
+    "Sélection Piscine"
+  ],
+  "categories": [
+    "Aspirateur autonome",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine",
+    "Sélection Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ASPIRATEUR AUTOMATIQUE VEKTRO RECHARGEABLE POUR PISCINE A FOND PLAT"
+  ],
+  "description": "Achetez ASPIRATEUR AUTOMATIQUE VEKTRO RECHARGEABLE POUR PISCINE A FOND PLAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "RC32CBX/SCP/22/EU",
+  "price": {
+    "amount": 169,
+    "currency": "EUR",
+    "formatted": "169 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0007486",
+      "sku": "PI-0007486",
+      "supplierRef": "RC32CBX/SCP/22/EU",
+      "price": {
+        "amount": 169,
+        "currency": "EUR",
+        "formatted": "169 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-vektro-auto-version-plus.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:51:25.569Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-vektro-auto-version-plus.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007486/01-robot-vektro-auto-version-plus.jpg",
+      "skipped": false
+    }
+  ]
+}

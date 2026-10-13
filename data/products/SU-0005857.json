@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0005857",
+  "url": "https://www.cabesto.com/fr/plongee-sangle-de-bouteille-pour-bi-bouteille-a-l-unite-pl-611.html",
+  "title": "Sangle pour bi-bouteille de plongée à l'unité BESTDIVERS",
+  "brand": "BEST DIVERS",
+  "category": "accessoires-pour-bouteille-de-plongee-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sangle pour bi-bouteille de plongée à l'unité BESTDIVERS"
+  ],
+  "description": "Sangle pour Bi-Bouteille : Sécurité et Stabilité pour Vos PlongéesFixez vos bouteilles en toute confiance grâce à cette sangle robuste et fiable.La sangle pour bi-bouteille est un accessoire essentiel pour les plongeurs utilisant des configurations doubles. Conçue pour offrir une fixation solide et sécurisée, elle garantit une stabilité optimale sous l'eau. Fabriquée avec des matériaux de haute qualité, cette sangle est résistante à la corrosion et aux conditions marines les plus exigeantes. Elle est compatible avec une large gamme de bouteilles et s'ajuste facilement pour un montage rapide et efficace. Que vous soyez un plongeur professionnel ou amateur, cet accessoire vous assure une expérience de plongée sans souci.Caractéristiques Sangle pour Bi-BouteilleMatériaux résistants à la corrosionCompatibilité avec diverses tailles de bouteillesFacilité d'installation et d'ajustementStabilité accrue sous l'eauDurabilité exceptionnelleInformations techniques :MatériauAcier inoxydableLargeur50 mmCompatibilitéBouteilles de 204 mmPoids500 gCouleurNoirContenu du colis1 x Sangle pour bi-bouteille.",
+  "supplierRef": "AJ0180/ZL",
+  "price": {
+    "amount": 19.99,
+    "currency": "EUR",
+    "formatted": "19.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005857",
+      "sku": "SU-0005857",
+      "supplierRef": "AJ0180/ZL",
+      "price": {
+        "amount": 19.99,
+        "currency": "EUR",
+        "formatted": "19.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-611-pl-611-picture_1-pl-611-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:21:05.329Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-611-pl-611-picture_1-pl-611-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005857/01-pl-611-pl-611-picture_1-pl-611-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "bouteilles-et-blocs",
+    "accessoires-pour-bouteille-de-plongee-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "bouteilles-et-blocs",
+    "accessoires-pour-bouteille-de-plongee-sous-marine"
+  ]
+}

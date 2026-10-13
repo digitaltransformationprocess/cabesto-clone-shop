@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0000627",
+  "url": "https://www.cabesto.com/fr/bonori-risotto-au-safran-250g.html",
+  "title": "BONORI RISOTTO AU SAFRAN 250G",
+  "brand": "BONORI",
+  "category": "Pates et risottos Italiens",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "sauces-et-condiments-italiens"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "sauces-et-condiments-italiens"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BONORI RISOTTO AU SAFRAN 250G"
+  ],
+  "description": "Achetez BONORI RISOTTO AU SAFRAN 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "A3487FL",
+  "price": {
+    "amount": 3.59,
+    "currency": "EUR",
+    "formatted": "3.59 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000627",
+      "sku": "AL-0000627",
+      "supplierRef": "A3487FL",
+      "price": {
+        "amount": 3.59,
+        "currency": "EUR",
+        "formatted": "3.59 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6007429-6007429-picture_1-6007429_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:02:28.554Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6007429-6007429-picture_1-6007429_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000627/01-6007429-6007429-picture_1-6007429_1.jpg",
+      "skipped": true
+    }
+  ]
+}

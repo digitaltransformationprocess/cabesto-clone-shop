@@ -1,0 +1,65 @@
+{
+  "sku": "PCNT-0005689",
+  "url": "https://www.cabesto.com/fr/pantalon-trekker-stretch-ii-femme-mlo0.html",
+  "title": "Pantalon Trekker Stretch II Femme",
+  "brand": "MILLET",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Pantalons",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Pantalons",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pantalon Trekker Stretch II Femme"
+  ],
+  "description": "Achetez Pantalon Trekker Stretch II Femme chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0005689",
+      "sku": "PCNT-0005689",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/l/mlo0_1_kr-pantalon-trekker-stretch-ii-femme-millet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:30:29.923Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/mlo0_1_kr-pantalon-trekker-stretch-ii-femme-millet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0005689/01-mlo0_1_kr-pantalon-trekker-stretch-ii-femme-millet_4.jpg",
+      "skipped": false
+    }
+  ]
+}

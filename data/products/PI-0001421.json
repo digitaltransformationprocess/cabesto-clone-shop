@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0001421",
+  "url": "https://www.cabesto.com/fr/filtre-robot-piscine-vortex-fin-60-zodiac.html",
+  "title": "FILTRE ROBOT PISCINE VORTEX FIN 60µ - ZODIAC",
+  "brand": "ZODIAC",
+  "category": "Accessoires et pièces détachées robot",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires"
+  ],
+  "categories": [
+    "textile",
+    "accessoires"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FILTRE ROBOT PISCINE VORTEX FIN 60µ - ZODIAC"
+  ],
+  "description": "Achetez FILTRE ROBOT PISCINE VORTEX FIN 60µ - ZODIAC chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "R0638600",
+  "price": {
+    "amount": 69,
+    "currency": "EUR",
+    "formatted": "69 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001421",
+      "sku": "PI-0001421",
+      "supplierRef": "R0638600",
+      "price": {
+        "amount": 69,
+        "currency": "EUR",
+        "formatted": "69 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/30205-large_default/filtre-zodiac-vortex-60-microns-fin.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:49:07.608Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/30205-large_default/filtre-zodiac-vortex-60-microns-fin.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001421/01-filtre-zodiac-vortex-60-microns-fin.jpg",
+      "skipped": false
+    }
+  ]
+}

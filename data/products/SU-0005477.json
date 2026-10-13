@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0005477",
+  "url": "https://www.cabesto.com/fr/plongee-profondimetre-digital-330-scubapro-pl-293.html",
+  "title": "Profondimètre digital de plongée sous-marine DIGITAL 330 SCUBAPRO",
+  "brand": null,
+  "category": "profondimetres-sous-marins",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Profondimètre digital de plongée sous-marine DIGITAL 330 SCUBAPRO"
+  ],
+  "description": "PROFONDIMETRE DIGITAL 330 SCUBAPROProfondimètre Digital 330m : Unique et incomparable ! Le Profondimètre Digital SCUBAPRO fait partie des produits uniques dans l'industrie de la plongée. Il combine les données essentielles de chacune de vos immersions à la précision de l'électronique, aujourd'hui implicite pour tous les niveaux de plongeurs.Le Digital 330 m représente l'évolution souhaitée du fameux Profondimètre Digital lancé par UWATEC en 1989.Quoi de nouveau sur le Digital 330m ?Affiche en alternance Profondeur Moyenne et Température,Affiche également la vitesse de remontée en mètre par minute,Calibré pour 330 mètres de profondeur maximum,Affiche un temps total de plongée de 999 heures et 59 minutes,Plus efficace car plus économe en énergie.Les caractéristiques uniques que vous connaissez déjà :Ecran haute lisibilité,Mesure ultra précise en altitude car il intègre les variations de pression atmosphérique,Carnet de plongées enregistrant les 19 dernières plongées,Précision de la mesure de profondeur à : 0.1% soit ±0.1 m,Affichage de la température, résolution au degré ( ±1 °C),Plage de température de fonctionnement : de -10 °C à +50 °C.Développé pour tous les plongeurs techniques ou débutants, le Digital 330 m scubapro est un instrument électronique très accessible et particulièrement facile d'utilisation. Unique dans son segment, offrant précision quelles que soient les conditions, il sera le compagnon ou l'instrument de secours idéal de toutes vos plongées.Ce profondimètre a été fabriqué conformément aux exigences du règlement CE 2016 / 425 suivant la norme NF EN 13319.",
+  "supplierRef": "05.014.110",
+  "price": {
+    "amount": 175,
+    "currency": "EUR",
+    "formatted": "175 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005477",
+      "sku": "SU-0005477",
+      "supplierRef": "05.014.110",
+      "price": {
+        "amount": 175,
+        "currency": "EUR",
+        "formatted": "175 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/606047_primary.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/i/digital-330_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:20:50.842Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/606047_primary.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005477/01-606047_primary.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/i/digital-330_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005477/02-digital-330_1_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "instruments-de-plongee",
+    "profondimetres-sous-marins"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "instruments-de-plongee",
+    "profondimetres-sous-marins"
+  ]
+}

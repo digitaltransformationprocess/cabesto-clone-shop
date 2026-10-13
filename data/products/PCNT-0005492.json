@@ -1,0 +1,73 @@
+{
+  "sku": "PCNT-0005492",
+  "url": "https://www.cabesto.com/fr/randonnee-tee-shirt-millet-homme-morpho-zip-ml07.html",
+  "title": "Tee Shirt MILLET Homme Morpho Zip",
+  "brand": "MILLET",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "T-shirts d'escalade",
+    "Destockage Montagne",
+    "T-shirts d'escalade Homme",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "T-shirts d'escalade",
+    "Destockage Montagne",
+    "T-shirts d'escalade Homme",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Tee Shirt MILLET Homme Morpho Zip"
+  ],
+  "description": "Achetez Tee Shirt MILLET Homme Morpho Zip chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0005492",
+      "sku": "PCNT-0005492",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/l/ml07_1_ma-tee-shirt-homme-morpho-zip-millet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/l/ml07_1_ma-tee-shirt-homme-morpho-zip-millet_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:35:39.265Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml07_1_ma-tee-shirt-homme-morpho-zip-millet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0005492/01-ml07_1_ma-tee-shirt-homme-morpho-zip-millet_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml07_1_ma-tee-shirt-homme-morpho-zip-millet_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0005492/02-ml07_1_ma-tee-shirt-homme-morpho-zip-millet_5.jpg",
+      "skipped": false
+    }
+  ]
+}

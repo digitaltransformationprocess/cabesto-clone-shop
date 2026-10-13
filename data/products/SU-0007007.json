@@ -1,0 +1,69 @@
+{
+  "sku": "SU-0007007",
+  "url": "https://www.cabesto.com/fr/plongee-tuba-frontal-gris-pl-12438.html",
+  "title": "Tuba frontal à soupape IMERSION",
+  "brand": "IMERSION",
+  "category": "tubas-de-natation",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Tuba frontal à soupape IMERSION"
+  ],
+  "description": "Tuba frontal à soupape gris IMERSIONLe tuba frontal par Imersion, c'est le tuba dont vous ne pourrez plus vous passer en natation, nage en mer, nage en eaux vives, entraînement...Le tuba FRONTAL IMERSION est équipé d’un embouchoir silicone. C’est le tuba indispensable pour s’entraîner en nage libre, nage en mer, en eaux vives, avec palmes, masque…Conforme aux normes CECouleur BlancSoupape basse de vidange",
+  "supplierRef": "TU510",
+  "price": {
+    "amount": 19.99,
+    "currency": "EUR",
+    "formatted": "19.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0007007",
+      "sku": "SU-0007007",
+      "supplierRef": "TU510",
+      "price": {
+        "amount": 19.99,
+        "currency": "EUR",
+        "formatted": "19.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/t/u/tu510.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/u/tu5101.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:00.280Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/u/tu510.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0007007/01-tu510.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/u/tu5101.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0007007/02-tu5101.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "nage",
+    "tubas-de-natation"
+  ],
+  "categories": [
+    "plongee",
+    "nage",
+    "tubas-de-natation"
+  ]
+}

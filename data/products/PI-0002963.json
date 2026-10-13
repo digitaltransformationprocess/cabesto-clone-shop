@@ -1,0 +1,67 @@
+{
+  "sku": "PI-0002963",
+  "url": "https://www.cabesto.com/fr/piscine-sac-de-sable-de-25-kg-pi-731.html",
+  "title": "Sac de sable de 25 kg",
+  "brand": "CABESTO",
+  "category": "Sable",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Média filtrant",
+    "Sable"
+  ],
+  "categories": [
+    "Média filtrant",
+    "Sable"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac de sable de 25 kg"
+  ],
+  "description": "Sac de sable de 25 kg Sac de sable de 25 kg Le sable est sans aucun doute le média-filtrant le plus utilisé dans les piscines domestiques.Le sable retient toute saleté dans l’eau lorsqu’il passe à travers les pores qui se forment dans le sable en raiso",
+  "supplierRef": "SCF-32-R1",
+  "price": {
+    "amount": 8.9,
+    "currency": "EUR",
+    "formatted": "8.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002963",
+      "sku": "PI-0002963",
+      "supplierRef": "SCF-32-R1",
+      "price": {
+        "amount": 8.9,
+        "currency": "EUR",
+        "formatted": "8.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sac-de-sable-de-25-kg-piscine-center-1487165681.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sable-de-filtration.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:35:57.131Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sac-de-sable-de-25-kg-piscine-center-1487165681.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002963/01-sac-de-sable-de-25-kg-piscine-center-1487165681.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sable-de-filtration.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002963/02-sable-de-filtration.jpg",
+      "skipped": false
+    }
+  ]
+}

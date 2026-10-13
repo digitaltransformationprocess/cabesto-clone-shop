@@ -1,0 +1,67 @@
+{
+  "sku": "PE-0001582",
+  "url": "https://www.cabesto.com/fr/combo-bm-160-n-5-off-shore-60g-bleu-rech-bleu-pe-9286.html",
+  "title": "Combo BM 160 N° 5 Off Shore - 60g - Bleu + rech. Bleu",
+  "brand": "FIIISH",
+  "category": "Black November - Pêche",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "Destockage Pêche",
+    "Ventes privées Pêche",
+    "Black November - Pêche"
+  ],
+  "categories": [
+    "Destockage Pêche",
+    "Ventes privées Pêche",
+    "Black November - Pêche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage",
+    "Destockage",
+    "Destockage Pêche",
+    "Destockage Pêche",
+    "Combo BM 160 N° 5 Off Shore - 60g - Bleu + rech. Bleu"
+  ],
+  "description": "Achetez Combo BM 160 N° 5 Off Shore - 60g - Bleu + rech. Bleu chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BM205",
+  "price": {
+    "amount": 14.19,
+    "currency": "EUR",
+    "formatted": "14.19 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0001582",
+      "sku": "PE-0001582",
+      "supplierRef": "BM205",
+      "price": {
+        "amount": 14.19,
+        "currency": "EUR",
+        "formatted": "14.19 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/PE-9286-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:55:42.530Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PE-9286-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0001582/01-PE-9286-1.jpg",
+      "skipped": true
+    }
+  ]
+}

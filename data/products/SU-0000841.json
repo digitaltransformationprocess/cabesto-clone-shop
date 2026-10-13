@@ -1,0 +1,85 @@
+{
+  "sku": "SU-0000841",
+  "url": "https://www.cabesto.com/fr/plongee-batterie-18650-3400-mah-charge-usb-orca-torch-pl-18863.html",
+  "title": "Batterie rechargeable 18650 charge USB 3400 mAh ORCATORCH",
+  "brand": null,
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Batterie rechargeable 18650 charge USB 3400 mAh ORCATORCH"
+  ],
+  "description": "Batterie rechargeable 18650 3400 mAh charge USB ORCATORCHUne petite révolution breveté par ORCA TORCH : la batterie rechargeable 18650 qui n'a plus besoin de chargeur, un simple cordon USB suffit...La batterie 18650 USB est équipée d'un indicateur de charge lumineux bicolore qui permet de connaître l'état de la charge de votre accus. Sûre et simple à utiliser, une batterie 18650 USB peut être recharger 500 fois, soit l'équivalent de 500 piles jetables et toujours avec une triple protection thermique. Idéale pour voyager, elle est de dimension égale à une batterie 18650 classique.3.7V, 12.6Wh Poids: 49g Taille: 18,5 (Diamètre) x 70mm (Longueur) 3400 mAh grande capacité Conception de chargement micro USB Triple protection contre la chaleurPeut être chargé par divers appareils Indicateur LED bicolore indiquant l'état de charge Utilise une cellule Panasonic, 500 cycles de charge",
+  "supplierRef": "186503400USB",
+  "price": {
+    "amount": 25.99,
+    "currency": "EUR",
+    "formatted": "25.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0000841",
+      "sku": "SU-0000841",
+      "supplierRef": "186503400USB",
+      "price": {
+        "amount": 25.99,
+        "currency": "EUR",
+        "formatted": "25.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/3/7/3770dfc96a-18650-usb-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/3/836b9ebf34-18650-usb-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/b/fbb52a8b8e-18650-usb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/3/c3656b5bcc-18650-usb-4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_68_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:20:50.392Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/7/3770dfc96a-18650-usb-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000841/01-3770dfc96a-18650-usb-3.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/3/836b9ebf34-18650-usb-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000841/02-836b9ebf34-18650-usb-2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/b/fbb52a8b8e-18650-usb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000841/03-fbb52a8b8e-18650-usb.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/3/c3656b5bcc-18650-usb-4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000841/04-c3656b5bcc-18650-usb-4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_68_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000841/05-hqdefault_68_6.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

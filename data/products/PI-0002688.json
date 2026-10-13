@@ -1,0 +1,73 @@
+{
+  "sku": "PI-0002688",
+  "url": "https://www.cabesto.com/fr/piscine-piscine-hors-sol-prism-3m-x-1-75m-x-0-80m-pi-6.html",
+  "title": "PISCINE HORS-SOL PRISM 3M X 1.75M X 0.80M",
+  "brand": "INTEX",
+  "category": "Piscine rectangulaire",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine tubulaire",
+    "Piscine rectangulaire"
+  ],
+  "categories": [
+    "Piscine tubulaire",
+    "Piscine rectangulaire"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE HORS-SOL PRISM 3M X 1.75M X 0.80M"
+  ],
+  "description": "Achetez PISCINE HORS-SOL PRISM 3M X 1.75M X 0.80M chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "26784NP",
+  "price": {
+    "amount": 277,
+    "currency": "EUR",
+    "formatted": "277 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002688",
+      "sku": "PI-0002688",
+      "supplierRef": "26784NP",
+      "price": {
+        "amount": 277,
+        "currency": "EUR",
+        "formatted": "277 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/PI-6-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PI-6-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PI-6-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:29:37.750Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-6-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002688/01-PI-6-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-6-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002688/02-PI-6-2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PI-6-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002688/03-PI-6-3.jpg",
+      "skipped": false
+    }
+  ]
+}

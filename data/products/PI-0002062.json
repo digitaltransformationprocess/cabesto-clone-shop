@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0002062",
+  "url": "https://www.cabesto.com/fr/piscine-manchon-union-mixte-d50-x-1-1-2-pi-783.html",
+  "title": "Manchon union mixte D50 x 1\"1/2",
+  "brand": "INTERPLAST",
+  "category": "Pièces PVC",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Manchon union mixte D50 x 1\"1/2"
+  ],
+  "description": "Achetez Manchon union mixte D50 x 1\"1/2 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SBM350F",
+  "price": {
+    "amount": 6.99,
+    "currency": "EUR",
+    "formatted": "6.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002062",
+      "sku": "PI-0002062",
+      "supplierRef": "SBM350F",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/u/n/union-fem-50-male-fil-1-1-2-16686.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:37:13.392Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/u/n/union-fem-50-male-fil-1-1-2-16686.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002062/01-union-fem-50-male-fil-1-1-2-16686.jpg",
+      "skipped": false
+    }
+  ]
+}

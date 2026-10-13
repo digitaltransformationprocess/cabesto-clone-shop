@@ -1,0 +1,75 @@
+{
+  "sku": "PCNT-0006469",
+  "url": "https://www.cabesto.com/fr/veste-polaire-homme-lightweight-better-sweater.html",
+  "title": "Veste Polaire Homme Lightweight Better Sweater - PATAGONIA",
+  "brand": "PATAGONIA",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Veste Polaire Homme Lightweight Better Sweater - PATAGONIA"
+  ],
+  "description": "Achetez Veste Polaire Homme Lightweight Better Sweater - PATAGONIA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0006469",
+      "sku": "PCNT-0006469",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/t/pt51_1_fv-veste-polaire-homme-lightweight-better-sweater-patagonia_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/t/pt51_2_fv-veste-polaire-homme-lightweight-better-sweater-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/t/pt51_1_fv-veste-polaire-homme-lightweight-better-sweater-patagonia_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:34:36.883Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt51_1_fv-veste-polaire-homme-lightweight-better-sweater-patagonia_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006469/01-pt51_1_fv-veste-polaire-homme-lightweight-better-sweater-patagonia_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt51_2_fv-veste-polaire-homme-lightweight-better-sweater-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006469/02-pt51_2_fv-veste-polaire-homme-lightweight-better-sweater-patagonia.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt51_1_fv-veste-polaire-homme-lightweight-better-sweater-patagonia_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006469/03-pt51_1_fv-veste-polaire-homme-lightweight-better-sweater-patagonia_5.jpg",
+      "skipped": false
+    }
+  ]
+}

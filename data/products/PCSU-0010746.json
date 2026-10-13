@@ -1,0 +1,151 @@
+{
+  "sku": "PCSU-0010746",
+  "url": "https://www.cabesto.com/fr/gilet-stabilisateur-de-plongee-sous-marine-axiom-noir-grey-aqualung-pcsu-0010746.html",
+  "title": "Gilet stabilisateur de plongée sous-marine AXIOM Noir/grey AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "Gilets de plongée réglables",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Gilets stabilisateurs",
+    "Gilets de plongée réglables"
+  ],
+  "categories": [
+    "Gilets stabilisateurs",
+    "Gilets de plongée réglables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gilet stabilisateur de plongée sous-marine AXIOM Noir/grey AQUALUNG"
+  ],
+  "description": "Plongez avec la dernière évolution du gilet stabilisateur de plongée sous-marine AXIOM AQUALUNG offrant un confort ultime de portage pour vos lombaires ainsi qu'une flottabilité parfaite et intuitives pour vos plongées loisirs ou engagées.",
+  "supplierRef": null,
+  "price": {
+    "amount": 569,
+    "currency": "EUR",
+    "formatted": "569 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0010746",
+      "sku": "PCSU-0010746",
+      "supplierRef": null,
+      "price": {
+        "amount": 569,
+        "currency": "EUR",
+        "formatted": "569 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/sure_lock_2_standard.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/sure_lock_2_long.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/plomb_mou_1kg_recto_qxg5nlevujifzavh.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_left_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_right_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_zoom1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/tailleaxiom_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_17_20.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_1_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_1_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_1_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:37:06.475Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/01-bc1670110_axiom_men_blk-grey_front_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/sure_lock_2_standard.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/02-sure_lock_2_standard.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/sure_lock_2_long.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/03-sure_lock_2_long.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/plomb_mou_1kg_recto_qxg5nlevujifzavh.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/04-plomb_mou_1kg_recto_qxg5nlevujifzavh.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_left_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/05-bc1670110_axiom_men_blk-grey_left_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_right_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/06-bc1670110_axiom_men_blk-grey_right_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_zoom1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/07-bc1670110_axiom_men_blk-grey_zoom1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/tailleaxiom_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/08-tailleaxiom_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_17_20.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/09-hqdefault_17_20.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_1_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/10-bc1670110_axiom_men_blk-grey_front_1_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_1_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/11-bc1670110_axiom_men_blk-grey_front_1_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_1_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/12-bc1670110_axiom_men_blk-grey_front_1_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/13-bc1670110_axiom_men_blk-grey_front_1_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/14-bc1670110_axiom_men_blk-grey_front_2_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/15-bc1670110_axiom_men_blk-grey_front_1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc1670110_axiom_men_blk-grey_front_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010746/16-bc1670110_axiom_men_blk-grey_front_2.jpg",
+      "skipped": false
+    }
+  ]
+}

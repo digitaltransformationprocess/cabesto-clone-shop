@@ -1,0 +1,103 @@
+{
+  "sku": "PCNT-0027396",
+  "url": "https://www.cabesto.com/fr/casque-montagne-femme-borea.html",
+  "title": "Casque Montagne Femme Borea - PETZL",
+  "brand": "PETZL",
+  "category": "Casques de montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Casques",
+    "Casques de montagne"
+  ],
+  "categories": [
+    "Casques",
+    "Casques de montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montagne",
+    "Montagne",
+    "Casques",
+    "Casques",
+    "Casques de montagne",
+    "Casques de montagne",
+    "Casque Montagne Femme Borea - PETZL"
+  ],
+  "description": "Achetez Casque Montagne Femme Borea - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 44.9,
+    "currency": "EUR",
+    "formatted": "44.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0027396",
+      "sku": "PCNT-0027396",
+      "supplierRef": null,
+      "price": {
+        "amount": 44.9,
+        "currency": "EUR",
+        "formatted": "44.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/o/borea.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb6_2_v-casque-montagne-femme-borea-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb6_1_a-casque-montagne-femme-borea-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb6_1_v-casque-montagne-femme-borea-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb6_1_a-casque-montagne-femme-borea-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb6_1_a-casque-montagne-femme-borea-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb6_1_v-casque-montagne-femme-borea-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:23:56.767Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/o/borea.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0027396/01-borea.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb6_2_v-casque-montagne-femme-borea-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0027396/02-pzb6_2_v-casque-montagne-femme-borea-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb6_1_a-casque-montagne-femme-borea-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0027396/03-pzb6_1_a-casque-montagne-femme-borea-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb6_1_v-casque-montagne-femme-borea-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0027396/04-pzb6_1_v-casque-montagne-femme-borea-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb6_1_a-casque-montagne-femme-borea-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0027396/05-pzb6_1_a-casque-montagne-femme-borea-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb6_1_a-casque-montagne-femme-borea-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0027396/06-pzb6_1_a-casque-montagne-femme-borea-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb6_1_v-casque-montagne-femme-borea-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0027396/07-pzb6_1_v-casque-montagne-femme-borea-petzl.jpg",
+      "skipped": false
+    }
+  ]
+}

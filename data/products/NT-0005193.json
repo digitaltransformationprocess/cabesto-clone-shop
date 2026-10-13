@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0005193",
+  "url": "https://www.cabesto.com/fr/randonnee-trousse-de-secours-pro-xl-pharma-voyage-nt-0005193.html",
+  "title": "Trousse de Secours Pro XL - PHARMA VOYAGE",
+  "brand": "PHARMA VOYAGE",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Sécurité et soin du corps",
+    "Trousses de secours",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Sécurité et soin du corps",
+    "Trousses de secours",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Trousse de Secours Pro XL - PHARMA VOYAGE"
+  ],
+  "description": "Achetez Trousse de Secours Pro XL - PHARMA VOYAGE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "PHTS6000405",
+  "price": {
+    "amount": 21.56,
+    "currency": "EUR",
+    "formatted": "21.56 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005193",
+      "sku": "NT-0005193",
+      "supplierRef": "PHTS6000405",
+      "price": {
+        "amount": 21.56,
+        "currency": "EUR",
+        "formatted": "21.56 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/t/kt12_1-trousse-de-secours-pro-xl-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/t/kt12_3-trousse-de-secours-pro-xl-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/t/kt12_2-trousse-de-secours-pro-xl-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/t/kt12_1-trousse-de-secours-pro-xl-pharma-voyage_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:23:20.212Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/t/kt12_1-trousse-de-secours-pro-xl-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005193/01-kt12_1-trousse-de-secours-pro-xl-pharma-voyage.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/t/kt12_3-trousse-de-secours-pro-xl-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005193/02-kt12_3-trousse-de-secours-pro-xl-pharma-voyage.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/t/kt12_2-trousse-de-secours-pro-xl-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005193/03-kt12_2-trousse-de-secours-pro-xl-pharma-voyage.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/t/kt12_1-trousse-de-secours-pro-xl-pharma-voyage_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005193/04-kt12_1-trousse-de-secours-pro-xl-pharma-voyage_1.jpg",
+      "skipped": false
+    }
+  ]
+}

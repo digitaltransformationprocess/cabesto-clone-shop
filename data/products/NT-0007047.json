@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0007047",
+  "url": "https://www.cabesto.com/fr/fifi-hook-nt-0007047.html",
+  "title": "Fifi Hook",
+  "brand": "BLACK DIAMOND",
+  "category": "pitons-plombs",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "escalade",
+    "equipement-terrain-d-aventure-artif",
+    "pitons-plombs"
+  ],
+  "categories": [
+    "montagne",
+    "escalade",
+    "equipement-terrain-d-aventure-artif",
+    "pitons-plombs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Fifi Hook"
+  ],
+  "description": "Achetez Fifi Hook chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BD620065",
+  "price": {
+    "amount": 19.9,
+    "currency": "EUR",
+    "formatted": "19.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0007047",
+      "sku": "NT-0007047",
+      "supplierRef": "BD620065",
+      "price": {
+        "amount": 19.9,
+        "currency": "EUR",
+        "formatted": "19.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/l/cl05.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:38:17.225Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/l/cl05.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007047/01-cl05.jpg",
+      "skipped": false
+    }
+  ]
+}

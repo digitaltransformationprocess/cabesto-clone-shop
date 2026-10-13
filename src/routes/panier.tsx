@@ -17,7 +17,9 @@ const carriers = ["Colissimo", "Chronopost", "Mondial Relay", "Retrait magasin"]
 function Cart() {
   const { cart, setQty, user, placeOrder, profile } = useStore();
   const nav = useNavigate();
-  const lines = Object.entries(cart).map(([id, qty]) => ({ p: products.find((x) => x.id === id)!, qty })).filter((l) => l.p);
+  const lines = Object.entries(cart)
+    .map(([id, qty]) => ({ p: products.find((x) => x.id === id), qty }))
+    .filter((l): l is { p: (typeof products)[number]; qty: number } => Boolean(l.p));
   const subtotal = lines.reduce((s, l) => s + l.p.price * l.qty, 0);
   const [carrier, setCarrier] = useState<string>(carriers[0]!);
   const ship = shippingCost(subtotal, carrier);

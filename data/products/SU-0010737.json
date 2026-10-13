@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0010737",
+  "url": "https://www.cabesto.com/fr/1er-etage-de-detendeur-de-plongee-helix-pro-din-aqualung-su-0010737.html",
+  "title": "1er étage de détendeur de plongée HELIX PRO DIN AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "Détendeur plongée 1ers ou 2ème étage seul",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Détendeurs et Octopus",
+    "Détendeur plongée 1ers ou 2ème étage seul"
+  ],
+  "categories": [
+    "Détendeurs et Octopus",
+    "Détendeur plongée 1ers ou 2ème étage seul"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "1er étage de détendeur de plongée HELIX PRO DIN AQUALUNG"
+  ],
+  "description": "Achetez 1er étage de détendeur de plongée HELIX PRO DIN AQUALUNG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "706043DIN",
+  "price": {
+    "amount": 299,
+    "currency": "EUR",
+    "formatted": "299 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010737",
+      "sku": "SU-0010737",
+      "supplierRef": "706043DIN",
+      "price": {
+        "amount": 299,
+        "currency": "EUR",
+        "formatted": "299 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/q/aqualung-helix-pro-din-1e-trap_e8q6dambp64hxzes.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:37:00.026Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/q/aqualung-helix-pro-din-1e-trap_e8q6dambp64hxzes.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010737/01-aqualung-helix-pro-din-1e-trap_e8q6dambp64hxzes.jpg",
+      "skipped": false
+    }
+  ]
+}

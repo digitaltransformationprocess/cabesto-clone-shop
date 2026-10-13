@@ -1,0 +1,85 @@
+{
+  "sku": "PI-0003260",
+  "url": "https://www.cabesto.com/fr/piscine-sonde-ph-pi-1315.html",
+  "title": "Sonde ph",
+  "brand": "ASTRAL",
+  "category": "Black November - Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Régulation du pH",
+    "Destockage Piscine",
+    "Régulateur et pompe doseuse pH",
+    "Black November - Piscine",
+    "Ventes privées Piscine"
+  ],
+  "categories": [
+    "Régulation du pH",
+    "Destockage Piscine",
+    "Régulateur et pompe doseuse pH",
+    "Black November - Piscine",
+    "Ventes privées Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sonde ph"
+  ],
+  "description": "Achetez Sonde ph chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "00.043.011",
+  "price": {
+    "amount": 59,
+    "currency": "EUR",
+    "formatted": "59 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003260",
+      "sku": "PI-0003260",
+      "supplierRef": "00.043.011",
+      "price": {
+        "amount": 59,
+        "currency": "EUR",
+        "formatted": "59 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/3/1/31x0GB5Er0L._AC__1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/1/71-3zKt617L._AC_SL500__1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/1/810MfEpywrL._AC_SL500__1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/9/1/91VsGCuRHXL._AC_SL500__1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:39:43.547Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/1/31x0GB5Er0L._AC__1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003260/01-31x0GB5Er0L._AC__1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/1/71-3zKt617L._AC_SL500__1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003260/02-71-3zKt617L._AC_SL500__1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/1/810MfEpywrL._AC_SL500__1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003260/03-810MfEpywrL._AC_SL500__1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/9/1/91VsGCuRHXL._AC_SL500__1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003260/04-91VsGCuRHXL._AC_SL500__1_.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "PI-0000897",
+  "url": "https://www.cabesto.com/fr/piscine-coude-90-m-f-d50x50x40-16-bars-pi-796.html",
+  "title": "Coude 90° m/f D50x50x40 - 16 bars",
+  "brand": "INTERPLAST",
+  "category": "Pièces PVC",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Coude 90° m/f D50x50x40 - 16 bars"
+  ],
+  "description": "Achetez Coude 90° m/f D50x50x40 - 16 bars chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SGOMF050",
+  "price": {
+    "amount": 2,
+    "currency": "EUR",
+    "formatted": "2 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000897",
+      "sku": "PI-0000897",
+      "supplierRef": "SGOMF050",
+      "price": {
+        "amount": 2,
+        "currency": "EUR",
+        "formatted": "2 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/o/coude-a-90-pvc-egal-a-coller-mf-50x50x40-16-bars_8rf8hcqatot24ltj.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/o/coude-90a-mxf-d50x40x40-16-bars-16712.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:37:43.746Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/o/coude-a-90-pvc-egal-a-coller-mf-50x50x40-16-bars_8rf8hcqatot24ltj.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000897/01-coude-a-90-pvc-egal-a-coller-mf-50x50x40-16-bars_8rf8hcqatot24ltj.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/o/coude-90a-mxf-d50x40x40-16-bars-16712.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000897/02-coude-90a-mxf-d50x40x40-16-bars-16712.jpg",
+      "skipped": false
+    }
+  ]
+}

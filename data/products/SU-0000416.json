@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0000416",
+  "url": "https://www.cabesto.com/fr/plongee-air-2-5eme-generation-pl-7144.html",
+  "title": "Inflateur/détendeur de secours pour gilet stabilisateur de plongée AIR 2 5ème génaration SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "accessoires-pour-gilets-de-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Inflateur/détendeur de secours pour gilet stabilisateur de plongée AIR 2 5ème génaration SCUBAPRO"
+  ],
+  "description": "L'inflateur AIR 2, 5ème Génération de Scubapro, bien plus qu'un inflateur, il se dote désormais d'un réglage de l'effet venturi, et d'un bouton poussoir astucieusement placé sur un levier bien pratique.Clapet aval classiqueSélecteur Dive/Pre-dive pour un viva réglableUn design, un contrôle et une sécurité améliorés pour le gonflage du giletUn bouton de dégonflage plus large, et un embout plus confortableCertifié CE EN 250 (contôles des essais en eau chaude, > 10°C), en tant que deuxième étage de détendeurPeut être monté sur tout giletConfiguration avec un seul flexibleCe détendeur a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme NF EN 250.",
+  "supplierRef": "21.090.000",
+  "price": {
+    "amount": 255,
+    "currency": "EUR",
+    "formatted": "255 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0000416",
+      "sku": "SU-0000416",
+      "supplierRef": "21.090.000",
+      "price": {
+        "amount": 255,
+        "currency": "EUR",
+        "formatted": "255 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-7144-pl-7144-picture_1-pl-7144-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:39.483Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-7144-pl-7144-picture_1-pl-7144-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000416/01-pl-7144-pl-7144-picture_1-pl-7144-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "gilets-stabilisateurs",
+    "accessoires-pour-gilets-de-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "gilets-stabilisateurs",
+    "accessoires-pour-gilets-de-plongee"
+  ]
+}

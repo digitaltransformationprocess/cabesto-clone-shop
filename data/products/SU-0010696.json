@@ -1,0 +1,81 @@
+{
+  "sku": "SU-0010696",
+  "url": "https://www.cabesto.com/fr/plomb-de-plongee-ecolo-en-sachet-grenaille-2-kg-sublest-su-0010696.html",
+  "title": "Plomb de plongée écolo en sachet grenaille 2 kg SUBLEST",
+  "brand": "SUBLEST",
+  "category": "Accessoires pour gilets de plongée",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Accessoires de plongée",
+    "Lestage",
+    "Accessoires pour gilets de plongée"
+  ],
+  "categories": [
+    "Accessoires de plongée",
+    "Lestage",
+    "Accessoires pour gilets de plongée"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Plomb de plongée écolo en sachet grenaille 2 kg SUBLEST"
+  ],
+  "description": "Lestez vous avec des plombs non polluants grâce la poche de grenaille en acier inox 2 kg SUBLEST, le lestage souple et ergonomique pour une flottabilité optimale et confortable dans votre gilets stabilisateur.",
+  "supplierRef": "LGI 2000",
+  "price": {
+    "amount": 18.99,
+    "currency": "EUR",
+    "formatted": "18.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010696",
+      "sku": "SU-0010696",
+      "supplierRef": "LGI 2000",
+      "price": {
+        "amount": 18.99,
+        "currency": "EUR",
+        "formatted": "18.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/u/sublest_poche-grenaille-2kg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/sublest_baudriller-b7-p-redim..jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/plomb_mou_1kg_recto_qxg5nlevujifzavh.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/plbcourbe.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:36:35.193Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/sublest_poche-grenaille-2kg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010696/01-sublest_poche-grenaille-2kg.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/sublest_baudriller-b7-p-redim..jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010696/02-sublest_baudriller-b7-p-redim..jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/plomb_mou_1kg_recto_qxg5nlevujifzavh.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010696/03-plomb_mou_1kg_recto_qxg5nlevujifzavh.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/plbcourbe.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010696/04-plbcourbe.jpg",
+      "skipped": false
+    }
+  ]
+}

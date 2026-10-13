@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0011336",
+  "url": "https://www.cabesto.com/fr/longe-dynapro-60-cm.html",
+  "title": "Longe Dynapro 60 cm",
+  "brand": "BEAL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Longes de maintien",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Longes de maintien",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Longe Dynapro 60 cm"
+  ],
+  "description": "Achetez Longe Dynapro 60 cm chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BLDP60",
+  "price": {
+    "amount": 19.95,
+    "currency": "EUR",
+    "formatted": "19.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0011336",
+      "sku": "NT-0011336",
+      "supplierRef": "BLDP60",
+      "price": {
+        "amount": 19.95,
+        "currency": "EUR",
+        "formatted": "19.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/1/114_longe_beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:38:34.589Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/1/114_longe_beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0011336/01-114_longe_beal.jpg",
+      "skipped": false
+    }
+  ]
+}

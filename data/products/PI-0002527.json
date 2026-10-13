@@ -1,0 +1,71 @@
+{
+  "sku": "PI-0002527",
+  "url": "https://www.cabesto.com/fr/piscine-jeux-batons-lot-de-5-pi-338.html",
+  "title": "JEUX BATONS - LOT DE 5",
+  "brand": "INTEX",
+  "category": "Jeux",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "jeux"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "jeux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "JEUX BATONS - LOT DE 5"
+  ],
+  "description": "Achetez JEUX BATONS - LOT DE 5 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "55504",
+  "price": {
+    "amount": 3,
+    "currency": "EUR",
+    "formatted": "3 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002527",
+      "sku": "PI-0002527",
+      "supplierRef": "55504",
+      "price": {
+        "amount": 3,
+        "currency": "EUR",
+        "formatted": "3 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/5/5/55504-jeu-batons-sous-marins_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/5/55504-jeu-batons-sous-marins.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:35:04.671Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/5/55504-jeu-batons-sous-marins_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002527/01-55504-jeu-batons-sous-marins_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/5/55504-jeu-batons-sous-marins.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002527/02-55504-jeu-batons-sous-marins.jpg",
+      "skipped": false
+    }
+  ]
+}

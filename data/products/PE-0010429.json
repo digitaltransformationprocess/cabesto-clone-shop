@@ -1,0 +1,63 @@
+{
+  "sku": "PE-0010429",
+  "url": "https://www.cabesto.com/fr/peche-canne-daiwa-sensor-bombette-39-tmhf-pe-316.html",
+  "title": "Canne Daiwa Sensor Bombette 39 TMHF",
+  "brand": "DAIWA",
+  "category": "Canne bombette",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "securite",
+    "accessoires-de-peche-porte-canne-bathyscope"
+  ],
+  "categories": [
+    "nautisme",
+    "securite",
+    "accessoires-de-peche-porte-canne-bathyscope"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Canne Daiwa Sensor Bombette 39 TMHF"
+  ],
+  "description": "Achetez Canne Daiwa Sensor Bombette 39 TMHF chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SE BB 39 TMHF AF",
+  "price": {
+    "amount": 53.99,
+    "currency": "EUR",
+    "formatted": "53.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0010429",
+      "sku": "PE-0010429",
+      "supplierRef": "SE BB 39 TMHF AF",
+      "price": {
+        "amount": 53.99,
+        "currency": "EUR",
+        "formatted": "53.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/a/daiwa-sensor-bombette.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:24:29.833Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/a/daiwa-sensor-bombette.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0010429/01-daiwa-sensor-bombette.jpg",
+      "skipped": false
+    }
+  ]
+}

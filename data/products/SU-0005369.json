@@ -1,0 +1,69 @@
+{
+  "sku": "SU-0005369",
+  "url": "https://www.cabesto.com/fr/plongee-kit-poche-a-plombs-x-one-et-x-black-pl-8205.html",
+  "title": "Poche à plomb pour gilet stab X-ONE et X-BLACK SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage",
+    "Destockage",
+    "Poche à plomb pour gilet stab X-ONE et X-BLACK SCUBAPRO"
+  ],
+  "description": "Poches à plomb pour stab X-One et X-black de Scubapro, vendues par paire et sans lest.",
+  "supplierRef": "23.107.010",
+  "price": {
+    "amount": 56.99,
+    "currency": "EUR",
+    "formatted": "56.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005369",
+      "sku": "SU-0005369",
+      "supplierRef": "23.107.010",
+      "price": {
+        "amount": 56.99,
+        "currency": "EUR",
+        "formatted": "56.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-8205-pl-8205-picture_1-pl-8205-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:00.821Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-8205-pl-8205-picture_1-pl-8205-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005369/01-pl-8205-pl-8205-picture_1-pl-8205-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "sku": "PI-0012682",
+  "url": "https://www.cabesto.com/fr/piscinette-metal-frame-ronde-tubulaire-canopy-o-x-h-1-83-x-0-38-m-intex-pi-0012682.html",
+  "title": "PISCINETTE METAL FRAME RONDE TUBULAIRE + CANOPY Ø x h : 1.83 x 0.38 m INTEX",
+  "brand": "INTEX",
+  "category": "Piscine ronde",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine tubulaire",
+    "Piscine ronde"
+  ],
+  "categories": [
+    "Piscine tubulaire",
+    "Piscine ronde"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINETTE METAL FRAME RONDE TUBULAIRE + CANOPY Ø x h : 1.83 x 0.38 m INTEX"
+  ],
+  "description": "Achetez PISCINETTE METAL FRAME RONDE TUBULAIRE + CANOPY Ø x h : 1.83 x 0.38 m INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "28209NP",
+  "price": {
+    "amount": 85,
+    "currency": "EUR",
+    "formatted": "85 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0012682",
+      "sku": "PI-0012682",
+      "supplierRef": "28209NP",
+      "price": {
+        "amount": 85,
+        "currency": "EUR",
+        "formatted": "85 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/7/1/71weSjlhiDL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/9/1/91kbrR69dSL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/1/81J3c_1kvnL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/1/716Sclgn3nL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/1/718keo5tSTL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/7/1/71ROL3H0dCL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:51:58.602Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/1/71weSjlhiDL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012682/01-71weSjlhiDL._AC_SL1500_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/9/1/91kbrR69dSL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012682/02-91kbrR69dSL._AC_SL1500_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/1/81J3c_1kvnL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012682/03-81J3c_1kvnL._AC_SL1500_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/1/716Sclgn3nL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012682/04-716Sclgn3nL._AC_SL1500_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/1/718keo5tSTL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012682/05-718keo5tSTL._AC_SL1500_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/7/1/71ROL3H0dCL._AC_SL1500_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012682/06-71ROL3H0dCL._AC_SL1500_.jpg",
+      "skipped": false
+    }
+  ]
+}

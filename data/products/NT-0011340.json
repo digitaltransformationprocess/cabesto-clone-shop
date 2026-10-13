@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0011340",
+  "url": "https://www.cabesto.com/fr/longe-grillon-15-m-nt-0011340.html",
+  "title": "Longe Grillon 15 m",
+  "brand": "PETZL",
+  "category": "longes-de-maintien",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "longes",
+    "longes-de-maintien"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "longes",
+    "longes-de-maintien"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Longe Grillon 15 m"
+  ],
+  "description": "Achetez Longe Grillon 15 m chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "L052AA05",
+  "price": {
+    "amount": 204.95,
+    "currency": "EUR",
+    "formatted": "204.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0011340",
+      "sku": "NT-0011340",
+      "supplierRef": "L052AA05",
+      "price": {
+        "amount": 204.95,
+        "currency": "EUR",
+        "formatted": "204.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/p/pp82_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:38:35.317Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp82_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0011340/01-pp82_1.jpg",
+      "skipped": false
+    }
+  ]
+}

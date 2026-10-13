@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0002714",
+  "url": "https://www.cabesto.com/fr/olives-farcies-au-chorizo-plaza-del-sol-120g.html",
+  "title": "Olives Farcies au chorizo PLAZA DEL SOL 120g",
+  "brand": "PLAZA DEL SOL",
+  "category": "Tapas",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-espagnole",
+    "tapas"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-espagnole",
+    "tapas"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Olives Farcies au chorizo PLAZA DEL SOL 120g"
+  ],
+  "description": "Achetez Olives Farcies au chorizo PLAZA DEL SOL 120g chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1C5727",
+  "price": {
+    "amount": 2.49,
+    "currency": "EUR",
+    "formatted": "2.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002714",
+      "sku": "AL-0002714",
+      "supplierRef": "1C5727",
+      "price": {
+        "amount": 2.49,
+        "currency": "EUR",
+        "formatted": "2.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/1/6129332-6129332-picture_1-6129332_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:57:47.144Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/6129332-6129332-picture_1-6129332_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002714/01-6129332-6129332-picture_1-6129332_1.jpg",
+      "skipped": true
+    }
+  ]
+}

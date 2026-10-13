@@ -1,0 +1,63 @@
+{
+  "sku": "NT-0000261",
+  "url": "https://www.cabesto.com/fr/40-m-pro-canyon-10-3-mm-unicore.html",
+  "title": "40 m Pro Canyon 10.3 mm Unicore",
+  "brand": "BEAL",
+  "category": "cordes-canyon",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "canyoning",
+    "cordes-canyon"
+  ],
+  "categories": [
+    "montagne",
+    "canyoning",
+    "cordes-canyon"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "40 m Pro Canyon 10.3 mm Unicore"
+  ],
+  "description": "Achetez 40 m Pro Canyon 10.3 mm Unicore chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BCSC103.40",
+  "price": {
+    "amount": 112.34,
+    "currency": "EUR",
+    "formatted": "112.34 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0000261",
+      "sku": "NT-0000261",
+      "supplierRef": "BCSC103.40",
+      "price": {
+        "amount": 112.34,
+        "currency": "EUR",
+        "formatted": "112.34 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/3/2321.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:11.799Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/3/2321.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000261/01-2321.jpg",
+      "skipped": false
+    }
+  ]
+}

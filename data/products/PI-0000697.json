@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0000697",
+  "url": "https://www.cabesto.com/fr/piscine-chlore-liquide-20l-pi-178.html",
+  "title": "CHLORE LIQUIDE 20L",
+  "brand": "CABESTO",
+  "category": "Chlore",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Chlore de piscine",
+    "Chlore"
+  ],
+  "categories": [
+    "Chlore de piscine",
+    "Chlore"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CHLORE LIQUIDE 20L"
+  ],
+  "description": "Achetez CHLORE LIQUIDE 20L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "FVU052703",
+  "price": {
+    "amount": 29.9,
+    "currency": "EUR",
+    "formatted": "29.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000697",
+      "sku": "PI-0000697",
+      "supplierRef": "FVU052703",
+      "price": {
+        "amount": 29.9,
+        "currency": "EUR",
+        "formatted": "29.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/h/chlor_eliquide_purissimeau.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:45:02.412Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/h/chlor_eliquide_purissimeau.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000697/01-chlor_eliquide_purissimeau.jpg",
+      "skipped": false
+    }
+  ]
+}

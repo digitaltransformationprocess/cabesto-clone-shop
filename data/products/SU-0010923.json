@@ -1,0 +1,115 @@
+{
+  "sku": "SU-0010923",
+  "url": "https://www.cabesto.com/fr/montre-ordinateur-de-plongee-sirius-l-noir-mares-su-0010923.html",
+  "title": "Montre ordinateur de plongée SIRIUS L noir MARES",
+  "brand": "MARES",
+  "category": "Montres ordinateurs",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Ordinateurs de plongée",
+    "Montres ordinateurs"
+  ],
+  "categories": [
+    "Ordinateurs de plongée",
+    "Montres ordinateurs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montre ordinateur de plongée SIRIUS L noir MARES"
+  ],
+  "description": "Plongez en version L pour léger avec la montre ordinateur de plongée sous-marine SIRIUS L MARES, l'ordinateur de plongée à l'affichage segmenté clair et simple d'usage.",
+  "supplierRef": "414180-BKBK",
+  "price": {
+    "amount": 249,
+    "currency": "EUR",
+    "formatted": "249 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0010923",
+      "sku": "SU-0010923",
+      "supplierRef": "414180-BKBK",
+      "price": {
+        "amount": 249,
+        "currency": "EUR",
+        "formatted": "249 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/i/sirius_l_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/414145_sirius_bkbk_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/i/sir.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/protection-ecran-smart-smart-air-et-matrix-mares_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/415475.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/i/siriusnoel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/414180_sirius_l_front.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/s/bs5_1539.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/s/bs5_1479.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/h/photo_by_noam_kortler_model_boaz_samorai_eilat_israel_004.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:38:59.463Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/i/sirius_l_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010923/01-sirius_l_1_.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/414145_sirius_bkbk_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010923/02-414145_sirius_bkbk_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/i/sir.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010923/03-sir.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/protection-ecran-smart-smart-air-et-matrix-mares_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010923/04-protection-ecran-smart-smart-air-et-matrix-mares_01.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/415475.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010923/05-415475.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/i/siriusnoel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010923/06-siriusnoel.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/414180_sirius_l_front.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010923/07-414180_sirius_l_front.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/s/bs5_1539.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010923/08-bs5_1539.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/s/bs5_1479.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010923/09-bs5_1479.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/h/photo_by_noam_kortler_model_boaz_samorai_eilat_israel_004.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0010923/10-photo_by_noam_kortler_model_boaz_samorai_eilat_israel_004.jpg",
+      "skipped": true
+    }
+  ]
+}

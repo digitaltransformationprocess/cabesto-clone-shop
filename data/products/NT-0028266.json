@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0028266",
+  "url": "https://www.cabesto.com/fr/couteau-couvert-army.html",
+  "title": "Couteau-couvert Army - HERBETZ",
+  "brand": "HERBERTZ",
+  "category": "Couverts, couteaux",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Couverts, couteaux"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Couverts, couteaux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couteau-couvert Army - HERBETZ"
+  ],
+  "description": "Achetez Couteau-couvert Army - HERBETZ chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "403",
+  "price": {
+    "amount": 23.5,
+    "currency": "EUR",
+    "formatted": "23.5 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028266",
+      "sku": "NT-0028266",
+      "supplierRef": "403",
+      "price": {
+        "amount": 23.5,
+        "currency": "EUR",
+        "formatted": "23.5 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/g/bg04_1-couteau-couvert-army-herbetz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/g/bg04_2-couteau-couvert-army-herbetz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/g/bg04_1-couteau-couvert-army-herbetz_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:54.920Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/g/bg04_1-couteau-couvert-army-herbetz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028266/01-bg04_1-couteau-couvert-army-herbetz.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/g/bg04_2-couteau-couvert-army-herbetz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028266/02-bg04_2-couteau-couvert-army-herbetz.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/g/bg04_1-couteau-couvert-army-herbetz_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028266/03-bg04_1-couteau-couvert-army-herbetz_1.jpg",
+      "skipped": false
+    }
+  ]
+}

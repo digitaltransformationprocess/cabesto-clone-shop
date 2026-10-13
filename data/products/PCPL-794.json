@@ -1,0 +1,69 @@
+{
+  "sku": "PCPL-794",
+  "url": "https://www.cabesto.com/fr/plongee-masque-viper-mares-pcpl-794.html",
+  "title": "Masque de chasse sous-marine et d'apnée VIPER MARES",
+  "brand": "MARES",
+  "category": "prix-en-baisse-plongee-et-chasse-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Masque de chasse sous-marine et d'apnée VIPER MARES"
+  ],
+  "description": "Masque de chasse sous-marine et d'apnée VIPER MARESMasque à très faible volume d’air conçu en partenariat avec les meilleures athlètes au monde.Le cerclage est moulé dans le silicone de la jupe lui conférant un hydrodynamisme qui élimine toute turbulence lorsque vous remontez à la surface.Les verres sont montés au plus près des yeux afin de limiter le volume d’air interne du masque et d’augmenter son champs de vision.Les boucles à 2 boutons positionnées sur la jupe permettent de régler la sangle avec précision.Ce masque a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 1) suivant la norme NF EN 16805.",
+  "supplierRef": null,
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR",
+    "formatted": "34.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-794",
+      "sku": "PCPL-794",
+      "supplierRef": null,
+      "price": {
+        "amount": 34.99,
+        "currency": "EUR",
+        "formatted": "34.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/2/421411_viper_bkbk_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/2/421411_viper_bkbk_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:31:33.873Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/2/421411_viper_bkbk_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-794/01-421411_viper_bkbk_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/2/421411_viper_bkbk_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-794/02-421411_viper_bkbk_1__1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "selection",
+    "prix-en-baisse",
+    "prix-en-baisse-plongee-et-chasse-sous-marine"
+  ],
+  "categories": [
+    "selection",
+    "prix-en-baisse",
+    "prix-en-baisse-plongee-et-chasse-sous-marine"
+  ]
+}

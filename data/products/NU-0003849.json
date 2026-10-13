@@ -1,0 +1,91 @@
+{
+  "sku": "NU-0003849",
+  "url": "https://www.cabesto.com/fr/axiom-9-ecran-tactile-multifonctions-9-wifi-ps-7413264.html",
+  "title": "AXIOM+ 9 Écran tactile multifonctions 9”. Wifi",
+  "brand": "RAYMARINE",
+  "category": "Centrale de navigation",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Electronique",
+    "Nautisme",
+    "Sondeurs / Combinés GPS-Sondeurs",
+    "GPS",
+    "Centrale de navigation"
+  ],
+  "categories": [
+    "Electronique",
+    "Nautisme",
+    "Sondeurs / Combinés GPS-Sondeurs",
+    "GPS",
+    "Centrale de navigation"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "AXIOM+ 9 Écran tactile multifonctions 9”. Wifi"
+  ],
+  "description": "Achetez AXIOM+ 9 Écran tactile multifonctions 9”. Wifi chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "E70636",
+  "price": {
+    "amount": 1239,
+    "currency": "EUR",
+    "formatted": "1239 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0003849",
+      "sku": "NU-0003849",
+      "supplierRef": "E70636",
+      "price": {
+        "amount": 1239,
+        "currency": "EUR",
+        "formatted": "1239 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/a/raymarine_axiom9plus_boston_sullivans.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/_/1_axiom9plus_government_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/x/axiom_9_tilt_homescreen_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/x/axiom_9_tilt_ar_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/x/axiom_9_right_alt_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:08:53.335Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/a/raymarine_axiom9plus_boston_sullivans.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003849/01-raymarine_axiom9plus_boston_sullivans.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/_/1_axiom9plus_government_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003849/02-1_axiom9plus_government_1.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/x/axiom_9_tilt_homescreen_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003849/03-axiom_9_tilt_homescreen_1.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/x/axiom_9_tilt_ar_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003849/04-axiom_9_tilt_ar_1.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/x/axiom_9_right_alt_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NU-0003849\\05-axiom_9_right_alt_1.png.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NU-0003849\\05-axiom_9_right_alt_1.png'"
+    }
+  ]
+}

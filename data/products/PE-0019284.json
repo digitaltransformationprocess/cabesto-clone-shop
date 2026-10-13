@@ -1,0 +1,81 @@
+{
+  "sku": "PE-0019284",
+  "url": "https://www.cabesto.com/fr/kit-peche-a-l-aimant-flashmer.html",
+  "title": "KIT PECHE A L'AIMANT FLASHMER",
+  "brand": "FLASHMER",
+  "category": "Black November - Pêche",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "Destockage Pêche",
+    "Ventes privées Pêche",
+    "Black November - Pêche"
+  ],
+  "categories": [
+    "Destockage Pêche",
+    "Ventes privées Pêche",
+    "Black November - Pêche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "KIT PECHE A L'AIMANT FLASHMER"
+  ],
+  "description": "Achetez KIT PECHE A L'AIMANT FLASHMER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "OTPA150",
+  "price": {
+    "amount": 34.3,
+    "currency": "EUR",
+    "formatted": "34.3 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0019284",
+      "sku": "PE-0019284",
+      "supplierRef": "OTPA150",
+      "price": {
+        "amount": 34.3,
+        "currency": "EUR",
+        "formatted": "34.3 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/i/kit-de-peche-a-l-aimant-flashmer-z-2790-279011_3uiuzmfflhplekoy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/i/kit-de-peche-a-l-aimant-flashmer-z-2790-279011-2_l0c9sfamx88wxxhw.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/i/kit-de-peche-a-l-aimant-flashmer-z-2790-279011-3_p0lailn7vmtttd7d.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/i/kit-de-peche-a-l-aimant-flashmer-z-2790-279011-4_y5qkvailng1zusaf.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:25:51.509Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/i/kit-de-peche-a-l-aimant-flashmer-z-2790-279011_3uiuzmfflhplekoy.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0019284/01-kit-de-peche-a-l-aimant-flashmer-z-2790-279011_3uiuzmfflhplekoy.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/i/kit-de-peche-a-l-aimant-flashmer-z-2790-279011-2_l0c9sfamx88wxxhw.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0019284/02-kit-de-peche-a-l-aimant-flashmer-z-2790-279011-2_l0c9sfamx88wxxhw.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/i/kit-de-peche-a-l-aimant-flashmer-z-2790-279011-3_p0lailn7vmtttd7d.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0019284/03-kit-de-peche-a-l-aimant-flashmer-z-2790-279011-3_p0lailn7vmtttd7d.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/i/kit-de-peche-a-l-aimant-flashmer-z-2790-279011-4_y5qkvailng1zusaf.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0019284/04-kit-de-peche-a-l-aimant-flashmer-z-2790-279011-4_y5qkvailng1zusaf.jpg",
+      "skipped": false
+    }
+  ]
+}

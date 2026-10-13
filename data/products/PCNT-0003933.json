@@ -1,0 +1,85 @@
+{
+  "sku": "PCNT-0003933",
+  "url": "https://www.cabesto.com/fr/chaine-snowline-city.html",
+  "title": "Chaine Snowline City",
+  "brand": "DIVERS",
+  "category": "Antiglisse pour sols gelés",
+  "topLevel": "destockage",
+  "topLevelLabel": "Déstockage",
+  "categoryPath": [
+    "Chaussures",
+    "Neige & Glace",
+    "Alpinisme",
+    "Antiglisse pour sols gelés",
+    "Destockage Montagne"
+  ],
+  "categories": [
+    "Chaussures",
+    "Neige & Glace",
+    "Alpinisme",
+    "Antiglisse pour sols gelés",
+    "Destockage Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaine Snowline City"
+  ],
+  "description": "Achetez Chaine Snowline City chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 19.2,
+    "currency": "EUR",
+    "formatted": "19.2 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0003933",
+      "sku": "PCNT-0003933",
+      "supplierRef": null,
+      "price": {
+        "amount": 19.2,
+        "currency": "EUR",
+        "formatted": "19.2 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/8/1855_1_b-chaine-snowline-city--.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/8/1855_1_l-chaine-snowline-city--.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/8/1855_1_k-chaine-snowline-city--.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/8/1855_1_b-chaine-snowline-city--_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:24:37.652Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/8/1855_1_b-chaine-snowline-city--.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003933/01-1855_1_b-chaine-snowline-city--.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/8/1855_1_l-chaine-snowline-city--.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003933/02-1855_1_l-chaine-snowline-city--.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/8/1855_1_k-chaine-snowline-city--.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003933/03-1855_1_k-chaine-snowline-city--.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/8/1855_1_b-chaine-snowline-city--_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003933/04-1855_1_b-chaine-snowline-city--_1.jpg",
+      "skipped": false
+    }
+  ]
+}

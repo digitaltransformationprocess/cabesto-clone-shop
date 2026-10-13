@@ -1,0 +1,73 @@
+{
+  "sku": "PI-0002840",
+  "url": "https://www.cabesto.com/fr/piscine-rechauffeur-3kw-pour-piscine-jusqu-a-12m3-pi-332.html",
+  "title": "RECHAUFFEUR 3KW POUR PISCINE JUSQU'À 12M3",
+  "brand": "INTEX",
+  "category": "Accessoires piscine et pièces détachées",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Réchauffeur",
+    "Piscine tubulaire",
+    "Piscine bois",
+    "Piscine acier",
+    "Accessoires piscine et pièces détachées"
+  ],
+  "categories": [
+    "Réchauffeur",
+    "Piscine tubulaire",
+    "Piscine bois",
+    "Piscine acier",
+    "Accessoires piscine et pièces détachées"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "RECHAUFFEUR 3KW POUR PISCINE JUSQU'À 12M3"
+  ],
+  "description": "Achetez RECHAUFFEUR 3KW POUR PISCINE JUSQU'À 12M3 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "28684",
+  "price": {
+    "amount": 88,
+    "currency": "EUR",
+    "formatted": "88 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002840",
+      "sku": "PI-0002840",
+      "supplierRef": "28684",
+      "price": {
+        "amount": 88,
+        "currency": "EUR",
+        "formatted": "88 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/8/28684-rechauffeur_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/8/28684-rechauffeur.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:34:47.533Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28684-rechauffeur_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002840/01-28684-rechauffeur_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/8/28684-rechauffeur.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002840/02-28684-rechauffeur.jpg",
+      "skipped": false
+    }
+  ]
+}

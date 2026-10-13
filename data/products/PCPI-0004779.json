@@ -1,0 +1,63 @@
+{
+  "sku": "PCPI-0004779",
+  "url": "https://www.cabesto.com/fr/bache-a-barre-piscine-evo-fixation-bois-sur-mesure-astral.html",
+  "title": "BACHE A BARRE PISCINE EVO FIXATION BOIS SUR MESURE - ASTRAL",
+  "brand": "ASTRAL BARRE",
+  "category": "Bâche à barre",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "bache-a-barre"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "bache-a-barre"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BACHE A BARRE PISCINE EVO FIXATION BOIS SUR MESURE - ASTRAL"
+  ],
+  "description": "Achetez BACHE A BARRE PISCINE EVO FIXATION BOIS SUR MESURE - ASTRAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 31.23,
+    "currency": "EUR",
+    "formatted": "31.23 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPI-0004779",
+      "sku": "PCPI-0004779",
+      "supplierRef": null,
+      "price": {
+        "amount": 31.23,
+        "currency": "EUR",
+        "formatted": "31.23 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/2omaintenance.com/654-large_default/bache-a-barres-piscine-evo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:46:40.118Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/2omaintenance.com/654-large_default/bache-a-barres-piscine-evo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0004779/01-bache-a-barres-piscine-evo.jpg",
+      "skipped": false
+    }
+  ]
+}

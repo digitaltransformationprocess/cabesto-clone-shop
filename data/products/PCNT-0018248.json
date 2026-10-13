@@ -1,0 +1,79 @@
+{
+  "sku": "PCNT-0018248",
+  "url": "https://www.cabesto.com/fr/sac-rond-25-l.html",
+  "title": "Sac Rond 25 L Plus AVENTURE VERTICALE",
+  "brand": "AVENTURE VERTICALE",
+  "category": "Kit-bags classiques",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Spéléologie",
+    "Kit-bags classiques"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Kit-bags classiques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac Rond 25 L Plus AVENTURE VERTICALE"
+  ],
+  "description": "Sac Rond 25 L + AVENTURE VERTICALE Les poignées de ce kit de spéléologie AVENTURE VERTICALE 25 L facilitent la préhension.",
+  "supplierRef": null,
+  "price": {
+    "amount": 72.2,
+    "currency": "EUR",
+    "formatted": "72.2 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0018248",
+      "sku": "PCNT-0018248",
+      "supplierRef": null,
+      "price": {
+        "amount": 72.2,
+        "currency": "EUR",
+        "formatted": "72.2 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sac-transport-avsp27.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sac-transport-avsp27-kitbag-25l-rond-22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sac-transport-avsp27-kit-bag-25l-rond.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sac-transport-avsp27-kit-bag-25l-rond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:24:16.095Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sac-transport-avsp27.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018248/01-sac-transport-avsp27.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sac-transport-avsp27-kitbag-25l-rond-22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018248/02-sac-transport-avsp27-kitbag-25l-rond-22.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sac-transport-avsp27-kit-bag-25l-rond.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018248/03-sac-transport-avsp27-kit-bag-25l-rond.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sac-transport-avsp27-kit-bag-25l-rond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018248/04-sac-transport-avsp27-kit-bag-25l-rond_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0026916",
+  "url": "https://www.cabesto.com/fr/randonnee-savon-outdoor-bio-multi-usage-pharma-voyage-nt-0026916.html",
+  "title": "Savon Outdoor Bio Multi-usage - PHARMA VOYAGE",
+  "brand": "PHARMA VOYAGE",
+  "category": "Hygiène, serviettes de randonnée",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Sécurité et soin du corps",
+    "Hygiène, serviettes de randonnée"
+  ],
+  "categories": [
+    "Sécurité et soin du corps",
+    "Hygiène, serviettes de randonnée"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Savon Outdoor Bio Multi-usage - PHARMA VOYAGE"
+  ],
+  "description": "Achetez Savon Outdoor Bio Multi-usage - PHARMA VOYAGE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "PH6000700BL",
+  "price": {
+    "amount": 7.95,
+    "currency": "EUR",
+    "formatted": "7.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0026916",
+      "sku": "NT-0026916",
+      "supplierRef": "PH6000700BL",
+      "price": {
+        "amount": 7.95,
+        "currency": "EUR",
+        "formatted": "7.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/g/kg20_1-savon-outdoor-bio-multi-usage--douche-linge-vais-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/g/kg20_2-savon-outdoor-bio-multi-usage--douche-linge-vais-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:17:38.797Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/g/kg20_1-savon-outdoor-bio-multi-usage--douche-linge-vais-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0026916/01-kg20_1-savon-outdoor-bio-multi-usage--douche-linge-vais-pharma-voyage.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/g/kg20_2-savon-outdoor-bio-multi-usage--douche-linge-vais-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0026916/02-kg20_2-savon-outdoor-bio-multi-usage--douche-linge-vais-pharma-voyage.jpg",
+      "skipped": true
+    }
+  ]
+}

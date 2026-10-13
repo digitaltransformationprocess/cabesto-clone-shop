@@ -1,0 +1,79 @@
+{
+  "sku": "NT-0006073",
+  "url": "https://www.cabesto.com/fr/verticalite-absorbica-absorbeur-d-energie-petzl-nt-0006073.html",
+  "title": "Absorbica absorbeur d'énergie - PETZL",
+  "brand": "PETZL",
+  "category": "Longes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Longes"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Longes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Absorbica absorbeur d'énergie - PETZL"
+  ],
+  "description": "Achetez Absorbica absorbeur d'énergie - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "L010AA00",
+  "price": {
+    "amount": 48,
+    "currency": "EUR",
+    "formatted": "48 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006073",
+      "sku": "NT-0006073",
+      "supplierRef": "L010AA00",
+      "price": {
+        "amount": 48,
+        "currency": "EUR",
+        "formatted": "48 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl29_1-absorbica-absorbeur-d-energie-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl29_2-absorbica-absorbeur-d-energie-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl29_1-absorbica-absorbeur-d-energie-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:19:45.287Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl29_1-absorbica-absorbeur-d-energie-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006073/01-pl29_1-absorbica-absorbeur-d-energie-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl29_2-absorbica-absorbeur-d-energie-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006073/02-pl29_2-absorbica-absorbeur-d-energie-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl29_1-absorbica-absorbeur-d-energie-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0006073\\03-pl29_1-absorbica-absorbeur-d-energie-petzl_1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0006073\\03-pl29_1-absorbica-absorbeur-d-energie-petzl_1.jpg'"
+    }
+  ]
+}

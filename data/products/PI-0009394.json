@@ -1,0 +1,65 @@
+{
+  "sku": "PI-0009394",
+  "url": "https://www.cabesto.com/fr/tete-de-balai-premium-piscine-gre.html",
+  "title": "TETE DE BALAI FORME ARRONDI HARICOT BLUE LINE",
+  "brand": "ASTRAL",
+  "category": "Accessoires de piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "piscine",
+    "accessoires-piscine-et-pieces-detachees",
+    "accessoires-de-piscine"
+  ],
+  "categories": [
+    "piscine",
+    "piscine",
+    "accessoires-piscine-et-pieces-detachees",
+    "accessoires-de-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TETE DE BALAI FORME ARRONDI HARICOT BLUE LINE"
+  ],
+  "description": "Achetez TETE DE BALAI FORME ARRONDI HARICOT BLUE LINE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "69664",
+  "price": {
+    "amount": 19.9,
+    "currency": "EUR",
+    "formatted": "19.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0009394",
+      "sku": "PI-0009394",
+      "supplierRef": "69664",
+      "price": {
+        "amount": 19.9,
+        "currency": "EUR",
+        "formatted": "19.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/2533-large_default/balai-ovale-rotatif-avec-brosses-laterales-premium.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:47:53.936Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/2533-large_default/balai-ovale-rotatif-avec-brosses-laterales-premium.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009394/01-balai-ovale-rotatif-avec-brosses-laterales-premium.jpg",
+      "skipped": false
+    }
+  ]
+}

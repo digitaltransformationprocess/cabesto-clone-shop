@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0001402",
+  "url": "https://www.cabesto.com/fr/filtre-a-sable-4m-h-pour-piscine-jusqu-a-24m-pi-59.html",
+  "title": "FILTRE À SABLE 4M³/H POUR PISCINE JUSQU'À 24M³",
+  "brand": "INTEX",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Platine Intex",
+    "Platine de filtration",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Platine Intex",
+    "Platine de filtration",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FILTRE À SABLE 4M³/H POUR PISCINE JUSQU'À 24M³"
+  ],
+  "description": "Achetez FILTRE À SABLE 4M³/H POUR PISCINE JUSQU'À 24M³ chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "26644FR",
+  "price": {
+    "amount": 139,
+    "currency": "EUR",
+    "formatted": "139 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001402",
+      "sku": "PI-0001402",
+      "supplierRef": "26644FR",
+      "price": {
+        "amount": 139,
+        "currency": "EUR",
+        "formatted": "139 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/shop/3658-large_default/filtre-a-sable-4m3-h-_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:30:20.298Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/shop/3658-large_default/filtre-a-sable-4m3-h-_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001402/01-filtre-a-sable-4m3-h-_1.jpg",
+      "skipped": false
+    }
+  ]
+}

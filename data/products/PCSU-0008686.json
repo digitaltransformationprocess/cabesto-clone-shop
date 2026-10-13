@@ -1,0 +1,113 @@
+{
+  "sku": "PCSU-0008686",
+  "url": "https://www.cabesto.com/fr/veste-krypsis-7-mm-veste-salvimar.html",
+  "title": "Veste chasse sous-marine KRYPSIS 101 7MM SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "Eaux froides 7 mm",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Chasse sous-marine",
+    "Combinaisons de chasse",
+    "Eaux froides 7 mm",
+    "Destockage Plongée / Chasse sous-marine"
+  ],
+  "categories": [
+    "Plongée",
+    "Chasse sous-marine",
+    "Combinaisons de chasse",
+    "Eaux froides 7 mm",
+    "Destockage Plongée / Chasse sous-marine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage",
+    "Destockage",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage Plongée / Chasse sous-marine",
+    "Veste chasse sous-marine KRYPSIS 101 7MM SALVIMAR"
+  ],
+  "description": "Camouflez-vous avec la veste KRYPSIS 101 SALVIMAR ici 7 mm d'épaisseur, chaude, souple et résistante.",
+  "supplierRef": null,
+  "price": {
+    "amount": 179,
+    "currency": "EUR",
+    "formatted": "179 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0008686",
+      "sku": "PCSU-0008686",
+      "supplierRef": null,
+      "price": {
+        "amount": 179,
+        "currency": "EUR",
+        "formatted": "179 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/0/2022_04_27_18_31_22_https_www.salvimar.com_showimg.aspx_imgprinc_images_uploaded_prodotti_img_345_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/pantalon-krypsis-5.5-mm-salvimar_01_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/a/facilitateur-d-habillage-fluid-z-abyssnaut_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/img-345-p2_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/img-345-p4_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022_12_02_18_27_23_scheda_taglie_salvimar.jpg_photos_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_49_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/veste-krypsis-7-mm-veste-salvimar_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:55:23.673Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022_04_27_18_31_22_https_www.salvimar.com_showimg.aspx_imgprinc_images_uploaded_prodotti_img_345_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008686/01-2022_04_27_18_31_22_https_www.salvimar.com_showimg.aspx_imgprinc_images_uploaded_prodotti_img_345_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/pantalon-krypsis-5.5-mm-salvimar_01_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008686/02-pantalon-krypsis-5.5-mm-salvimar_01_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/a/facilitateur-d-habillage-fluid-z-abyssnaut_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008686/03-facilitateur-d-habillage-fluid-z-abyssnaut_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-345-p2_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008686/04-img-345-p2_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-345-p4_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008686/05-img-345-p4_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022_12_02_18_27_23_scheda_taglie_salvimar.jpg_photos_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008686/06-2022_12_02_18_27_23_scheda_taglie_salvimar.jpg_photos_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_49_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008686/07-hqdefault_49_11.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/veste-krypsis-7-mm-veste-salvimar_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0008686/08-veste-krypsis-7-mm-veste-salvimar_01.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0026407",
+  "url": "https://www.cabesto.com/fr/randonnee-lanterne-anti-moustique-moskit-r-orange-frendo-nt-0026407.html",
+  "title": "Lanterne Anti-moustique Moskit'r Orange - FRENDO",
+  "brand": "FRENDO",
+  "category": "Torches et lanternes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Eclairage",
+    "Torches et lanternes"
+  ],
+  "categories": [
+    "Eclairage",
+    "Torches et lanternes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montagne",
+    "Montagne",
+    "Randonnée",
+    "Randonnée",
+    "Eclairage",
+    "Eclairage",
+    "Lanterne Anti-moustique Moskit'r Orange - FRENDO"
+  ],
+  "description": "Achetez Lanterne Anti-moustique Moskit'r Orange - FRENDO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "808524",
+  "price": {
+    "amount": 24.9,
+    "currency": "EUR",
+    "formatted": "24.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0026407",
+      "sku": "NT-0026407",
+      "supplierRef": "808524",
+      "price": {
+        "amount": 24.9,
+        "currency": "EUR",
+        "formatted": "24.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/f/r/fr59_1-lanterne-anti-moustique-moskit-r-orange-frendo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/r/fr59_1-lanterne-anti-moustique-moskit-r-orange-frendo_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:35.247Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/r/fr59_1-lanterne-anti-moustique-moskit-r-orange-frendo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0026407/01-fr59_1-lanterne-anti-moustique-moskit-r-orange-frendo.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/r/fr59_1-lanterne-anti-moustique-moskit-r-orange-frendo_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0026407/02-fr59_1-lanterne-anti-moustique-moskit-r-orange-frendo_1.jpg",
+      "skipped": false
+    }
+  ]
+}

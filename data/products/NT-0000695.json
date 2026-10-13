@@ -1,0 +1,77 @@
+{
+  "sku": "NT-0000695",
+  "url": "https://www.cabesto.com/fr/kit-de-marquage-bout-de-corde.html",
+  "title": "Kit de marquage bout de corde",
+  "brand": "PETZL",
+  "category": "coupe-marquage-des-cordes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "cordes-sangles",
+    "accessoires-cordes",
+    "coupe-marquage-des-cordes"
+  ],
+  "categories": [
+    "montagne",
+    "cordes-sangles",
+    "accessoires-cordes",
+    "coupe-marquage-des-cordes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Kit de marquage bout de corde"
+  ],
+  "description": "Achetez Kit de marquage bout de corde chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "R002AA00",
+  "price": {
+    "amount": 17.95,
+    "currency": "EUR",
+    "formatted": "17.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0000695",
+      "sku": "NT-0000695",
+      "supplierRef": "R002AA00",
+      "price": {
+        "amount": 17.95,
+        "currency": "EUR",
+        "formatted": "17.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/0/r002aa00-kit-marquage-bout-de-corde_lowres_ppuio8gqurvm4oq0.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/rope_end_idendification_kit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/0/r002aa00-kit-marquage-bout-de-corde-focus-1_lowres_ccafqnqnuf4acqcg.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:40:14.499Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/0/r002aa00-kit-marquage-bout-de-corde_lowres_ppuio8gqurvm4oq0.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000695/01-r002aa00-kit-marquage-bout-de-corde_lowres_ppuio8gqurvm4oq0.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/rope_end_idendification_kit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000695/02-rope_end_idendification_kit.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/0/r002aa00-kit-marquage-bout-de-corde-focus-1_lowres_ccafqnqnuf4acqcg.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000695/03-r002aa00-kit-marquage-bout-de-corde-focus-1_lowres_ccafqnqnuf4acqcg.jpeg",
+      "skipped": false
+    }
+  ]
+}

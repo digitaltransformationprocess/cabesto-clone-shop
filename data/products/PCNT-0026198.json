@@ -1,0 +1,73 @@
+{
+  "sku": "PCNT-0026198",
+  "url": "https://www.cabesto.com/fr/chaussures-basses-femme-ws-mtn-trainer-lite.html",
+  "title": "Chaussures Basses Femme WS MTN TRAINER LITE - SALEWA",
+  "brand": "SALEWA",
+  "category": "Chaussures basses femme",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Chaussures",
+    "Chaussures basses outdoor",
+    "Destockage Montagne",
+    "Chaussures basses femme",
+    "Ventes privées Montagne"
+  ],
+  "categories": [
+    "Chaussures",
+    "Chaussures basses outdoor",
+    "Destockage Montagne",
+    "Chaussures basses femme",
+    "Ventes privées Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussures Basses Femme WS MTN TRAINER LITE - SALEWA"
+  ],
+  "description": "Achetez Chaussures Basses Femme WS MTN TRAINER LITE - SALEWA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0026198",
+      "sku": "PCNT-0026198",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/l/sl82_1_gq-chaussures-basses-femme-ws-mtn-trainer-lite-salewa_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl82_1_gq-chaussures-basses-femme-ws-mtn-trainer-lite-salewa_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:33:53.352Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl82_1_gq-chaussures-basses-femme-ws-mtn-trainer-lite-salewa_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026198/01-sl82_1_gq-chaussures-basses-femme-ws-mtn-trainer-lite-salewa_8.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl82_1_gq-chaussures-basses-femme-ws-mtn-trainer-lite-salewa_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026198/02-sl82_1_gq-chaussures-basses-femme-ws-mtn-trainer-lite-salewa_9.jpg",
+      "skipped": false
+    }
+  ]
+}

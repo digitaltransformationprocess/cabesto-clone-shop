@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0009567",
+  "url": "https://www.cabesto.com/fr/randonnee-kit-crochlamp-s-petzl-nt-0009567.html",
+  "title": "Kit Crochlamp S - PETZL",
+  "brand": "PETZL",
+  "category": "Accessoires lampes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Eclairage",
+    "Accessoires lampes"
+  ],
+  "categories": [
+    "Eclairage",
+    "Accessoires lampes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montagne",
+    "Montagne",
+    "Randonnée",
+    "Randonnée",
+    "Eclairage",
+    "Eclairage",
+    "Kit Crochlamp S - PETZL"
+  ],
+  "description": "Achetez Kit Crochlamp S - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "E04350",
+  "price": {
+    "amount": 4.95,
+    "currency": "EUR",
+    "formatted": "4.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0009567",
+      "sku": "NT-0009567",
+      "supplierRef": "E04350",
+      "price": {
+        "amount": 4.95,
+        "currency": "EUR",
+        "formatted": "4.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/3/8/3887_1-kit-crochlamp-s-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/8/3887_1-kit-crochlamp-s-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:10:52.111Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/8/3887_1-kit-crochlamp-s-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0009567/01-3887_1-kit-crochlamp-s-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/8/3887_1-kit-crochlamp-s-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0009567/02-3887_1-kit-crochlamp-s-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

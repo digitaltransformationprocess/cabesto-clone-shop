@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0002443",
+  "url": "https://www.cabesto.com/fr/piscine-ph-minus-granules-6kg-bayrol-pi-221.html",
+  "title": "PH MINUS GRANULES 6KG BAYROL",
+  "brand": "BAYROL",
+  "category": "pH moins",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Régulation du pH",
+    "pH moins"
+  ],
+  "categories": [
+    "Régulation du pH",
+    "pH moins"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PH MINUS GRANULES 6KG BAYROL"
+  ],
+  "description": "Achetez PH MINUS GRANULES 6KG BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1194122",
+  "price": {
+    "amount": 24,
+    "currency": "EUR",
+    "formatted": "24 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002443",
+      "sku": "PI-0002443",
+      "supplierRef": "1194122",
+      "price": {
+        "amount": 24,
+        "currency": "EUR",
+        "formatted": "24 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/h/ph-minus-bayrol-bayrol-plusieurs-modeles-disponibles-p-24245-18542497_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:31:14.210Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/h/ph-minus-bayrol-bayrol-plusieurs-modeles-disponibles-p-24245-18542497_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002443/01-ph-minus-bayrol-bayrol-plusieurs-modeles-disponibles-p-24245-18542497_1.jpg",
+      "skipped": false
+    }
+  ]
+}

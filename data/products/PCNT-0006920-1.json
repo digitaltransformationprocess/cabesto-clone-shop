@@ -1,0 +1,109 @@
+{
+  "sku": "PCNT-0006920-1",
+  "url": "https://www.cabesto.com/fr/verticalite-cuissard-speleo-superavanti-petzl-pze3.html",
+  "title": "Cuissard Spéléo SuperAvanti PETZL",
+  "brand": "PETZL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Spéléologie",
+    "Harnais et accessoires",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Harnais et accessoires",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cuissard Spéléo SuperAvanti PETZL"
+  ],
+  "description": "Achetez Cuissard Spéléo SuperAvanti PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 84.95,
+    "currency": "EUR",
+    "formatted": "84.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0006920-1",
+      "sku": "PCNT-0006920-1",
+      "supplierRef": null,
+      "price": {
+        "amount": 84.95,
+        "currency": "EUR",
+        "formatted": "84.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pze3_1_aw-cuissard-speleo-superavanti-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pze3_5_aw-cuissard-speleo-superavanti-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pze3_4_aw-cuissard-speleo-superavanti-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pze3_3_aw-cuissard-speleo-superavanti-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pze3_2_aw-cuissard-speleo-superavanti-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pze3_1_aw-cuissard-speleo-superavanti-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pze3_1_aw-cuissard-speleo-superavanti-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pze3_1_aw-cuissard-speleo-superavanti-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:35:06.386Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pze3_1_aw-cuissard-speleo-superavanti-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006920-1/01-pze3_1_aw-cuissard-speleo-superavanti-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pze3_5_aw-cuissard-speleo-superavanti-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006920-1/02-pze3_5_aw-cuissard-speleo-superavanti-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pze3_4_aw-cuissard-speleo-superavanti-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006920-1/03-pze3_4_aw-cuissard-speleo-superavanti-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pze3_3_aw-cuissard-speleo-superavanti-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006920-1/04-pze3_3_aw-cuissard-speleo-superavanti-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pze3_2_aw-cuissard-speleo-superavanti-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006920-1/05-pze3_2_aw-cuissard-speleo-superavanti-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pze3_1_aw-cuissard-speleo-superavanti-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006920-1/06-pze3_1_aw-cuissard-speleo-superavanti-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pze3_1_aw-cuissard-speleo-superavanti-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006920-1/07-pze3_1_aw-cuissard-speleo-superavanti-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pze3_1_aw-cuissard-speleo-superavanti-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006920-1/08-pze3_1_aw-cuissard-speleo-superavanti-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

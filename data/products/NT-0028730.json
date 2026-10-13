@@ -1,0 +1,77 @@
+{
+  "sku": "NT-0028730",
+  "url": "https://www.cabesto.com/fr/sac-a-dos-elementerre-matawin-rouge.html",
+  "title": "SAC À DOS ELEMENTERRE MATAWIN BLEU",
+  "brand": "ELEMENTERRE",
+  "category": "sacs-a-dos-plus-de-50-litres",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "sacs-a-dos-rangement",
+    "sacs-a-dos-plus-de-50-litres"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "sacs-a-dos-rangement",
+    "sacs-a-dos-plus-de-50-litres"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SAC À DOS ELEMENTERRE MATAWIN BLEU"
+  ],
+  "description": "Achetez SAC À DOS ELEMENTERRE MATAWIN BLEU chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "MATAWIN BLEU",
+  "price": {
+    "amount": 18.9,
+    "currency": "EUR",
+    "formatted": "18.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028730",
+      "sku": "NT-0028730",
+      "supplierRef": "MATAWIN BLEU",
+      "price": {
+        "amount": 18.9,
+        "currency": "EUR",
+        "formatted": "18.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/a/matawin12-sac-a-dos-12-l.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/matawin12-sac-a-dos-12-l_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/matawin12-sac-a-dos-12-l_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:45:52.672Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/matawin12-sac-a-dos-12-l.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028730/01-matawin12-sac-a-dos-12-l.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/matawin12-sac-a-dos-12-l_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028730/02-matawin12-sac-a-dos-12-l_2_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/matawin12-sac-a-dos-12-l_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028730/03-matawin12-sac-a-dos-12-l_1_.jpg",
+      "skipped": false
+    }
+  ]
+}

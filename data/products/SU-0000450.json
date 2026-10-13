@@ -1,0 +1,79 @@
+{
+  "sku": "SU-0000450",
+  "url": "https://www.cabesto.com/fr/plongee-amortisseur-emerillon-pl-12426.html",
+  "title": "Amortisseur de drisse bungee + emerillon pour arbalère chasse sous-marine DESSAULT",
+  "brand": "DESSAULT",
+  "category": "accessoires-arbaletes-chasse-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Plongée",
+    "Plongée",
+    "Chasse sous-marine",
+    "Chasse sous-marine",
+    "Arbalètes et fusils harpons",
+    "Arbalètes et fusils harpons",
+    "Accessoires arbalètes chasse sous-marine",
+    "Accessoires arbalètes chasse sous-marine",
+    "Amortisseur de drisse bungee + emerillon pour arbalère chasse sous-marine DESSAULT"
+  ],
+  "description": "Amortisseur Émerillon Dessault : Souplesse et Fiabilité pour la Chasse Sous-MarineAméliorez vos performances avec cet amortisseur robuste et pratique.L'amortisseur émerillon Dessault est un accessoire essentiel pour les chasseurs sous-marins à la recherche de précision et de fiabilité. Conçu pour absorber les chocs lors des tirs, cet amortisseur garantit une tension optimale de la ligne, réduisant ainsi les risques de rupture et offrant une fin de tir plus souple. Équipé d'un émerillon intégré, il permet un démontage rapide et facile, idéal pour les ajustements en cours de session. Fabriqué avec des matériaux de haute qualité, cet amortisseur est résistant à l'usure et aux conditions marines exigeantes. Compact et léger, il s'adapte parfaitement à une utilisation avec des arbalètes de chasse sous-marine. Que vous soyez un amateur ou un professionnel, cet accessoire polyvalent est un choix incontournable pour optimiser vos équipements et améliorer vos performances sous l'eau.Caractéristiques Amortisseur Émerillon DessaultAbsorption des chocs pour une fin de tir plus soupleÉmerillon intégré pour un démontage rapideMatériaux résistants aux conditions marinesConception compacte et légère pour une manipulation facileIdéal pour les arbalètes de chasse sous-marineInformations techniques :MatériauHaute qualité résistant à l'usureÉmerillonIntégréUtilisationChasse sous-marinePoidsLégerCompatibilitéArbalètesContenu du colis1 amortisseur émerillon Dessault, livré avec un manuel d'utilisation.",
+  "supplierRef": "DSAMEM",
+  "price": {
+    "amount": 7.99,
+    "currency": "EUR",
+    "formatted": "7.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0000450",
+      "sku": "SU-0000450",
+      "supplierRef": "DSAMEM",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/n/snap_3_1_rbrspb4zewufxbp1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-12426-pl-12426-picture_1-pl-12426-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:57.930Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/n/snap_3_1_rbrspb4zewufxbp1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000450/01-snap_3_1_rbrspb4zewufxbp1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-12426-pl-12426-picture_1-pl-12426-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000450/02-pl-12426-pl-12426-picture_1-pl-12426-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "chasse-sous-marine",
+    "arbaletes-et-fusils-harpons",
+    "accessoires-arbaletes-chasse-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "chasse-sous-marine",
+    "arbaletes-et-fusils-harpons",
+    "accessoires-arbaletes-chasse-sous-marine"
+  ]
+}

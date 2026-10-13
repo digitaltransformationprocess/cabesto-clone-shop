@@ -1,0 +1,85 @@
+{
+  "sku": "PI-0000384",
+  "url": "https://www.cabesto.com/fr/piscine-bois-weva-530-pin-bf-ht-133-procopi-pi-0000384.html",
+  "title": "PISCINE BOIS WEVA 530 5M28XH1M33 - Piscine octogonale avec filtre à sable",
+  "brand": "BWT",
+  "category": "Piscine octogonale",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine bois",
+    "Piscine octogonale"
+  ],
+  "categories": [
+    "Piscine bois",
+    "Piscine octogonale"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piscine hors-sol",
+    "Piscine hors-sol",
+    "Piscine bois",
+    "Piscine bois",
+    "Piscine",
+    "Piscine",
+    "PISCINE BOIS WEVA 530 5M28XH1M33 - Piscine octogonale avec filtre à sable"
+  ],
+  "description": "Achetez PISCINE BOIS WEVA 530 5M28XH1M33 - Piscine octogonale avec filtre à sable chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "27122210",
+  "price": {
+    "amount": 5670,
+    "currency": "EUR",
+    "formatted": "5670 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000384",
+      "sku": "PI-0000384",
+      "supplierRef": "27122210",
+      "price": {
+        "amount": 5670,
+        "currency": "EUR",
+        "formatted": "5670 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/w/e/weva_octo_530.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/weva_octo_530_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/w/e/weva_octo_530_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pefc_foret.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:50:51.150Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/weva_octo_530.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000384/01-weva_octo_530.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/weva_octo_530_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000384/02-weva_octo_530_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/e/weva_octo_530_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000384/03-weva_octo_530_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pefc_foret.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000384/04-pefc_foret.jpg",
+      "skipped": false
+    }
+  ]
+}

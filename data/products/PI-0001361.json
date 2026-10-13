@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0001361",
+  "url": "https://www.cabesto.com/fr/solution-ph4-pour-piscine-astral.html",
+  "title": "SOLUTION PH4 POUR PISCINE - ASTRAL",
+  "brand": "ASTRAL",
+  "category": "Régulateur et pompe doseuse pH",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "annexe-moteur",
+    "huiles-filtres-pompes"
+  ],
+  "categories": [
+    "nautisme",
+    "annexe-moteur",
+    "huiles-filtres-pompes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SOLUTION PH4 POUR PISCINE - ASTRAL"
+  ],
+  "description": "Achetez SOLUTION PH4 POUR PISCINE - ASTRAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "00.042.901",
+  "price": {
+    "amount": 11,
+    "currency": "EUR",
+    "formatted": "11 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001361",
+      "sku": "PI-0001361",
+      "supplierRef": "00.042.901",
+      "price": {
+        "amount": 11,
+        "currency": "EUR",
+        "formatted": "11 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/img/p/11352-9716-thickbox.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:49:23.744Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/img/p/11352-9716-thickbox.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001361/01-11352-9716-thickbox.jpg",
+      "skipped": false
+    }
+  ]
+}

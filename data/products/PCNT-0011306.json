@@ -1,0 +1,65 @@
+{
+  "sku": "PCNT-0011306",
+  "url": "https://www.cabesto.com/fr/verticalite-long-john-neoprene-verdon-seland-gr61.html",
+  "title": "Long John Neoprène Verdon - SELAND",
+  "brand": "SELAND",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Combinaisons néoprène, top",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Combinaisons néoprène, top",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Long John Neoprène Verdon - SELAND"
+  ],
+  "description": "Achetez Long John Neoprène Verdon - SELAND chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0011306",
+      "sku": "PCNT-0011306",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/r/gr61_1_r-long-john-neoprene-verdon-seland_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:29:11.778Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr61_1_r-long-john-neoprene-verdon-seland_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0011306/01-gr61_1_r-long-john-neoprene-verdon-seland_2.jpg",
+      "skipped": false
+    }
+  ]
+}

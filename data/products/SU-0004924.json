@@ -1,0 +1,107 @@
+{
+  "sku": "SU-0004924",
+  "url": "https://www.cabesto.com/fr/plongee-hand-paddle-medium-pl-9072.html",
+  "title": "PLAQUETTE DE NATATION HAND PADDLE MEDIUM SEAC SUB",
+  "brand": "SEAC",
+  "category": "accessoires-longe-cote",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PLAQUETTE DE NATATION HAND PADDLE MEDIUM SEAC SUB"
+  ],
+  "description": "PLAQUETTE DE NATATION HAND PADDLE MEDIUM SEAC SUBNagez avec les plaquettes de nage HAND PADDLE SEAC SUB permettant d'accroître la résistance dans l'eau et ainsi travailler efficacement votre renforcement musculaire.Les palmes pour les mains Seac Hand paddle sont parfaites pour renforcer la partie supérieure du corps pendant la formation de natation. Disponibles en trois tailles, les palmes Seac Hand paddle sont fixées par de souples élastiques qui les tiennent fermement aux mains. De petits trous sur les palettes permettent le passage de l'eau pour une sensation plus naturelle.Accessoires pour les mains idéaux pour la formation des membres supérieurs dans la natation.Palettes perforées pour optimiser la sensation réelle de contact avec l'eau pendant les coups.Dimensions taille M 19x14.5 cmÉlastiques souples réglables et résistants.",
+  "supplierRef": "1520008164010A",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004924",
+      "sku": "SU-0004924",
+      "supplierRef": "1520008164010A",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-9072-pl-9072-picture_1-pl-9072-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_02_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_03_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_04_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_05_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_06_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_07_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:29.452Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-9072-pl-9072-picture_1-pl-9072-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004924/01-pl-9072-pl-9072-picture_1-pl-9072-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004924/02-hand_paddle_9946bc_00_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_02_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004924/03-hand_paddle_9946bc_02_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_03_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004924/04-hand_paddle_9946bc_03_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_04_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004924/05-hand_paddle_9946bc_04_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_05_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004924/06-hand_paddle_9946bc_05_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_06_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004924/07-hand_paddle_9946bc_06_800.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/a/hand_paddle_9946bc_07_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004924/08-hand_paddle_9946bc_07_800.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "longe-cote-marche-aquatique",
+    "equipement-pour-le-longe-cote",
+    "accessoires-longe-cote"
+  ],
+  "categories": [
+    "plongee",
+    "longe-cote-marche-aquatique",
+    "equipement-pour-le-longe-cote",
+    "accessoires-longe-cote"
+  ]
+}

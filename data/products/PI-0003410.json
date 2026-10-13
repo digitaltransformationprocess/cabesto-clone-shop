@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0003410",
+  "url": "https://www.cabesto.com/fr/piscine-te-egal-90-femelle-d63-16-bars-pi-758.html",
+  "title": "Té égal 90° femelle D63 - 16 bars",
+  "brand": "INTERPLAST",
+  "category": "Pièces PVC",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Té égal 90° femelle D63 - 16 bars"
+  ],
+  "description": "Achetez Té égal 90° femelle D63 - 16 bars chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "STI1063",
+  "price": {
+    "amount": 3.77,
+    "currency": "EUR",
+    "formatted": "3.77 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003410",
+      "sku": "PI-0003410",
+      "supplierRef": "STI1063",
+      "price": {
+        "amount": 3.77,
+        "currency": "EUR",
+        "formatted": "3.77 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/t/e/te-d-63-16-bars-16458.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:36:45.666Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/e/te-d-63-16-bars-16458.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003410/01-te-d-63-16-bars-16458.jpg",
+      "skipped": false
+    }
+  ]
+}

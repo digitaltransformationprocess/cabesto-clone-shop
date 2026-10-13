@@ -1,0 +1,61 @@
+{
+  "sku": "NT-0021043",
+  "url": "https://www.cabesto.com/fr/verticalite-swivel-s-petzl-nt-0021043.html",
+  "title": "Swivel S - PETZL",
+  "brand": "PETZL",
+  "category": "Emerillons",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Connecteurs",
+    "Emerillons"
+  ],
+  "categories": [
+    "Connecteurs",
+    "Emerillons"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Swivel S - PETZL"
+  ],
+  "description": "Achetez Swivel S - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "P58 S",
+  "price": {
+    "amount": 65.95,
+    "currency": "EUR",
+    "formatted": "65.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0021043",
+      "sku": "NT-0021043",
+      "supplierRef": "P58 S",
+      "price": {
+        "amount": 65.95,
+        "currency": "EUR",
+        "formatted": "65.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/6/4693.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:39:40.417Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/6/4693.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0021043/01-4693.jpg",
+      "skipped": false
+    }
+  ]
+}

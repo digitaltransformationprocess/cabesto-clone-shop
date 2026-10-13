@@ -43,6 +43,8 @@ function ErrorComponent({ error, reset }: ErrorComponentProps) {
     reportLovableError(error, { boundary: "tanstack_root_error_component" });
   }, [error]);
 
+  const detail = error instanceof Error ? error.message : typeof error === "string" ? error : "";
+
   return (
     <div className="flex min-h-screen items-center justify-center bg-background px-4">
       <div className="max-w-md text-center">
@@ -50,8 +52,14 @@ function ErrorComponent({ error, reset }: ErrorComponentProps) {
           This page didn't load
         </h1>
         <p className="mt-2 text-sm text-muted-foreground">
-          Something went wrong on our end. You can try refreshing or head back home.
+          Ouvre <strong>http://localhost:8080/</strong> (pas l&apos;IP 192.168…), puis vide le cache
+          (Ctrl+Shift+R) ou réinitialise les données du site.
         </p>
+        {detail ? (
+          <p className="mt-3 break-words rounded-md bg-muted px-3 py-2 text-left text-xs text-muted-foreground">
+            {detail}
+          </p>
+        ) : null}
         <div className="mt-6 flex flex-wrap justify-center gap-2">
           <button
             onClick={() => {
@@ -61,6 +69,21 @@ function ErrorComponent({ error, reset }: ErrorComponentProps) {
             className="inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
           >
             Try again
+          </button>
+          <button
+            type="button"
+            onClick={() => {
+              try {
+                localStorage.clear();
+                sessionStorage.clear();
+              } catch {
+                /* ignore */
+              }
+              window.location.href = "/";
+            }}
+            className="inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent"
+          >
+            Reset & reload
           </button>
           <a
             href="/"

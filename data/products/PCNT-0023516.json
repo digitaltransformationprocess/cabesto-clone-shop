@@ -1,0 +1,151 @@
+{
+  "sku": "PCNT-0023516",
+  "url": "https://www.cabesto.com/fr/chaussons-d-escalade-vapor-femme.html",
+  "title": "CHAUSSONS D'ESCALADE FEMME VAPOR V WOMAN SCARPA",
+  "brand": "SCARPA",
+  "category": "Chaussons d'escalade femme",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Escalade",
+    "Chaussons d'escalade",
+    "Destockage Montagne",
+    "Chaussons d'escalade femme",
+    "Ventes privées Montagne"
+  ],
+  "categories": [
+    "Escalade",
+    "Chaussons d'escalade",
+    "Destockage Montagne",
+    "Chaussons d'escalade femme",
+    "Ventes privées Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CHAUSSONS D'ESCALADE FEMME VAPOR V WOMAN SCARPA"
+  ],
+  "description": "Asymétrique, confortable et précis, les chaussons femme Vapor V woman SCARPA incarnent la polyvalence par excellence.",
+  "supplierRef": null,
+  "price": {
+    "amount": 115.9,
+    "currency": "EUR",
+    "formatted": "115.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0023516",
+      "sku": "PCNT-0023516",
+      "supplierRef": null,
+      "price": {
+        "amount": 115.9,
+        "currency": "EUR",
+        "formatted": "115.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/c/sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/3/633ed52ce39ee18161a4d00d.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/3/633ed52ee39ee1c661a4cff3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/3/633ed530e39ee1ac5ea4d0b5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/3/633ed531e39ee1c661a4cff5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/3/633ed533e39ee1d061a4cffb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/3/633ed535e39ee1d061a4cffd.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/3/633ed536e39ee1ca61a4d003.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-10_16_22_14-scarpa_vapor_v_rock_climbing_scarpa_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-10_17_31_54-scarpa_vapor_v_rock_climbing_scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_42_23-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/c/sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/c/sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/c/sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/c/sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:30:00.698Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/01-sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa_13.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/3/633ed52ce39ee18161a4d00d.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/02-633ed52ce39ee18161a4d00d.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/3/633ed52ee39ee1c661a4cff3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/03-633ed52ee39ee1c661a4cff3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/3/633ed530e39ee1ac5ea4d0b5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/04-633ed530e39ee1ac5ea4d0b5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/3/633ed531e39ee1c661a4cff5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/05-633ed531e39ee1c661a4cff5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/3/633ed533e39ee1d061a4cffb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/06-633ed533e39ee1d061a4cffb.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/3/633ed535e39ee1d061a4cffd.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/07-633ed535e39ee1d061a4cffd.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/3/633ed536e39ee1ca61a4d003.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/08-633ed536e39ee1ca61a4d003.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-10_16_22_14-scarpa_vapor_v_rock_climbing_scarpa_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/09-2022-10-10_16_22_14-scarpa_vapor_v_rock_climbing_scarpa_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-10_17_31_54-scarpa_vapor_v_rock_climbing_scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/10-2022-10-10_17_31_54-scarpa_vapor_v_rock_climbing_scarpa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_42_23-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/11-2022-10-07_12_42_23-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade_8.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/12-sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/13-sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/14-sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0023516/15-sc37_1_cg-chaussons-d-escalade-vapor-femme-scarpa_4.jpg",
+      "skipped": false
+    }
+  ]
+}

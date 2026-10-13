@@ -1,0 +1,135 @@
+{
+  "sku": "PCNT-0000289",
+  "url": "https://www.cabesto.com/fr/corde-joker-unicore-9-1-mm-50-m.html",
+  "title": "Corde d'escalade JOKER UNICORE Ø 9.1 mm DRY COVER 50 m BEAL",
+  "brand": "BEAL",
+  "category": "cordes-a-simple",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "cordes-sangles",
+    "cordes-a-simple"
+  ],
+  "categories": [
+    "montagne",
+    "cordes-sangles",
+    "cordes-a-simple"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Corde d'escalade JOKER UNICORE Ø 9.1 mm DRY COVER 50 m BEAL"
+  ],
+  "description": "Corde ultime répondant aux 3 normes des cordes dynamiques, à simple, à double et jumelée.",
+  "supplierRef": null,
+  "price": {
+    "amount": 147.9,
+    "currency": "EUR",
+    "formatted": "147.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0000289",
+      "sku": "PCNT-0000289",
+      "supplierRef": null,
+      "price": {
+        "amount": 147.9,
+        "currency": "EUR",
+        "formatted": "147.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_front.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.o_joker_9_1_orange_dry_cover_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.o_joker_9_1_orange_dry_cover_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.o_joker_9_1_orange_dry_cover_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.o_joker_9_1_orange_dry_cover_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.o_joker_9_1_orange_dry_cover_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.o_joker_9_1_orange_dry_cover_1_ld_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_1_ld_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:25:42.382Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_front.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/01-bc091j.b_joker_9_1_blue_dry_cover_front.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/02-bc091j.b_joker_9_1_blue_dry_cover_1_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/03-bc091j.b_joker_9_1_blue_dry_cover_2_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/04-bc091j.b_joker_9_1_blue_dry_cover_3_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/05-bc091j.b_joker_9_1_blue_dry_cover_4_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/06-bc091j.b_joker_9_1_blue_dry_cover_5_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.o_joker_9_1_orange_dry_cover_1_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/07-bc091j.o_joker_9_1_orange_dry_cover_1_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.o_joker_9_1_orange_dry_cover_2_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/08-bc091j.o_joker_9_1_orange_dry_cover_2_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.o_joker_9_1_orange_dry_cover_3_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/09-bc091j.o_joker_9_1_orange_dry_cover_3_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.o_joker_9_1_orange_dry_cover_4_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/10-bc091j.o_joker_9_1_orange_dry_cover_4_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.o_joker_9_1_orange_dry_cover_5_ld.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/11-bc091j.o_joker_9_1_orange_dry_cover_5_ld.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.o_joker_9_1_orange_dry_cover_1_ld_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/12-bc091j.o_joker_9_1_orange_dry_cover_1_ld_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/c/bc091j.b_joker_9_1_blue_dry_cover_1_ld_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0000289/13-bc091j.b_joker_9_1_blue_dry_cover_1_ld_1.jpg",
+      "skipped": false
+    }
+  ]
+}

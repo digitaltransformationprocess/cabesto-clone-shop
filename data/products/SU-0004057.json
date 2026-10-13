@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0004057",
+  "url": "https://www.cabesto.com/fr/plongee-moulinet-mini-reel-50-salvimar-pl-19018.html",
+  "title": "Moulinet de chasse sous-marine MINI REEL 50 SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Moulinet de chasse sous-marine MINI REEL 50 SALVIMAR"
+  ],
+  "description": "MOULINET MINI REEL 50 SALVIMARLe MINI REEL 50 SALVIMAR est un moulinet horizontal compact et résistant avec sa structure en Delrin ajouré. Il est équipé de série d'un support guide fil en métal et son montage est simple. Le MINI REEL 50 est compatible avec toute la gamme des arbalètes SALVIMAR. Sa capacité de stockage est de 50 mètres de fil en 1.0 mm (25 mètres en 1.5 mm). C'est le moulinet idéal pour les chasseurs sous-marins cherchant un petit moulinet, solide, peu encombrant avec une bonne capacité de fil.Moulinet horizontal pour arbalète.Capacité 50 mètres X 1.0 MM.Composants en acier et Delrin.Support guide ligne.Compatible avec toutes les arbalètes Salvimar.Composants pour montage en série.Design et concept technique développés chez Salvimar.Livré SANS FIL.",
+  "supplierRef": "301005/E",
+  "price": {
+    "amount": 31.99,
+    "currency": "EUR",
+    "formatted": "31.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004057",
+      "sku": "SU-0004057",
+      "supplierRef": "301005/E",
+      "price": {
+        "amount": 31.99,
+        "currency": "EUR",
+        "formatted": "31.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-19018-pl-19018-picture_1-pl-19018-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:23.767Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-19018-pl-19018-picture_1-pl-19018-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004057/01-pl-19018-pl-19018-picture_1-pl-19018-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

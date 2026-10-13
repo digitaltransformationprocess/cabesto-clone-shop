@@ -1,0 +1,65 @@
+{
+  "sku": "PCPL-4243",
+  "url": "https://www.cabesto.com/fr/plongee-rash-guard-t-sun-enfant-manches-longues-turquoise-seac-sub-pcpl-4243.html",
+  "title": "Rash Guard T-Sun enfant manches longues - TURQUOISE SEAC SUB",
+  "brand": "SEAC SUB",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Rash Guard T-Sun enfant manches longues - TURQUOISE SEAC SUB"
+  ],
+  "description": "Seac T Sun Rash Guard pour la natation, le surf, la plongée avec la protection contre les rayons du soleil à manches longues.Il offre une excellente protection solaire, une construction robuste et est construit pour durer.Votre deuxième peau à la plage par une chaude journée d'été.Caractéristiques:Conçu pour vous protéger des éléments, dans et hors de ;eau.Protection contre les rayons UV:UPF 40+.Coupe ajustée: 85% polyester 15% spandex.Manches longues pour plus de couverture sous les rayons du soleil.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-4243",
+      "sku": "PCPL-4243",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/e/seac-t-sun_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:57.454Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seac-t-sun_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4243/01-seac-t-sun_3_.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

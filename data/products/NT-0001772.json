@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0001772",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-civet-de-boeuf-forestier-trek-n-eat-nt-0001772.html",
+  "title": "Civet de boeuf forestier - TREK'N EAT",
+  "brand": "TREK'N EAT",
+  "category": "Aliments lyophilisés et déshydratés",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Aliments lyophilisés et déshydratés"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Aliments lyophilisés et déshydratés"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Civet de boeuf forestier - TREK'N EAT"
+  ],
+  "description": "Achetez Civet de boeuf forestier - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "TE30202013",
+  "price": {
+    "amount": 11.95,
+    "currency": "EUR",
+    "formatted": "11.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0001772",
+      "sku": "NT-0001772",
+      "supplierRef": "TE30202013",
+      "price": {
+        "amount": 11.95,
+        "currency": "EUR",
+        "formatted": "11.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/3/0/3050_1-civet-de-boeuf-forestier-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3050_4-civet-de-boeuf-forestier-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3050_3-civet-de-boeuf-forestier-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3050_2-civet-de-boeuf-forestier-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3050_1-civet-de-boeuf-forestier-trek_n-eat_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:22:50.576Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3050_1-civet-de-boeuf-forestier-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001772/01-3050_1-civet-de-boeuf-forestier-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3050_4-civet-de-boeuf-forestier-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001772/02-3050_4-civet-de-boeuf-forestier-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3050_3-civet-de-boeuf-forestier-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001772/03-3050_3-civet-de-boeuf-forestier-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3050_2-civet-de-boeuf-forestier-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001772/04-3050_2-civet-de-boeuf-forestier-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3050_1-civet-de-boeuf-forestier-trek_n-eat_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001772/05-3050_1-civet-de-boeuf-forestier-trek_n-eat_1.jpg",
+      "skipped": false
+    }
+  ]
+}

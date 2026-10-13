@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0002798",
+  "url": "https://www.cabesto.com/fr/piscine-raccord-union-femelle-3-pieces-a-coller-d50-16-bars-pi-771.html",
+  "title": "Raccord union femelle 3 pièces à coller D50 - 16 bars",
+  "brand": "INTERPLAST",
+  "category": "Pièces PVC",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Raccord union femelle 3 pièces à coller D50 - 16 bars"
+  ],
+  "description": "Achetez Raccord union femelle 3 pièces à coller D50 - 16 bars chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SBO1050",
+  "price": {
+    "amount": 5.5,
+    "currency": "EUR",
+    "formatted": "5.5 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002798",
+      "sku": "PI-0002798",
+      "supplierRef": "SBO1050",
+      "price": {
+        "amount": 5.5,
+        "currency": "EUR",
+        "formatted": "5.5 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/a/raccord-union-femelle-3-pieces-a-coller-50-16-bars-16660.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:37:00.033Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/a/raccord-union-femelle-3-pieces-a-coller-50-16-bars-16660.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002798/01-raccord-union-femelle-3-pieces-a-coller-50-16-bars-16660.jpg",
+      "skipped": false
+    }
+  ]
+}

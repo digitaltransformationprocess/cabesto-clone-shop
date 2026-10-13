@@ -1,0 +1,85 @@
+{
+  "sku": "PI-0007195",
+  "url": "https://www.cabesto.com/fr/robot-piscine-dolphin-wave-50-brosses-combinees-dolphin.html",
+  "title": "ROBOT PISCINE DOLPHIN WAVE 80 BROSSES COMBINEES - ROBOT PISCINE COLLECTIVE",
+  "brand": "DOLPHIN",
+  "category": "Robot piscine parcs aquatiques et grands bassins",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROBOT PISCINE DOLPHIN WAVE 80 BROSSES COMBINEES - ROBOT PISCINE COLLECTIVE"
+  ],
+  "description": "Achetez ROBOT PISCINE DOLPHIN WAVE 80 BROSSES COMBINEES - ROBOT PISCINE COLLECTIVE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "99991080-EU",
+  "price": {
+    "amount": 2545,
+    "currency": "EUR",
+    "formatted": "2545 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0007195",
+      "sku": "PI-0007195",
+      "supplierRef": "99991080-EU",
+      "price": {
+        "amount": 2545,
+        "currency": "EUR",
+        "formatted": "2545 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-dolphin-wave-80-brosses-combinees-bassin-jusqu-a-18-m-48841.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/o/dolphin-wave-80-02.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/o/dolphin-wave-80-04.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/o/dolphin-wave-80-03.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/o/dolphin-wave-80-01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:49:36.359Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-dolphin-wave-80-brosses-combinees-bassin-jusqu-a-18-m-48841.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007195/01-robot-dolphin-wave-80-brosses-combinees-bassin-jusqu-a-18-m-48841.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/o/dolphin-wave-80-02.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007195/02-dolphin-wave-80-02.jpeg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/o/dolphin-wave-80-04.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007195/03-dolphin-wave-80-04.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/o/dolphin-wave-80-03.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007195/04-dolphin-wave-80-03.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/o/dolphin-wave-80-01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007195/05-dolphin-wave-80-01.jpg",
+      "skipped": false
+    }
+  ]
+}

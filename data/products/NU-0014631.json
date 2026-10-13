@@ -1,0 +1,77 @@
+{
+  "sku": "NU-0014631",
+  "url": "https://www.cabesto.com/fr/interrupteur-automat-heavyduty-pompe-de-cale12-24v.html",
+  "title": "Interrupteur automatique Heavy Duty pour pompes de cale 12/24V",
+  "brand": "OSCULATI",
+  "category": "Accessoires pour pompe",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Nautisme",
+    "Sécurité - Navigation",
+    "Assèchement",
+    "Accessoires pour pompe"
+  ],
+  "categories": [
+    "Nautisme",
+    "Sécurité - Navigation",
+    "Assèchement",
+    "Accessoires pour pompe"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Interrupteur automatique Heavy Duty pour pompes de cale 12/24V"
+  ],
+  "description": "Achetez Interrupteur automatique Heavy Duty pour pompes de cale 12/24V chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "16.603.50",
+  "price": {
+    "amount": 20.99,
+    "currency": "EUR",
+    "formatted": "20.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0014631",
+      "sku": "NU-0014631",
+      "supplierRef": "16.603.50",
+      "price": {
+        "amount": 20.99,
+        "currency": "EUR",
+        "formatted": "20.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/n/en_16.602.00_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/en_16.602.00_dis.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/en_16.603.50_new2017.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:07:37.937Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/en_16.602.00_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0014631/01-en_16.602.00_1_.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/en_16.602.00_dis.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0014631/02-en_16.602.00_dis.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/en_16.603.50_new2017.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0014631/03-en_16.603.50_new2017.jpg",
+      "skipped": true
+    }
+  ]
+}

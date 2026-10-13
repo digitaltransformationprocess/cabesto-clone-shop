@@ -1,0 +1,67 @@
+{
+  "sku": "GL-0010727",
+  "url": "https://www.cabesto.com/fr/glisse-pompe-sup-haute-pression.html",
+  "title": "POMPE PADDLE HAUTE PRESSION ABSTRACT",
+  "brand": "ABSTRACT",
+  "category": "Sélection Glisse",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Gonfleur",
+    "Black November - Glisse",
+    "Gonfleurs",
+    "Idées cadeaux Glisse",
+    "Sélection Glisse"
+  ],
+  "categories": [
+    "Gonfleur",
+    "Black November - Glisse",
+    "Gonfleurs",
+    "Idées cadeaux Glisse",
+    "Sélection Glisse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "POMPE PADDLE HAUTE PRESSION ABSTRACT"
+  ],
+  "description": "Achetez POMPE PADDLE HAUTE PRESSION ABSTRACT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "OZ PU 8014 BL",
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR",
+    "formatted": "29.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "GL-0010727",
+      "sku": "GL-0010727",
+      "supplierRef": "OZ PU 8014 BL",
+      "price": {
+        "amount": 29.99,
+        "currency": "EUR",
+        "formatted": "29.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/j/a/jaws_e_23_12_2020_16_56_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:28:22.467Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/j/a/jaws_e_23_12_2020_16_56_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0010727/01-jaws_e_23_12_2020_16_56_13.jpg",
+      "skipped": false
+    }
+  ]
+}

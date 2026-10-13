@@ -1,0 +1,71 @@
+{
+  "sku": "AL-0003735",
+  "url": "https://www.cabesto.com/fr/beurre-blanc-riche-en-beurre-echalotes-200ml.html",
+  "title": "SAUCE BEURRE BLANC 150G",
+  "brand": "BERNARD MAROT",
+  "category": "Sauces et condiments",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "aides-culinaires",
+    "sauces-et-condiments"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "aides-culinaires",
+    "sauces-et-condiments"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SAUCE BEURRE BLANC 150G"
+  ],
+  "description": "Achetez SAUCE BEURRE BLANC 150G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1691",
+  "price": {
+    "amount": 2.49,
+    "currency": "EUR",
+    "formatted": "2.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003735",
+      "sku": "AL-0003735",
+      "supplierRef": "1691",
+      "price": {
+        "amount": 2.49,
+        "currency": "EUR",
+        "formatted": "2.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6041956-6041956-picture_1-sauce%20beurre%20blanc%20(2).jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/0/6041956-6041956-picture_1-sauce?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:53:15.107Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6041956-6041956-picture_1-sauce%20beurre%20blanc%20(2).jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003735/01-6041956-6041956-picture_1-sauce_20beurre_20blanc_20_2_.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6041956-6041956-picture_1-sauce?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003735/02-6041956-6041956-picture_1-sauce.jpg",
+      "skipped": false
+    }
+  ]
+}

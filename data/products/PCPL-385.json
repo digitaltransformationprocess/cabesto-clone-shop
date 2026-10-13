@@ -1,0 +1,95 @@
+{
+  "sku": "PCPL-385",
+  "url": "https://www.cabesto.com/fr/plongee-filet-bouteille-12-litres-court-pcpl-385.html",
+  "title": "FILET BOUTEILLE 12 LITRES COURT SEAC SUB",
+  "brand": "SEAC SUB",
+  "category": "accessoires-pour-bouteille-de-plongee-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FILET BOUTEILLE 12 LITRES COURT SEAC SUB"
+  ],
+  "description": "détaillée 13,99 € Choisissez votre couleur : Choisissez une option... Quantité Ajouter au panier Vérifier la disponibilité dans votre magasin Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation. AVIS CLIENTS 5 / 5 Basé sur 2 avis soumis à un contrôle Voir tous les avis sur ce site 5 étoiles 2 4 étoiles 0 3 étoiles 0 2 étoiles 0 1 étoile 0 Trier les avis Les plus récents Les plus anciens Notes les plus élevées Notes les plus basses Les plus utiles 5/5 Avis vérifié Conforme à la description parfait pour ma bouteille Roth 12l Avis du 21/04/2026 , suite à une expérience du 31/03/2026 par Jordan P. Utile (0) Signaler Réponse de cabesto.com Bonjour, Merci beaucoup pour votre retour positif ! Nous sommes ravis d'apprendre que votre produit est conforme à vos attentes et qu'il convient parfaitement à votre bouteille Roth de 12l. Votre satisfaction est notre priorité. Cordialement. L’équipe cabesto 5/5 Avis vérifié Simple et efficace Avis du 19/01/2023 , suite à une expérience du 09/01/2023 par A.A. Utile (0) Signaler Réponse de cabesto.com L’équipe Cabesto vous remercie pour votre commentaire. Nous continuerons à travailler pour vous apporter la meilleure satisfaction clientèle possible",
+  "supplierRef": null,
+  "price": {
+    "amount": 13.99,
+    "currency": "EUR",
+    "formatted": "13.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-385",
+      "sku": "PCPL-385",
+      "supplierRef": null,
+      "price": {
+        "amount": 13.99,
+        "currency": "EUR",
+        "formatted": "13.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/f/i/filet-bouteille-de-plongee-12-litres-court_f3wuzv4iav3novgx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/filet-bouteille-de-plongee-12-litres-court_g0kuez4ejokb14xs.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seac-tank-net-black_1_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/filet-bouteille-de-plongee-12-litres-court_gnyp3kbnhf9jk6xu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/filet-bouteille-de-plongee-12-litres-court_92u4ly96jasynhbc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seac-tank-net-black_1_3_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:46.013Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/filet-bouteille-de-plongee-12-litres-court_f3wuzv4iav3novgx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-385/01-filet-bouteille-de-plongee-12-litres-court_f3wuzv4iav3novgx.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/filet-bouteille-de-plongee-12-litres-court_g0kuez4ejokb14xs.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-385/02-filet-bouteille-de-plongee-12-litres-court_g0kuez4ejokb14xs.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seac-tank-net-black_1_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-385/03-seac-tank-net-black_1_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/filet-bouteille-de-plongee-12-litres-court_gnyp3kbnhf9jk6xu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-385/04-filet-bouteille-de-plongee-12-litres-court_gnyp3kbnhf9jk6xu.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/filet-bouteille-de-plongee-12-litres-court_92u4ly96jasynhbc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-385/05-filet-bouteille-de-plongee-12-litres-court_92u4ly96jasynhbc.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seac-tank-net-black_1_3_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-385/06-seac-tank-net-black_1_3_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "bouteilles-et-blocs",
+    "accessoires-pour-bouteille-de-plongee-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "bouteilles-et-blocs",
+    "accessoires-pour-bouteille-de-plongee-sous-marine"
+  ]
+}

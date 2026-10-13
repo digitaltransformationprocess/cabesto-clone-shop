@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0028048",
+  "url": "https://www.cabesto.com/fr/verticalite-mousqueton-atom-lock-gun-metal-camp-nt-0028048.html",
+  "title": "Mousqueton ATOM LOCK gun metal - CAMP",
+  "brand": "CAMP",
+  "category": "Mousquetons à vis",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Matériel métallique",
+    "Mousquetons à vis"
+  ],
+  "categories": [
+    "Matériel métallique",
+    "Mousquetons à vis"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Mousqueton ATOM LOCK gun metal - CAMP"
+  ],
+  "description": "Achetez Mousqueton ATOM LOCK gun metal - CAMP chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "2921.03",
+  "price": {
+    "amount": 11.5,
+    "currency": "EUR",
+    "formatted": "11.5 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028048",
+      "sku": "NT-0028048",
+      "supplierRef": "2921.03",
+      "price": {
+        "amount": 11.5,
+        "currency": "EUR",
+        "formatted": "11.5 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/p/cp75_1-mousqueton-atom-lock-gun-metal-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/p/cp75_2-mousqueton-atom-lock-gun-metal-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/p/cp75_1-mousqueton-atom-lock-gun-metal-camp_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:11.386Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp75_1-mousqueton-atom-lock-gun-metal-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028048/01-cp75_1-mousqueton-atom-lock-gun-metal-camp.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp75_2-mousqueton-atom-lock-gun-metal-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028048/02-cp75_2-mousqueton-atom-lock-gun-metal-camp.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp75_1-mousqueton-atom-lock-gun-metal-camp_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028048/03-cp75_1-mousqueton-atom-lock-gun-metal-camp_1.jpg",
+      "skipped": false
+    }
+  ]
+}

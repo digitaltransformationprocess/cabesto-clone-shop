@@ -1,0 +1,65 @@
+{
+  "sku": "NU-0004620",
+  "url": "https://www.cabesto.com/fr/nautisme-fusee-parachute-rouge-nu-0004620.html",
+  "title": "Fusée Parachute rouge - 4WATER",
+  "brand": "DIVERS",
+  "category": "Repérage visuel",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Nautisme",
+    "Sécurité - Navigation",
+    "Signalisation visuelle et sonore",
+    "Repérage visuel"
+  ],
+  "categories": [
+    "Nautisme",
+    "Sécurité - Navigation",
+    "Signalisation visuelle et sonore",
+    "Repérage visuel"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Fusée Parachute rouge - 4WATER"
+  ],
+  "description": "Fusée Parachute rouge Projetée à 300 m, brûle pendant 40 sec. à 30.000 candela. Dimensions : 25.5 x 4.7 cm (Long. x Ø) CARACTÉRISTIQUES Projette une étoile lumineuse rouge vif. Visibilité : 50 km par bonne visibilité. Utilisation : de jour comme",
+  "supplierRef": "61693",
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR",
+    "formatted": "39.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0004620",
+      "sku": "NU-0004620",
+      "supplierRef": "61693",
+      "price": {
+        "amount": 39.99,
+        "currency": "EUR",
+        "formatted": "39.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/f/u/fusee_parachute.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:42:58.389Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/u/fusee_parachute.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0004620/01-fusee_parachute.jpg",
+      "skipped": false
+    }
+  ]
+}

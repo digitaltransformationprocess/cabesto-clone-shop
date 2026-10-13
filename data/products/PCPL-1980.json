@@ -1,0 +1,153 @@
+{
+  "sku": "PCPL-1980",
+  "url": "https://www.cabesto.com/fr/plongee-masque-calibro-cressi-sub-pcpl-1980.html",
+  "title": "Masque de chasse sous-marine et d'apnée CALIBRO CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "ais",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Masque de chasse sous-marine et d'apnée CALIBRO CRESSI SUB"
+  ],
+  "description": "Masque de chasse sous-marine et d'apnée CALIBRO CRESSI SUBLe masque Calibro de Cressi, tout comme ses prédécesseurs, possède l’innovant système Cressi du double cadre intégré, permettant ainsi un champ de vision particulièrement étendu.La structure du masque Calibro lui confère un aspect compact et une hydrodynamique qui lui permet de se maintenir très près du visage tout en bénéficiant de verres plus amples.Grâce à la disposition des verres en oblique, le Calibro est le seul masque Cressi combinant un volume intérieur minimal et un champ de vision particulièrement étendu.Les boucles sont comme toujours directement reliées au cadre rigide à travers un joint en caoutchouc.Celui-ci permet de réguler la sangle et de placer l’embout sans aucunement modifier le positionnement du cadre sur le visage.La finition mate du masque Calibro Cressi permet d’unifier esthétiquement tous les éléments, favorisant ainsi une intégration optimale du plongeur dans l’environnement sous-marin en évitant les reflets extrêmement gênants pour les organismes marins.Conçu pour offrir au plongeur une véritable sensation de liberté, le Calibro est le masque idéal pour la plongée en apnée. Ce masque a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 1) suivant la norme NF EN 16805.",
+  "supplierRef": null,
+  "price": {
+    "amount": 44.99,
+    "currency": "EUR",
+    "formatted": "44.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1980",
+      "sku": "PCPL-1980",
+      "supplierRef": null,
+      "price": {
+        "amount": 44.99,
+        "currency": "EUR",
+        "formatted": "44.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_2_2___web_500x_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/5/1585_cressi-quantum-scuba-mask-masc_o87u_z_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/o/noah.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/r/cressi-calibro2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_3_2___web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_1_2___web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_1__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_2__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_3__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_4__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_5__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_6__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_68_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_34.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PL-14989-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_2_2___web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:10.409Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_2_2___web_500x_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/01-masks_calibro_black_2_2___web_500x_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/5/1585_cressi-quantum-scuba-mask-masc_o87u_z_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/02-1585_cressi-quantum-scuba-mask-masc_o87u_z_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/o/noah.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/03-noah.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/r/cressi-calibro2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/04-cressi-calibro2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_3_2___web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/05-masks_calibro_black_3_2___web_500x.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_1_2___web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/06-masks_calibro_black_1_2___web_500x.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_1__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/07-masks_calibro_black_1__web_500x.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_2__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/08-masks_calibro_black_2__web_500x.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_3__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/09-masks_calibro_black_3__web_500x.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_4__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/10-masks_calibro_black_4__web_500x.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_5__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/11-masks_calibro_black_5__web_500x.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_6__web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/12-masks_calibro_black_6__web_500x.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_68_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/13-hqdefault_68_9.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_34.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/14-hqdefault_56_34.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PL-14989-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/15-PL-14989-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/masks_calibro_black_2_2___web_500x.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1980/16-masks_calibro_black_2_2___web_500x.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ],
+  "categories": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ]
+}

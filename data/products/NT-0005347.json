@@ -1,0 +1,97 @@
+{
+  "sku": "NT-0005347",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-matelas-femme-prolite-plus-cayenne-regular-thermarest-nt-0005347.html",
+  "title": "Matelas Femme Prolite Plus Cayenne THERMAREST",
+  "brand": "THERMAREST",
+  "category": "Matelas autogonflants",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Matelas autogonflants"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Matelas autogonflants"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Matelas Femme Prolite Plus Cayenne THERMAREST"
+  ],
+  "description": "Adapté aux randonneuses, le matelas Prolite plus femme est plus court pour un gain de poids mais surtout plus chaud !",
+  "supplierRef": "13262",
+  "price": {
+    "amount": 96.9,
+    "currency": "EUR",
+    "formatted": "96.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005347",
+      "sku": "NT-0005347",
+      "supplierRef": "13262",
+      "price": {
+        "amount": 96.9,
+        "currency": "EUR",
+        "formatted": "96.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/a/la15_1-matelas-femme-prolite-plus-cayenne-regular-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/s/ms18_1-matelas-autogonflant-prolite-apex-heat-wave-r-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/s/ms19_1-matelas-autogonflant-prolite-plus-cayenne-r-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/a/ha18_1-kit-de-reparations-permanentes-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/a/la15_2-matelas-femme-prolite-plus-cayenne-regular-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/3/13260_thermarest_prolite_plus_cayenne_regular_ssack.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2023-05-03_11_14_23-prolite_plus_pour_femmes___matelas_autogonflant_l_ger___therm-a-rest_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:23:08.142Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/a/la15_1-matelas-femme-prolite-plus-cayenne-regular-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005347/01-la15_1-matelas-femme-prolite-plus-cayenne-regular-thermarest.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/s/ms18_1-matelas-autogonflant-prolite-apex-heat-wave-r-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005347/02-ms18_1-matelas-autogonflant-prolite-apex-heat-wave-r-thermarest.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/s/ms19_1-matelas-autogonflant-prolite-plus-cayenne-r-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005347/03-ms19_1-matelas-autogonflant-prolite-plus-cayenne-r-thermarest.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/a/ha18_1-kit-de-reparations-permanentes-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005347/04-ha18_1-kit-de-reparations-permanentes-thermarest.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/a/la15_2-matelas-femme-prolite-plus-cayenne-regular-thermarest.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005347/05-la15_2-matelas-femme-prolite-plus-cayenne-regular-thermarest.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/3/13260_thermarest_prolite_plus_cayenne_regular_ssack.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005347/06-13260_thermarest_prolite_plus_cayenne_regular_ssack.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2023-05-03_11_14_23-prolite_plus_pour_femmes___matelas_autogonflant_l_ger___therm-a-rest_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005347/07-2023-05-03_11_14_23-prolite_plus_pour_femmes___matelas_autogonflant_l_ger___therm-a-rest_.jpg",
+      "skipped": false
+    }
+  ]
+}

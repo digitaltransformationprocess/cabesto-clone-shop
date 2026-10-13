@@ -1,0 +1,101 @@
+{
+  "sku": "SU-0008775",
+  "url": "https://www.cabesto.com/fr/plongee-phare-d700-orca-torch-1700-lumens.html",
+  "title": "Lampe de plongée D700 1700 lumens ORCATORCH",
+  "brand": "ORCATORCH",
+  "category": "phares-de-plongee-rechargeables",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lampe de plongée D700 1700 lumens ORCATORCH"
+  ],
+  "description": "PHARE D700 1700 LUMENS ORCA TORCHLe phare D700 ORCA TORCH est à la fois puissant avec ses 1700 lumens, simple à utiliser avec son allumage par rotation (sans interrupteur) et résistant avec son étanchéité à - 150 mètres. Avec un niveau de luminosité maximal puissant de 1700 lumens, la lampe de plongée OrcaTorch D700 illumine vos aventures sous-marines qui nécessitent un faisceau lumineux avec une utilisation facile et une longue durée de fonctionnement. Si vous êtes le genre de plongeur qui préfère l'équipement de base et facile à utiliser, l'OrcaTorch D700 est le bon choix. Livré avec une batterie rechargeable OrcaTorch 21700 5000mAh avec port de chargement USB Type C. Il utilise un faisceau de lumière étroit et concentré, parfait pour vous guider dans les environnements les plus sombres, y compris les cavernes et les épaves...1 LED, Max 1700 lumens1 batterie Li-ion 21700Angle de faisceau de 6 °Le commutateur rotatif de tête mécanique offre une haute fiabilité sous l'eauProtection intelligente contre la surchauffeConstruction résistante à la pression de l'eau, profondeur évaluée à 150 mètresProtection contre l'inversion de polarité, pour protéger d'une mauvaise installation de la batterieAu cours de la fonction de protection de déchargeMatériau en aluminium haute résistance de qualité aéronautiqueLa dernière finition de résistance à la corrosion de l'eau de mer anodisée dure de qualité diamantVerre trempé enduit des deux côtés avec une résistance à la pression d'eau élevée sous l'eau profonde1 batterie 21700 5000 mAh chargement USB1700 lumens1h 50minsPortée du faisceau: 150 m (sur terre)Intensité : 27500cdRésistance aux chocs : 1,5 mEtanche - 150 mDimension : 142 mm (longueur) x 27 mm (tube) x 36 mm (tête)Poids net 135g (sans batterie）Cordon de chargement USB, dragonne, joints toriques",
+  "supplierRef": "D700",
+  "price": {
+    "amount": 99,
+    "currency": "EUR",
+    "formatted": "99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0008775",
+      "sku": "SU-0008775",
+      "supplierRef": "D700",
+      "price": {
+        "amount": 99,
+        "currency": "EUR",
+        "formatted": "99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-orca-led-1700_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-orca-led-17001_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-orca-led-17002_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-orca-led-1700_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-orca-led-17006_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-orca-led-17006.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_42_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:32:49.491Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-orca-led-1700_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008775/01-orcatorch-lampe-torche-orca-led-1700_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-orca-led-17001_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008775/02-orcatorch-lampe-torche-orca-led-17001_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-orca-led-17002_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008775/03-orcatorch-lampe-torche-orca-led-17002_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-orca-led-1700_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008775/04-orcatorch-lampe-torche-orca-led-1700_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-orca-led-17006_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008775/05-orcatorch-lampe-torche-orca-led-17006_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/r/orcatorch-lampe-torche-orca-led-17006.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008775/06-orcatorch-lampe-torche-orca-led-17006.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_42_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008775/07-hqdefault_42_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "eclairage-photo-video",
+    "phares-de-plongee-rechargeables"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "eclairage-photo-video",
+    "phares-de-plongee-rechargeables"
+  ]
+}

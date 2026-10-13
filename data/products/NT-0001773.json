@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0001773",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-couscous-vegetarien-trek-n-eat-nt-0001773.html",
+  "title": "Couscous végétarien - TREK'N EAT",
+  "brand": "TREK'N EAT",
+  "category": "Aliments lyophilisés et déshydratés",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Aliments lyophilisés et déshydratés"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Aliments lyophilisés et déshydratés"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couscous végétarien - TREK'N EAT"
+  ],
+  "description": "Achetez Couscous végétarien - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "TE30411002",
+  "price": {
+    "amount": 7.95,
+    "currency": "EUR",
+    "formatted": "7.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0001773",
+      "sku": "NT-0001773",
+      "supplierRef": "TE30411002",
+      "price": {
+        "amount": 7.95,
+        "currency": "EUR",
+        "formatted": "7.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/3/0/3051_1-couscous-vegetarien-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3051_4-couscous-vegetarien-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3051_3-couscous-vegetarien-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3051_2-couscous-vegetarien-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/3051_1-couscous-vegetarien-trek_n-eat_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:22:57.673Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3051_1-couscous-vegetarien-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001773/01-3051_1-couscous-vegetarien-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3051_4-couscous-vegetarien-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001773/02-3051_4-couscous-vegetarien-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3051_3-couscous-vegetarien-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001773/03-3051_3-couscous-vegetarien-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3051_2-couscous-vegetarien-trek_n-eat.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001773/04-3051_2-couscous-vegetarien-trek_n-eat.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/3051_1-couscous-vegetarien-trek_n-eat_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001773/05-3051_1-couscous-vegetarien-trek_n-eat_1.jpg",
+      "skipped": false
+    }
+  ]
+}

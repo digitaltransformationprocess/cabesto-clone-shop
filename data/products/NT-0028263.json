@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0028263",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-couteau-suisse-spartan-victorinox-nt-0028263.html",
+  "title": "Couteau Suisse Spartan - VICTORINOX",
+  "brand": "VICTORINOX",
+  "category": "Couverts, couteaux",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Couverts, couteaux"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Couverts, couteaux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couteau Suisse Spartan - VICTORINOX"
+  ],
+  "description": "Achetez Couteau Suisse Spartan - VICTORINOX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1.3603.B1",
+  "price": {
+    "amount": 26.9,
+    "currency": "EUR",
+    "formatted": "26.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028263",
+      "sku": "NT-0028263",
+      "supplierRef": "1.3603.B1",
+      "price": {
+        "amount": 26.9,
+        "currency": "EUR",
+        "formatted": "26.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/g/bg03_1-couteau-suisse-spartan-victorinox.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/g/bg03_2-couteau-suisse-spartan-victorinox.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/g/bg03_1-couteau-suisse-spartan-victorinox_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:53.223Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/g/bg03_1-couteau-suisse-spartan-victorinox.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028263/01-bg03_1-couteau-suisse-spartan-victorinox.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/g/bg03_2-couteau-suisse-spartan-victorinox.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028263/02-bg03_2-couteau-suisse-spartan-victorinox.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/g/bg03_1-couteau-suisse-spartan-victorinox_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028263/03-bg03_1-couteau-suisse-spartan-victorinox_1.jpg",
+      "skipped": false
+    }
+  ]
+}

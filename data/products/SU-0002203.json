@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0002203",
+  "url": "https://www.cabesto.com/fr/plongee-dragonne-elastique-a-l-unite-pl-1912.html",
+  "title": "DRAGONNE ELASTIQUE BEST DIVERS",
+  "brand": "AQUATYS",
+  "category": "dragonnes-et-mousquetons",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "DRAGONNE ELASTIQUE BEST DIVERS"
+  ],
+  "description": "DRAGONNE ELASTIQUE A L'UNITE BEST DIVERSDragonne avec fil élastique vendue à la pièce...Couleur aléatoire en fonction des stocksIdéal pour ne pas perdre votre lampe, phare, appareil photo...",
+  "supplierRef": "A10401NO",
+  "price": {
+    "amount": 5.99,
+    "currency": "EUR",
+    "formatted": "5.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0002203",
+      "sku": "SU-0002203",
+      "supplierRef": "A10401NO",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-1912-pl-1912-picture_1-pl-1912-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:09.131Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-1912-pl-1912-picture_1-pl-1912-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002203/01-pl-1912-pl-1912-picture_1-pl-1912-1.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "dragonnes-et-mousquetons"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "dragonnes-et-mousquetons"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "sku": "PCNT-0001687",
+  "url": "https://www.cabesto.com/fr/verticalite-poignee-jumar-ascension-intervention-petzl-pv49.html",
+  "title": "Poignée Jumar - Ascension Intervention - PETZL",
+  "brand": "PETZL",
+  "category": "Poulies-bloqueurs",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Poulies-bloqueurs"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Poulies-bloqueurs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Poignée Jumar - Ascension Intervention - PETZL"
+  ],
+  "description": "Achetez Poignée Jumar - Ascension Intervention - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 71.95,
+    "currency": "EUR",
+    "formatted": "71.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0001687",
+      "sku": "PCNT-0001687",
+      "supplierRef": null,
+      "price": {
+        "amount": 71.95,
+        "currency": "EUR",
+        "formatted": "71.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/v/pv49_1_d-ascension-intervention-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/v/pv49_2_d-ascension-intervention-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/v/pv49_1_d-ascension-intervention-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/v/pv49_1_d-ascension-intervention-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/v/pv49_1_d-ascension-intervention-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:26:42.716Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/v/pv49_1_d-ascension-intervention-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001687/01-pv49_1_d-ascension-intervention-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/v/pv49_2_d-ascension-intervention-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001687/02-pv49_2_d-ascension-intervention-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/v/pv49_1_d-ascension-intervention-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001687/03-pv49_1_d-ascension-intervention-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/v/pv49_1_d-ascension-intervention-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001687/04-pv49_1_d-ascension-intervention-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/v/pv49_1_d-ascension-intervention-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001687/05-pv49_1_d-ascension-intervention-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

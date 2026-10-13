@@ -1,0 +1,107 @@
+{
+  "sku": "PCSU-0010280",
+  "url": "https://www.cabesto.com/fr/bonnet-de-piscine-silicone-adulte-mares.html",
+  "title": "Bonnet de bain en silicone adulte ZOGGS",
+  "brand": "ZOGGS",
+  "category": "Bonnets",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Nage",
+    "Accessoires de natation",
+    "Bonnets"
+  ],
+  "categories": [
+    "Plongée",
+    "Nage",
+    "Accessoires de natation",
+    "Bonnets"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bonnet de bain en silicone adulte ZOGGS"
+  ],
+  "description": "Protégez vos cheveux et vos oreilles avec le bonnet en silicone MARES, idéal en piscine comme en mer, résistant et durable.",
+  "supplierRef": null,
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0010280",
+      "sku": "PCSU-0010280",
+      "supplierRef": null,
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_30_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-1205-pl-8999-picture_1-pcpl-1205-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/o/bouchons-d-oreille-seac-ear-plugs-silicone_cx4lmybnb4pn8gpo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/o/bonnet-de-bain-silicone-adulte-blanc-seac_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/o/zoggs-bonnet-natation-silicone-plain.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/h/thumbnail_image004.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/h/thumbnail_image004_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/z/g/zgs_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:50:03.963Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_30_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010280/01-sans_titre_30_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-1205-pl-8999-picture_1-pcpl-1205-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010280/02-pcpl-1205-pl-8999-picture_1-pcpl-1205-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/o/bouchons-d-oreille-seac-ear-plugs-silicone_cx4lmybnb4pn8gpo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010280/03-bouchons-d-oreille-seac-ear-plugs-silicone_cx4lmybnb4pn8gpo.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/o/bonnet-de-bain-silicone-adulte-blanc-seac_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010280/04-bonnet-de-bain-silicone-adulte-blanc-seac_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/o/zoggs-bonnet-natation-silicone-plain.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010280/05-zoggs-bonnet-natation-silicone-plain.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/h/thumbnail_image004.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010280/06-thumbnail_image004.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/h/thumbnail_image004_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010280/07-thumbnail_image004_1.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/z/g/zgs_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010280/08-zgs_1.jpg",
+      "skipped": false
+    }
+  ]
+}

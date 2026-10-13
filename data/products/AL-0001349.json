@@ -1,0 +1,64 @@
+{
+  "sku": "AL-0001349",
+  "url": "https://www.cabesto.com/fr/croutons-ail-75-gr.html",
+  "title": "CROUTONS AIL 75 GR",
+  "brand": "AZAIS POLITO",
+  "category": "alimentation",
+  "description": "Le Croûton de pain frit aromatisé à l'Ail, est une des particularités de la Gastronomie Sétoise. Ces Croûtons apportent une petite touche parfumée et méridionale aux plats qu'ils accompagnent. A Sète, ils sont incontournables avec une bonne Soupe de Poisson agrémentée de Rouille Sétoise",
+  "price": {
+    "amount": 1.59,
+    "currency": "EUR",
+    "formatted": "1.59 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "In stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001349",
+      "sku": "AL-0001349",
+      "price": {
+        "amount": 1.59,
+        "currency": "EUR",
+        "formatted": "1.59 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "In stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/0/3/0339189-0339189-picture_1-0339189_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/0/3/0339189-0339189-picture_1-0339189_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/3/0339189-0339189-picture_1-0339189_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001349/01-0339189-0339189-picture_1-0339189_1.jpg",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:11:26.905Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/0/3/0339189-0339189-picture_1-0339189_1.jpg?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "1.59",
+    "currency": "EUR",
+    "availability": "in stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "offre-alimentation"
+  ],
+  "categories": [
+    "alimentation",
+    "offre-alimentation"
+  ]
+}

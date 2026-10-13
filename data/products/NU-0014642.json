@@ -1,0 +1,67 @@
+{
+  "sku": "NU-0014642",
+  "url": "https://www.cabesto.com/fr/ps-paire-de-supports-de-fixation-pour-batterie-ou-reservoir-kit-de-fixation-pour-batterie.html",
+  "title": "Paire support de fixation pour batterie ou reservoir - Osculati",
+  "brand": "OSCULATI",
+  "category": null,
+  "topLevel": "autre",
+  "topLevelLabel": "Autre",
+  "categoryPath": [],
+  "categories": [],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Paire support de fixation pour batterie ou reservoir - Osculati"
+  ],
+  "description": "Achetez Paire support de fixation pour batterie ou reservoir - Osculati chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "14.548.00",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0014642",
+      "sku": "NU-0014642",
+      "supplierRef": "14.548.00",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/n/en_14.548.00_dis_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/n/en_14.548.00_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/img_5516_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:58:33.225Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/en_14.548.00_dis_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0014642/01-en_14.548.00_dis_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/n/en_14.548.00_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0014642/02-en_14.548.00_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img_5516_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0014642/03-img_5516_1.jpg",
+      "skipped": true
+    }
+  ]
+}

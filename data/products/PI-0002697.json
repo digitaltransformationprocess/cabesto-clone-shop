@@ -1,0 +1,91 @@
+{
+  "sku": "PI-0002697",
+  "url": "https://www.cabesto.com/fr/piscine-piscine-hors-sol-prism-ovale-5m03x2m74x1m22-pi-10.html",
+  "title": "PISCINE HORS-SOL PRISM OVALE 5M03X2M74X1M22 intex",
+  "brand": "INTEX",
+  "category": "Piscine ovale",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine tubulaire",
+    "Piscine ovale"
+  ],
+  "categories": [
+    "Piscine tubulaire",
+    "Piscine ovale"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE HORS-SOL PRISM OVALE 5M03X2M74X1M22 intex"
+  ],
+  "description": "Achetez PISCINE HORS-SOL PRISM OVALE 5M03X2M74X1M22 intex chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "26796NP",
+  "price": {
+    "amount": 549,
+    "currency": "EUR",
+    "formatted": "549 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002697",
+      "sku": "PI-0002697",
+      "supplierRef": "26796NP",
+      "price": {
+        "amount": 549,
+        "currency": "EUR",
+        "formatted": "549 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/6/26796np-kit-piscine-prism-frame-ovale-.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26796np-kit-piscine-prism-frame-ovale-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26796np-kit-piscine-prism-frame-ovale-_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26796np-kit-piscine-prism-frame-ovale-_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26796np-kit-piscine-prism-frame-ovale-_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26796np-kit-piscine-prism-frame-ovale-_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:29:19.687Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26796np-kit-piscine-prism-frame-ovale-.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002697/01-26796np-kit-piscine-prism-frame-ovale-.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26796np-kit-piscine-prism-frame-ovale-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002697/02-26796np-kit-piscine-prism-frame-ovale-.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26796np-kit-piscine-prism-frame-ovale-_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002697/03-26796np-kit-piscine-prism-frame-ovale-_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26796np-kit-piscine-prism-frame-ovale-_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002697/04-26796np-kit-piscine-prism-frame-ovale-_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26796np-kit-piscine-prism-frame-ovale-_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002697/05-26796np-kit-piscine-prism-frame-ovale-_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26796np-kit-piscine-prism-frame-ovale-_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002697/06-26796np-kit-piscine-prism-frame-ovale-_4.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "sku": "PCSU-0007594",
+  "url": "https://www.cabesto.com/fr/bottilons-de-plongee-equator-2-mm-mares.html",
+  "title": "Bottilons de plongée EQUATOR 2 mm MARES",
+  "brand": "MARES",
+  "category": "accessoires-en-neoprene-longe-cote",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bottilons de plongée EQUATOR 2 mm MARES"
+  ],
+  "description": "Bottillons de plongée EQUATOR 2 mm MARESPlongez en eaux chaudes avec le bottillon bas 2 mm en néoprène EQUATOR MARES, souple, léger et pratique pour vos voyages plongée sous les tropiques comme pour vos sorties longe côte.Les bottillons bas de plongée EQUATOR 2 mm MARES sont confortables et souples. En néoprène épaisseur 2 mm, l'EQUATOR MARES est un bottillon bas descendant jusqu'à la cheville.C'est le bottillon idéal pour la pratique de la plongée sous-marine et du snorkeling en eaux chaudes et/ou tropicales mais aussi pour la pratique de longe côte et des activités nautiques.Le bottillon EQUATOR 2 mm MARES est doté d'une semelle en caoutchouc durable pour une protection maximale de vos pieds.Les bottillons de plongée EQUATOR MARES offrent protection thermique et un confort de mouvement maximal.Caractéristiques Bottillons de plongée EQUATOR 2 mm MARESBottillons bas de plongée sous-marine & de snorkelingLéger, idéal pour les voyages en eaux chaudesSemelle antidérapanteEpaisseur 2 mmCompatible avec la pratique du longe-côteInformations techniques :Matériau NéoprèneEpaisseur 2 mmSemelle AntidérapanteType d'eau ChaudeActivité Plongée sous-marine, snorkeling, longe-côteContenu du colis1 x Paire de bottillons bas EQUATOR 2 mm, pointure à choisir.",
+  "supplierRef": null,
+  "price": {
+    "amount": 28,
+    "currency": "EUR",
+    "formatted": "28 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0007594",
+      "sku": "PCSU-0007594",
+      "supplierRef": null,
+      "price": {
+        "amount": 28,
+        "currency": "EUR",
+        "formatted": "28 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/8/v8386-v8387-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/mares-bottillons-equator-2-mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2024_08_20_12_16_41_chaussons_de_plong_e_en_n_opr_ne_equator_2mm_mares.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:33:49.801Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0007594/01-presentation-412636_equator_boots.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/8/v8386-v8387-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0007594/02-v8386-v8387-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/mares-bottillons-equator-2-mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0007594/03-mares-bottillons-equator-2-mm.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2024_08_20_12_16_41_chaussons_de_plong_e_en_n_opr_ne_equator_2mm_mares.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0007594/04-2024_08_20_12_16_41_chaussons_de_plong_e_en_n_opr_ne_equator_2mm_mares.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0007594/05-presentation-412636_equator_boots_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0007594/06-presentation-412636_equator_boots_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0007594/07-presentation-412636_equator_boots_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0007594/08-presentation-412636_equator_boots_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0007594/09-presentation-412636_equator_boots_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0007594/10-presentation-412636_equator_boots_1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0007594/11-presentation-412636_equator_boots_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0007594/12-presentation-412636_equator_boots_6.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "longe-cote-marche-aquatique",
+    "equipement-pour-le-longe-cote",
+    "accessoires-en-neoprene-longe-cote"
+  ],
+  "categories": [
+    "plongee",
+    "longe-cote-marche-aquatique",
+    "equipement-pour-le-longe-cote",
+    "accessoires-en-neoprene-longe-cote"
+  ]
+}

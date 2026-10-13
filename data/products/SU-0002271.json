@@ -1,0 +1,77 @@
+{
+  "sku": "SU-0002271",
+  "url": "https://www.cabesto.com/fr/plongee-emetteur-led-tank-module-mares-pl-16539.html",
+  "title": "Emetteur sonde pour ordinateur de plongée LED TANK MODULE MARES",
+  "brand": "MARES",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Emetteur sonde pour ordinateur de plongée LED TANK MODULE MARES"
+  ],
+  "description": "L'émetteur Led Tank Modules Mares transmet les informations du bloc directement à votre ordinateur de plo,ngée Quad Air Mares, mais il signale également aux binômes de plongée un faible niveau d'air en plongée grâce à 3 niveaux d'alerte matérialisés par des couleurs.Bouteille pleine : dès ouverture du bloc la sonde vérifie que la bouteille est pleine. Une dizaine de clignotement vert très rapide. Actif à 180 Bars et au dessus.Mi-bouteille : à mi bouteille la sonde signale que vous êtes à la moitié de votre bouteille. Clignotement lent en orange et très alterné. Actif dès 100 BarsRéserve : La sonde signale à vos binômes que vous êtes en réserve. Clignotement rouge très rapproché. Actif dès 50 Bars.L'émetteur est alimenté par une pile CR123A remplaçable par l'utilisateur.Tous nos ordinateurs de plongée sont couverts par la garantie légale de deux ans du fabricant, hors usure de piles. Toutefois, CABESTO prend à sa charge toute éventuelle usure prématurée de la pile dans les six mois suivant l'achat, après contrôle de la mémoire et de l'état de l'ordinateur de plongée.",
+  "supplierRef": "414319",
+  "price": {
+    "amount": 199,
+    "currency": "EUR",
+    "formatted": "199 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0002271",
+      "sku": "SU-0002271",
+      "supplierRef": "414319",
+      "price": {
+        "amount": 199,
+        "currency": "EUR",
+        "formatted": "199 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-16539-pl-16539-picture_1-pl-16539-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/packgenius_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-16539-pl-16539-picture_2-pl-16539-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:27:27.738Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-16539-pl-16539-picture_1-pl-16539-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002271/01-pl-16539-pl-16539-picture_1-pl-16539-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/packgenius_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002271/02-packgenius_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-16539-pl-16539-picture_2-pl-16539-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002271/03-pl-16539-pl-16539-picture_2-pl-16539-2.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

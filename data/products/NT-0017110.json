@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0017110",
+  "url": "https://www.cabesto.com/fr/powder-baskets.html",
+  "title": "Powder Baskets",
+  "brand": "BLACK DIAMOND",
+  "category": "pieces-detachees-pour-batons",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "batons",
+    "pieces-detachees-pour-batons"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "batons",
+    "pieces-detachees-pour-batons"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Powder Baskets"
+  ],
+  "description": "Achetez Powder Baskets chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BD110565",
+  "price": {
+    "amount": 9.9,
+    "currency": "EUR",
+    "formatted": "9.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0017110",
+      "sku": "NT-0017110",
+      "supplierRef": "BD110565",
+      "price": {
+        "amount": 9.9,
+        "currency": "EUR",
+        "formatted": "9.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/d/bdd2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:39:08.543Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bdd2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0017110/01-bdd2_1.jpg",
+      "skipped": false
+    }
+  ]
+}

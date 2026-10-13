@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0001281",
+  "url": "https://www.cabesto.com/fr/amarrage-souple-nt-0001281.html",
+  "title": "Amarrage Souple",
+  "brand": "DIVERS",
+  "category": "plaquettes-et-anneaux-8-mm",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "mousquetons-degaines-maillons",
+    "amarrages",
+    "plaquettes-vis",
+    "plaquettes-et-anneaux-8-mm"
+  ],
+  "categories": [
+    "montagne",
+    "mousquetons-degaines-maillons",
+    "amarrages",
+    "plaquettes-vis",
+    "plaquettes-et-anneaux-8-mm"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Amarrage Souple"
+  ],
+  "description": "Achetez Amarrage Souple chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "AVXP3660",
+  "price": {
+    "amount": 6.6,
+    "currency": "EUR",
+    "formatted": "6.6 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0001281",
+      "sku": "NT-0001281",
+      "supplierRef": "AVXP3660",
+      "price": {
+        "amount": 6.6,
+        "currency": "EUR",
+        "formatted": "6.6 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/p/cp07_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/9/0920_1-cordelette-dyneema-5-mm-au-metre-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:13.243Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp07_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001281/01-cp07_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/9/0920_1-cordelette-dyneema-5-mm-au-metre-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001281/02-0920_1-cordelette-dyneema-5-mm-au-metre-beal.jpg",
+      "skipped": false
+    }
+  ]
+}

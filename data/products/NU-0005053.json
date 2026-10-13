@@ -1,0 +1,63 @@
+{
+  "sku": "NU-0005053",
+  "url": "https://www.cabesto.com/fr/gps-73.html",
+  "title": "GPS 73",
+  "brand": "GARMIN",
+  "category": "GPS Portables",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Electronique",
+    "GPS",
+    "GPS Portables"
+  ],
+  "categories": [
+    "Electronique",
+    "GPS",
+    "GPS Portables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "GPS 73"
+  ],
+  "description": "Achetez GPS 73 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "010-01504-00",
+  "price": {
+    "amount": 159,
+    "currency": "EUR",
+    "formatted": "159 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0005053",
+      "sku": "NU-0005053",
+      "supplierRef": "010-01504-00",
+      "price": {
+        "amount": 159,
+        "currency": "EUR",
+        "formatted": "159 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/f/cf-lg10_1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:02:59.016Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/f/cf-lg10_1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0005053/01-cf-lg10_1_1_1.jpg",
+      "skipped": true
+    }
+  ]
+}

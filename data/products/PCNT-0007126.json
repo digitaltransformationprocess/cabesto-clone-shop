@@ -1,0 +1,97 @@
+{
+  "sku": "PCNT-0007126",
+  "url": "https://www.cabesto.com/fr/chaussures-basses-homme-mtn-trainer-2.html",
+  "title": "Chaussures Basses Homme Mtn Trainer 2 - SALEWA",
+  "brand": "SALEWA",
+  "category": "Chaussures basses homme",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Chaussures",
+    "Chaussures basses outdoor",
+    "Destockage Montagne",
+    "Chaussures basses homme",
+    "Ventes privées Montagne"
+  ],
+  "categories": [
+    "Chaussures",
+    "Chaussures basses outdoor",
+    "Destockage Montagne",
+    "Chaussures basses homme",
+    "Ventes privées Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussures Basses Homme Mtn Trainer 2 - SALEWA"
+  ],
+  "description": "Achetez Chaussures Basses Homme Mtn Trainer 2 - SALEWA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0007126",
+      "sku": "PCNT-0007126",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/l/sl13_1_gt-chaussures-basses-homme-mtn-trainer-2-salewa_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl13_5_gt-chaussures-basses-homme-mtn-trainer-2-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl13_4_gt-chaussures-basses-homme-mtn-trainer-2-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl13_3_gt-chaussures-basses-homme-mtn-trainer-2-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl13_2_gt-chaussures-basses-homme-mtn-trainer-2-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl13_1_gt-chaussures-basses-homme-mtn-trainer-2-salewa_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:35:59.169Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl13_1_gt-chaussures-basses-homme-mtn-trainer-2-salewa_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007126/01-sl13_1_gt-chaussures-basses-homme-mtn-trainer-2-salewa_10.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl13_5_gt-chaussures-basses-homme-mtn-trainer-2-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007126/02-sl13_5_gt-chaussures-basses-homme-mtn-trainer-2-salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl13_4_gt-chaussures-basses-homme-mtn-trainer-2-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007126/03-sl13_4_gt-chaussures-basses-homme-mtn-trainer-2-salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl13_3_gt-chaussures-basses-homme-mtn-trainer-2-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007126/04-sl13_3_gt-chaussures-basses-homme-mtn-trainer-2-salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl13_2_gt-chaussures-basses-homme-mtn-trainer-2-salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007126/05-sl13_2_gt-chaussures-basses-homme-mtn-trainer-2-salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl13_1_gt-chaussures-basses-homme-mtn-trainer-2-salewa_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007126/06-sl13_1_gt-chaussures-basses-homme-mtn-trainer-2-salewa_11.jpg",
+      "skipped": false
+    }
+  ]
+}

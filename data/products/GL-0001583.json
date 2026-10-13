@@ -1,0 +1,127 @@
+{
+  "sku": "GL-0001583",
+  "url": "https://www.cabesto.com/fr/siege-kayak-avec-rehausse-high-fusion-abstract.html",
+  "title": "Siège kayak avec réhausse HIGH FUSION ABSTRACT",
+  "brand": "ABSTRACT",
+  "category": "Accessoires",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Glisse",
+    "Accessoires",
+    "Black November - Glisse",
+    "Kayaks",
+    "Accessoires"
+  ],
+  "categories": [
+    "Glisse",
+    "Accessoires",
+    "Black November - Glisse",
+    "Kayaks",
+    "Accessoires"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Glisse",
+    "Glisse",
+    "Stand Up Paddle",
+    "Stand Up Paddle",
+    "Accessoires",
+    "Accessoires",
+    "Siège kayak avec réhausse HIGH FUSION ABSTRACT"
+  ],
+  "description": "Asseyez-vous et profitez du confort du siège kayak rehausse high fusion aqua design, confortable et durable.",
+  "supplierRef": "ABSA8097",
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR",
+    "formatted": "39.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "GL-0001583",
+      "sku": "GL-0001583",
+      "supplierRef": "ABSA8097",
+      "price": {
+        "amount": 39.99,
+        "currency": "EUR",
+        "formatted": "39.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/i/si_ge_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/i/siege2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-8_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-4_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:44:55.066Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/i/si_ge_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0001583/01-si_ge_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/i/siege2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0001583/02-siege2_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0001583/03-sa8095-siege-kayak-fusion-details-web-bw-3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0001583/04-sa8095-siege-kayak-fusion-details-web-bw-2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0001583/05-sa8095-siege-kayak-fusion-details-web-bw-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0001583/06-sa8095-siege-kayak-fusion-details-web-bw-7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-8_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0001583/07-sa8095-siege-kayak-fusion-details-web-bw-8_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0001583/08-sa8095-siege-kayak-fusion-details-web-bw-6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0001583/09-sa8095-siege-kayak-fusion-details-web-bw-5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sa8095-siege-kayak-fusion-details-web-bw-4_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0001583/10-sa8095-siege-kayak-fusion-details-web-bw-4_1_.jpg",
+      "skipped": false
+    }
+  ]
+}

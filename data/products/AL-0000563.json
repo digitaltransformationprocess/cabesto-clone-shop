@@ -1,0 +1,63 @@
+{
+  "sku": "AL-0000563",
+  "url": "https://www.cabesto.com/fr/biere-aromatisee-rhum-breiz-ile-3-33-cl.html",
+  "title": "BIERE AROMATISEE RHUM BREIZ'ILE 3*33 CL",
+  "brand": "BREIZILE",
+  "category": "Bières des iles",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "Boissons et desserts des iles",
+    "Bières",
+    "Bières des iles"
+  ],
+  "categories": [
+    "Boissons et desserts des iles",
+    "Bières",
+    "Bières des iles"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BIERE AROMATISEE RHUM BREIZ'ILE 3*33 CL"
+  ],
+  "description": "Achetez BIERE AROMATISEE RHUM BREIZ'ILE 3*33 CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3425230001011.",
+  "price": {
+    "amount": 2.49,
+    "currency": "EUR",
+    "formatted": "2.49 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000563",
+      "sku": "AL-0000563",
+      "supplierRef": "3425230001011.",
+      "price": {
+        "amount": 2.49,
+        "currency": "EUR",
+        "formatted": "2.49 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6063645-6063645-picture_1-6063645_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:57:16.787Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6063645-6063645-picture_1-6063645_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000563/01-6063645-6063645-picture_1-6063645_1.jpg",
+      "skipped": true
+    }
+  ]
+}

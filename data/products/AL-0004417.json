@@ -1,0 +1,63 @@
+{
+  "sku": "AL-0004417",
+  "url": "https://www.cabesto.com/fr/veloute-homard-conc-400g.html",
+  "title": "VELOUTE HOMARD CONC 400G",
+  "brand": "LA POINTE DE PENMARCH",
+  "category": "Soupes de crustacés et fruits de mer",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "langoustes-et-crustaces"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "langoustes-et-crustaces"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "VELOUTE HOMARD CONC 400G"
+  ],
+  "description": "Achetez VELOUTE HOMARD CONC 400G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "MPO000584",
+  "price": {
+    "amount": 3.49,
+    "currency": "EUR",
+    "formatted": "3.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0004417",
+      "sku": "AL-0004417",
+      "supplierRef": "MPO000584",
+      "price": {
+        "amount": 3.49,
+        "currency": "EUR",
+        "formatted": "3.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0004417.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:57:38.470Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0004417.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0004417/01-al-0004417.png",
+      "skipped": true
+    }
+  ]
+}

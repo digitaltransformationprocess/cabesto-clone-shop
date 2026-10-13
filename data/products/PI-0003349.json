@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0003349",
+  "url": "https://www.cabesto.com/fr/piscine-superflock-plus-1kg-bayrol-pi-228.html",
+  "title": "SUPERFLOCK PLUS 1KG BAYROL",
+  "brand": "BAYROL",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Clarifier sa piscine",
+    "Entretenir son eau",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Clarifier sa piscine",
+    "Entretenir son eau",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SUPERFLOCK PLUS 1KG BAYROL"
+  ],
+  "description": "Achetez SUPERFLOCK PLUS 1KG BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1195293",
+  "price": {
+    "amount": 36.9,
+    "currency": "EUR",
+    "formatted": "36.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003349",
+      "sku": "PI-0003349",
+      "supplierRef": "1195293",
+      "price": {
+        "amount": 36.9,
+        "currency": "EUR",
+        "formatted": "36.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/o/i/oip_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:31:06.776Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/i/oip_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003349/01-oip_2_.jpg",
+      "skipped": false
+    }
+  ]
+}

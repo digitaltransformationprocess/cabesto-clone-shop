@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0002791",
+  "url": "https://www.cabesto.com/fr/pain-d-epices-avec-50-de-miel.html",
+  "title": "PAIN D'ÉPICES AVEC 50% DE MIEL",
+  "brand": "BISCUITS D'YS",
+  "category": "Biscuiterie marine",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PAIN D'ÉPICES AVEC 50% DE MIEL"
+  ],
+  "description": "Achetez PAIN D'ÉPICES AVEC 50% DE MIEL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3335440210168",
+  "price": {
+    "amount": 6.59,
+    "currency": "EUR",
+    "formatted": "6.59 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002791",
+      "sku": "AL-0002791",
+      "supplierRef": "3335440210168",
+      "price": {
+        "amount": 6.59,
+        "currency": "EUR",
+        "formatted": "6.59 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6069478-6069478-picture_1-6069478_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:56:04.128Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6069478-6069478-picture_1-6069478_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002791/01-6069478-6069478-picture_1-6069478_1.jpg",
+      "skipped": true
+    }
+  ]
+}

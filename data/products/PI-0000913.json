@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0000913",
+  "url": "https://www.cabesto.com/fr/piscine-couronne-tuyau-souple-d63-x-25-ml-pi-1369.html",
+  "title": "Couronne tuyau souple d63 x 25 ml",
+  "brand": "INTERPLAST",
+  "category": "Plomberie et tuyaux",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "construction",
+    "plomberie-et-tuyaux"
+  ],
+  "categories": [
+    "piscine",
+    "construction",
+    "plomberie-et-tuyaux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couronne tuyau souple d63 x 25 ml"
+  ],
+  "description": "Couronne tuyau souple d63 x 25 ml Couronne tuyau souple d63 x 25 ml Matière : PVC souple, âme ABSUtilisation : pour éléments PVC à collerPression max de travail : 5 kg/cm²Longueur unitaire : 25 mDiamètre en 50 : 50 x 43 mmDiamètre en 63 : 63 x 55 mmPoids",
+  "supplierRef": "SSPI6325",
+  "price": {
+    "amount": 162,
+    "currency": "EUR",
+    "formatted": "162 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000913",
+      "sku": "PI-0000913",
+      "supplierRef": "SSPI6325",
+      "price": {
+        "amount": 162,
+        "currency": "EUR",
+        "formatted": "162 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/o/couronne-tuyau-souple-d50-x-25-ml-4878_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:40:11.312Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/o/couronne-tuyau-souple-d50-x-25-ml-4878_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000913/01-couronne-tuyau-souple-d50-x-25-ml-4878_1.jpg",
+      "skipped": false
+    }
+  ]
+}

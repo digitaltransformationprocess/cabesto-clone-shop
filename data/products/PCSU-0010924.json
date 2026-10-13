@@ -1,0 +1,103 @@
+{
+  "sku": "PCSU-0010924",
+  "url": "https://www.cabesto.com/fr/tuba-de-plongee-sous-marine-bite-air-salvimar-pcsu-0010924.html",
+  "title": "Tuba de chasse sous-marine. d'apnée et de snorkeling BITE AIR SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "Tubas de chasse",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Randonnée Aquatique",
+    "Tubas Snorkeling",
+    "Tubas sans soupape",
+    "Chasse sous-marine",
+    "Tubas de chasse"
+  ],
+  "categories": [
+    "Randonnée Aquatique",
+    "Tubas Snorkeling",
+    "Tubas sans soupape",
+    "Chasse sous-marine",
+    "Tubas de chasse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Tuba de chasse sous-marine. d'apnée et de snorkeling BITE AIR SALVIMAR"
+  ],
+  "description": "Mettez le tuba BITE SALVIMAR en bouche, découvrez le confort de son embout buccal ergonomique et profitez d'un tuba conçu pour une respiration naturelle et discrète, idéal pour la chasse sous-marine, l’apnée et le snorkeling.",
+  "supplierRef": null,
+  "price": {
+    "amount": 16.99,
+    "currency": "EUR",
+    "formatted": "16.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0010924",
+      "sku": "PCSU-0010924",
+      "supplierRef": null,
+      "price": {
+        "amount": 16.99,
+        "currency": "EUR",
+        "formatted": "16.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/i/bite.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/o/morf.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/e/neo_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/i/bitew.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/i/bitep.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/i/bitep_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/i/bitew_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:41:35.306Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/bite.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0010924\\01-bite.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0010924\\01-bite.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/o/morf.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010924/02-morf.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/e/neo_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010924/03-neo_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/bitew.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010924/04-bitew.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/bitep.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010924/05-bitep.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/bitep_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010924/06-bitep_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/i/bitew_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010924/07-bitew_1.jpg",
+      "skipped": false
+    }
+  ]
+}

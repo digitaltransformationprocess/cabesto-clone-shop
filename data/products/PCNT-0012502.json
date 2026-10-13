@@ -1,0 +1,123 @@
+{
+  "sku": "PCNT-0012502",
+  "url": "https://www.cabesto.com/fr/harnais-d-escalade-enfant-macchu-2.html",
+  "title": "Harnais baudrier d'escalade enfant MACCHU PETZL",
+  "brand": "PETZL",
+  "category": "Sélection Montagne",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "Escalade",
+    "Harnais pour enfants",
+    "Sélection Montagne"
+  ],
+  "categories": [
+    "Escalade",
+    "Harnais pour enfants",
+    "Sélection Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Harnais baudrier d'escalade enfant MACCHU PETZL"
+  ],
+  "description": "Destiné aux grimpeurs(ses) en herbe de moins de 40 kg, le baudrier Macchu PETZL est un harnais cuissard conçu pour la progression et autonomie de l'enfant.",
+  "supplierRef": null,
+  "price": {
+    "amount": 41.95,
+    "currency": "EUR",
+    "formatted": "41.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0012502",
+      "sku": "PCNT-0012502",
+      "supplierRef": null,
+      "price": {
+        "amount": 41.95,
+        "currency": "EUR",
+        "formatted": "41.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pz49_1_b-harnais-d-escalade-enfant-macchu-2-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzf2_1_af.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/9/2984_1-anneau-60-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/9/2986_1-anneau-80-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz49_4_b-harnais-d-escalade-enfant-macchu-2-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz49_3_b-harnais-d-escalade-enfant-macchu-2-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz49_2_b-harnais-d-escalade-enfant-macchu-2-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz49_1_v-harnais-d-escalade-enfant-macchu-2-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz49_1_b-harnais-d-escalade-enfant-macchu-2-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/macchu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz49_1_b-harnais-d-escalade-enfant-macchu-2-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:30:05.497Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz49_1_b-harnais-d-escalade-enfant-macchu-2-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012502/01-pz49_1_b-harnais-d-escalade-enfant-macchu-2-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzf2_1_af.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012502/02-pzf2_1_af.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/2984_1-anneau-60-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012502/03-2984_1-anneau-60-cm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/2986_1-anneau-80-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012502/04-2986_1-anneau-80-cm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz49_4_b-harnais-d-escalade-enfant-macchu-2-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012502/05-pz49_4_b-harnais-d-escalade-enfant-macchu-2-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz49_3_b-harnais-d-escalade-enfant-macchu-2-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012502/06-pz49_3_b-harnais-d-escalade-enfant-macchu-2-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz49_2_b-harnais-d-escalade-enfant-macchu-2-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012502/07-pz49_2_b-harnais-d-escalade-enfant-macchu-2-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz49_1_v-harnais-d-escalade-enfant-macchu-2-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012502/08-pz49_1_v-harnais-d-escalade-enfant-macchu-2-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz49_1_b-harnais-d-escalade-enfant-macchu-2-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012502/09-pz49_1_b-harnais-d-escalade-enfant-macchu-2-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/macchu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012502/10-macchu.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz49_1_b-harnais-d-escalade-enfant-macchu-2-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0012502/11-pz49_1_b-harnais-d-escalade-enfant-macchu-2-petzl.jpg",
+      "skipped": false
+    }
+  ]
+}

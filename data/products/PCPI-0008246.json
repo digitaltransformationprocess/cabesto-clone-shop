@@ -1,0 +1,63 @@
+{
+  "sku": "PCPI-0008246",
+  "url": "https://www.cabesto.com/fr/volet-piscine-decoupe-escalier-droit-2-5m-astral.html",
+  "title": "VOLET PISCINE DECOUPE ESCALIER DROIT 2.5M - ASTRAL",
+  "brand": "ASTRAL AUTOMATIQUE",
+  "category": "Volet roulant et couverture automatique",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "volet-roulant-et-couverture-automatique"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "volet-roulant-et-couverture-automatique"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "VOLET PISCINE DECOUPE ESCALIER DROIT 2.5M - ASTRAL"
+  ],
+  "description": "Achetez VOLET PISCINE DECOUPE ESCALIER DROIT 2.5M - ASTRAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 415.88,
+    "currency": "EUR",
+    "formatted": "415.88 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPI-0008246",
+      "sku": "PCPI-0008246",
+      "supplierRef": null,
+      "price": {
+        "amount": 415.88,
+        "currency": "EUR",
+        "formatted": "415.88 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/s/escalier-droit-equerre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:47:02.959Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/s/escalier-droit-equerre.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPI-0008246/01-escalier-droit-equerre.jpg",
+      "skipped": false
+    }
+  ]
+}

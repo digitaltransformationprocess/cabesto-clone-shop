@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0017046-L",
+  "url": "https://www.cabesto.com/fr/verticalite-porte-outils-caritool-l-petzl-nt-0017046-l.html",
+  "title": "Porte-Outils Caritool L - PETZL",
+  "brand": "PETZL",
+  "category": "Mousquetons",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Connecteurs",
+    "Mousquetons"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Connecteurs",
+    "Mousquetons"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Porte-Outils Caritool L - PETZL"
+  ],
+  "description": "Achetez Porte-Outils Caritool L - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "P042AA01",
+  "price": {
+    "amount": 15.45,
+    "currency": "EUR",
+    "formatted": "15.45 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0017046-L",
+      "sku": "NT-0017046-L",
+      "supplierRef": "P042AA01",
+      "price": {
+        "amount": 15.45,
+        "currency": "EUR",
+        "formatted": "15.45 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/x/px73_1-porte-outils-caritool-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px73_1-porte-outils-caritool-l-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:17:29.913Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px73_1-porte-outils-caritool-l-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0017046-L/01-px73_1-porte-outils-caritool-l-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px73_1-porte-outils-caritool-l-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0017046-L/02-px73_1-porte-outils-caritool-l-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

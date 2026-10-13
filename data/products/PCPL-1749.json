@@ -1,0 +1,75 @@
+{
+  "sku": "PCPL-1749",
+  "url": "https://www.cabesto.com/fr/plongee-gants-trilastic-3-2-mares-pcpl-1749.html",
+  "title": "Gants de plongée sous-marine TRILASTIC 3/2 mm Mares",
+  "brand": "MARES",
+  "category": "gants",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gants de plongée sous-marine TRILASTIC 3/2 mm Mares"
+  ],
+  "description": "Gants de plongée sous-marine TRILASTIC 3/2 mm MaresProtégez vos mains du froid et des coupures avec les gants super élastiques TRILASTIC 3/2 mm Mares doté d'un manchon lisse semi-étanche.Les gants de plongée sous-marine Trilastic Mares 3/2 mm proposent une expérience de plongée exceptionnelle grâce à des matériaux de haute qualité et une étanchéité améliorée.Le dessus des gants est constitué de néoprène de 3 mm, offrant une protection thermique optimale, tandis que la paume et le poignet sont en néoprène de 2 mm pour plus de souplesse.Le néoprène Sheico super élastique des gants TRILASTIC MARES permet une adaptation parfaite à la forme de votre main pour un confort exceptionnel et une liberté de mouvement maximale.Une couche de polyuréthane antidérapante sur la paume de la main et l'intérieur des doigts garantit une prise ferme et sécurisée sur les équipements et les surfaces sous-marines. Le poignet du gant TRILASTIC 3/2 mm est doté d'une couche extérieure en néoprène lisse \"Glide Skin\" assurant une étanchéité supérieure en minimisant les infiltrations d'eau et gardant ainsi vos mains au sec et au chaud tout au long de votre plongée. Le gant MARES TRILASTIC 3/2 mm est idéal pour les eaux tempérées comme les eaux plus froides.3 mm sur la partie supérieure du gant.Paume et poignet en 2 mm pour une plus grande flexibilité.Paume de polyuréthane pour une meilleure prise.Glide skin en la partie extérieure du poignet pour une meilleure étanchéité.Caractéristiques Gants de plongée sous-marine TRILASTIC 3/2 mm MaresGant 5 doigts de plongée sous-marine eaux tempéréesSemi étanche (mettre le manchon lisse sous la combinaison)Manchon lisse Glide Skin 2 mmInformations techniques :Matériau NéoprèneEpaisseur 3/2 mmManchon Glide Skin lisse 2 mmGrip polyuréthane sur la paumeType d'eau TempéréesTaille XXS, XS, S, M, L, XL, XXLContenu du colis1 x Paire de gants TRILASTIC 3/2 mm, taille à choisir.",
+  "supplierRef": null,
+  "price": {
+    "amount": 30.99,
+    "currency": "EUR",
+    "formatted": "30.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1749",
+      "sku": "PCPL-1749",
+      "supplierRef": null,
+      "price": {
+        "amount": 30.99,
+        "currency": "EUR",
+        "formatted": "30.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/2/p2952712t_2_epcbgyfqctl85hgr.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/grille-taille-gant-mares.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/2/p2952712t_2_9v8recgqa4pw41rx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:28:07.882Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/2/p2952712t_2_epcbgyfqctl85hgr.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1749/01-p2952712t_2_epcbgyfqctl85hgr.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/grille-taille-gant-mares.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1749/02-grille-taille-gant-mares.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/2/p2952712t_2_9v8recgqa4pw41rx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1749/03-p2952712t_2_9v8recgqa4pw41rx.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires",
+    "gants"
+  ],
+  "categories": [
+    "textile",
+    "accessoires",
+    "gants"
+  ]
+}

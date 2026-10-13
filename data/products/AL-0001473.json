@@ -1,0 +1,71 @@
+{
+  "sku": "AL-0001473",
+  "url": "https://www.cabesto.com/fr/eau-de-coco-pulpe-31cl.html",
+  "title": "EAU DE COCO PULPE 31CL",
+  "brand": "GRACE",
+  "category": "Boissons et desserts des iles",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "boissons-italiennes"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "boissons-italiennes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "EAU DE COCO PULPE 31CL"
+  ],
+  "description": "Achetez EAU DE COCO PULPE 31CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "5035139207254.",
+  "price": {
+    "amount": 1.59,
+    "currency": "EUR",
+    "formatted": "1.59 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001473",
+      "sku": "AL-0001473",
+      "supplierRef": "5035139207254.",
+      "price": {
+        "amount": 1.59,
+        "currency": "EUR",
+        "formatted": "1.59 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/r/grace_coconut_water_with_pieces_slim_can.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/grace_coconut_water_with_pieces_slim_can_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:02:59.211Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/grace_coconut_water_with_pieces_slim_can.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001473/01-grace_coconut_water_with_pieces_slim_can.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/grace_coconut_water_with_pieces_slim_can_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001473/02-grace_coconut_water_with_pieces_slim_can_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0006910",
+  "url": "https://www.cabesto.com/fr/plongee-trident-plat-gm-forge-imersion-pl-6665.html",
+  "title": "Trident vissé chasse sous-marine acier forgé PLAT GRAND MODELE IMERSION",
+  "brand": "DESIAGE",
+  "category": "accessoires",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Trident vissé chasse sous-marine acier forgé PLAT GRAND MODELE IMERSION"
+  ],
+  "description": "Trident plat forgé grand modèle Acier avec revêtement Zinc Fer noir",
+  "supplierRef": "161BC",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0006910",
+      "sku": "SU-0006910",
+      "supplierRef": "161BC",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-6665-pl-6665-picture_1-pl-6665-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:27.396Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-6665-pl-6665-picture_1-pl-6665-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006910/01-pl-6665-pl-6665-picture_1-pl-6665-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires"
+  ],
+  "categories": [
+    "textile",
+    "accessoires"
+  ]
+}

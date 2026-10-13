@@ -1,0 +1,69 @@
+{
+  "sku": "PI-0001051",
+  "url": "https://www.cabesto.com/fr/piscine-decapant-pour-raccords-pvc-pi-817.html",
+  "title": "Décapant pour raccords pvc",
+  "brand": "INTERPLAST",
+  "category": "Joint colle et teflon",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Pièces PVC",
+    "Joint colle et teflon"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Pièces PVC",
+    "Joint colle et teflon"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Décapant pour raccords pvc"
+  ],
+  "description": "Achetez Décapant pour raccords pvc chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SDEC0250",
+  "price": {
+    "amount": 8.2,
+    "currency": "EUR",
+    "formatted": "8.2 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001051",
+      "sku": "PI-0001051",
+      "supplierRef": "SDEC0250",
+      "price": {
+        "amount": 8.2,
+        "currency": "EUR",
+        "formatted": "8.2 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/e/decapant-pvc-bidon-souple-250ml-interplast_tvk3cjs8fdbhjvny.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/e/decapant-250ml-17054.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:37:59.762Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/e/decapant-pvc-bidon-souple-250ml-interplast_tvk3cjs8fdbhjvny.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001051/01-decapant-pvc-bidon-souple-250ml-interplast_tvk3cjs8fdbhjvny.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/e/decapant-250ml-17054.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001051/02-decapant-250ml-17054.jpg",
+      "skipped": false
+    }
+  ]
+}

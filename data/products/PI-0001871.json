@@ -1,0 +1,79 @@
+{
+  "sku": "PI-0001871",
+  "url": "https://www.cabesto.com/fr/piscine-bois-tropic-octo-5-05x1-20m.html",
+  "title": "PISCINE BOIS TROPIC 505- 5.05xHt120 - Octogonale. Pin certifié PEFC. installation hors sol avec échelle et escalier",
+  "brand": "BWT",
+  "category": "Piscine octogonale",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine bois",
+    "Piscine octogonale"
+  ],
+  "categories": [
+    "Piscine bois",
+    "Piscine octogonale"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE BOIS TROPIC 505- 5.05xHt120 - Octogonale. Pin certifié PEFC. installation hors sol avec échelle et escalier"
+  ],
+  "description": "PISCINE BOIS TROPIC OCTO 5.05x1.20M PISCINE BOIS TROPIC OCTO 5.05x1.20M Envie d'agrémenter votre extérieur avec une piscine jolie et robuste, qui ne soit pas hors de prix ,cette piscine de la gamme Tropic de chez Procopi est faite pour vous ! La piscine",
+  "supplierRef": "27112205",
+  "price": {
+    "amount": 4470,
+    "currency": "EUR",
+    "formatted": "4470 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001871",
+      "sku": "PI-0001871",
+      "supplierRef": "27112205",
+      "price": {
+        "amount": 4470,
+        "currency": "EUR",
+        "formatted": "4470 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/o/c/octo_505.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/c/octo_505_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/piscine-bois-bwt-mypool-tropic-505-pin-liner-bleu-france.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/piscine-bois-bwt-mypool-tropic-505-pin-liner-bleu-france_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:49:57.711Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/octo_505.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001871/01-octo_505.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/octo_505_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001871/02-octo_505_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/piscine-bois-bwt-mypool-tropic-505-pin-liner-bleu-france.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001871/03-piscine-bois-bwt-mypool-tropic-505-pin-liner-bleu-france.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/piscine-bois-bwt-mypool-tropic-505-pin-liner-bleu-france_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001871/04-piscine-bois-bwt-mypool-tropic-505-pin-liner-bleu-france_1_.jpg",
+      "skipped": false
+    }
+  ]
+}

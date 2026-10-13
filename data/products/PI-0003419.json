@@ -1,0 +1,73 @@
+{
+  "sku": "PI-0003419",
+  "url": "https://www.cabesto.com/fr/piscine-testeur-electronique-de-salinite-pi-1249.html",
+  "title": "PANIER SKIMME CERTIKIN SPC424",
+  "brand": "ZODIAC",
+  "category": "Analyse automatique",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Matériel d'analyse d'eau",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Analyse automatique",
+    "Ventes privées Piscine"
+  ],
+  "categories": [
+    "Matériel d'analyse d'eau",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Analyse automatique",
+    "Ventes privées Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PANIER SKIMME CERTIKIN SPC424"
+  ],
+  "description": "Achetez PANIER SKIMME CERTIKIN SPC424 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SPC424",
+  "price": {
+    "amount": 12,
+    "currency": "EUR",
+    "formatted": "12 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003419",
+      "sku": "PI-0003419",
+      "supplierRef": "SPC424",
+      "price": {
+        "amount": 12,
+        "currency": "EUR",
+        "formatted": "12 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/a/panier_skimmer_certikin.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/e/certikin_dimensions.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:39:26.284Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/panier_skimmer_certikin.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003419/01-panier_skimmer_certikin.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/e/certikin_dimensions.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003419/02-certikin_dimensions.jpg",
+      "skipped": false
+    }
+  ]
+}

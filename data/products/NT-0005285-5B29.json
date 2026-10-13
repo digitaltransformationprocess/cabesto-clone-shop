@@ -1,0 +1,61 @@
+{
+  "sku": "NT-0005285-5B29",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-opinel-n-8-inox-hetre-nt-0005285-5b29.html",
+  "title": "Opinel n°8 Inox Hêtre",
+  "brand": "OPINEL",
+  "category": "Couverts, couteaux",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Couverts, couteaux"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Couverts, couteaux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Opinel n°8 Inox Hêtre"
+  ],
+  "description": "Achetez Opinel n°8 Inox Hêtre chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1321",
+  "price": {
+    "amount": 14.95,
+    "currency": "EUR",
+    "formatted": "14.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005285-5B29",
+      "sku": "NT-0005285-5B29",
+      "supplierRef": "1321",
+      "price": {
+        "amount": 14.95,
+        "currency": "EUR",
+        "formatted": "14.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/g/bg06_1-opinel-n-8-inox-hetre-opinel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:55.951Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/g/bg06_1-opinel-n-8-inox-hetre-opinel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005285-5B29/01-bg06_1-opinel-n-8-inox-hetre-opinel.jpg",
+      "skipped": false
+    }
+  ]
+}

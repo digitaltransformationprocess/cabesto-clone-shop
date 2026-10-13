@@ -1,0 +1,79 @@
+{
+  "sku": "PI-0000724",
+  "url": "https://www.cabesto.com/fr/piscine-clapet-anti-retour-a-battant-d50-pi-810.html",
+  "title": "Clapet anti-retour à battant D50",
+  "brand": "CABESTO",
+  "category": "Pièces PVC",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Clapet anti-retour à battant D50"
+  ],
+  "description": "Achetez Clapet anti-retour à battant D50 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SCAR050",
+  "price": {
+    "amount": 49.99,
+    "currency": "EUR",
+    "formatted": "49.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000724",
+      "sku": "PI-0000724",
+      "supplierRef": "SCAR050",
+      "price": {
+        "amount": 49.99,
+        "currency": "EUR",
+        "formatted": "49.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/o/5/o50-clapet-a-battant-pvc-evacuation-interplast-in-scar050_vuxciq0o4emhhjzb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/l/clapet-a-battant-d50-17040.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/5/o50-clapet-a-battant-pvc-evacuation-interplast-in-scar050_9nggeh98orrhwxsi.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/5/o50-clapet-a-battant-pvc-evacuation-interplast-in-scar050_9yodz8ekzm5nya0r.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:37:51.540Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/5/o50-clapet-a-battant-pvc-evacuation-interplast-in-scar050_vuxciq0o4emhhjzb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000724/01-o50-clapet-a-battant-pvc-evacuation-interplast-in-scar050_vuxciq0o4emhhjzb.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/l/clapet-a-battant-d50-17040.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000724/02-clapet-a-battant-d50-17040.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/5/o50-clapet-a-battant-pvc-evacuation-interplast-in-scar050_9nggeh98orrhwxsi.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000724/03-o50-clapet-a-battant-pvc-evacuation-interplast-in-scar050_9nggeh98orrhwxsi.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/5/o50-clapet-a-battant-pvc-evacuation-interplast-in-scar050_9yodz8ekzm5nya0r.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000724/04-o50-clapet-a-battant-pvc-evacuation-interplast-in-scar050_9yodz8ekzm5nya0r.jpg",
+      "skipped": false
+    }
+  ]
+}

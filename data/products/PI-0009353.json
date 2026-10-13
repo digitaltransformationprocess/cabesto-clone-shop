@@ -1,0 +1,93 @@
+{
+  "sku": "PI-0009353",
+  "url": "https://www.cabesto.com/fr/piscine-piscine-bois-rect-urbaine-420-x-350-x-h133-cm-couv-auto-coffre-filtration-a-sable-et-chauffage-pi-73.html",
+  "title": "PISCINE URBAINE 4.20x3.50xHt1.33M avec Coffret connecté. Couverture Automatique immergée automatique. Pompe à Chaleur. Filtration à Sable et Coffre de Filtration",
+  "brand": "BWT",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine bois",
+    "Piscine rectangulaire",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "Piscine bois",
+    "Piscine rectangulaire",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE URBAINE 4.20x3.50xHt1.33M avec Coffret connecté. Couverture Automatique immergée automatique. Pompe à Chaleur. Filtration à Sable et Coffre de Filtration"
+  ],
+  "description": "Achetez PISCINE URBAINE 4.20x3.50xHt1.33M avec Coffret connecté. Couverture Automatique immergée automatique. Pompe à Chaleur. Filtration à Sable et Coffre de Filtration chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "27181814",
+  "price": {
+    "amount": 10876.8,
+    "currency": "EUR",
+    "formatted": "10876.8 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0009353",
+      "sku": "PI-0009353",
+      "supplierRef": "27181814",
+      "price": {
+        "amount": 10876.8,
+        "currency": "EUR",
+        "formatted": "10876.8 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/u/r/urbaine_4.2_connect_e_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/u/r/urbaine_4.2_connect_e_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/7/27181414_piscine_urbaine_4.2x3.5_ambiance_2020.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_13_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/piscine_2_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/i/piscine_1_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:44:31.356Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/u/r/urbaine_4.2_connect_e_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009353/01-urbaine_4.2_connect_e_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/u/r/urbaine_4.2_connect_e_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009353/02-urbaine_4.2_connect_e_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/7/27181414_piscine_urbaine_4.2x3.5_ambiance_2020.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009353/03-27181414_piscine_urbaine_4.2x3.5_ambiance_2020.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_13_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009353/04-hqdefault_13_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/piscine_2_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009353/05-piscine_2_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/i/piscine_1_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009353/06-piscine_1_1_2.jpg",
+      "skipped": false
+    }
+  ]
+}

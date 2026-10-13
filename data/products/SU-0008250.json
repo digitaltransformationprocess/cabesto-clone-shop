@@ -1,0 +1,95 @@
+{
+  "sku": "SU-0008250",
+  "url": "https://www.cabesto.com/fr/plongee-ceinture-salvimar-marseillaise-elastica-pro-135cm-pl-80047.html",
+  "title": "Ceinture de chasse sous-marine Marseillaise caoutchouc ELASTICA PRO 135 cm SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "lestage",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ceinture de chasse sous-marine Marseillaise caoutchouc ELASTICA PRO 135 cm SALVIMAR"
+  ],
+  "description": "Ceinture de chasse sous-marine et d'apnée Marseillaise caoutchouc ELASTICA PRO 135 cm SALVIMARConfort et sécurité maximale sous l'eau pour la chasse sous-marine, l'apnée ou la plongée sous-marine avec la ceinture de chasse sous-marine Marseillaise caoutchouc ELASTICA PRO 135 cm SALVIMAR.La ceinture de plongée SALVIMAR Marseillaise Pro est conçue pour offrir un confort inégalé et une sécurité optimale.Fabriquée avec un caoutchouc naturel très souple, elle s'adapte parfaitement aux mouvements du corps.La boucle en acier inoxydable garantit une fermeture sûre et facile à manipuler, même avec des gants.La boucle de ville dite \"Marseillaise\" est la SEULE boucle permettant un larguage rapide en tirant sur la sangle, ce qui libère la boucle et donc la ceinture.Disponible en tailles 135 cm elle répond aux besoins des plongeurs de statures standard à large.Ceinture élastique marseillaiseLongueur 135 cmBoucle en acier inoxydableTrous renforcésInsertion de poids facilitéeÉpaisseur différenciéeCaoutchouc naturel« Design » et « concept » made in SalvimarCaractéristiques Ceinture de Plongée Élastique SALVIMAR Marseillaise ProConception ergonomique pour un ajustement parfaitMatériaux de haute qualité pour une durabilité accrueBoucle en acier inoxydable pour une sécurité renforcéeDeux longueurs disponibles pour un confort sur mesureDesign élégant avec le logo SALVIMAR distinctifInformations techniques :MatériauCaoutchouc naturel élastiqueTailles disponibles135 cmType de boucleBoucle Marseillaise en inox avec 2 rivets inoxContenu du colis1 x Ceinture SALVIMAR Marseillaise Pro longueur 135 cm.",
+  "supplierRef": "400050B",
+  "price": {
+    "amount": 32.99,
+    "currency": "EUR",
+    "formatted": "32.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0008250",
+      "sku": "SU-0008250",
+      "supplierRef": "400050B",
+      "price": {
+        "amount": 32.99,
+        "currency": "EUR",
+        "formatted": "32.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/i/m/img-86-p1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-6151-pl-6151-picture_1-pl-6151-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-7583-pl-7583-picture_1-pl-7583-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-342-pl-342-picture_1-pl-342-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/e/design_sans_titre_15_.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/salvimar-elastic-belt-marsellaise-pro_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:32:41.725Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-86-p1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008250/01-img-86-p1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-6151-pl-6151-picture_1-pl-6151-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008250/02-pl-6151-pl-6151-picture_1-pl-6151-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-7583-pl-7583-picture_1-pl-7583-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008250/03-pl-7583-pl-7583-picture_1-pl-7583-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-342-pl-342-picture_1-pl-342-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008250/04-pl-342-pl-342-picture_1-pl-342-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/e/design_sans_titre_15_.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008250/05-design_sans_titre_15_.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/salvimar-elastic-belt-marsellaise-pro_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008250/06-salvimar-elastic-belt-marsellaise-pro_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "lestage"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "lestage"
+  ]
+}

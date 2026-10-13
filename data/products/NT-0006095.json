@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0006095",
+  "url": "https://www.cabesto.com/fr/verticalite-mousqueton-vulcan-triact-lock-petzl-nt-0006095.html",
+  "title": "Mousqueton Vulcan Triact-Lock - PETZL",
+  "brand": "PETZL",
+  "category": "Connecteurs",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Connecteurs"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Connecteurs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Mousqueton Vulcan Triact-Lock - PETZL"
+  ],
+  "description": "Achetez Mousqueton Vulcan Triact-Lock - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "M073BA00",
+  "price": {
+    "amount": 32.95,
+    "currency": "EUR",
+    "formatted": "32.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006095",
+      "sku": "NT-0006095",
+      "supplierRef": "M073BA00",
+      "price": {
+        "amount": 32.95,
+        "currency": "EUR",
+        "formatted": "32.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl49_1-mousqueton-vulcan-triact-lock-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl49_3-mousqueton-vulcan-triact-lock-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl49_2-mousqueton-vulcan-triact-lock-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl49_1-mousqueton-vulcan-triact-lock-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:20:08.062Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl49_1-mousqueton-vulcan-triact-lock-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006095/01-pl49_1-mousqueton-vulcan-triact-lock-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl49_3-mousqueton-vulcan-triact-lock-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006095/02-pl49_3-mousqueton-vulcan-triact-lock-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl49_2-mousqueton-vulcan-triact-lock-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006095/03-pl49_2-mousqueton-vulcan-triact-lock-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl49_1-mousqueton-vulcan-triact-lock-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006095/04-pl49_1-mousqueton-vulcan-triact-lock-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

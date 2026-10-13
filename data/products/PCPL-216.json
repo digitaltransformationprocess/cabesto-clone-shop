@@ -1,0 +1,65 @@
+{
+  "sku": "PCPL-216",
+  "url": "https://www.cabesto.com/fr/plongee-chaussures-de-plage-noir-pcpl-216.html",
+  "title": "CHAUSSURES DE PLAGE - NOIR",
+  "brand": "BEUCHAT",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "CHAUSSURES DE PLAGE - NOIR"
+  ],
+  "description": "détaillée Trouvez votre magasin le plus proche Vérifier la disponibilité dans votre magasin Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation. AVIS CLIENTS 4 / 5 Basé sur 2 avis soumis à un contrôle Voir tous les avis sur ce site 5 étoiles 0 4 étoiles 2 3 étoiles 0 2 étoiles 0 1 étoile 0 Trier les avis Les plus récents Les plus anciens Notes les plus élevées Notes les plus basses Les plus utiles 4/5 Avis vérifié parfait Avis du 23/11/2021 , suite à une expérience du 04/11/2021 par A.A. Utile (0) Signaler Réponse de cabesto.com L’équipe Cabesto vous remercie pour votre commentaire. Nous continuerons à travailler pour vous apporter la meilleure satisfaction clientèle possible 4/5 Avis vérifié Bon rapport qualité / prix Avis du 18/09/2021 , suite à une expérience du 11/07/2021 par A.A. Utile (0) Signaler",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-216",
+      "sku": "PCPL-216",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-216-pl-2189-picture_1-pcpl-216-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:12.335Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-216-pl-2189-picture_1-pcpl-216-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-216/01-pcpl-216-pl-2189-picture_1-pcpl-216-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

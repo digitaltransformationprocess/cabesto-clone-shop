@@ -1,0 +1,83 @@
+{
+  "sku": "SU-0005652",
+  "url": "https://www.cabesto.com/fr/plongee-robinet-t-a-g-230-b-pl-1850.html",
+  "title": "Robinet pour bouteille de plongée air double sortie TAG 232 bars M25X200 AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "robinets-bouteille-de-plongee-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Robinet pour bouteille de plongée air double sortie TAG 232 bars M25X200 AQUALUNG"
+  ],
+  "description": "Robinet pour bouteille de plongée air double sortie TAG 232 bars M25X200 AQUALUNGPlongez avec le meilleur robinet pour bloc de plongée disponible sur le marché avec le robinet double sortie TAG 232 bars M25X200 AQUALUNG, 100 % made in France et tête asymétrique exclusive brevetée AQUALUNG.Volant de fermeture/ouverture souple absorbant les chocsTête de robinetterie asymétriques pour un positionnement parfait des détendeurs : la gestion des flexibles est donc simplifié Embase avec des méplats facilitant le démontageFiletage col Type M25x200Pression de service 232 bars DIN ou ETRIER VENDU SANS INSERT DIN (OPERCULES)Norme EN 250Ce robinet a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 3) suivant la norme NF EN 250.Caractéristiques Robinet pour bouteille de plongée air double sortie TAG 232 bars M25X200 AQUALUNGMade in FranceLivré sans opercules/inserts DINPression de service 232 barsNon compatible NITROX et OXYGENEInformations techniques :Filetage col M25 mâleJoint COL R19 (inclus)Sorties Double sortie Asymètrique (brevet exclusif AQUALUNG)Filetage sortie M25 DIN (livré sans opercules/inserts DIN)Compatibilité Détendeur connexion DIN 200 / DIN 300 / ETRIER (YOKE)Pression de service max 232 barsGaz G1 AIR compriméNon compatible Détendeur connexion DIN M26, gaz NITROXFabrication FrançaiseNorme NF EN250Garantie 2 ansContenu du colis1 x Robinet double sortie TAG 232 bars AQUALUNG, sans opercules (inserts) DIN.1 x Manuel d'utilisation.",
+  "supplierRef": "46701103",
+  "price": {
+    "amount": 179,
+    "currency": "EUR",
+    "formatted": "179 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005652",
+      "sku": "SU-0005652",
+      "supplierRef": "46701103",
+      "price": {
+        "amount": 179,
+        "currency": "EUR",
+        "formatted": "179 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-1850-pl-1850-picture_1-pl-1850-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/0/801900115.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robinet_2_sorties.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-1850-pl-1850-picture_2-pl-1850-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:08.181Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-1850-pl-1850-picture_1-pl-1850-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005652/01-pl-1850-pl-1850-picture_1-pl-1850-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/0/801900115.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005652/02-801900115.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robinet_2_sorties.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005652/03-robinet_2_sorties.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-1850-pl-1850-picture_2-pl-1850-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005652/04-pl-1850-pl-1850-picture_2-pl-1850-2.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "bouteilles-et-blocs",
+    "robinets-bouteille-de-plongee-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "bouteilles-et-blocs",
+    "robinets-bouteille-de-plongee-sous-marine"
+  ]
+}

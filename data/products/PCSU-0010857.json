@@ -1,0 +1,109 @@
+{
+  "sku": "PCSU-0010857",
+  "url": "https://www.cabesto.com/fr/masque-de-plongee-sous-marine-x-vision-ultra-liquid-skin-uls-verres-miroirs-mares.html",
+  "title": "Masque de plongée sous-marine X-VISION ULTRA LIQUID SKIN ULS verres miroirs MARES",
+  "brand": "MARES",
+  "category": "Masques de plongée polyvalent tout type de visage",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Masques de plongée",
+    "Masques de plongée polyvalent tout type de visage"
+  ],
+  "categories": [
+    "Masques de plongée",
+    "Masques de plongée polyvalent tout type de visage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Masque de plongée sous-marine X-VISION ULTRA LIQUID SKIN ULS verres miroirs MARES"
+  ],
+  "description": "Profitez d’une vision élargie et d’un confort inégalé pour vos explorations subaquatiques avec le masque X-VISION ULTRA LIQUID SKIN ici en version verres miroir SILVER ou GOLD MARES, vision panoramique & confort ultime.",
+  "supplierRef": null,
+  "price": {
+    "amount": 54.99,
+    "currency": "EUR",
+    "formatted": "54.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0010857",
+      "sku": "PCSU-0010857",
+      "supplierRef": null,
+      "price": {
+        "amount": 54.99,
+        "currency": "EUR",
+        "formatted": "54.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/i/miroir.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/n/antifog_bio_gel_1608_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/n/antifog2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/l/cleaner2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/verre-correcteur-positif_droit_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/i/silver.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/411052_x-vision_ultra_lqs_gogrkgrk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/x/-/x-vision-ultra-liquidskin-sigrkgrk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/x/-/x-vision-ultra-liquidskin-gogrkgrk_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:39:11.906Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/miroir.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010857/01-miroir.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/n/antifog_bio_gel_1608_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010857/02-antifog_bio_gel_1608_00_800.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/n/antifog2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010857/03-antifog2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/l/cleaner2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010857/04-cleaner2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/verre-correcteur-positif_droit_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010857/05-verre-correcteur-positif_droit_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/i/silver.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010857/06-silver.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/411052_x-vision_ultra_lqs_gogrkgrk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010857/07-411052_x-vision_ultra_lqs_gogrkgrk.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/-/x-vision-ultra-liquidskin-sigrkgrk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010857/08-x-vision-ultra-liquidskin-sigrkgrk.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/-/x-vision-ultra-liquidskin-gogrkgrk_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010857/09-x-vision-ultra-liquidskin-gogrkgrk_1.jpg",
+      "skipped": true
+    }
+  ]
+}

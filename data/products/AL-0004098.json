@@ -1,0 +1,63 @@
+{
+  "sku": "AL-0004098",
+  "url": "https://www.cabesto.com/fr/supreme-de-langoustine-aux-epices-780g.html",
+  "title": "SUPREME DE LANGOUSTINE AUX EPICES 780G",
+  "brand": "BERNARD MAROT",
+  "category": "Soupes de crustacés et fruits de mer",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "langoustes-et-crustaces"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "langoustes-et-crustaces"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SUPREME DE LANGOUSTINE AUX EPICES 780G"
+  ],
+  "description": "Achetez SUPREME DE LANGOUSTINE AUX EPICES 780G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "97",
+  "price": {
+    "amount": 4.69,
+    "currency": "EUR",
+    "formatted": "4.69 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0004098",
+      "sku": "AL-0004098",
+      "supplierRef": "97",
+      "price": {
+        "amount": 4.69,
+        "currency": "EUR",
+        "formatted": "4.69 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6049949-6049949-picture_1-6049949_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:53:34.778Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6049949-6049949-picture_1-6049949_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0004098/01-6049949-6049949-picture_1-6049949_1.jpg",
+      "skipped": true
+    }
+  ]
+}

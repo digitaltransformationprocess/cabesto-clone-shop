@@ -1,0 +1,85 @@
+{
+  "sku": "PCNT-0003936",
+  "url": "https://www.cabesto.com/fr/randonnee-chaine-snowline-pro-1885.html",
+  "title": "Chaine Snowline Pro",
+  "brand": "DIVERS",
+  "category": "Antiglisse pour sols gelés",
+  "topLevel": "destockage",
+  "topLevelLabel": "Déstockage",
+  "categoryPath": [
+    "Chaussures",
+    "Neige & Glace",
+    "Alpinisme",
+    "Antiglisse pour sols gelés",
+    "Destockage Montagne"
+  ],
+  "categories": [
+    "Chaussures",
+    "Neige & Glace",
+    "Alpinisme",
+    "Antiglisse pour sols gelés",
+    "Destockage Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaine Snowline Pro"
+  ],
+  "description": "Achetez Chaine Snowline Pro chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 42.9,
+    "currency": "EUR",
+    "formatted": "42.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0003936",
+      "sku": "PCNT-0003936",
+      "supplierRef": null,
+      "price": {
+        "amount": 42.9,
+        "currency": "EUR",
+        "formatted": "42.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/8/1885_1_b-chaine-snowline-pro--.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/8/1885_1_k-chaine-snowline-pro--.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/8/1885_1_c-chaine-snowline-pro--.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/t/nt_0003936_1.jpg.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:24:42.507Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/8/1885_1_b-chaine-snowline-pro--.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003936/01-1885_1_b-chaine-snowline-pro--.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/8/1885_1_k-chaine-snowline-pro--.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003936/02-1885_1_k-chaine-snowline-pro--.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/8/1885_1_c-chaine-snowline-pro--.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003936/03-1885_1_c-chaine-snowline-pro--.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/t/nt_0003936_1.jpg.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003936/04-nt_0003936_1.jpg.png",
+      "skipped": false
+    }
+  ]
+}

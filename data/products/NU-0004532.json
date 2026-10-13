@@ -1,0 +1,65 @@
+{
+  "sku": "NU-0004532",
+  "url": "https://www.cabesto.com/fr/systeme-fixation-p-magma-sur-porte-canne-a-peche-magma.html",
+  "title": "Système fixation p.MAGMA sur porte-canne à pêche MAGMA",
+  "brand": "MAGMA",
+  "category": "barbecue",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "barbecue"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "barbecue"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Système fixation p.MAGMA sur porte-canne à pêche MAGMA"
+  ],
+  "description": "Achetez Système fixation p.MAGMA sur porte-canne à pêche MAGMA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "48.516.05",
+  "price": {
+    "amount": 199,
+    "currency": "EUR",
+    "formatted": "199 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0004532",
+      "sku": "NU-0004532",
+      "supplierRef": "48.516.05",
+      "price": {
+        "amount": 199,
+        "currency": "EUR",
+        "formatted": "199 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/y/syst_me_fixation_p.magma_sur_porte-canne_p_che.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:43:34.214Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/y/syst_me_fixation_p.magma_sur_porte-canne_p_che.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0004532/01-syst_me_fixation_p.magma_sur_porte-canne_p_che.jpg",
+      "skipped": false
+    }
+  ]
+}

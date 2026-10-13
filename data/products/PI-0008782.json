@@ -1,0 +1,91 @@
+{
+  "sku": "PI-0008782",
+  "url": "https://www.cabesto.com/fr/piscine-tropic-5-10-x-1-20m-procopi.html",
+  "title": "PISCINE BOIS TROPIC+510 4.95X3.45Xht1.2M - Octogonale allongée",
+  "brand": "BWT",
+  "category": "Piscine octogonale allongée",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine bois",
+    "Piscine octogonale allongée"
+  ],
+  "categories": [
+    "Piscine bois",
+    "Piscine octogonale allongée"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piscine hors-sol",
+    "Piscine hors-sol",
+    "Piscine bois",
+    "Piscine bois",
+    "Piscine",
+    "Piscine",
+    "PISCINE BOIS TROPIC+510 4.95X3.45Xht1.2M - Octogonale allongée"
+  ],
+  "description": "Achetez PISCINE BOIS TROPIC+510 4.95X3.45Xht1.2M - Octogonale allongée chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "27113205",
+  "price": {
+    "amount": 5130,
+    "currency": "EUR",
+    "formatted": "5130 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0008782",
+      "sku": "PI-0008782",
+      "supplierRef": "27113205",
+      "price": {
+        "amount": 5130,
+        "currency": "EUR",
+        "formatted": "5130 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/o/c/octo_510.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/c/octo_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/c/octo_510_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/c/octo_510_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_18_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:49:41.100Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/octo_510.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0008782/01-octo_510.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/octo_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0008782/02-octo_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/octo_510_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0008782/03-octo_510_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/c/octo_510_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0008782/04-octo_510_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_18_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0008782/05-hqdefault_18_10.jpg",
+      "skipped": false
+    }
+  ]
+}

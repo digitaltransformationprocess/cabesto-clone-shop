@@ -1,0 +1,109 @@
+{
+  "sku": "PI-0001086",
+  "url": "https://www.cabesto.com/fr/robot-piscine-freerider-rf5200-sans-cable.html",
+  "title": "ROBOT DE PISCINE SANS FIL FREERIDER RF 5200IQ ZODIAC",
+  "brand": "ZODIAC",
+  "category": "Robot électrique sans fil",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Robot électrique",
+    "Sélection Piscine",
+    "Robot électrique sans fil"
+  ],
+  "categories": [
+    "Robot électrique",
+    "Sélection Piscine",
+    "Robot électrique sans fil"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piscine",
+    "Piscine",
+    "Robot électrique",
+    "Robot électrique",
+    "ROBOT DE PISCINE SANS FIL FREERIDER RF 5200IQ ZODIAC"
+  ],
+  "description": "ROBOT PISCINE FREERIDER RF5200 SANS CABLE ROBOT DE PISCINE SANS CÂBLES FREERIDER 5200 ZODIAC Découvrez toute la technologie et le savoir-faire des robots Zodiac, sans contrainte de câble ! Profitez-en dès maintenant ! Libéré de son câble, notre robot de",
+  "supplierRef": "WR000576",
+  "price": {
+    "amount": 999,
+    "currency": "EUR",
+    "formatted": "999 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001086",
+      "sku": "PI-0001086",
+      "supplierRef": "WR000576",
+      "price": {
+        "amount": 999,
+        "currency": "EUR",
+        "formatted": "999 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/3/439121_imgweb_robot_zodiac_freerider_1_597c_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_10_52.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:50:22.415Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/3/439121_imgweb_robot_zodiac_freerider_1_597c_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001086/01-439121_imgweb_robot_zodiac_freerider_1_597c_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001086/02-robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001086/03-robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001086/04-robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_2_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_3_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001086/05-robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_3_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_4_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001086/06-robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_4_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_5_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001086/07-robot-piscine-zodiac-sans-fil-freerider-rf-5200-iq_5_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_10_52.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001086/08-hqdefault_10_52.jpg",
+      "skipped": false
+    }
+  ]
+}

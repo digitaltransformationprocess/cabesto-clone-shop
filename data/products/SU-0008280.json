@@ -1,0 +1,69 @@
+{
+  "sku": "SU-0008280",
+  "url": "https://www.cabesto.com/fr/plongee-capuchon-protection-pour-camera-vaquita-pl-79961.html",
+  "title": "Capuchon de protection pour caméra VAQUITA",
+  "brand": "DIVERS",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage",
+    "Destockage",
+    "Capuchon de protection pour caméra VAQUITA"
+  ],
+  "description": "Capuchon de protection pour caméra VAQUITAProtégez l'objectif de votre caméra sous-marine VAQUITA avec ce capuchon spécifique en élastomère, idéal pour le transport ou le stockage. Protège objectif en élastomère pour camera sous-marine PARALENZ, se monte simplement sur l'objectif de votre camera PARALENZ pour la protéger.Protection de la lentille lors de son stockage ou du transport, ce capuchon se fixe autour de l'objectif et du bouton central d'action.Contenu du colis1 x capuchon élastomère pour caméra VAQUITA",
+  "supplierRef": "PAR21402",
+  "price": {
+    "amount": 19,
+    "currency": "EUR",
+    "formatted": "19 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0008280",
+      "sku": "SU-0008280",
+      "supplierRef": "PAR21402",
+      "price": {
+        "amount": 19,
+        "currency": "EUR",
+        "formatted": "19 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/r/protection_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:32:05.612Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/protection_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008280/01-protection_2.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0008206",
+  "url": "https://www.cabesto.com/fr/guide-bet-lock-vis.html",
+  "title": "Guide Bet Lock vis",
+  "brand": "CAMP",
+  "category": "mousquetons-a-vis",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "mousquetons-degaines-maillons",
+    "mousquetons",
+    "mousquetons-a-vis"
+  ],
+  "categories": [
+    "montagne",
+    "mousquetons-degaines-maillons",
+    "mousquetons",
+    "mousquetons-a-vis"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Guide Bet Lock vis"
+  ],
+  "description": "Achetez Guide Bet Lock vis chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1309.03",
+  "price": {
+    "amount": 12.49,
+    "currency": "EUR",
+    "formatted": "12.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0008206",
+      "sku": "NT-0008206",
+      "supplierRef": "1309.03",
+      "price": {
+        "amount": 12.49,
+        "currency": "EUR",
+        "formatted": "12.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/3/130903.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:38:18.517Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/3/130903.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0008206/01-130903.jpg",
+      "skipped": false
+    }
+  ]
+}

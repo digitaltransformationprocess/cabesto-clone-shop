@@ -1,0 +1,63 @@
+{
+  "sku": "NU-0003600",
+  "url": "https://www.cabesto.com/fr/kit-d-encastrement-pour-ic-m330-e-ic-m330ge-ic-m423ge.html",
+  "title": "Kit d'encastrement pour IC- M330GE",
+  "brand": "ICOM",
+  "category": "Accessoires VHF fixes et portables",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Electronique",
+    "VHF",
+    "Accessoires VHF fixes et portables"
+  ],
+  "categories": [
+    "Electronique",
+    "VHF",
+    "Accessoires VHF fixes et portables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Kit d'encastrement pour IC- M330GE"
+  ],
+  "description": "Achetez Kit d'encastrement pour IC- M330GE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "MBF-5",
+  "price": {
+    "amount": 47,
+    "currency": "EUR",
+    "formatted": "47 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0003600",
+      "sku": "NU-0003600",
+      "supplierRef": "MBF-5",
+      "price": {
+        "amount": 47,
+        "currency": "EUR",
+        "formatted": "47 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/b/mbf-5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:06:49.177Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/b/mbf-5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0003600/01-mbf-5.jpg",
+      "skipped": false
+    }
+  ]
+}

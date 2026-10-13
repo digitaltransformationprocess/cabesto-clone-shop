@@ -1,0 +1,71 @@
+{
+  "sku": "NT-0003535",
+  "url": "https://www.cabesto.com/fr/carte-top-25-3742ot-nice-menton.html",
+  "title": "Carte Top 25 - 3742OT Nice Menton",
+  "brand": "IGN",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Cartes topographiques",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Cartes topographiques",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Carte Top 25 - 3742OT Nice Menton"
+  ],
+  "description": "Achetez Carte Top 25 - 3742OT Nice Menton chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "IG3742OT",
+  "price": {
+    "amount": 14.3,
+    "currency": "EUR",
+    "formatted": "14.3 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0003535",
+      "sku": "NT-0003535",
+      "supplierRef": "IG3742OT",
+      "price": {
+        "amount": 14.3,
+        "currency": "EUR",
+        "formatted": "14.3 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/7/17zk_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/17zk_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:46.295Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/17zk_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0003535/01-17zk_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/17zk_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0003535/02-17zk_2.jpg",
+      "skipped": false
+    }
+  ]
+}

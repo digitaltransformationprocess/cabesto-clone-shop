@@ -1,0 +1,109 @@
+{
+  "sku": "PCNT-0004213",
+  "url": "https://www.cabesto.com/fr/verticalite-chaussons-neoprenes-3-mm-seland-gr54.html",
+  "title": "Chaussons néoprène 3 mm SELAND",
+  "brand": "SELAND",
+  "category": "Chaussons néoprène",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Canyoning",
+    "Chaussons néoprène"
+  ],
+  "categories": [
+    "Canyoning",
+    "Chaussons néoprène"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussons néoprène 3 mm SELAND"
+  ],
+  "description": "Achetez Chaussons néoprène 3 mm SELAND chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 22,
+    "currency": "EUR",
+    "formatted": "22 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004213",
+      "sku": "PCNT-0004213",
+      "supplierRef": null,
+      "price": {
+        "amount": 22,
+        "currency": "EUR",
+        "formatted": "22 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:26:10.478Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004213/01-gr54_1_a-chaussons-3-mm-seland_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004213/02-gr54_1_a-chaussons-3-mm-seland_8.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004213/03-gr54_1_a-chaussons-3-mm-seland.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004213/04-gr54_1_a-chaussons-3-mm-seland_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004213/05-gr54_1_a-chaussons-3-mm-seland_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004213/06-gr54_1_a-chaussons-3-mm-seland_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004213/07-gr54_1_a-chaussons-3-mm-seland_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004213/08-gr54_1_a-chaussons-3-mm-seland_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr54_1_a-chaussons-3-mm-seland_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004213/09-gr54_1_a-chaussons-3-mm-seland_6.jpg",
+      "skipped": false
+    }
+  ]
+}

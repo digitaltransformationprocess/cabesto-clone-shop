@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0002758",
+  "url": "https://www.cabesto.com/fr/electrolyseur-zodiac-exo-iq-18g-h-pour-piscine-jusqu-a-70m3-pi-0002758.html",
+  "title": "ELECTROLYSEUR ZODIAC EXO IQ 18G/H POUR PISCINE JUSQU'A 70M3",
+  "brand": "ZODIAC",
+  "category": "Électrolyse et sel",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Électrolyseur de piscine",
+    "Électrolyse et sel"
+  ],
+  "categories": [
+    "Électrolyseur de piscine",
+    "Électrolyse et sel"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ELECTROLYSEUR ZODIAC EXO IQ 18G/H POUR PISCINE JUSQU'A 70M3"
+  ],
+  "description": "Achetez ELECTROLYSEUR ZODIAC EXO IQ 18G/H POUR PISCINE JUSQU'A 70M3 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "WW000163",
+  "price": {
+    "amount": 1818,
+    "currency": "EUR",
+    "formatted": "1818 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002758",
+      "sku": "PI-0002758",
+      "supplierRef": "WW000163",
+      "price": {
+        "amount": 1818,
+        "currency": "EUR",
+        "formatted": "1818 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/l/electrolyseur-sel-zodiac-exo-iq-600x600.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:51:31.503Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/l/electrolyseur-sel-zodiac-exo-iq-600x600.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002758/01-electrolyseur-sel-zodiac-exo-iq-600x600.jpg",
+      "skipped": false
+    }
+  ]
+}

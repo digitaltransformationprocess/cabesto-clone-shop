@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0000073",
+  "url": "https://www.cabesto.com/fr/piscine-aquachek-blanc-test-taux-de-sel-pi-1337.html",
+  "title": "Aquachek Blanc test taux de sel",
+  "brand": "AQUACHEK",
+  "category": "Bandelette d'analyse",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Matériel d'analyse d'eau",
+    "Bandelette d'analyse"
+  ],
+  "categories": [
+    "Matériel d'analyse d'eau",
+    "Bandelette d'analyse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Aquachek Blanc test taux de sel"
+  ],
+  "description": "Achetez Aquachek Blanc test taux de sel chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "561141AEU",
+  "price": {
+    "amount": 13.99,
+    "currency": "EUR",
+    "formatted": "13.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000073",
+      "sku": "PI-0000073",
+      "supplierRef": "561141AEU",
+      "price": {
+        "amount": 13.99,
+        "currency": "EUR",
+        "formatted": "13.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/q/aquachek-blanc-test-taux-de-sel-12186.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:39:57.206Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/q/aquachek-blanc-test-taux-de-sel-12186.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000073/01-aquachek-blanc-test-taux-de-sel-12186.jpg",
+      "skipped": false
+    }
+  ]
+}

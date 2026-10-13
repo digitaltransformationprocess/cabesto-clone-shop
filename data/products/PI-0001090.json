@@ -1,0 +1,87 @@
+{
+  "sku": "PI-0001090",
+  "url": "https://www.cabesto.com/fr/robot-piscine-alpha-w635-polaris.html",
+  "title": "ROBOT DE PISCINE FILAIRE ALPHA W635 POLARIS",
+  "brand": "POLARIS",
+  "category": "Robot électrique filaire",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Robot électrique",
+    "Sélection Piscine",
+    "Robot électrique filaire"
+  ],
+  "categories": [
+    "Robot électrique",
+    "Sélection Piscine",
+    "Robot électrique filaire"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROBOT DE PISCINE FILAIRE ALPHA W635 POLARIS"
+  ],
+  "description": "Achetez ROBOT DE PISCINE FILAIRE ALPHA W635 POLARIS chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "WR000428",
+  "price": {
+    "amount": 949,
+    "currency": "EUR",
+    "formatted": "949 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001090",
+      "sku": "PI-0001090",
+      "supplierRef": "WR000428",
+      "price": {
+        "amount": 949,
+        "currency": "EUR",
+        "formatted": "949 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/r/productpage_48_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/productpage_51_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/productpage_50_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/productpage_49_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/productpage_47_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:50:14.333Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/productpage_48_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001090/01-productpage_48_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/productpage_51_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001090/02-productpage_51_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/productpage_50_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001090/03-productpage_50_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/productpage_49_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001090/04-productpage_49_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/productpage_47_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001090/05-productpage_47_.jpg",
+      "skipped": false
+    }
+  ]
+}

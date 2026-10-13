@@ -1,0 +1,87 @@
+{
+  "sku": "PCSU-0009840",
+  "url": "https://www.cabesto.com/fr/shorty-wave-reversible-4mm-homme-aqua-lung.html",
+  "title": "Combinaison de plongée shorty WAVE réversible homme 4 mm AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "Longe-côte & Marche aquatique",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Combinaisons de plongée",
+    "Combinaisons de plongée homme",
+    "Longe-côte & Marche aquatique"
+  ],
+  "categories": [
+    "Plongée",
+    "Plongée sous-marine",
+    "Combinaisons de plongée",
+    "Combinaisons de plongée homme",
+    "Longe-côte & Marche aquatique"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Plongée",
+    "Plongée",
+    "Plongée sous-marine",
+    "Plongée sous-marine",
+    "Combinaisons de plongée",
+    "Combinaisons de plongée",
+    "Combinaisons de plongée homme",
+    "Combinaisons de plongée homme",
+    "Combinaison de plongée shorty WAVE réversible homme 4 mm AQUALUNG"
+  ],
+  "description": "Plongez et retournez le shorty réversible 4 mm AQUA LUNG résistant et chaud, 2 shortys pour le prix d'un.",
+  "supplierRef": null,
+  "price": {
+    "amount": 124,
+    "currency": "EUR",
+    "formatted": "124 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0009840",
+      "sku": "PCSU-0009840",
+      "supplierRef": null,
+      "price": {
+        "amount": 124,
+        "currency": "EUR",
+        "formatted": "124 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/q/aqualung-homme-wave-shorty-rev-4-mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/h/shorty-wave-reversible-4mm-homme-aqua-lung_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/q/aql-vet-humides_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:55:00.789Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/q/aqualung-homme-wave-shorty-rev-4-mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009840/01-aqualung-homme-wave-shorty-rev-4-mm.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/h/shorty-wave-reversible-4mm-homme-aqua-lung_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009840/02-shorty-wave-reversible-4mm-homme-aqua-lung_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/q/aql-vet-humides_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0009840/03-aql-vet-humides_01.jpg",
+      "skipped": false
+    }
+  ]
+}

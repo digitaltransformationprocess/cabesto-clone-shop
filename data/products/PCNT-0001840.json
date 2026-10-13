@@ -1,0 +1,109 @@
+{
+  "sku": "PCNT-0001840",
+  "url": "https://www.cabesto.com/fr/verticalite-harnais-avao-bod-fast-ii-petzl-pp64.html",
+  "title": "Harnais Avao Bod Fast II - PETZL",
+  "brand": "PETZL",
+  "category": "Harnais antichute",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Harnais antichute"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Harnais antichute"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Harnais Avao Bod Fast II - PETZL"
+  ],
+  "description": "Achetez Harnais Avao Bod Fast II - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 353.95,
+    "currency": "EUR",
+    "formatted": "353.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0001840",
+      "sku": "PCNT-0001840",
+      "supplierRef": null,
+      "price": {
+        "amount": 353.95,
+        "currency": "EUR",
+        "formatted": "353.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/p/pp64_1_l-harnais-avao-bod-fast-ii-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp64_5_l-harnais-avao-bod-fast-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp64_4_l-harnais-avao-bod-fast-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp64_3_l-harnais-avao-bod-fast-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp64_2_l-harnais-avao-bod-fast-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp64_1_l-harnais-avao-bod-fast-ii-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp64_1_l-harnais-avao-bod-fast-ii-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp64_1_l-harnais-avao-bod-fast-ii-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:28:59.534Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp64_1_l-harnais-avao-bod-fast-ii-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001840/01-pp64_1_l-harnais-avao-bod-fast-ii-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp64_5_l-harnais-avao-bod-fast-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001840/02-pp64_5_l-harnais-avao-bod-fast-ii-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp64_4_l-harnais-avao-bod-fast-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001840/03-pp64_4_l-harnais-avao-bod-fast-ii-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp64_3_l-harnais-avao-bod-fast-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001840/04-pp64_3_l-harnais-avao-bod-fast-ii-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp64_2_l-harnais-avao-bod-fast-ii-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001840/05-pp64_2_l-harnais-avao-bod-fast-ii-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp64_1_l-harnais-avao-bod-fast-ii-petzl_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001840/06-pp64_1_l-harnais-avao-bod-fast-ii-petzl_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp64_1_l-harnais-avao-bod-fast-ii-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001840/07-pp64_1_l-harnais-avao-bod-fast-ii-petzl_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp64_1_l-harnais-avao-bod-fast-ii-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0001840/08-pp64_1_l-harnais-avao-bod-fast-ii-petzl_2.jpg",
+      "skipped": false
+    }
+  ]
+}

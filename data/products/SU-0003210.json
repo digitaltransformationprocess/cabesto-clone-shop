@@ -1,0 +1,63 @@
+{
+  "sku": "SU-0003210",
+  "url": "https://www.cabesto.com/fr/plongee-kit-monofil-15-ml-6-sleeves-180-100-sous-skin-pack-pl-1783.html",
+  "title": "Kit fil chasse sous-marine monofil nylon noir Ø 1.8 mm 15 m + 6 sleeves IMERSION",
+  "brand": "IMERSION",
+  "category": "cordages-pour-drisses-et-ecoutes",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Kit fil chasse sous-marine monofil nylon noir Ø 1.8 mm 15 m + 6 sleeves IMERSION"
+  ],
+  "description": "Kit monofil 15 m + 6 sleeves 180/100 IMERSIONKit monofil 15 mètres de monofilement en nylon noir diamètre Ø 1.8 mm + 6 sleeves.Ce kit monofil + sleeves est conçu pour changer le fil d’origine ou remplacer un fil casser sur votre arbalète de chasse sous-marine.",
+  "supplierRef": "DC120",
+  "price": {
+    "amount": 6.99,
+    "currency": "EUR",
+    "formatted": "6.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003210",
+      "sku": "SU-0003210",
+      "supplierRef": "DC120",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-1783-pl-1783-picture_1-pl-1783-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:01.579Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-1783-pl-1783-picture_1-pl-1783-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003210/01-pl-1783-pl-1783-picture_1-pl-1783-1.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "cordages",
+    "cordages-pour-drisses-et-ecoutes"
+  ],
+  "categories": [
+    "nautisme",
+    "cordages",
+    "cordages-pour-drisses-et-ecoutes"
+  ]
+}

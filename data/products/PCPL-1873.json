@@ -1,0 +1,85 @@
+{
+  "sku": "PCPL-1873",
+  "url": "https://www.cabesto.com/fr/plongee-flexible-mp-vp-extraflex-3-8-m-9-16-f-76-cm-pcpl-1873.html",
+  "title": "Flexible moyenne pression tressé extraflex 76 cm mâle 3/8\" / femelle 9/16\"",
+  "brand": "AQUATYS",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Flexible moyenne pression tressé extraflex 76 cm mâle 3/8\" / femelle 9/16\""
+  ],
+  "description": "Flexible moyenne pression tressé extraflex 76 cm mâle 3/8\" - femelle 9/16\"Découvrez nos flexibles moyenne pression tressés : pas cher, plus résitant, plus souple et plus léger qu'un flexible classique.Flexible tressé moyenne pression pour détendeur de plongée.Longueur \"standard\" : 76 cmConnexion mâle côté 1er étage détendeur : 3/8\"Connexion femelle côté 2ème étage détedneur : 9/16\"Made in ItalyCertifié CE par la RINACouleurs au choix",
+  "supplierRef": null,
+  "price": {
+    "amount": 23.99,
+    "currency": "EUR",
+    "formatted": "23.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1873",
+      "sku": "PCPL-1873",
+      "supplierRef": null,
+      "price": {
+        "amount": 23.99,
+        "currency": "EUR",
+        "formatted": "23.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/y/myflex-couleur.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/protecteur-flexible.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/l/flexible-mp-miflex.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/l/flexible-mp-detendeur-de-plongee-sous-marine-hyperflex-tresse-noir-76-cm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/l/flexible-mp-miflex_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:09.348Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/y/myflex-couleur.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1873/01-myflex-couleur.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/protecteur-flexible.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1873/02-protecteur-flexible.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/l/flexible-mp-miflex.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1873/03-flexible-mp-miflex.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/l/flexible-mp-detendeur-de-plongee-sous-marine-hyperflex-tresse-noir-76-cm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1873/04-flexible-mp-detendeur-de-plongee-sous-marine-hyperflex-tresse-noir-76-cm.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/l/flexible-mp-miflex_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1873/05-flexible-mp-miflex_1_.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

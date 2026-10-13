@@ -1,0 +1,93 @@
+{
+  "sku": "PCNT-0016224",
+  "url": "https://www.cabesto.com/fr/neige-glace-piolet-sum-tec-petzl-pl03.html",
+  "title": "Piolet Sum'Tec - PETZL",
+  "brand": "PETZL",
+  "category": "Piolets classiques et techniques",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Neige & Glace",
+    "Alpinisme",
+    "Piolets classiques et techniques"
+  ],
+  "categories": [
+    "Neige & Glace",
+    "Alpinisme",
+    "Piolets classiques et techniques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piolet Sum'Tec - PETZL"
+  ],
+  "description": "Achetez Piolet Sum'Tec - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 139.9,
+    "currency": "EUR",
+    "formatted": "139.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0016224",
+      "sku": "PCNT-0016224",
+      "supplierRef": null,
+      "price": {
+        "amount": 139.9,
+        "currency": "EUR",
+        "formatted": "139.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl03_1_d-piolet-sum-tec-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl03_2_d-piolet-sum-tec-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl03_1_d-piolet-sum-tec-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_55_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl03_1_d-piolet-sum-tec-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl03_1_d-piolet-sum-tec-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:28:25.732Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl03_1_d-piolet-sum-tec-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016224/01-pl03_1_d-piolet-sum-tec-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl03_2_d-piolet-sum-tec-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016224/02-pl03_2_d-piolet-sum-tec-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl03_1_d-piolet-sum-tec-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016224/03-pl03_1_d-piolet-sum-tec-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_55_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016224/04-hqdefault_55_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl03_1_d-piolet-sum-tec-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016224/05-pl03_1_d-piolet-sum-tec-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl03_1_d-piolet-sum-tec-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016224/06-pl03_1_d-piolet-sum-tec-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

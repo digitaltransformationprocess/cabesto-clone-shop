@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0028262",
+  "url": "https://www.cabesto.com/fr/bivouac-camping-couteau-multifonction-free-t2-leatherman-nt-0028262.html",
+  "title": "Couteau Multifonction Free T2 - LEATHERMAN",
+  "brand": "LEATHERMAN",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Bivouac, camping",
+    "Couverts, couteaux",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Bivouac, camping",
+    "Couverts, couteaux",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couteau Multifonction Free T2 - LEATHERMAN"
+  ],
+  "description": "Achetez Couteau Multifonction Free T2 - LEATHERMAN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "832682",
+  "price": {
+    "amount": 50.96,
+    "currency": "EUR",
+    "formatted": "50.96 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028262",
+      "sku": "NT-0028262",
+      "supplierRef": "832682",
+      "price": {
+        "amount": 50.96,
+        "currency": "EUR",
+        "formatted": "50.96 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/g/bg02_1-couteau-multifonction-free-t2-leatherman.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/g/bg02_1-couteau-multifonction-free-t2-leatherman_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:51.254Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/g/bg02_1-couteau-multifonction-free-t2-leatherman.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028262/01-bg02_1-couteau-multifonction-free-t2-leatherman.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/g/bg02_1-couteau-multifonction-free-t2-leatherman_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028262/02-bg02_1-couteau-multifonction-free-t2-leatherman_1.jpg",
+      "skipped": false
+    }
+  ]
+}

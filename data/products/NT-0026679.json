@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0026679",
+  "url": "https://www.cabesto.com/fr/sac-etanche-500d-5l-bleu-frendo.html",
+  "title": "Sac Etanche 500D 5L Bleu FRENDO",
+  "brand": "FRENDO",
+  "category": "Kayaks",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Sacs étanches",
+    "Glisse",
+    "Black November - Glisse",
+    "Sacs et bidons étanches",
+    "Kayaks"
+  ],
+  "categories": [
+    "Sacs étanches",
+    "Glisse",
+    "Black November - Glisse",
+    "Sacs et bidons étanches",
+    "Kayaks"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac Etanche 500D 5L Bleu FRENDO"
+  ],
+  "description": "Achetez Sac Etanche 500D 5L Bleu FRENDO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "701817",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0026679",
+      "sku": "NT-0026679",
+      "supplierRef": "701817",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/a/bag-frendo-bleu-5l.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:42:30.084Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/a/bag-frendo-bleu-5l.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0026679/01-bag-frendo-bleu-5l.jpg",
+      "skipped": false
+    }
+  ]
+}

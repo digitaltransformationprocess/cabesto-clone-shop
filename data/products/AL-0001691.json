@@ -1,0 +1,63 @@
+{
+  "sku": "AL-0001691",
+  "url": "https://www.cabesto.com/fr/filets-de-harengs-fumes-100g.html",
+  "title": "FILETS DE HARENGS FUMES 100G",
+  "brand": "LA POINTE DE PENMARCH",
+  "category": "Conserves Autres Poissons",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "poissons"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "poissons"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FILETS DE HARENGS FUMES 100G"
+  ],
+  "description": "Achetez FILETS DE HARENGS FUMES 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "MPO 000 116",
+  "price": {
+    "amount": 4.29,
+    "currency": "EUR",
+    "formatted": "4.29 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001691",
+      "sku": "AL-0001691",
+      "supplierRef": "MPO 000 116",
+      "price": {
+        "amount": 4.29,
+        "currency": "EUR",
+        "formatted": "4.29 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6014851-6014851-picture_1-6014851_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:02:37.884Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6014851-6014851-picture_1-6014851_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001691/01-6014851-6014851-picture_1-6014851_1.jpg",
+      "skipped": false
+    }
+  ]
+}

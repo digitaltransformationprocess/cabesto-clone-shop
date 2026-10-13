@@ -1,0 +1,75 @@
+{
+  "sku": "NT-0019122",
+  "url": "https://www.cabesto.com/fr/verticalite-sellette-pour-harnais-sequoia-et-sequoia-str-petzl-nt-0019122.html",
+  "title": "Sellette pour harnais Sequoia et Sequoia STR - PETZL",
+  "brand": "PETZL",
+  "category": "Accessoires élagage",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Elagage",
+    "Accessoires élagage"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Elagage",
+    "Accessoires élagage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sellette pour harnais Sequoia et Sequoia STR - PETZL"
+  ],
+  "description": "Achetez Sellette pour harnais Sequoia et Sequoia STR - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "S069AA00",
+  "price": {
+    "amount": 109.95,
+    "currency": "EUR",
+    "formatted": "109.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0019122",
+      "sku": "NT-0019122",
+      "supplierRef": "S069AA00",
+      "price": {
+        "amount": 109.95,
+        "currency": "EUR",
+        "formatted": "109.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/x/px75_1-sellette-pour-harnais-sequoia-et-sequoia-str-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px75_2-sellette-pour-harnais-sequoia-et-sequoia-str-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px75_1-sellette-pour-harnais-sequoia-et-sequoia-str-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:17.950Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px75_1-sellette-pour-harnais-sequoia-et-sequoia-str-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0019122/01-px75_1-sellette-pour-harnais-sequoia-et-sequoia-str-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px75_2-sellette-pour-harnais-sequoia-et-sequoia-str-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0019122/02-px75_2-sellette-pour-harnais-sequoia-et-sequoia-str-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px75_1-sellette-pour-harnais-sequoia-et-sequoia-str-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0019122/03-px75_1-sellette-pour-harnais-sequoia-et-sequoia-str-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

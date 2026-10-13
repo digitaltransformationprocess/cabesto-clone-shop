@@ -1,0 +1,69 @@
+{
+  "sku": "SU-0004909",
+  "url": "https://www.cabesto.com/fr/plongee-planche-eskwad-imersion-pl-12574.html",
+  "title": "Planche de chasse sous-marine ESKWAD IMERSION",
+  "brand": "IMERSION",
+  "category": "signalisation",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Planche de chasse sous-marine ESKWAD IMERSION"
+  ],
+  "description": "Une planche de chasse sous marine généreuse ! L'Eskwad d'Imersion est idéale pour le chasseur sachant chasser avec tout son équipement à portée de palmes.La planche gonflable Eskwad est idéale pour la chasse sous-marine comme pour d’autres activités aquatiques. Sa double enveloppe est réalisée en PVC 0,35 mm pour plus de résistance. Elle dispose de trois modules internes indépendants pour un meilleur gonflage et pour plus de sécurité ainsi que d’un drapeau pour être identifiée. Des attaches-fusils sont prévus sur les côtés de la planche. Dimensions 90 x 63 x 16 cm.Poids 2,5 kg.",
+  "supplierRef": "B721",
+  "price": {
+    "amount": 105.99,
+    "currency": "EUR",
+    "formatted": "105.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004909",
+      "sku": "SU-0004909",
+      "supplierRef": "B721",
+      "price": {
+        "amount": 105.99,
+        "currency": "EUR",
+        "formatted": "105.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-12574-pl-12574-picture_1-pl-12574-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-12574-pl-12574-picture_2-pl-12574-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:14.686Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-12574-pl-12574-picture_1-pl-12574-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004909/01-pl-12574-pl-12574-picture_1-pl-12574-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-12574-pl-12574-picture_2-pl-12574-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004909/02-pl-12574-pl-12574-picture_2-pl-12574-2.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "chasse-sous-marine",
+    "signalisation"
+  ],
+  "categories": [
+    "plongee",
+    "chasse-sous-marine",
+    "signalisation"
+  ]
+}

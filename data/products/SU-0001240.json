@@ -1,0 +1,69 @@
+{
+  "sku": "SU-0001240",
+  "url": "https://www.cabesto.com/fr/plongee-bracelet-galileo-pl-2168.html",
+  "title": "Bracelet pour ordinateur GALILEO SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "ordinateurs-de-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bracelet pour ordinateur GALILEO SCUBAPRO"
+  ],
+  "description": "bracelet pour ordinateur galiléo",
+  "supplierRef": "06.203.027",
+  "price": {
+    "amount": 38.99,
+    "currency": "EUR",
+    "formatted": "38.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0001240",
+      "sku": "SU-0001240",
+      "supplierRef": "06.203.027",
+      "price": {
+        "amount": 38.99,
+        "currency": "EUR",
+        "formatted": "38.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/u/t/utcgsss_1adrphgtgfzytjkv.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-2168-pl-2168-picture_1-pl-2168-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:12.754Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/u/t/utcgsss_1adrphgtgfzytjkv.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001240/01-utcgsss_1adrphgtgfzytjkv.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-2168-pl-2168-picture_1-pl-2168-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001240/02-pl-2168-pl-2168-picture_1-pl-2168-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee"
+  ]
+}

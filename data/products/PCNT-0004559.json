@@ -1,0 +1,73 @@
+{
+  "sku": "PCNT-0004559",
+  "url": "https://www.cabesto.com/fr/verticalite-chaine-rappel-plaquettes-inox-316l-fixe-fx14.html",
+  "title": "Chaîne rappel plaquettes inox 316L - FIXE",
+  "brand": "FIXE",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Matériel métallique",
+    "Chaines et relais",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Matériel métallique",
+    "Chaines et relais",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaîne rappel plaquettes inox 316L - FIXE"
+  ],
+  "description": "Achetez Chaîne rappel plaquettes inox 316L - FIXE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004559",
+      "sku": "PCNT-0004559",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/f/x/fx14_1_un-chaine-rappel-plaquettes-inox-316l-fixe_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/x/fx14_1_un-chaine-rappel-plaquettes-inox-316l-fixe_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:34:48.350Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/x/fx14_1_un-chaine-rappel-plaquettes-inox-316l-fixe_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004559/01-fx14_1_un-chaine-rappel-plaquettes-inox-316l-fixe_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/x/fx14_1_un-chaine-rappel-plaquettes-inox-316l-fixe_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004559/02-fx14_1_un-chaine-rappel-plaquettes-inox-316l-fixe_3.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "sku": "SU-0006964",
+  "url": "https://www.cabesto.com/fr/plongee-tuba-airmat-pl-7564.html",
+  "title": "TUBA AIRMAT DESSAULT",
+  "brand": "DESSAULT",
+  "category": "kayaks-rigides",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TUBA AIRMAT DESSAULT"
+  ],
+  "description": "TUBA AIRMAT DESSAULTUn tuba Dessault à gros diamètre pour se ventiler sans effort, avec un silicone confortable et parfait pour la chasse sous marine.Tuba de chasse sous-marine sans soupape, gros diamètre.Embouchoir en silicone très confortable, tube en Tpu, finition mate anti-reflet.Ce tuba a été fabriqué conformément aux exigences du règlement CE 2016/425 suivant la norme NF EN 1972.",
+  "supplierRef": "DSTUAIRMAT",
+  "price": {
+    "amount": 12.99,
+    "currency": "EUR",
+    "formatted": "12.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0006964",
+      "sku": "SU-0006964",
+      "supplierRef": "DSTUAIRMAT",
+      "price": {
+        "amount": 12.99,
+        "currency": "EUR",
+        "formatted": "12.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-7564-pl-7564-picture_1-pl-7564-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:42.288Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-7564-pl-7564-picture_1-pl-7564-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006964/01-pl-7564-pl-7564-picture_1-pl-7564-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "glisse",
+    "kayaks",
+    "kayaks-rigides"
+  ],
+  "categories": [
+    "glisse",
+    "kayaks",
+    "kayaks-rigides"
+  ]
+}

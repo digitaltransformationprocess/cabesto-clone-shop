@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0001967",
+  "url": "https://www.cabesto.com/fr/plongee-kit-2-coulisseaux-plastique-diam-7mm-pl-13276.html",
+  "title": "Kit 2 coulisseaux plastique chasse sous-marine Ø 7 mm IMERSION",
+  "brand": "IMERSION",
+  "category": "accessoires",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Kit 2 coulisseaux plastique chasse sous-marine Ø 7 mm IMERSION"
+  ],
+  "description": "détaillée 2,99 € Quantité Ajouter au panier En stock Livraison estimée entre le 15/10/2026 et le 19/10/2026 Selon le mode de livraison choisi et les délais du transporteur. Vérifie la disponibilité... Vérifier la disponibilité dans votre magasin Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation.",
+  "supplierRef": "6464BC .",
+  "price": {
+    "amount": 2.99,
+    "currency": "EUR",
+    "formatted": "2.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0001967",
+      "sku": "SU-0001967",
+      "supplierRef": "6464BC .",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-13276-pl-13276-picture_1-pl-13276-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:39.949Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-13276-pl-13276-picture_1-pl-13276-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001967/01-pl-13276-pl-13276-picture_1-pl-13276-1.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires"
+  ],
+  "categories": [
+    "textile",
+    "accessoires"
+  ]
+}

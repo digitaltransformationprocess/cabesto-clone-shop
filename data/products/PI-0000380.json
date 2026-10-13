@@ -1,0 +1,97 @@
+{
+  "sku": "PI-0000380",
+  "url": "https://www.cabesto.com/fr/pac-piscine-jetblack-mini-5kw-poolex.html",
+  "title": "PAC PISCINE JETBLACK MINI 5KW POOLEX",
+  "brand": "POOLEX",
+  "category": "Technologie On/Off",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Pompe à chaleur",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Pour profiter de Mai à Septembre",
+    "Technologie On/Off"
+  ],
+  "categories": [
+    "Pompe à chaleur",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Pour profiter de Mai à Septembre",
+    "Technologie On/Off"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PAC PISCINE JETBLACK MINI 5KW POOLEX"
+  ],
+  "description": "Cette pompe à chaleur spécialement adaptées aux piscines urbaines, hors sol et spa jusque 35m3. Avec un design et une performance unique, cette pompe à chaleur est disponible à un prix imbattable.",
+  "supplierRef": "PC-PICO5S/JB",
+  "price": {
+    "amount": 449,
+    "currency": "EUR",
+    "formatted": "449 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000380",
+      "sku": "PI-0000380",
+      "supplierRef": "PC-PICO5S/JB",
+      "price": {
+        "amount": 449,
+        "currency": "EUR",
+        "formatted": "449 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-a-chaleur-jetblack-mini-modele-3kw-44347_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-a-chaleur-jetblack-mini-modele-3kw-piscine-center-1615285178_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-a-chaleur-jetblack-mini-modele-3kw-piscine-center-1615286229_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-a-chaleur-jetblack-mini-modele-3kw-piscine-center-1615286571_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-a-chaleur-jetblack-mini-modele-3kw-piscine-center-1615294895_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe-a-chaleur-jetblack-mini-modele-3-kw-piscine-center-1615469880_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:40:58.427Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-a-chaleur-jetblack-mini-modele-3kw-44347_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000380/01-pompe-a-chaleur-jetblack-mini-modele-3kw-44347_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-a-chaleur-jetblack-mini-modele-3kw-piscine-center-1615285178_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000380/02-pompe-a-chaleur-jetblack-mini-modele-3kw-piscine-center-1615285178_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-a-chaleur-jetblack-mini-modele-3kw-piscine-center-1615286229_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000380/03-pompe-a-chaleur-jetblack-mini-modele-3kw-piscine-center-1615286229_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-a-chaleur-jetblack-mini-modele-3kw-piscine-center-1615286571_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000380/04-pompe-a-chaleur-jetblack-mini-modele-3kw-piscine-center-1615286571_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-a-chaleur-jetblack-mini-modele-3kw-piscine-center-1615294895_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000380/05-pompe-a-chaleur-jetblack-mini-modele-3kw-piscine-center-1615294895_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe-a-chaleur-jetblack-mini-modele-3-kw-piscine-center-1615469880_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000380/06-pompe-a-chaleur-jetblack-mini-modele-3-kw-piscine-center-1615469880_3.jpg",
+      "skipped": false
+    }
+  ]
+}

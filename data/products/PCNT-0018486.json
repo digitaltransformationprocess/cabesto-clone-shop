@@ -1,0 +1,101 @@
+{
+  "sku": "PCNT-0018486",
+  "url": "https://www.cabesto.com/fr/sac-a-dos-randonnee-vesubie-22-frendo-fr01.html",
+  "title": "Sac à dos Randonnée Vésubie 22 FRENDO",
+  "brand": "FRENDO",
+  "category": "sacs-a-dos-plus-de-50-litres",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "sacs-a-dos-rangement",
+    "sacs-a-dos-plus-de-50-litres"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "sacs-a-dos-rangement",
+    "sacs-a-dos-plus-de-50-litres"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac à dos Randonnée Vésubie 22 FRENDO"
+  ],
+  "description": "Sobre, stylé, polyvalent, pas cher et bien équipé, le sac à dos de randonnée Vesubie 22 Litres FRENDO vous accompagnera dans toutes vos excursions et activités Outdoor.",
+  "supplierRef": null,
+  "price": {
+    "amount": 48.9,
+    "currency": "EUR",
+    "formatted": "48.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0018486",
+      "sku": "PCNT-0018486",
+      "supplierRef": null,
+      "price": {
+        "amount": 48.9,
+        "currency": "EUR",
+        "formatted": "48.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/f/r/fr01_1_j.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/vesubie-tricolor-sac-a-dos.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/301858837_3256879977858148_2964764581258888154_n.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/302449160_762897074768625_2101888509834888139_n.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/304951850_1206019593582972_7361093940250518140_n_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/0/302257299_740944626975249_8594017370216528505_n_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/r/fr01_1_j-sac-a-dos-randonnee-vesubie-22-frendo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:41:47.661Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/r/fr01_1_j.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018486/01-fr01_1_j.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/vesubie-tricolor-sac-a-dos.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018486/02-vesubie-tricolor-sac-a-dos.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/301858837_3256879977858148_2964764581258888154_n.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018486/03-301858837_3256879977858148_2964764581258888154_n.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/302449160_762897074768625_2101888509834888139_n.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018486/04-302449160_762897074768625_2101888509834888139_n.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/304951850_1206019593582972_7361093940250518140_n_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018486/05-304951850_1206019593582972_7361093940250518140_n_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/0/302257299_740944626975249_8594017370216528505_n_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018486/06-302257299_740944626975249_8594017370216528505_n_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/r/fr01_1_j-sac-a-dos-randonnee-vesubie-22-frendo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0018486/07-fr01_1_j-sac-a-dos-randonnee-vesubie-22-frendo.jpg",
+      "skipped": false
+    }
+  ]
+}

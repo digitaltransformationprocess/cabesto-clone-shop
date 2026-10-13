@@ -1,0 +1,79 @@
+{
+  "sku": "PI-0001549",
+  "url": "https://www.cabesto.com/fr/piscine-gonfleur-a-pied-1-05-litres-pi-341.html",
+  "title": "GONFLEUR À PIED 1.5 litres",
+  "brand": "INTEX",
+  "category": "Kayaks gonflables",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Kayaks",
+    "Kayaks gonflables"
+  ],
+  "categories": [
+    "Kayaks",
+    "Kayaks gonflables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "GONFLEUR À PIED 1.5 litres"
+  ],
+  "description": "Achetez GONFLEUR À PIED 1.5 litres chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "68610",
+  "price": {
+    "amount": 7.99,
+    "currency": "EUR",
+    "formatted": "7.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001549",
+      "sku": "PI-0001549",
+      "supplierRef": "68610",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/8/68610-gonfleur-a-pied_u15vthvfsl1i8ubp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/8/68610-gonfleur-a-pied.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/8/68610-gonfleur-a-pied_djt2tf5aeyvprn1f.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/8/68610-gonfleur-a-pied_u1owh35dsg151fr6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:35:09.975Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/68610-gonfleur-a-pied_u15vthvfsl1i8ubp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001549/01-68610-gonfleur-a-pied_u15vthvfsl1i8ubp.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/68610-gonfleur-a-pied.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001549/02-68610-gonfleur-a-pied.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/68610-gonfleur-a-pied_djt2tf5aeyvprn1f.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001549/03-68610-gonfleur-a-pied_djt2tf5aeyvprn1f.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/68610-gonfleur-a-pied_u1owh35dsg151fr6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001549/04-68610-gonfleur-a-pied_u1owh35dsg151fr6.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0028222",
+  "url": "https://www.cabesto.com/fr/verticalite-magnesie-liquide-mag-fluid-pof-liquide-climbing-technology-nt-0028222.html",
+  "title": "Magnésie liquide Mag Fluid Pof liquide Climbing Technology",
+  "brand": "CLIMBING TECHNOLOGY",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Escalade",
+    "Magnésie, sacs à pof, strapping",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Escalade",
+    "Magnésie, sacs à pof, strapping",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Magnésie liquide Mag Fluid Pof liquide Climbing Technology"
+  ],
+  "description": "Mag Fluid CLIMBING TECHNOLOGY est une magnésie liquide, non volatile, qui génère une adhérence parfaite pendant longtemps.",
+  "supplierRef": "MAGFLUID.",
+  "price": {
+    "amount": 10.9,
+    "currency": "EUR",
+    "formatted": "10.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028222",
+      "sku": "NT-0028222",
+      "supplierRef": "MAGFLUID.",
+      "price": {
+        "amount": 10.9,
+        "currency": "EUR",
+        "formatted": "10.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/a/magfluid.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/magfluid_back-1024x1024.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:31.737Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/magfluid.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028222/01-magfluid.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/magfluid_back-1024x1024.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028222/02-magfluid_back-1024x1024.jpg",
+      "skipped": false
+    }
+  ]
+}

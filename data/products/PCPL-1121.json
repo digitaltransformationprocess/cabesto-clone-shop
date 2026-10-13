@@ -1,0 +1,101 @@
+{
+  "sku": "PCPL-1121",
+  "url": "https://www.cabesto.com/fr/plongee-sandows-16-mm-la-paire-pcpl-1121.html",
+  "title": "SANDOWS 16 MM LA PAIRE DESSAULT",
+  "brand": "DESSAULT",
+  "category": "accessoires-arbaletes-chasse-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SANDOWS 16 MM LA PAIRE DESSAULT"
+  ],
+  "description": "Le savoir-faire Dessault allié à la qualité des produits utilisés, procure à nos sandows un module d'élasticité bien supérieur aux autres types de latex naturels ou synthétiques. La production en fil continu préserve les chaînes moléculaires du latex. Associée à une maîtrise parfaite du séchage, cette technique permet d'atteindre exactement la nervosité et la longévité recherchée. Réputée efficace et robuste, la gomme Dessault a séduit de nombreux chasseurs à travers toutes les mers. Caractéristiques techniques - Fabrication française depuis 20 ans- Gomme noire diamètre 16 mm- Pure sève d'hévéa de Malaisie, 100% naturelle- Séchage lent et nature- Vulcanisation continue- Testés individuellement",
+  "supplierRef": null,
+  "price": {
+    "amount": 10.99,
+    "currency": "EUR",
+    "formatted": "10.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1121",
+      "sku": "PCPL-1121",
+      "supplierRef": null,
+      "price": {
+        "amount": 10.99,
+        "currency": "EUR",
+        "formatted": "10.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sandows-viss_s_11_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-8226-pl-8226-picture_1-pcpl-1121-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-8227-pl-8227-picture_1-pcpl-1121-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-8234-pl-8234-picture_1-pcpl-1121-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-8228-pl-8228-picture_1-pcpl-1121-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-8232-pl-8232-picture_1-pcpl-1121-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-8230-pl-8230-picture_1-pcpl-1121-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:40.809Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sandows-viss_s_11_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1121/01-sandows-viss_s_11_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-8226-pl-8226-picture_1-pcpl-1121-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1121/02-pl-8226-pl-8226-picture_1-pcpl-1121-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-8227-pl-8227-picture_1-pcpl-1121-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1121/03-pl-8227-pl-8227-picture_1-pcpl-1121-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-8234-pl-8234-picture_1-pcpl-1121-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1121/04-pl-8234-pl-8234-picture_1-pcpl-1121-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-8228-pl-8228-picture_1-pcpl-1121-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1121/05-pl-8228-pl-8228-picture_1-pcpl-1121-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-8232-pl-8232-picture_1-pcpl-1121-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1121/06-pl-8232-pl-8232-picture_1-pcpl-1121-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-8230-pl-8230-picture_1-pcpl-1121-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1121/07-pl-8230-pl-8230-picture_1-pcpl-1121-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "chasse-sous-marine",
+    "arbaletes-et-fusils-harpons",
+    "accessoires-arbaletes-chasse-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "chasse-sous-marine",
+    "arbaletes-et-fusils-harpons",
+    "accessoires-arbaletes-chasse-sous-marine"
+  ]
+}

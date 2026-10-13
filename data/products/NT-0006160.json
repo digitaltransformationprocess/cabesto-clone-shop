@@ -1,0 +1,87 @@
+{
+  "sku": "NT-0006160",
+  "url": "https://www.cabesto.com/fr/verticalite-pont-d-attache-reglable-sequoia-petzl-nt-0006160.html",
+  "title": "Pont d'attache Réglable Sequoia - PETZL",
+  "brand": "PETZL",
+  "category": "Harnais élagage",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Elagage",
+    "Harnais élagage"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Elagage",
+    "Harnais élagage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pont d'attache Réglable Sequoia - PETZL"
+  ],
+  "description": "Achetez Pont d'attache Réglable Sequoia - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "C69R",
+  "price": {
+    "amount": 79.95,
+    "currency": "EUR",
+    "formatted": "79.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006160",
+      "sku": "NT-0006160",
+      "supplierRef": "C69R",
+      "price": {
+        "amount": 79.95,
+        "currency": "EUR",
+        "formatted": "79.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/p/pp16_1-pont-d-attache-reglable-sequoia-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp16_4-pont-d-attache-reglable-sequoia-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp16_3-pont-d-attache-reglable-sequoia-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp16_2-pont-d-attache-reglable-sequoia-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp16_1-pont-d-attache-reglable-sequoia-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:16.779Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp16_1-pont-d-attache-reglable-sequoia-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006160/01-pp16_1-pont-d-attache-reglable-sequoia-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp16_4-pont-d-attache-reglable-sequoia-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006160/02-pp16_4-pont-d-attache-reglable-sequoia-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp16_3-pont-d-attache-reglable-sequoia-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006160/03-pp16_3-pont-d-attache-reglable-sequoia-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp16_2-pont-d-attache-reglable-sequoia-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006160/04-pp16_2-pont-d-attache-reglable-sequoia-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp16_1-pont-d-attache-reglable-sequoia-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006160/05-pp16_1-pont-d-attache-reglable-sequoia-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

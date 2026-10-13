@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0000367",
+  "url": "https://www.cabesto.com/fr/artesani-pates-artisanales-spaghetti-guitare-500-g.html",
+  "title": "ARTESANI PATES ARTISANALES SPAGHETTI GUITARE 500 G",
+  "brand": "ARTESANI",
+  "category": "Pates et risottos Italiens",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "sauces-et-condiments-italiens"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "sauces-et-condiments-italiens"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ARTESANI PATES ARTISANALES SPAGHETTI GUITARE 500 G"
+  ],
+  "description": "Achetez ARTESANI PATES ARTISANALES SPAGHETTI GUITARE 500 G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "A1933AR",
+  "price": {
+    "amount": 2.59,
+    "currency": "EUR",
+    "formatted": "2.59 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000367",
+      "sku": "AL-0000367",
+      "supplierRef": "A1933AR",
+      "price": {
+        "amount": 2.59,
+        "currency": "EUR",
+        "formatted": "2.59 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/0/3/0352831-0352831-picture_1-0352831_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:00:04.809Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/3/0352831-0352831-picture_1-0352831_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000367/01-0352831-0352831-picture_1-0352831_1.jpg",
+      "skipped": true
+    }
+  ]
+}

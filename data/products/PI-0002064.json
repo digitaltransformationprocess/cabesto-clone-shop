@@ -1,0 +1,67 @@
+{
+  "sku": "PI-0002064",
+  "url": "https://www.cabesto.com/fr/piscine-manchon-union-mixte-d63-x-2-pi-784.html",
+  "title": "Manchon union mixte D63 x 2\"",
+  "brand": "INTERPLAST",
+  "category": "Pièces PVC",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Manchon union mixte D63 x 2\""
+  ],
+  "description": "Achetez Manchon union mixte D63 x 2\" chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SBM363G",
+  "price": {
+    "amount": 8.99,
+    "currency": "EUR",
+    "formatted": "8.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002064",
+      "sku": "PI-0002064",
+      "supplierRef": "SBM363G",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/3/6/3601-union-pieces-63-mm-vers-filete-1-im-0x480a_ptd6tuoviafb0ej8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/u/n/union-fem-63-male-fil-2-16688.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:37:17.785Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/6/3601-union-pieces-63-mm-vers-filete-1-im-0x480a_ptd6tuoviafb0ej8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002064/01-3601-union-pieces-63-mm-vers-filete-1-im-0x480a_ptd6tuoviafb0ej8.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/u/n/union-fem-63-male-fil-2-16688.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002064/02-union-fem-63-male-fil-2-16688.jpg",
+      "skipped": false
+    }
+  ]
+}

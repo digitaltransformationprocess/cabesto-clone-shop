@@ -1,0 +1,101 @@
+{
+  "sku": "PCNT-0004811",
+  "url": "https://www.cabesto.com/fr/chaussettes-clairiere-climasocks.html",
+  "title": "Chaussettes CLAIRIERE CLIMASOCKS - RYWAN",
+  "brand": "RYWAN",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Chaussettes mi-mollets",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Chaussettes mi-mollets",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussettes CLAIRIERE CLIMASOCKS - RYWAN"
+  ],
+  "description": "Achetez Chaussettes CLAIRIERE CLIMASOCKS - RYWAN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 12.79,
+    "currency": "EUR",
+    "formatted": "12.79 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004811",
+      "sku": "PCNT-0004811",
+      "supplierRef": null,
+      "price": {
+        "amount": 12.79,
+        "currency": "EUR",
+        "formatted": "12.79 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/y/w/yw03_1_ac-chaussettes-clairiere-climasocks-rywan_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw03_2_ac-chaussettes-clairiere-climasocks-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw03_1_ac-chaussettes-clairiere-climasocks-rywan_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw03_1_ac-chaussettes-clairiere-climasocks-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw03_1_ac-chaussettes-clairiere-climasocks-rywan_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw03_1_ac-chaussettes-clairiere-climasocks-rywan_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw03_1_ac-chaussettes-clairiere-climasocks-rywan_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:31:30.161Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw03_1_ac-chaussettes-clairiere-climasocks-rywan_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004811/01-yw03_1_ac-chaussettes-clairiere-climasocks-rywan_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw03_2_ac-chaussettes-clairiere-climasocks-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004811/02-yw03_2_ac-chaussettes-clairiere-climasocks-rywan.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw03_1_ac-chaussettes-clairiere-climasocks-rywan_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004811/03-yw03_1_ac-chaussettes-clairiere-climasocks-rywan_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw03_1_ac-chaussettes-clairiere-climasocks-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004811/04-yw03_1_ac-chaussettes-clairiere-climasocks-rywan.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw03_1_ac-chaussettes-clairiere-climasocks-rywan_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004811/05-yw03_1_ac-chaussettes-clairiere-climasocks-rywan_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw03_1_ac-chaussettes-clairiere-climasocks-rywan_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004811/06-yw03_1_ac-chaussettes-clairiere-climasocks-rywan_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw03_1_ac-chaussettes-clairiere-climasocks-rywan_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004811/07-yw03_1_ac-chaussettes-clairiere-climasocks-rywan_3.jpg",
+      "skipped": false
+    }
+  ]
+}

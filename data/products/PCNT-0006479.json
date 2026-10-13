@@ -1,0 +1,103 @@
+{
+  "sku": "PCNT-0006479",
+  "url": "https://www.cabesto.com/fr/randonnee-pantalon-d-escalade-patagonia-homme-rps-rock-pants-pt58.html",
+  "title": "Pantalon d'escalade Homme RPS Rock Pants - PATAGONIA",
+  "brand": "PATAGONIA",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Pantalons d'escalade",
+    "Destockage Montagne",
+    "Pantalons d'escalade Homme",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Pantalons d'escalade",
+    "Destockage Montagne",
+    "Pantalons d'escalade Homme",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pantalon d'escalade Homme RPS Rock Pants - PATAGONIA"
+  ],
+  "description": "Achetez Pantalon d'escalade Homme RPS Rock Pants - PATAGONIA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0006479",
+      "sku": "PCNT-0006479",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/t/pt58_1_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/t/pt58_6_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/t/pt58_5_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/t/pt58_4_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/t/pt58_3_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/t/pt58_2_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/t/pt58_1_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:36:29.907Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt58_1_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006479/01-pt58_1_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt58_6_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006479/02-pt58_6_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt58_5_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006479/03-pt58_5_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt58_4_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006479/04-pt58_4_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt58_3_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006479/05-pt58_3_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt58_2_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006479/06-pt58_2_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt58_1_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006479/07-pt58_1_ff-pantalon-d-escalade-homme-rps-rock-pants-patagonia_5.jpg",
+      "skipped": false
+    }
+  ]
+}

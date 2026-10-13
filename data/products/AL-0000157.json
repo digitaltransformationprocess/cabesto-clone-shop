@@ -1,0 +1,69 @@
+{
+  "sku": "AL-0000157",
+  "url": "https://www.cabesto.com/fr/48-escargots-de-bourgogne-moyen-cuisines-sachet-269-gr.html",
+  "title": "48 ESCARGOTS DE BOURGOGNE MOYEN CUISINES SACHET 269 GR",
+  "brand": "ESCAL",
+  "category": "les-coquilles-cuisinees-et-fruits-de-mer-farcis",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "cuisine-surgele",
+    "les-coquilles-cuisinees-et-fruits-de-mer-farcis"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "cuisine-surgele",
+    "les-coquilles-cuisinees-et-fruits-de-mer-farcis"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Alimentation",
+    "Alimentation",
+    "Produits surgelés",
+    "Produits surgelés",
+    "48 ESCARGOTS DE BOURGOGNE MOYEN CUISINES SACHET 269 GR"
+  ],
+  "description": "Achetez 48 ESCARGOTS DE BOURGOGNE MOYEN CUISINES SACHET 269 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "92265",
+  "price": {
+    "amount": 15.79,
+    "currency": "EUR",
+    "formatted": "15.79 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000157",
+      "sku": "AL-0000157",
+      "supplierRef": "92265",
+      "price": {
+        "amount": 15.79,
+        "currency": "EUR",
+        "formatted": "15.79 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/AL-0000157.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:53:08.177Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/AL-0000157.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000157/01-AL-0000157.jpg",
+      "skipped": true
+    }
+  ]
+}

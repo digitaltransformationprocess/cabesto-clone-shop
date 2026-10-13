@@ -1,0 +1,91 @@
+{
+  "sku": "PCNT-0008653",
+  "url": "https://www.cabesto.com/fr/combinaison-holloch-confort-femme.html",
+  "title": "Combinaison Holloch Confort Femme - AVENTURE VERTICALE",
+  "brand": "AVENTURE VERTICALE",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Spéléologie",
+    "Combinaisons spéléo",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Spéléologie",
+    "Combinaisons spéléo",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Combinaison Holloch Confort Femme - AVENTURE VERTICALE"
+  ],
+  "description": "Achetez Combinaison Holloch Confort Femme - AVENTURE VERTICALE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 136,
+    "currency": "EUR",
+    "formatted": "136 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0008653",
+      "sku": "PCNT-0008653",
+      "supplierRef": null,
+      "price": {
+        "amount": 136,
+        "currency": "EUR",
+        "formatted": "136 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/a/ga07_1_a-combinaison-holloch-confort-femme-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga07_1_b-combinaison-holloch-confort-femme-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga07_1_a-combinaison-holloch-confort-femme-aventure-verticale_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/u/guide_taille_holloch_midroi_lady.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/ga07_1_a-combinaison-holloch-confort-femme-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:27:13.993Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga07_1_a-combinaison-holloch-confort-femme-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008653/01-ga07_1_a-combinaison-holloch-confort-femme-aventure-verticale_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga07_1_b-combinaison-holloch-confort-femme-aventure-verticale_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008653/02-ga07_1_b-combinaison-holloch-confort-femme-aventure-verticale_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga07_1_a-combinaison-holloch-confort-femme-aventure-verticale_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008653/03-ga07_1_a-combinaison-holloch-confort-femme-aventure-verticale_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/u/guide_taille_holloch_midroi_lady.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008653/04-guide_taille_holloch_midroi_lady.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/ga07_1_a-combinaison-holloch-confort-femme-aventure-verticale_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0008653/05-ga07_1_a-combinaison-holloch-confort-femme-aventure-verticale_2.jpg",
+      "skipped": false
+    }
+  ]
+}

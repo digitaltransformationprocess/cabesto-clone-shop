@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0009343",
+  "url": "https://www.cabesto.com/fr/plongee-compresseur-narguile-extreme-3t2-220-v-350-l-m-pl-752.html",
+  "title": "Compresseur narguilé de plongée EXTREME 3T2 220 V 350 l/m NARDI",
+  "brand": "NARDI",
+  "category": "narguiles-basse-presion-plongee-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Compresseur narguilé de plongée EXTREME 3T2 220 V 350 l/m NARDI"
+  ],
+  "description": "COMPRESSEUR NARGUILE EXTREME 3T2 220 V 350 L/M NARDILe narguilé NARDI Extreme 3T2 220 volts est un modèle portable qui permet d'alimenter sans problème 2 plongeurs (avec l'équipement optionnel.).Il possède une sortie aditionnelle à raccord rapide permettant de brancher un outillage pneumatique.Il est équipé d'un réservoir additionnel de 5 litres servant de tampon pour faciliter la respiration du plongeur.La pression de sortie est réglable manuellement et un pressostat automatique commande la mise en marche du moteur en fonction de la consommation d'air.Le système de filtration d'air est équipé d'une cartouche, re-conditionnable, à charbon actif et tamis moléculaire.Comme tous les narguilés Nardi, la partie compresseur fonctionne sans huile et la qualité d'air fournie est conforme à la législation en vigueur concernant l'air respirable.Le flexible d'origine a une longueur de 17 mètres, des longueurs supplémentaires de 17 m sont disponibles en option, ainsi qu'un raccord double permettant l'utilisation par deux plongeurs.Débit 350 L/mnPuissance du moteur: 2 CVProfondeur d'utilisation : 15 mètresMoteur BI cylindres.Filtration de l'air aspiré.Filtration de l'air respiré (norme CE)Fonctionnement sans huile.Réservoir tampon.Mise en marche et arrêt automatique suivant la respiration du plongeur.ModèleExtreme 3T2 220 volts Groupe compresseurExtrême 70 bi-cylindreChâssis/cuve5 litresDébit (Air aspiré)350 litres/mnRéglageouiPuissance du moteur 1500 wattsRégime de rotation1400 tours/minuteBruit72 décibelsPoids28 KgsDimensions58 x 31 x 39Ce narguilé a été fabriqué conformément aux exigences du règlement CE 2016/425 suivant la norme NF EN 15333-1.",
+  "supplierRef": "NARGUILE_EXT_3T2",
+  "price": {
+    "amount": 1449,
+    "currency": "EUR",
+    "formatted": "1449 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0009343",
+      "sku": "SU-0009343",
+      "supplierRef": "NARGUILE_EXT_3T2",
+      "price": {
+        "amount": 1449,
+        "currency": "EUR",
+        "formatted": "1449 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/n/a/narguile-plongee-extreme-3t2-220-volts-350-l-m.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:22:13.236Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/a/narguile-plongee-extreme-3t2-220-volts-350-l-m.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009343/01-narguile-plongee-extreme-3t2-220-volts-350-l-m.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "compresseurs-et-narguiles",
+    "narguiles-basse-presion-plongee-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "compresseurs-et-narguiles",
+    "narguiles-basse-presion-plongee-sous-marine"
+  ]
+}

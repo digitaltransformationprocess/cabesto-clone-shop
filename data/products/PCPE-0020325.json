@@ -1,0 +1,145 @@
+{
+  "sku": "PCPE-0020325",
+  "url": "https://www.cabesto.com/fr/cannes-de-peche-aux-leurres-crosscast-daiwa.html",
+  "title": "Cannes de pêche aux leurres Crosscast | DAIWA",
+  "brand": "DAIWA",
+  "category": "Cannes Leurres Carnassiers",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "Cannes Leurres 2,1M",
+    "Cannes Leurres 2,4M",
+    "Cannes Leurres 2,7M",
+    "Cannes Leurres 3M Shore",
+    "Cannes Leurres Carnassiers"
+  ],
+  "categories": [
+    "Cannes Leurres 2,1M",
+    "Cannes Leurres 2,4M",
+    "Cannes Leurres 2,7M",
+    "Cannes Leurres 3M Shore",
+    "Cannes Leurres Carnassiers"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cannes de pêche aux leurres Crosscast | DAIWA"
+  ],
+  "description": "Achetez Cannes de pêche aux leurres Crosscast | DAIWA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 97.99,
+    "currency": "EUR",
+    "formatted": "97.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPE-0020325",
+      "sku": "PCPE-0020325",
+      "supplierRef": null,
+      "price": {
+        "amount": 97.99,
+        "currency": "EUR",
+        "formatted": "97.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/a/canne_daiwa_croscast_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/e/details_daiwa_croscast_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/n/anneau_daiwa_croscast_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/r/crosscast_vjoint_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe-0020325_01_urszo8cenkkc8hna.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe-0020326_01_4uggm0ok8h5sek6n.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe-0020328_01_b4bynylgpk71ciqz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/canne_daiwa_croscast.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/n/anneau_daiwa_croscast.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/d/e/details_daiwa_croscast.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/r/crosscast_vjoint.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe-0020334_01_pyfqmolsitdftenq.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe-0020335_01_ycgfxkboydmfbtcx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe-0020336_01_jtp0t2jmi5ffuefh.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:27:22.150Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canne_daiwa_croscast_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/01-canne_daiwa_croscast_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/e/details_daiwa_croscast_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/02-details_daiwa_croscast_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/n/anneau_daiwa_croscast_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/03-anneau_daiwa_croscast_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/r/crosscast_vjoint_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/04-crosscast_vjoint_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe-0020325_01_urszo8cenkkc8hna.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/05-pe-0020325_01_urszo8cenkkc8hna.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe-0020326_01_4uggm0ok8h5sek6n.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/06-pe-0020326_01_4uggm0ok8h5sek6n.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe-0020328_01_b4bynylgpk71ciqz.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/07-pe-0020328_01_b4bynylgpk71ciqz.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canne_daiwa_croscast.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/08-canne_daiwa_croscast.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/n/anneau_daiwa_croscast.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/09-anneau_daiwa_croscast.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/e/details_daiwa_croscast.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/10-details_daiwa_croscast.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/r/crosscast_vjoint.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/11-crosscast_vjoint.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe-0020334_01_pyfqmolsitdftenq.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/12-pe-0020334_01_pyfqmolsitdftenq.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe-0020335_01_ycgfxkboydmfbtcx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/13-pe-0020335_01_ycgfxkboydmfbtcx.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe-0020336_01_jtp0t2jmi5ffuefh.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0020325/14-pe-0020336_01_jtp0t2jmi5ffuefh.jpg",
+      "skipped": false
+    }
+  ]
+}

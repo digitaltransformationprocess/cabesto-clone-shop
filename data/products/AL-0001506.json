@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0001506",
+  "url": "https://www.cabesto.com/fr/emiettes-encornets-legumes-grilles-170g.html",
+  "title": "EMIETTES ENCORNETS LEGUMES GRILLES 170G",
+  "brand": "GASTROMER",
+  "category": "Tartinables",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tartinable-mer",
+    "tartinables"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tartinable-mer",
+    "tartinables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "EMIETTES ENCORNETS LEGUMES GRILLES 170G"
+  ],
+  "description": "Achetez EMIETTES ENCORNETS LEGUMES GRILLES 170G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "6609",
+  "price": {
+    "amount": 3.39,
+    "currency": "EUR",
+    "formatted": "3.39 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001506",
+      "sku": "AL-0001506",
+      "supplierRef": "6609",
+      "price": {
+        "amount": 3.39,
+        "currency": "EUR",
+        "formatted": "3.39 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6059577-6059577-picture_1-6059577_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:55:07.259Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6059577-6059577-picture_1-6059577_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001506/01-6059577-6059577-picture_1-6059577_1.jpg",
+      "skipped": true
+    }
+  ]
+}

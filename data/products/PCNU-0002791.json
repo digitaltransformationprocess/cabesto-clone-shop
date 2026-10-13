@@ -1,0 +1,69 @@
+{
+  "sku": "PCNU-0002791",
+  "url": "https://www.cabesto.com/fr/porte-canne-a-peche-fixe-a-paroi-en-plastique-osculati-pcnu-0002791.html",
+  "title": "PORTE-CANNE A PECHE FIXE A PAROI EN PLASTIQUE | OSCULATI",
+  "brand": "OSCULATI",
+  "category": "Accessoires de pêche: Porte-canne, Bathyscope...",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "securite",
+    "accessoires-de-peche-porte-canne-bathyscope"
+  ],
+  "categories": [
+    "nautisme",
+    "securite",
+    "accessoires-de-peche-porte-canne-bathyscope"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PORTE-CANNE A PECHE FIXE A PAROI EN PLASTIQUE | OSCULATI"
+  ],
+  "description": "Achetez PORTE-CANNE A PECHE FIXE A PAROI EN PLASTIQUE | OSCULATI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNU-0002791",
+      "sku": "PCNU-0002791",
+      "supplierRef": null,
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/o/porte_canne_plastique_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/1/41.170.93_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:27:39.699Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/porte_canne_plastique_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNU-0002791/01-porte_canne_plastique_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/41.170.93_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNU-0002791/02-41.170.93_1.jpg",
+      "skipped": false
+    }
+  ]
+}

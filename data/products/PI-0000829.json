@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0000829",
+  "url": "https://www.cabesto.com/fr/piscine-collecteur-femelle-d50-16-bars-pi-777.html",
+  "title": "Collecteur femelle D50 - 16 bars",
+  "brand": "INTERPLAST",
+  "category": "Pièces PVC",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Collecteur femelle D50 - 16 bars"
+  ],
+  "description": "Achetez Collecteur femelle D50 - 16 bars chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SCOL050",
+  "price": {
+    "amount": 13,
+    "currency": "EUR",
+    "formatted": "13 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000829",
+      "sku": "PI-0000829",
+      "supplierRef": "SCOL050",
+      "price": {
+        "amount": 13,
+        "currency": "EUR",
+        "formatted": "13 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/o/collecteur-femelle-50-16-bars-16674.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:37:09.302Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/o/collecteur-femelle-50-16-bars-16674.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000829/01-collecteur-femelle-50-16-bars-16674.jpg",
+      "skipped": false
+    }
+  ]
+}

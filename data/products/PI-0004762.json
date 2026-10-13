@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0004762",
+  "url": "https://www.cabesto.com/fr/piscine-by-soft-easy-20m3-bayrol-pi-162.html",
+  "title": "BY SOFT & EASY 20M3 BAYROL",
+  "brand": "BAYROL",
+  "category": "Idées cadeaux Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "oxygène actif Bayrol",
+    "Idées cadeaux Piscine"
+  ],
+  "categories": [
+    "oxygène actif Bayrol",
+    "Idées cadeaux Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BY SOFT & EASY 20M3 BAYROL"
+  ],
+  "description": "Achetez BY SOFT & EASY 20M3 BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1199201",
+  "price": {
+    "amount": 78.9,
+    "currency": "EUR",
+    "formatted": "78.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0004762",
+      "sku": "PI-0004762",
+      "supplierRef": "1199201",
+      "price": {
+        "amount": 78.9,
+        "currency": "EUR",
+        "formatted": "78.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/a/bayrol-soft-easy-oxygene-actif-sans-chlore-blanc-20m-1199201.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:33:14.326Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/a/bayrol-soft-easy-oxygene-actif-sans-chlore-blanc-20m-1199201.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004762/01-bayrol-soft-easy-oxygene-actif-sans-chlore-blanc-20m-1199201.jpg",
+      "skipped": false
+    }
+  ]
+}

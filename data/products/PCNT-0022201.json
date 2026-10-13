@@ -1,0 +1,121 @@
+{
+  "sku": "PCNT-0022201",
+  "url": "https://www.cabesto.com/fr/randonnee-lot-de-2-paires-de-chaussettes-travel-rywan-yw06.html",
+  "title": "Lot de 2 paires de Chaussettes TRAVEL - RYWAN",
+  "brand": "RYWAN",
+  "category": "chaussettes-basses",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "randonnee",
+    "chaussures-de-randonnee",
+    "chaussettes",
+    "chaussettes-basses"
+  ],
+  "categories": [
+    "montagne",
+    "randonnee",
+    "chaussures-de-randonnee",
+    "chaussettes",
+    "chaussettes-basses"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Lot de 2 paires de Chaussettes TRAVEL - RYWAN"
+  ],
+  "description": "Achetez Lot de 2 paires de Chaussettes TRAVEL - RYWAN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 17.99,
+    "currency": "EUR",
+    "formatted": "17.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0022201",
+      "sku": "PCNT-0022201",
+      "supplierRef": null,
+      "price": {
+        "amount": 17.99,
+        "currency": "EUR",
+        "formatted": "17.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/y/w/yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw06_5_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw06_4_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw06_3_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw06_2_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/y/w/yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:31:39.562Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0022201/01-yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw06_5_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0022201/02-yw06_5_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw06_4_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0022201/03-yw06_4_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw06_3_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0022201/04-yw06_3_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw06_2_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0022201/05-yw06_2_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0022201/06-yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0022201/07-yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0022201/08-yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0022201/09-yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/y/w/yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0022201/10-yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_3.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0009228",
+  "url": "https://www.cabesto.com/fr/plongee-couteau-big-squeeze-24-cm-lame-de-securite-pl-22322.html",
+  "title": "Couteau de plongée sous-marine lame de sécurité BIG SQUEEZE 24 cm AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couteau de plongée sous-marine lame de sécurité BIG SQUEEZE 24 cm AQUALUNG"
+  ],
+  "description": "Couteau Big Squeeze 24 cm Aqualung : sécurité et performance sous l'eauUn couteau fiable et ergonomique pour toutes vos plongées.Le couteau Big Squeeze 24 cm d'Aqualung est un outil indispensable pour les plongeurs, alliant sécurité et praticité. Doté d'une lame en acier inoxydable 304 de haute qualité, il offre une résistance exceptionnelle à la corrosion et une durabilité optimale. Sa lame de 10,8 cm, avec une pointe arrondie de type \"Sheeps Foot\", est spécialement conçue pour éviter les blessures accidentelles tout en garantissant une efficacité maximale. Le mécanisme breveté \"Squeeze-Lock\" assure un maintien sécurisé dans son fourreau, tout en permettant un retrait rapide et facile. Le manche et le fourreau, renforcés en nylon et fibre de verre, offrent une excellente résistance aux chocs et à l'abrasion. Polyvalent, ce couteau peut être fixé à un gilet de stabilisation, porté à la jambe ou à la ceinture grâce à ses multiples options de fixation. Compact et léger, il est également équipé d'un coupe-fil et d'un décapsuleur, faisant de lui un compagnon idéal pour toutes vos aventures sous-marines.Caractéristiques Couteau Big Squeeze 24 cm AqualungLame en acier inoxydable 304 résistante à la corrosionMécanisme breveté \"Squeeze-Lock\" pour une sécurité optimaleManche et fourreau renforcés en nylon et fibre de verreOptions de fixation polyvalentes pour un transport pratiqueÉquipé d'un coupe-fil et d'un décapsuleurInformations techniques :MatériauAcier inoxydable 304Longueur totale24 cmLongueur de la lame10,8 cmType de lameSheeps FootPoids150 gContenu du colis1 couteau Big Squeeze 24 cm Aqualung avec fourreau et accessoires de fixation.",
+  "supplierRef": "KN116111",
+  "price": {
+    "amount": 35.99,
+    "currency": "EUR",
+    "formatted": "35.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0009228",
+      "sku": "SU-0009228",
+      "supplierRef": "KN116111",
+      "price": {
+        "amount": 35.99,
+        "currency": "EUR",
+        "formatted": "35.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-22322-pl-22322-picture_1-pl-22322-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-22322-pl-22322-picture_2-pl-22322-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:35.483Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-22322-pl-22322-picture_1-pl-22322-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009228/01-pl-22322-pl-22322-picture_1-pl-22322-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-22322-pl-22322-picture_2-pl-22322-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009228/02-pl-22322-pl-22322-picture_2-pl-22322-2.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

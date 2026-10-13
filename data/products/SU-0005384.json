@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0005384",
+  "url": "https://www.cabesto.com/fr/plongee-poches-a-lest-sls-4-kg-pl-10609.html",
+  "title": "Poche à plomb pour gilet stab SLS MARES",
+  "brand": "MARES",
+  "category": "accessoires-pour-gilets-de-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Poche à plomb pour gilet stab SLS MARES"
+  ],
+  "description": "Mares présente un nouveau système de lestage intégré pour les gilets stabilisateurs. Celui-ci apparaît pour la première fois sur le nouveau gilet stabilisateur Quantum, il résulte d'années d'études visant à créer un système de lest plus sûr et plus facile d'utilisation.Le rôle d'un système de lestage est d'effectuer deux tâches seulement, mais sans erreur : tout d'abord, le largage accidentel d'une poche de lest doit être évité. Ensuite, en cas d'urgence, le plongeur doit pouvoir se débarrasser des poches de lest d'une façon simple et intuitive, même en cas de stress et de panique.En plus de ces deux aspects principaux, cela ne fait certainement pas de mal si le système est simple d'utilisation, montre clairement s'il est engagé ou pas, reste bien stable sur le gilet, a suffisamment de capacité pour l'utilisation attendue, et vous permet même de personnaliser les poches de lest.Tous ces aspects ont été soigneusement analysés au cours de la phase de développement du SLS (brevet en cours). Regardons un peu le mécanisme de fermeture. Au lieu de reposer sur des éléments élastiques dont l'état de déformation définit si le système est engagé ou non, le SLS se base sur des mouvements mécaniques et sur des interférences. La base du système est un curseur qui peut glisser dans la poignée, et son mouvement définit la position de la \" dent \" sur la partie mâle de la boucle. Lorsque le curseur est poussé vers l'intérieur, il enfonce la \" dent \" vers l'extérieur et la bloque contre la \" dent \"correspondante de la boucle femelle, en bloquant la voie de retour. Lorsque la poignée est déverrouillée, elle tire le curseur et par conséquence ouvre mécaniquement la \" dent \" vers l'intérieur par un système de guides et de pistes, et libère ainsi la boucle femelle. Cela nous donne un système qui résiste à tout, mais qui se libère en tirant simplement la poignée, sans possibilité d'erreur ou que quelque chose reste accroché.La facilité d'utilisation est garantie par la large poignée et par un tunnel sur le gilet qui guide l'insertion de la poche à lest, afin que la boucle mâle arrive bien en ligne par rapport à la pièce femelle. Tout en maintenant la poignée contre la boucle femelle, utilisez un doigt pour pousser le curseur et bloquer la poche en place. Vous entendrez un son signalant que l'opération est effectuée, ce que vous constaterez également visuellement. Une petite fenêtre affiche un cadenas ouvert sur un fond rouge lorsque le système est ouvert, et un cadenas fermé sur un fond vers lorsqu'il est bloqué. C'est une nouveauté dans le domaine du lestage, qui attirera certainement beaucoup d'attention. D'une part, votre coéquipier pourra immédiatement vérifier l'insertion correcte ou incorrecte de votre système de lestage, simplement en vous regardant.Le système de poignée et de boucle est raccordé à la poche de lest à l'aide d'un élément semi-rigide en forme de U, maintenu en place par une broche. Cela élimine tout mouvement relatif qui pourrait se produire entre la boucle et la poche, puis entre la poche et le gilet (donc, plus de poches à lest à moitié sorties du gilet). Cela s'associe au tunnel qui maintient l'ensemble de la poche parfaitement en place, et vous obtenez un positionnement très stable du lest sur le gilet. La poche elle-même existe en deux tailles, contenant un maximum de 6 kg/12 livres ou 4 kg/8 livres. Les deux tailles possèdent une fermeture à glissière renforcée ainsi qu'une nouvelle idée bien utile : une étiquette sur laquelle vous pouvez indiquer vos initiales ou d'autres marques d'identification avec un marqueur permanent.",
+  "supplierRef": "417959",
+  "price": {
+    "amount": 64,
+    "currency": "EUR",
+    "formatted": "64 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005384",
+      "sku": "SU-0005384",
+      "supplierRef": "417959",
+      "price": {
+        "amount": 64,
+        "currency": "EUR",
+        "formatted": "64 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-10609-pl-10609-picture_1-pl-10609-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:25:42.148Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-10609-pl-10609-picture_1-pl-10609-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005384/01-pl-10609-pl-10609-picture_1-pl-10609-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "gilets-stabilisateurs",
+    "accessoires-pour-gilets-de-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "gilets-stabilisateurs",
+    "accessoires-pour-gilets-de-plongee"
+  ]
+}

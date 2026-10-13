@@ -1,0 +1,155 @@
+{
+  "sku": "PCNT-0025563",
+  "url": "https://www.cabesto.com/fr/chaussures-mtn-trainer-mid-gore-tex-femme.html",
+  "title": "Chaussures femme Mtn Trainer Mid Gore-Tex SALEWA",
+  "brand": "SALEWA",
+  "category": "Sélection Montagne",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "Chaussures",
+    "Chaussures hautes femme",
+    "Sélection Montagne"
+  ],
+  "categories": [
+    "Chaussures",
+    "Chaussures hautes femme",
+    "Sélection Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montagne",
+    "Montagne",
+    "Randonnée",
+    "Randonnée",
+    "Chaussures",
+    "Chaussures",
+    "Chaussures hautes de randonnée",
+    "Chaussures hautes de randonnée",
+    "Chaussures femme Mtn Trainer Mid Gore-Tex SALEWA"
+  ],
+  "description": "Conçue pour les randonnées alpines sur terrain technique, la Ws' MTN TRAINER 2 MID Gore-Tex est résolument dédiée aux terrains escarpés.",
+  "supplierRef": null,
+  "price": {
+    "amount": 209.9,
+    "currency": "EUR",
+    "formatted": "209.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0025563",
+      "sku": "PCNT-0025563",
+      "supplierRef": null,
+      "price": {
+        "amount": 209.9,
+        "currency": "EUR",
+        "formatted": "209.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/4/5442d17b-b5ee-41d5-a3f8-7e518602dbec_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/c/6cb4e0c2-9792-47b7-84ff-4766f9ff7bf7_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/5/05e91316-a7df-432b-b5ef-67b0f3cb2c2f_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/5/857efe4e-9a2e-4aee-bd14-6011c3f65816_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/a/6add394e-6994-48b2-9456-06378dd8920b_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/0/e0a694ef-ccff-44bb-bde2-a1d09cf5d3ff_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/9/8/98314bec-3ea6-4f93-bcda-9f8b5f837e53_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_9_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:27:38.050Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/01-sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_9.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/4/5442d17b-b5ee-41d5-a3f8-7e518602dbec_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/02-5442d17b-b5ee-41d5-a3f8-7e518602dbec_salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/c/6cb4e0c2-9792-47b7-84ff-4766f9ff7bf7_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/03-6cb4e0c2-9792-47b7-84ff-4766f9ff7bf7_salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/5/05e91316-a7df-432b-b5ef-67b0f3cb2c2f_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/04-05e91316-a7df-432b-b5ef-67b0f3cb2c2f_salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/5/857efe4e-9a2e-4aee-bd14-6011c3f65816_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/05-857efe4e-9a2e-4aee-bd14-6011c3f65816_salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/a/6add394e-6994-48b2-9456-06378dd8920b_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/06-6add394e-6994-48b2-9456-06378dd8920b_salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/0/e0a694ef-ccff-44bb-bde2-a1d09cf5d3ff_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/07-e0a694ef-ccff-44bb-bde2-a1d09cf5d3ff_salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/9/8/98314bec-3ea6-4f93-bcda-9f8b5f837e53_salewa.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/08-98314bec-3ea6-4f93-bcda-9f8b5f837e53_salewa.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/09-sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/10-sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/11-sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/12-sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/13-sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/14-sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/l/sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_9_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0025563/15-sl44_1_dx-chaussures-mtn-trainer-mid-gore-tex-femme-salewa_9_1_.jpg",
+      "skipped": false
+    }
+  ]
+}

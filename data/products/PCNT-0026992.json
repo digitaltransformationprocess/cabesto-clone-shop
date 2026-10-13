@@ -1,0 +1,83 @@
+{
+  "sku": "PCNT-0026992",
+  "url": "https://www.cabesto.com/fr/wanaka-stretch-short-m.html",
+  "title": "SHORT HOMME WANAKA STRETCH - MILLET",
+  "brand": "MILLET",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Shorts",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Shorts",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SHORT HOMME WANAKA STRETCH - MILLET"
+  ],
+  "description": "Achetez SHORT HOMME WANAKA STRETCH - MILLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0026992",
+      "sku": "PCNT-0026992",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/l/ml10_1_ae-wanaka-stretch-short-m-millet_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/l/ml10_3_ae-wanaka-stretch-short-m-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/l/ml10_2_ae-wanaka-stretch-short-m-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/l/ml10_1_ae-wanaka-stretch-short-m-millet_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:33:56.572Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml10_1_ae-wanaka-stretch-short-m-millet_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026992/01-ml10_1_ae-wanaka-stretch-short-m-millet_5.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml10_3_ae-wanaka-stretch-short-m-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026992/02-ml10_3_ae-wanaka-stretch-short-m-millet.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml10_2_ae-wanaka-stretch-short-m-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026992/03-ml10_2_ae-wanaka-stretch-short-m-millet.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/l/ml10_1_ae-wanaka-stretch-short-m-millet_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0026992/04-ml10_1_ae-wanaka-stretch-short-m-millet_6.jpg",
+      "skipped": false
+    }
+  ]
+}

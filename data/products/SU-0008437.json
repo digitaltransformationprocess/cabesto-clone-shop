@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0008437",
+  "url": "https://www.cabesto.com/fr/plongee-t-tool-pl-20512.html",
+  "title": "Multi-outil pour montage sandows ligaturés T-TOOL DESSAULT",
+  "brand": "DESSAULT",
+  "category": "outillage",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Multi-outil pour montage sandows ligaturés T-TOOL DESSAULT"
+  ],
+  "description": "Multi-outil pour montage sandows ligaturés T-TOOL DESSAULTUn T-Tool Dessault qui vous permet de faire le montage des billes ou des noeuds dans votre sandows pour une utilisation ligaturée en Dyneema.La construction évasé de ce T-TOOL vous permettra de bien caler la sphère ou le nœud au moment de son insertion dans votre sandows.Matériaux 100 % INOX.",
+  "supplierRef": "DSTTOOL",
+  "price": {
+    "amount": 10.99,
+    "currency": "EUR",
+    "formatted": "10.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0008437",
+      "sku": "SU-0008437",
+      "supplierRef": "DSTTOOL",
+      "price": {
+        "amount": 10.99,
+        "currency": "EUR",
+        "formatted": "10.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-20512-pl-20512-picture_1-pl-20512-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/-/t-tool-7231-1_1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:33.920Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-20512-pl-20512-picture_1-pl-20512-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008437/01-pl-20512-pl-20512-picture_1-pl-20512-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/-/t-tool-7231-1_1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008437/02-t-tool-7231-1_1_1_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "outillage"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "outillage"
+  ]
+}

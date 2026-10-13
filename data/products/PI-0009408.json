@@ -1,0 +1,65 @@
+{
+  "sku": "PI-0009408",
+  "url": "https://www.cabesto.com/fr/barriere-souple-de-securite-3m-x-h-1-33m-piscine-gre.html",
+  "title": "BARRIERE SOUPLE DE SECURITE 3M X H:1.33M PISCINE - GRE",
+  "brand": "GRE POOLS",
+  "category": "Black November - Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Barrière de protection",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine"
+  ],
+  "categories": [
+    "Barrière de protection",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BARRIERE SOUPLE DE SECURITE 3M X H:1.33M PISCINE - GRE"
+  ],
+  "description": "Achetez BARRIERE SOUPLE DE SECURITE 3M X H:1.33M PISCINE - GRE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SF133",
+  "price": {
+    "amount": 99,
+    "currency": "EUR",
+    "formatted": "99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0009408",
+      "sku": "PI-0009408",
+      "supplierRef": "SF133",
+      "price": {
+        "amount": 99,
+        "currency": "EUR",
+        "formatted": "99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/api/assetstorage/3096_fd104821-cceb-4726-bb0b-edc2dddac639?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:48:10.052Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/api/assetstorage/3096_fd104821-cceb-4726-bb0b-edc2dddac639?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009408/01-3096_fd104821-cceb-4726-bb0b-edc2dddac639.jpg",
+      "skipped": false
+    }
+  ]
+}

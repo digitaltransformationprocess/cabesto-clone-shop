@@ -1,0 +1,97 @@
+{
+  "sku": "PCNT-0006866",
+  "url": "https://www.cabesto.com/fr/verticalite-cuissard-falcon-mountain-petzl-pp45.html",
+  "title": "Cuissard Falcon Mountain - PETZL",
+  "brand": "PETZL",
+  "category": "Harnais cuissards",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Harnais cuissards"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Harnais cuissards"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cuissard Falcon Mountain - PETZL"
+  ],
+  "description": "Achetez Cuissard Falcon Mountain - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 154.95,
+    "currency": "EUR",
+    "formatted": "154.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0006866",
+      "sku": "PCNT-0006866",
+      "supplierRef": null,
+      "price": {
+        "amount": 154.95,
+        "currency": "EUR",
+        "formatted": "154.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/p/pp45_1_l-cuissard-falcon-mountain-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp45_3_l-cuissard-falcon-mountain-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp45_2_l-cuissard-falcon-mountain-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp45_1_l-cuissard-falcon-mountain-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp45_1_l-cuissard-falcon-mountain-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/p/pp45_1_l-cuissard-falcon-mountain-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:27:35.628Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp45_1_l-cuissard-falcon-mountain-petzl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006866/01-pp45_1_l-cuissard-falcon-mountain-petzl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp45_3_l-cuissard-falcon-mountain-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006866/02-pp45_3_l-cuissard-falcon-mountain-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp45_2_l-cuissard-falcon-mountain-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006866/03-pp45_2_l-cuissard-falcon-mountain-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp45_1_l-cuissard-falcon-mountain-petzl_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006866/04-pp45_1_l-cuissard-falcon-mountain-petzl_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp45_1_l-cuissard-falcon-mountain-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006866/05-pp45_1_l-cuissard-falcon-mountain-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/p/pp45_1_l-cuissard-falcon-mountain-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0006866/06-pp45_1_l-cuissard-falcon-mountain-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

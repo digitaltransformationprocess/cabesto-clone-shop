@@ -1,0 +1,69 @@
+{
+  "sku": "AL-0003661",
+  "url": "https://www.cabesto.com/fr/sardines-a-l-huile-d-olive-bio-jg.html",
+  "title": "SARDINES A L'HUILE D'OLIVE BIO JG",
+  "brand": "GONIDEC",
+  "category": "Conserves Sardines",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "conserves-de-la-mer"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "conserves-de-la-mer"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SARDINES A L'HUILE D'OLIVE BIO JG"
+  ],
+  "description": "Achetez SARDINES A L'HUILE D'OLIVE BIO JG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "JGSO6B",
+  "price": {
+    "amount": 4.39,
+    "currency": "EUR",
+    "formatted": "4.39 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003661",
+      "sku": "AL-0003661",
+      "supplierRef": "JGSO6B",
+      "price": {
+        "amount": 4.39,
+        "currency": "EUR",
+        "formatted": "4.39 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6067273-6067273-picture_1-6067273_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/0/6067273-6067273-picture_2-6067273_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:55:47.611Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6067273-6067273-picture_1-6067273_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003661/01-6067273-6067273-picture_1-6067273_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6067273-6067273-picture_2-6067273_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003661/02-6067273-6067273-picture_2-6067273_2.jpg",
+      "skipped": false
+    }
+  ]
+}

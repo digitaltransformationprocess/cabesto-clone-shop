@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0000047",
+  "url": "https://www.cabesto.com/fr/randonnee-jumelles-tasco-essentials-10x25-nt-0000047.html",
+  "title": "Jumelles Tasco Essentials 10x25",
+  "brand": "TASCO",
+  "category": "Jumelles",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Orientation",
+    "Jumelles"
+  ],
+  "categories": [
+    "Orientation",
+    "Jumelles"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Jumelles Tasco Essentials 10x25"
+  ],
+  "description": "Achetez Jumelles Tasco Essentials 10x25 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "TS168125",
+  "price": {
+    "amount": 29,
+    "currency": "EUR",
+    "formatted": "29 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0000047",
+      "sku": "NT-0000047",
+      "supplierRef": "TS168125",
+      "price": {
+        "amount": 29,
+        "currency": "EUR",
+        "formatted": "29 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/i/a/ia08_1-jumelles-tasco-essentials-10x25-tasco.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/a/ia08_1-jumelles-tasco-essentials-10x25-tasco_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:45.735Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/a/ia08_1-jumelles-tasco-essentials-10x25-tasco.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000047/01-ia08_1-jumelles-tasco-essentials-10x25-tasco.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/a/ia08_1-jumelles-tasco-essentials-10x25-tasco_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000047/02-ia08_1-jumelles-tasco-essentials-10x25-tasco_1.jpg",
+      "skipped": false
+    }
+  ]
+}

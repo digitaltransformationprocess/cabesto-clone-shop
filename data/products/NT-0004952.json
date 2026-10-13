@@ -1,0 +1,59 @@
+{
+  "sku": "NT-0004952",
+  "url": "https://www.cabesto.com/fr/coiffe-interieure-casque-rockstar.html",
+  "title": "Coiffe intérieure casque Rockstar",
+  "brand": "CAMP",
+  "category": "Magento B2B",
+  "topLevel": "autre",
+  "topLevelLabel": "Autre",
+  "categoryPath": [
+    "Magento B2B"
+  ],
+  "categories": [
+    "Magento B2B"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Coiffe intérieure casque Rockstar"
+  ],
+  "description": "Achetez Coiffe intérieure casque Rockstar chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "0110",
+  "price": {
+    "amount": 3.35,
+    "currency": "EUR",
+    "formatted": "3.35 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0004952",
+      "sku": "NT-0004952",
+      "supplierRef": "0110",
+      "price": {
+        "amount": 3.35,
+        "currency": "EUR",
+        "formatted": "3.35 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/a/capture_d_cran_2026-08-06_140503.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:48.767Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/capture_d_cran_2026-08-06_140503.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0004952/01-capture_d_cran_2026-08-06_140503.png",
+      "skipped": false
+    }
+  ]
+}

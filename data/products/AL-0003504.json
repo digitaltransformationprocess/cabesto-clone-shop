@@ -1,0 +1,77 @@
+{
+  "sku": "AL-0003504",
+  "url": "https://www.cabesto.com/fr/rose-bio-embrun-gris-sauvage-75cl.html",
+  "title": "ROSE BIO EMBRUN GRIS SAUVAGE 75CL",
+  "brand": "JEAN JEAN",
+  "category": "Vin rosé",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "vins-et-petillants",
+    "vin-rose"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "vins-et-petillants",
+    "vin-rose"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROSE BIO EMBRUN GRIS SAUVAGE 75CL"
+  ],
+  "description": "Achetez ROSE BIO EMBRUN GRIS SAUVAGE 75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3186127815967.",
+  "price": {
+    "amount": 7.39,
+    "currency": "EUR",
+    "formatted": "7.39 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003504",
+      "sku": "AL-0003504",
+      "supplierRef": "3186127815967.",
+      "price": {
+        "amount": 7.39,
+        "currency": "EUR",
+        "formatted": "7.39 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6016349-6016349-picture_1-3186127815967.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/0/6016349-6016349-picture_1-6016349_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/0/6016349-6016349-picture_2-6016349_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:03:10.460Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6016349-6016349-picture_1-3186127815967.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003504/01-6016349-6016349-picture_1-3186127815967.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6016349-6016349-picture_1-6016349_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003504/02-6016349-6016349-picture_1-6016349_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6016349-6016349-picture_2-6016349_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003504/03-6016349-6016349-picture_2-6016349_2.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0000399",
+  "url": "https://www.cabesto.com/fr/plongee-etrier-de-transformation-din-int-en-laiton-chrome-pl-481.html",
+  "title": "Etrier de plongée tranformation DIN vers ETRIER BESTDIVERS",
+  "brand": null,
+  "category": "accessoires-detendeurs-plongee-et-octopus",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Etrier de plongée tranformation DIN vers ETRIER BESTDIVERS"
+  ],
+  "description": "ETRIER DE TRANSFORMATION DIN/INT EN LAITON CHROMEAdaptateur DIN/INT en laiton chromé , par best Divers, pour votre détendeur de plongée.",
+  "supplierRef": "A30916",
+  "price": {
+    "amount": 35.99,
+    "currency": "EUR",
+    "formatted": "35.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0000399",
+      "sku": "SU-0000399",
+      "supplierRef": "A30916",
+      "price": {
+        "amount": 35.99,
+        "currency": "EUR",
+        "formatted": "35.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-481-pl-481-picture_1-pl-481-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:21:02.094Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-481-pl-481-picture_1-pl-481-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000399/01-pl-481-pl-481-picture_1-pl-481-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "detendeurs-et-octopus",
+    "accessoires-detendeurs-plongee-et-octopus"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "detendeurs-et-octopus",
+    "accessoires-detendeurs-plongee-et-octopus"
+  ]
+}

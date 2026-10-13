@@ -1,0 +1,105 @@
+{
+  "sku": "PCSU-0011086",
+  "url": "https://www.cabesto.com/fr/cagoule-de-plongee-sous-marine-5-mm-salvimar-pcsu-0011086.html",
+  "title": "Cagoule de plongée sous-marine MARINA 5 mm SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "Cagoules",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Plongée sous-marine",
+    "Accessoires Néoprène plongée",
+    "Cagoules"
+  ],
+  "categories": [
+    "Plongée sous-marine",
+    "Accessoires Néoprène plongée",
+    "Cagoules"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cagoule de plongée sous-marine MARINA 5 mm SALVIMAR"
+  ],
+  "description": "Mettez votre tête bien au chaud avec la cagoule en néoprène MARINA 5 mm SALVIMAR, ultra confortable, pensée pour protéger votre tête, limiter les entrées d’eau et optimiser le confort en plongée bouteille, idéale pour compléter la combinaison intégrale MA",
+  "supplierRef": null,
+  "price": {
+    "amount": 35.99,
+    "currency": "EUR",
+    "formatted": "35.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0011086",
+      "sku": "PCSU-0011086",
+      "supplierRef": null,
+      "price": {
+        "amount": 35.99,
+        "currency": "EUR",
+        "formatted": "35.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/a/cagmari.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/u/guantitactile5_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/mar.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/a/marina_3_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cagmari3.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cagmari_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cagmari_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cagmari_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:22:38.458Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cagmari.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011086/01-cagmari.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/u/guantitactile5_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011086/02-guantitactile5_0.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/mar.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011086/03-mar.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/marina_3_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011086/04-marina_3_4.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cagmari3.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011086/05-cagmari3.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cagmari_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011086/06-cagmari_1_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cagmari_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011086/07-cagmari_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cagmari_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0011086/08-cagmari_3.jpg",
+      "skipped": true
+    }
+  ]
+}

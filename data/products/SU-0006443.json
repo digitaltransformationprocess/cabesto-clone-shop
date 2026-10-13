@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0006443",
+  "url": "https://www.cabesto.com/fr/plongee-spheres-ergonomiques-pour-ligature-kit-de-10-pieces-pl-4697.html",
+  "title": "Ogives arbalète chasse sous-marine ergonomiques 10 sphères pour ligature SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "Sandows",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ogives arbalète chasse sous-marine ergonomiques 10 sphères pour ligature SALVIMAR"
+  ],
+  "description": "détaillée 11,99 € Quantité Ajouter au panier En stock Livraison estimée entre le 15/10/2026 et le 19/10/2026 Selon le mode de livraison choisi et les délais du transporteur. Vérifie la disponibilité... Vérifier la disponibilité dans votre magasin Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation.",
+  "supplierRef": "400436",
+  "price": {
+    "amount": 11.99,
+    "currency": "EUR",
+    "formatted": "11.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0006443",
+      "sku": "SU-0006443",
+      "supplierRef": "400436",
+      "price": {
+        "amount": 11.99,
+        "currency": "EUR",
+        "formatted": "11.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/p/spheres-salvimar-pour-obus-ligatures_gfah2ogjaenvxt5n.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-4697-pl-4697-picture_1-pl-4697-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:38.195Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/p/spheres-salvimar-pour-obus-ligatures_gfah2ogjaenvxt5n.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006443/01-spheres-salvimar-pour-obus-ligatures_gfah2ogjaenvxt5n.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-4697-pl-4697-picture_1-pl-4697-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0006443/02-pl-4697-pl-4697-picture_1-pl-4697-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Sandows"
+  ],
+  "categories": [
+    "Sandows"
+  ]
+}

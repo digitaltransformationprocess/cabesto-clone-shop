@@ -1,0 +1,95 @@
+{
+  "sku": "SU-0004932",
+  "url": "https://www.cabesto.com/fr/plongee-lests-de-chevilles-souples-500g-la-paire-pl-5877.html",
+  "title": "Plombs de chevilles souples la paire 2 x 500 g IMERSION",
+  "brand": "IMERSION",
+  "category": "lestage",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Plombs de chevilles souples la paire 2 x 500 g IMERSION"
+  ],
+  "description": "Plombs de chevilles souples la paire 2 x 500 g IMERSIONUn lestage ergonomique pour une répartition optimale du poids lors de vos sessions de chasse sous-marine ou d'apnée.Les plombs de cheville 2x500g Imersion sont conçus pour offrir un confort maximal et une répartition équilibrée du poids lors de vos plongées.Chaque plomb est fabriqué en grenaille de plomb souple, enveloppé dans une poche en néoprène robuste pour une durabilité accrue.Ces lests permettent d'améliorer l'équilibre et la position sous l'eau, réduisant ainsi la pression sur les hanches et les épaules.Équipés de sangles réglables avec attache rapide en velcro, ils s'adaptent facilement à toutes les tailles de cheville et garantissent un maintien sécurisé.Idéal pour les plongeurs récréatifs et techniques, ce lestage est un choix fiable pour optimiser votre flottabilité et profiter pleinement de vos explorations sous-marines.Caractéristiques Plombs de Cheville 2x500g ImersionFabriqués en grenaille de plomb souple pour une répartition uniformePoche en néoprène robuste pour une durabilité accrueSangles réglables avec attache rapide en velcroAméliore l'équilibre et la position sous l'eauRéduit la pression sur les hanches et les épaulesInformations techniques :MatériauGrenaille de plomb et néoprènePoids2 x 500 gSangleRéglable avec attache rapide en velcroUtilisationLestage des chevillesCompatibilitéPlongée récréative et techniqueContenu du colis1 paire de plombs de cheville 2x500g Imersion avec sangles réglables.",
+  "supplierRef": "CE609",
+  "price": {
+    "amount": 26.99,
+    "currency": "EUR",
+    "formatted": "26.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004932",
+      "sku": "SU-0004932",
+      "supplierRef": "CE609",
+      "price": {
+        "amount": 26.99,
+        "currency": "EUR",
+        "formatted": "26.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/plombs-de-chevilles-_-clip-2x500gr-imersion_yiomxi0rhxgnswwb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/plomb-largable-600-gr-plastic-lead-salvimar_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-14351-pl-14351-picture_1-pl-14351-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/1/61ixxybhkjl._ac_sl1500__dmboltg39ebngulw.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/d/hd_24_schienalino-hd-vuoto-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-5877-pl-5877-picture_1-pl-5877-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:17.197Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/plombs-de-chevilles-_-clip-2x500gr-imersion_yiomxi0rhxgnswwb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004932/01-plombs-de-chevilles-_-clip-2x500gr-imersion_yiomxi0rhxgnswwb.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/plomb-largable-600-gr-plastic-lead-salvimar_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004932/02-plomb-largable-600-gr-plastic-lead-salvimar_01.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-14351-pl-14351-picture_1-pl-14351-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004932/03-pl-14351-pl-14351-picture_1-pl-14351-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/1/61ixxybhkjl._ac_sl1500__dmboltg39ebngulw.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004932/04-61ixxybhkjl._ac_sl1500__dmboltg39ebngulw.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/d/hd_24_schienalino-hd-vuoto-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004932/05-hd_24_schienalino-hd-vuoto-.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-5877-pl-5877-picture_1-pl-5877-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004932/06-pl-5877-pl-5877-picture_1-pl-5877-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "lestage"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-de-plongee",
+    "lestage"
+  ]
+}

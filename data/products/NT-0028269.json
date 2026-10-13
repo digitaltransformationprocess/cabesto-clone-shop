@@ -1,0 +1,65 @@
+{
+  "sku": "NT-0028269",
+  "url": "https://www.cabesto.com/fr/poignard-mora-companion-noir-inox-moraknil.html",
+  "title": "Poignard Mora Companion Noir Inox - MORAKNIL",
+  "brand": "MORAKNIL",
+  "category": "couverts-couteaux",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "bivouac",
+    "cuisine",
+    "couverts-couteaux"
+  ],
+  "categories": [
+    "montagne",
+    "bivouac",
+    "cuisine",
+    "couverts-couteaux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Poignard Mora Companion Noir Inox - MORAKNIL"
+  ],
+  "description": "Achetez Poignard Mora Companion Noir Inox - MORAKNIL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "12141,",
+  "price": {
+    "amount": 13.9,
+    "currency": "EUR",
+    "formatted": "13.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028269",
+      "sku": "NT-0028269",
+      "supplierRef": "12141,",
+      "price": {
+        "amount": 13.9,
+        "currency": "EUR",
+        "formatted": "13.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/o/mora-black.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:43:30.812Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/o/mora-black.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028269/01-mora-black.jpg",
+      "skipped": false
+    }
+  ]
+}

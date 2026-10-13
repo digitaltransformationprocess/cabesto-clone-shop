@@ -1,0 +1,89 @@
+{
+  "sku": "SU-0009356",
+  "url": "https://www.cabesto.com/fr/plongee-octopus-legend-3-aqua-lung-pl-79978.html",
+  "title": "Octopus de plongée sous-marine LEGEND 3 AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "deuxieme-etage-octopus-plongee-et-detendeur-plongee-complet-de-secours",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Octopus de plongée sous-marine LEGEND 3 AQUALUNG"
+  ],
+  "description": "OCTOPUS LEGEND 3 AQUALUNGVersion OCTOPUS du nouveau LEGEND 3 AQUALUNG (deuxième étage seul avec son flexible MP)...Livré avec flexible tressé long jaune et boîtier de deuxième étage avec finition jaune pour augmenter sa visibilité. Performances identiques par rapport aux autre boîtiers de deuxième étage des LEGEND 3 AQUALUNG. Le confort absolu même en secours...Lorsque la performance est votre priorité absolue, LEG3ND est la réponse. Le LEG3ND partage les mêmes caractéristiques respiratoires que les LEG3ND ELITE et LEG3ND MBS. Avec un nouveau levier Venturi optimisé. Parce que vos sensations et émotions sont amplifiées dans le monde sous-marin, vous pouvez vous concentrer sur ce qui compte: se sentir libre.2ème étage :Nouvelle face avant avec canaux d'ouvertures permettant le passage de l'eau sur le côté de la membrane d'inspirationLa géométrie des ouvertures latérales améliore la stabilité du détendeur lors d’une descente rapide ou contre le courant.Les ouvertures ont été élargies pour réduire le débit inspiratoire maximal de 20%Nouveau couvercle d'échappement surmoulé en élastomère avec un effet «soft touch»Bouton de purge surmouléLa grande surface facilite la purge du détendeurLe capteur de profondeur de la purge optimise le flux d'air avec un effort minimalEmbout buccal Comfo-Bite™ limitant la fatigue maxillaire pour un confort en bouche optimalChangement d'embout buccal rapide et simple sans outil sans déchets plastiquesL’échangeur thermique (breveté) qui comporte le mécanisme siège/clapet dissipe le froid de la détente tout en réchauffant le mécanisme interneAir channel deflectorDirige le flux d'air uniformément pendant la phase d'inhalationLe déflecteur bi-matière rationalisé réduit l'effort d'expirationFlexible tressé Aqua Flex de 730mm de longueur. Il est très souple et extrêmement léger, il améliore le confort en bouche en limitant l’effet de tiraillement de l’embout.Ce détendeur a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme NF EN 250.",
+  "supplierRef": "706030NR",
+  "price": {
+    "amount": 169.99,
+    "currency": "EUR",
+    "formatted": "169.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0009356",
+      "sku": "SU-0009356",
+      "supplierRef": "706030NR",
+      "price": {
+        "amount": 169.99,
+        "currency": "EUR",
+        "formatted": "169.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-octopus_2nd-stage_02-front_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/a/pack-legend-elite-din22_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-octopus_2nd-stage_01-right_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-octopus_2nd-stage_03-left_up_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-octopus_2nd-stage_04-back_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:32:20.015Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-octopus_2nd-stage_02-front_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009356/01-leg3nd-octopus_2nd-stage_02-front_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/a/pack-legend-elite-din22_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009356/02-pack-legend-elite-din22_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-octopus_2nd-stage_01-right_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009356/03-leg3nd-octopus_2nd-stage_01-right_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-octopus_2nd-stage_03-left_up_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009356/04-leg3nd-octopus_2nd-stage_03-left_up_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-octopus_2nd-stage_04-back_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009356/05-leg3nd-octopus_2nd-stage_04-back_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "detendeurs-et-octopus",
+    "deuxieme-etage-octopus-plongee-et-detendeur-plongee-complet-de-secours"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "detendeurs-et-octopus",
+    "deuxieme-etage-octopus-plongee-et-detendeur-plongee-complet-de-secours"
+  ]
+}

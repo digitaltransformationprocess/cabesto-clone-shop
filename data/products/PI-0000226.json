@@ -1,0 +1,89 @@
+{
+  "sku": "PI-0000226",
+  "url": "https://www.cabesto.com/fr/aspirateur-piscine-telsa-50-sans-fil-kokido.html",
+  "title": "ASPIRATEUR PISCINE TELSA 50 SANS FIL KOKIDO",
+  "brand": "KSD KOKIDO",
+  "category": "Sélection Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Aspirateur manuel",
+    "Sélection Piscine",
+    "Prix en baisse",
+    "Prix en baisse Piscine"
+  ],
+  "categories": [
+    "Aspirateur manuel",
+    "Sélection Piscine",
+    "Prix en baisse",
+    "Prix en baisse Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ASPIRATEUR PISCINE TELSA 50 SANS FIL KOKIDO"
+  ],
+  "description": "Achetez ASPIRATEUR PISCINE TELSA 50 SANS FIL KOKIDO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "EV050CBXEUXXKOK",
+  "price": {
+    "amount": 139,
+    "currency": "EUR",
+    "formatted": "139 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000226",
+      "sku": "PI-0000226",
+      "supplierRef": "EV050CBXEUXXKOK",
+      "price": {
+        "amount": 139,
+        "currency": "EUR",
+        "formatted": "139 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/v/ev050cbxeuxxkok_telsa_pic4_240717.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/v/ev050cbxeuxxkok_telsa_pic1_240717.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/v/ev050cbxeuxxkok_telsa_pic3_240717.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/v/ev050cbxeuxxkok_telsa_pic2_240717.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/e/v/ev050cbxeuxxkok_telsa_pic5_240717.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:35:33.551Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/v/ev050cbxeuxxkok_telsa_pic4_240717.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000226/01-ev050cbxeuxxkok_telsa_pic4_240717.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/v/ev050cbxeuxxkok_telsa_pic1_240717.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000226/02-ev050cbxeuxxkok_telsa_pic1_240717.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/v/ev050cbxeuxxkok_telsa_pic3_240717.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000226/03-ev050cbxeuxxkok_telsa_pic3_240717.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/v/ev050cbxeuxxkok_telsa_pic2_240717.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000226/04-ev050cbxeuxxkok_telsa_pic2_240717.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/v/ev050cbxeuxxkok_telsa_pic5_240717.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000226/05-ev050cbxeuxxkok_telsa_pic5_240717.jpg",
+      "skipped": false
+    }
+  ]
+}

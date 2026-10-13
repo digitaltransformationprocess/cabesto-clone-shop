@@ -1,0 +1,79 @@
+{
+  "sku": "PI-0003317",
+  "url": "https://www.cabesto.com/fr/piscine-sterilisateur-au-sel-l-krystal-clear-pour-piscine-jusqu-a-57m3-pi-323.html",
+  "title": "STERILISATEUR AU SEL 56.8M3QS1200 KRYSTAL CLEAR INTEX",
+  "brand": "INTEX",
+  "category": "Électrolyseur piscine hors-sol",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "STERILISATEUR AU SEL 56.8M3QS1200 KRYSTAL CLEAR INTEX"
+  ],
+  "description": "Stérilisateur au sel L Krystal clear pour piscine jusqu'à 57m3 ECOSTERILISATEUR AU SEL KRYSTAL CLEAR - LE TRAITEMENT AU SEL POUR BASSINS HORS SOL Pas besoin de chlore pour traiter efficacement sa piscine ! Avec le stérilisateur au sel INTEX, il vous sera",
+  "supplierRef": "26670",
+  "price": {
+    "amount": 199,
+    "currency": "EUR",
+    "formatted": "199 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003317",
+      "sku": "PI-0003317",
+      "supplierRef": "26670",
+      "price": {
+        "amount": 199,
+        "currency": "EUR",
+        "formatted": "199 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/6/26668-sterilisateur-au-sel-_2__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/r/krystal-clear-ecosterilisateur-au-sel-et-oec-26-5-m--piscine-center-1531492872_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/6/26668-sterilisateur-au-sel-_1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_24_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:34:16.185Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26668-sterilisateur-au-sel-_2__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003317/01-26668-sterilisateur-au-sel-_2__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/r/krystal-clear-ecosterilisateur-au-sel-et-oec-26-5-m--piscine-center-1531492872_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003317/02-krystal-clear-ecosterilisateur-au-sel-et-oec-26-5-m--piscine-center-1531492872_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/6/26668-sterilisateur-au-sel-_1__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003317/03-26668-sterilisateur-au-sel-_1__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_24_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003317/04-hqdefault_24_7.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "sku": "SU-0008184",
+  "url": "https://www.cabesto.com/fr/plongee-detendeur-legend-3-mbs-din-aqua-lung-pl-79975.html",
+  "title": "Détendeur de plongée LEGEND 3 MBS DIN AQUALUNG",
+  "brand": "AQUALUNG",
+  "category": "detendeurs-plongee-surcompenses",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Détendeur de plongée LEGEND 3 MBS DIN AQUALUNG"
+  ],
+  "description": "Détendeur LEGEND 3 MBS DIN AQUALUNGVotre première inspiration sous l’eau est le début d’une nouvelle aventure. L’association révolutionnaire d’un bouton de réglage de l’effet Venturi et de l’effort inspiratoire assure un contrôle naturel et intuitif. Le système MBS (Master Breathing System) d’Aqua Lung permet aux plongeurs de régler ces deux paramètres par une simple rotation d’un bouton. Quelles que soient la profondeur, les conditions ou les plongées, le système MBS s’y adaptera.1er étage :Auto Closure Device : Dispositif de fermeture automatique (ACD). L’eau et les polluants ambiants ne peuvent entrer dans le Legend et ce dès que celui-ci est retiré du robinetLes composants internes ne sont pas pollués et restent parfaitement lubrifiésMaintient le filtre propre et secSécurité accrue lors d’une utilisation avec des mélanges suroxygénés.Exceptionnelles performances en eau froide grâce à l'amélioration des propriétés anti-givre AquaLung :Là où il n'y a pas d'humidité, il n'y a pas de glace: Chambre sèche du LEG3ND protège le ressort, l’eau n’entre pas et empêche la formation de glace et la pollution des composants lors de plongées en eaux chargées.Les nervures profondes créent une grande surface d'échange thermique qui aident à empêcher la formation de glace sur le mécanisme (+ 30% vs Glacia / + 70% vs Legend 2)Le nouveau capuchon surmoulé retarde la formation de glace sur le diaphragme externeSur-compenséAugmentation progressive de la pression de travail pour maintenir des efforts de respiration optimaux: Selon la profondeur du plongeur, la pression de travail du premier étage est automatiquement ajustée pour contrer l'augmentation de la densité de l'air de respirationLes ergonomiques pas de vis Etrier ou Din sont composés d'une surface bi-matière «Soft Grip» qui offre une meilleure tenue lors de l'installation ou du retrait du premier étage - en particulier avec les mains froidesChanneled YOKE screw to prevent water retention.Le capot anti-poussière dédié à l'ACD, est fixé au corps du détendeur pour protéger le raccord d'entrée et le système ACD contre les chocs ou les dommagesSorties HP et MP parfaitement positionnées et symétriques assurant une orientation parfaite des flexibles.2ème étage :New front cover opening channels allow water to flow sideways over the diaphragmLa géométrie des ouvertures latérales améliore la stabilité du détendeur lors d’une descente rapide ou contre le courant.Les ouvertures ont été élargies pour réduire le débit inspiratoire maximal de 20%Nouveau couvercle d'échappement surmoulé en élastomère avec un effet «soft touch»Bouton de purge surmouléLa grande surface facilite la purge du détendeurLe capteur de profondeur de la purge optimise le flux d'air avec un effort minimalEmbout buccal Comfo-Bite™ limitant la fatigue maxillaire pour un confort en bouche optimalChangement d'embout buccal rapide et simple sans outil sans déchets plastiquesL’échangeur thermique (breveté) qui comporte le mécanisme siège/clapet dissipe le froid de la détente tout en réchauffant le mécanisme interne.Air channel deflectorDirige le flux d'air uniformément pendant la phase d'inhalationLe déflecteur bi-matière rationalisé réduit l'effort d'expirationFlexible tressé Aqua Flex de 730mm de longueur. Il est très souple et extrêmement léger, il améliore le confort en bouche en limitant l’effet de tiraillement de l’embout.Ce détendeur a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme NF EN 250.",
+  "supplierRef": "706010BKBKDIN",
+  "price": {
+    "amount": 649.99,
+    "currency": "EUR",
+    "formatted": "649.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0008184",
+      "sku": "SU-0008184",
+      "supplierRef": "706010BKBKDIN",
+      "price": {
+        "amount": 649.99,
+        "currency": "EUR",
+        "formatted": "649.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_7.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-mbs_2nd-stage_02-front.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/e/leg3nd_first-stage_din_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-mbs_2nd-stage_01-right.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-mbs_2nd-stage_03-left_up.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-mbs_2nd-stage_04-back.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_42_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:32:12.480Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_7.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008184/01-sans_titre_7.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-mbs_2nd-stage_02-front.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008184/02-leg3nd-mbs_2nd-stage_02-front.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/leg3nd_first-stage_din_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008184/03-leg3nd_first-stage_din_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-mbs_2nd-stage_01-right.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008184/04-leg3nd-mbs_2nd-stage_01-right.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-mbs_2nd-stage_03-left_up.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008184/05-leg3nd-mbs_2nd-stage_03-left_up.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/e/leg3nd-mbs_2nd-stage_04-back.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008184/06-leg3nd-mbs_2nd-stage_04-back.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_42_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0008184/07-hqdefault_42_13.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "detendeurs-et-octopus",
+    "detendeurs-plongee-surcompenses"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "detendeurs-et-octopus",
+    "detendeurs-plongee-surcompenses"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0003134",
+  "url": "https://www.cabesto.com/fr/poudre-a-colombo-100g.html",
+  "title": "POUDRE A COLOMBO 100G",
+  "brand": "TONTON CLEMENT",
+  "category": "Aide culinaires des iles",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-exotique",
+    "aide-culinaires-exotiques"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-exotique",
+    "aide-culinaires-exotiques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "POUDRE A COLOMBO 100G"
+  ],
+  "description": "Achetez POUDRE A COLOMBO 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3348870945456.",
+  "price": {
+    "amount": 2.49,
+    "currency": "EUR",
+    "formatted": "2.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003134",
+      "sku": "AL-0003134",
+      "supplierRef": "3348870945456.",
+      "price": {
+        "amount": 2.49,
+        "currency": "EUR",
+        "formatted": "2.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0003134.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:00:53.424Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0003134.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003134/01-al-0003134.jpg",
+      "skipped": true
+    }
+  ]
+}

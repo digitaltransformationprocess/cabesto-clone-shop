@@ -1,0 +1,67 @@
+{
+  "sku": "PCPE-0018810",
+  "url": "https://www.cabesto.com/fr/cannes-de-peche-aux-leurres-serena-sakura.html",
+  "title": "Cannes de pêche aux leurres Serena | Sakura",
+  "brand": "SAKURA",
+  "category": "Peche a classer",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-peche"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-peche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cannes de pêche aux leurres Serena | Sakura"
+  ],
+  "description": "Achetez Cannes de pêche aux leurres Serena | Sakura chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 66.99,
+    "currency": "EUR",
+    "formatted": "66.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPE-0018810",
+      "sku": "PCPE-0018810",
+      "supplierRef": null,
+      "price": {
+        "amount": 66.99,
+        "currency": "EUR",
+        "formatted": "66.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-sakura-serena-z-2714-271450_uda3kirt8zfdvmyb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-sakura-serena-z-2714-271450_qin4rzwctzeggfes.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:26:32.409Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-sakura-serena-z-2714-271450_uda3kirt8zfdvmyb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018810/01-canne-spinning-sakura-serena-z-2714-271450_uda3kirt8zfdvmyb.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-sakura-serena-z-2714-271450_qin4rzwctzeggfes.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018810/02-canne-spinning-sakura-serena-z-2714-271450_qin4rzwctzeggfes.jpg",
+      "skipped": false
+    }
+  ]
+}

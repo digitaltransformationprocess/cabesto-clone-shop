@@ -1,0 +1,75 @@
+{
+  "sku": "SU-0005894",
+  "url": "https://www.cabesto.com/fr/plongee-anti-buee-sea-buff-37ml-pcb-12-pl-731.html",
+  "title": "Anti-buée de plongée SEA BUFF 37 ml McNETT",
+  "brand": "SCUBAPRO",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage Plongée / Chasse sous-marine",
+    "Destockage",
+    "Destockage",
+    "Anti-buée de plongée SEA BUFF 37 ml McNETT"
+  ],
+  "description": "Anti buée SEA BUFF 37 ml McNETTPréparez votre masque neuf contre la buée avec l'anti buée SEA BUFF de McNETT, la crème adhérente ultra efficace pour bien dégraisser votre masque de plongée sous-marine.La formule à nettoyage rapide de l'anti bueé SEA BUFF McNETT élimine les résidus de silicone sur les verres \"neufs\" de votre masque de plongée en verre \"tempered glass\" en limitant ainsi la formation de la buée.Pour les masques plus anciens ou usagés, le SEA BUFF élimine la saleté, les résidus de crèmes solaires et les algues qui peuvent interférer avec les traitements antibuée.Le SEA BUFF est efficace également pour nettoyer votre ardoise sous marine de plongée.Appliquer, frotter, rincer et répéter l'application de l'anti buée SEA BUFF.Attention : Ne pas utiliser sur les lunettes de natation en plastique, masque de snorkeling avec hublot plastique, masque facial en plexiglass.Puissant : Élimine la buée, les résidus, la saleté et autres débrisNettoie en douceur : N’endommage ni ne raye les ardoisesConcentration : Un petit flacon nettoie plusieurs masques de plongée er ardoisesFormule spéciale : À utiliser uniquement sur les lentilles en verre trempé ; tester une petite zone avant de l'utiliser.",
+  "supplierRef": "841.028.000",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005894",
+      "sku": "SU-0005894",
+      "supplierRef": "841.028.000",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-731-pl-731-picture_1-pl-731-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/n/anti_bu_masque_et_nettoyage_ardoise_seabuff-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:22:01.665Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-731-pl-731-picture_1-pl-731-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005894/01-pl-731-pl-731-picture_1-pl-731-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/n/anti_bu_masque_et_nettoyage_ardoise_seabuff-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005894/02-anti_bu_masque_et_nettoyage_ardoise_seabuff-.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

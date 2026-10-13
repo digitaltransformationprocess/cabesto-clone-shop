@@ -1,0 +1,67 @@
+{
+  "sku": "PCNT-0009396",
+  "url": "https://www.cabesto.com/fr/neige-glace-chaussures-karakorum-hc-gore-tex-la-sportiva-ls36.html",
+  "title": "Chaussures Karakorum HC GORE-TEX - LA SPORTIVA",
+  "brand": "LA SPORTIVA",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Chaussures d'alpinisme",
+    "Destockage Montagne",
+    "Chaussures hautes homme",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Chaussures d'alpinisme",
+    "Destockage Montagne",
+    "Chaussures hautes homme",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussures Karakorum HC GORE-TEX - LA SPORTIVA"
+  ],
+  "description": "Achetez Chaussures Karakorum HC GORE-TEX - LA SPORTIVA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0009396",
+      "sku": "PCNT-0009396",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/s/ls36_1_bm-chaussures-karakorum-hc-gore-tex-la-sportiva_12.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:31:04.835Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls36_1_bm-chaussures-karakorum-hc-gore-tex-la-sportiva_12.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0009396/01-ls36_1_bm-chaussures-karakorum-hc-gore-tex-la-sportiva_12.jpg",
+      "skipped": false
+    }
+  ]
+}

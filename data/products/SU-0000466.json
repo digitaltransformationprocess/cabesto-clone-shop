@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0000466",
+  "url": "https://www.cabesto.com/fr/plongee-anti-buee-sea-gold-37ml-pcb-12-pl-732.html",
+  "title": "Anti buée de plongée SEA GOLD 37 ml McNETT",
+  "brand": null,
+  "category": "anti-buee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Anti buée de plongée SEA GOLD 37 ml McNETT"
+  ],
+  "description": "Anti buée 37 ml SEA GOLD McNETTEliminez la buée dans votre masque de plongée avec l'anti buée SEA GOLD McNETT, sans aucun doute le meilleur GEL anti buée existant sur le marché actuellement.Sans aucun doute le meilleur anti-buée existant, l'anti buée SEA GOLD. Gel anti buée hautement concentré, le plus efficace des anti buées.Convient à toutes les lentilles en verre et en plastique sans risque pour les contours en silicone ou caoutchouc du cadre de maintien.Conçu pour éliminer au maximum la buée des masques de plongée et s'appliquer rapidement et facilement sur le terrain.Convient également aux lunettes de ski, lunettes de protection du visage, jumelles et télescope (ne pas utiliser avec des lunettes de natation).Puissance : Il suffit de frotter la lentille intérieure et de la rincer pour obtenir des lentilles sans buée instantanées quelle que soit la température.Concentration : Une goutte suffit pour traiter un masque de plongée.Action longue durée : Profitez d'une vision claire pendant des heures, fonctionne même après plusieurs plongées.Sans alcool : La formule de gel facile à utiliser est non toxique pour une vision claire qui ne nuit pas aux cadres de masque en silicone ou en caoutchouc.Efficacité : Idéal pour tous les masques et lentilles de plongée en verre et en plastique (ne pas utiliser avec des lunettes de natation).Le produit en vidéo",
+  "supplierRef": "841.028.002",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0000466",
+      "sku": "SU-0000466",
+      "supplierRef": "841.028.002",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-732-pl-732-picture_1-pl-732-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/n/anti_buee_masque_plongee_sous_marine_sea_gold_gear_aid_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:22:05.111Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-732-pl-732-picture_1-pl-732-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000466/01-pl-732-pl-732-picture_1-pl-732-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/n/anti_buee_masque_plongee_sous_marine_sea_gold_gear_aid_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0000466/02-anti_buee_masque_plongee_sous_marine_sea_gold_gear_aid_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "nage",
+    "lunettes-et-masques-de-natation",
+    "anti-buee"
+  ],
+  "categories": [
+    "plongee",
+    "nage",
+    "lunettes-et-masques-de-natation",
+    "anti-buee"
+  ]
+}

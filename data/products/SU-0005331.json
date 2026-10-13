@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0005331",
+  "url": "https://www.cabesto.com/fr/catalog/product/view/id/5103/s/plongee-plomb-de-500-g-pl-6151/",
+  "title": "Plomb de ceinture brut de 500 g LEMER",
+  "brand": "LEMER",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Plomb de ceinture brut de 500 g LEMER"
+  ],
+  "description": "détaillée 5,99 € 6,00 € Quantité Ajouter au panier En stock (1) Livraison estimée entre le 15/10/2026 et le 19/10/2026 Selon le mode de livraison choisi et les délais du transporteur. Vérifie la disponibilité... Vérifier la disponibilité dans votre magasin Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation. AVIS CLIENTS 5 / 5 Basé sur 1 avis soumis à un contrôle Voir tous les avis sur ce site 5 étoiles 1 4 étoiles 0 3 étoiles 0 2 étoiles 0 1 étoile 0 Trier les avis Les plus récents Les plus anciens Notes les plus élevées Notes les plus basses Les plus utiles 5/5 Avis vérifié Nickel Avis du 28/11/2020 , suite à une expérience du 10/11/2020 par A.A. Utile (0) Signaler",
+  "supplierRef": "11700500",
+  "price": {
+    "amount": 5.99,
+    "currency": "EUR",
+    "formatted": "5.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005331",
+      "sku": "SU-0005331",
+      "supplierRef": "11700500",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-6151-pl-6151-picture_1-pl-6151-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:17.911Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-6151-pl-6151-picture_1-pl-6151-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005331/01-pl-6151-pl-6151-picture_1-pl-6151-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

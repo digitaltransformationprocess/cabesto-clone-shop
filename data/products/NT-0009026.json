@@ -1,0 +1,83 @@
+{
+  "sku": "NT-0009026",
+  "url": "https://www.cabesto.com/fr/jag-rescue-kit-60-m-nt-0009026.html",
+  "title": "Jag Rescue Kit 60 m",
+  "brand": "PETZL",
+  "category": "lots-de-sauvetage",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "secours",
+    "lots-de-sauvetage"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "secours",
+    "lots-de-sauvetage"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Jag Rescue Kit 60 m"
+  ],
+  "description": "Achetez Jag Rescue Kit 60 m chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "K090AA01",
+  "price": {
+    "amount": 784.95,
+    "currency": "EUR",
+    "formatted": "784.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0009026",
+      "sku": "NT-0009026",
+      "supplierRef": "K090AA01",
+      "price": {
+        "amount": 784.95,
+        "currency": "EUR",
+        "formatted": "784.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/x/px69_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px69_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px69_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/x/px69_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:38:22.821Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px69_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0009026/01-px69_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px69_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0009026/02-px69_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px69_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0009026/03-px69_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/x/px69_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0009026/04-px69_4.jpg",
+      "skipped": false
+    }
+  ]
+}

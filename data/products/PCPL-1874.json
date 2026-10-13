@@ -1,0 +1,79 @@
+{
+  "sku": "PCPL-1874",
+  "url": "https://www.cabesto.com/fr/plongee-flexible-ds-vp-extraflex-3-8-m-9-16-f-76-cm-pcpl-1874.html",
+  "title": "FLEXIBLE DIRECT SYSTEM TRESSE EXTRAFLEX 76 CM 3/8\" M - 9/16\" F AQUATYS",
+  "brand": "AQUATYS",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FLEXIBLE DIRECT SYSTEM TRESSE EXTRAFLEX 76 CM 3/8\" M - 9/16\" F AQUATYS"
+  ],
+  "description": "FLEXIBLE DIRECT SYSTEM TRESSE EXTRAFLEX 76 CM 3/8\" M - 9/16\" F AQUATYSParfait rapport qualité/prix entre un flexible caoutchouc et un flexible Miflex, ce flexible de Direct System tressé AQUATYS ira à merveille avec votre gilet stabilisateur de plongée.Longueur 76 cm.",
+  "supplierRef": null,
+  "price": {
+    "amount": 27.99,
+    "currency": "EUR",
+    "formatted": "27.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1874",
+      "sku": "PCPL-1874",
+      "supplierRef": null,
+      "price": {
+        "amount": 27.99,
+        "currency": "EUR",
+        "formatted": "27.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/f/d/fds.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/d/fdsmf_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/d/fdsmf.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/d/fdsbleu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:04.822Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/d/fds.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1874/01-fds.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/d/fdsmf_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1874/02-fdsmf_2_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/d/fdsmf.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1874/03-fdsmf.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/d/fdsbleu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1874/04-fdsbleu.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

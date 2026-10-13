@@ -1,0 +1,63 @@
+{
+  "sku": "NU-0014124",
+  "url": "https://www.cabesto.com/fr/vhf-fixe-ic-m330ge-noire-avec-gps.html",
+  "title": "VHF Fixe IC-M330GE - Noire avec GPS",
+  "brand": "ICOM",
+  "category": "VHF fixes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Electronique",
+    "VHF",
+    "VHF fixes"
+  ],
+  "categories": [
+    "Electronique",
+    "VHF",
+    "VHF fixes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "VHF Fixe IC-M330GE - Noire avec GPS"
+  ],
+  "description": "Achetez VHF Fixe IC-M330GE - Noire avec GPS chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "IC-M330GE#35",
+  "price": {
+    "amount": 295,
+    "currency": "EUR",
+    "formatted": "295 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0014124",
+      "sku": "NU-0014124",
+      "supplierRef": "IC-M330GE#35",
+      "price": {
+        "amount": 295,
+        "currency": "EUR",
+        "formatted": "295 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/0/2000x2000_me-cffffff_ic-m330ge_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:03:39.259Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2000x2000_me-cffffff_ic-m330ge_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0014124/01-2000x2000_me-cffffff_ic-m330ge_2.jpg",
+      "skipped": true
+    }
+  ]
+}

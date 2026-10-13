@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0002624",
+  "url": "https://www.cabesto.com/fr/noix-de-petoncle-au-piment-d-espelette-80g.html",
+  "title": "NOIX PETONCLE PIMENT ESPELETTE 80-90G",
+  "brand": "ATELIER DU CUISINIER",
+  "category": "tartinables",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tartinable-mer",
+    "tartinables"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tartinable-mer",
+    "tartinables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "NOIX PETONCLE PIMENT ESPELETTE 80-90G"
+  ],
+  "description": "Achetez NOIX PETONCLE PIMENT ESPELETTE 80-90G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "ATC-PET",
+  "price": {
+    "amount": 4.39,
+    "currency": "EUR",
+    "formatted": "4.39 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002624",
+      "sku": "AL-0002624",
+      "supplierRef": "ATC-PET",
+      "price": {
+        "amount": 4.39,
+        "currency": "EUR",
+        "formatted": "4.39 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/e/petoncles.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:49:20.791Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/petoncles.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002624/01-petoncles.jpg",
+      "skipped": true
+    }
+  ]
+}

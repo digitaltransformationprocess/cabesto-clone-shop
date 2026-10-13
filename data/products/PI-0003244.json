@@ -1,0 +1,83 @@
+{
+  "sku": "PI-0003244",
+  "url": "https://www.cabesto.com/fr/piscine-skimmer-miroir-xxl-pour-piscine-liner-et-beton-pi-0003244.html",
+  "title": "Skimmer miroir XXL pour piscine liner et béton",
+  "brand": "ASTRAL",
+  "category": "pieces-detachees-descendeurs-speleo",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "speleologie",
+    "bloqueurs-descendeurs-poulies-speleo",
+    "pieces-detachees-descendeurs-speleo"
+  ],
+  "categories": [
+    "montagne",
+    "speleologie",
+    "bloqueurs-descendeurs-poulies-speleo",
+    "pieces-detachees-descendeurs-speleo"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Skimmer miroir XXL pour piscine liner et béton"
+  ],
+  "description": "Skimmer miroir XXL pour piscine liner et béton Skimmer miroir XXL pour piscine liner et béton Son utilité :Mis en place au cours de la construction de la piscine, il permet comme son nom l'indique d'écrémer la surface de l'eau, et de la débarrasser des",
+  "supplierRef": "56299",
+  "price": {
+    "amount": 99,
+    "currency": "EUR",
+    "formatted": "99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0003244",
+      "sku": "PI-0003244",
+      "supplierRef": "56299",
+      "price": {
+        "amount": 99,
+        "currency": "EUR",
+        "formatted": "99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/k/skimmer-miroir-xxl-beton-liner-blanc-piscine-center-1423660467.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/k/skimmer-miroir-xxl-beton-liner-blanc-piscine-center-1423660492.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/k/skimmer-miroir-xxl-beton-liner-blanc-piscine-center-1423660742.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/k/skimmer-miroir-xxl-beton-liner-blanc-piscine-center-1423660774.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:47:34.968Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/k/skimmer-miroir-xxl-beton-liner-blanc-piscine-center-1423660467.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003244/01-skimmer-miroir-xxl-beton-liner-blanc-piscine-center-1423660467.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/k/skimmer-miroir-xxl-beton-liner-blanc-piscine-center-1423660492.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003244/02-skimmer-miroir-xxl-beton-liner-blanc-piscine-center-1423660492.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/k/skimmer-miroir-xxl-beton-liner-blanc-piscine-center-1423660742.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003244/03-skimmer-miroir-xxl-beton-liner-blanc-piscine-center-1423660742.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/k/skimmer-miroir-xxl-beton-liner-blanc-piscine-center-1423660774.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0003244/04-skimmer-miroir-xxl-beton-liner-blanc-piscine-center-1423660774.jpg",
+      "skipped": true
+    }
+  ]
+}

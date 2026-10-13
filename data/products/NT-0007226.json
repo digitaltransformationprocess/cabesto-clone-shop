@@ -1,0 +1,79 @@
+{
+  "sku": "NT-0007226",
+  "url": "https://www.cabesto.com/fr/neige-glace-raquettes-a-neige-325-ride-nt-0007226.html",
+  "title": "Raquettes à neige 325 Brick Initial - TSL",
+  "brand": "TSL",
+  "category": "Raquettes à neige",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Neige & Glace",
+    "Raquettes à neige"
+  ],
+  "categories": [
+    "Neige & Glace",
+    "Raquettes à neige"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Raquettes à neige 325 Brick Initial - TSL"
+  ],
+  "description": "Achetez Raquettes à neige 325 Brick Initial - TSL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "PFRI839",
+  "price": {
+    "amount": 126.75,
+    "currency": "EUR",
+    "formatted": "126.75 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0007226",
+      "sku": "NT-0007226",
+      "supplierRef": "PFRI839",
+      "price": {
+        "amount": 126.75,
+        "currency": "EUR",
+        "formatted": "126.75 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/a/capture_d_cran_2026-01-07_142110.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/2/325_initial-1128_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/2/325_initial-1255.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/2/325_initial-1266.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:42.829Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/capture_d_cran_2026-01-07_142110.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007226/01-capture_d_cran_2026-01-07_142110.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/2/325_initial-1128_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007226/02-325_initial-1128_0.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/2/325_initial-1255.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007226/03-325_initial-1255.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/2/325_initial-1266.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007226/04-325_initial-1266.jpg",
+      "skipped": false
+    }
+  ]
+}

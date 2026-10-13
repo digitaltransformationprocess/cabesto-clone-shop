@@ -1,0 +1,65 @@
+{
+  "sku": "NU-0002398-B2CD",
+  "url": "https://www.cabesto.com/fr/kit-de-montag-pour-encastrer-les-vhf-fixes-rt750-et-rt850-sur-une-console-de-bateau.html",
+  "title": "Kit d'encastrement VHF fixes RT750 / RT850",
+  "brand": "NAVICOM",
+  "category": "Accessoires VHF fixes et portables",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Electronique",
+    "Nautisme",
+    "VHF",
+    "Accessoires VHF fixes et portables"
+  ],
+  "categories": [
+    "Electronique",
+    "Nautisme",
+    "VHF",
+    "Accessoires VHF fixes et portables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Kit d'encastrement VHF fixes RT750 / RT850"
+  ],
+  "description": "Achetez Kit d'encastrement VHF fixes RT750 / RT850 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "RY750",
+  "price": {
+    "amount": 29,
+    "currency": "EUR",
+    "formatted": "29 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0002398-B2CD",
+      "sku": "NU-0002398-B2CD",
+      "supplierRef": "RY750",
+      "price": {
+        "amount": 29,
+        "currency": "EUR",
+        "formatted": "29 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/2/424648.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:07:24.438Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/2/424648.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0002398-B2CD/01-424648.jpg",
+      "skipped": false
+    }
+  ]
+}

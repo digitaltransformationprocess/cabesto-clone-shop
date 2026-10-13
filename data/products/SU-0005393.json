@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0005393",
+  "url": "https://www.cabesto.com/fr/plongee-poignee-pour-tous-types-de-bouteilles-pl-419.html",
+  "title": "Poignée de portage universelle pour bouteille de plongée AQUATYS",
+  "brand": null,
+  "category": "accessoires-pour-bouteille-de-plongee-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Poignée de portage universelle pour bouteille de plongée AQUATYS"
+  ],
+  "description": "détaillée 15,99 € Quantité Ajouter au panier Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation. AVIS CLIENTS 5 / 5 Basé sur 7 avis soumis à un contrôle Voir tous les avis sur ce site 5 étoiles 7 4 étoiles 0 3 étoiles 0 2 étoiles 0 1 étoile 0 Trier les avis Les plus récents Les plus anciens Notes les plus élevées Notes les plus basses Les plus utiles 5/5 Avis vérifié Ras Avis du 19/05/2026 , suite à une expérience du 01/05/2026 par T.S. Utile (0) Signaler Réponse de cabesto.com Bonjour, Nous vous remercions pour votre avis positif ! Nous sommes ravis d'apprendre que vous êtes satisfait de votre expérience avec notre produit. N'hésitez pas à revenir vers nous pour toute question ou besoin supplémentaire. Cordialement, L’équipe cabesto 5/5 Avis vérifié Poignée pratique et solide ! Avis du 08/05/2026 , suite à une expérience du 22/04/2026 par Jean-Louis V. Utile (0) Signaler Réponse de cabesto.com Bonjour, Un grand merci pour votre avis élogieux ! Nous sommes ravis d'apprendre que vous trouvez notre poignée à la fois pratique et solide. Votre satisfaction est notre priorité, et vos retours sont toujours précieux pour nous. Cordialement. L’équipe cabesto 5/5 Avis vérifié Conforme à la description Avis du 21/04/2026 , suite à une expérience du 31/03/2026 par Jordan P. Utile (0) Signaler Réponse de cabesto.com Bonjour, Nous vous remercions sincèrement pour votre retour positif et sommes ravis d'apprendre que le produit est conforme à vos attentes. Votre satisfaction est notre priorité et vos avis nous aident à nous améliorer. N'hésitez pas à revenir vers nous pour toute question ou besoin futur. Cordialement. L’équipe cabesto 5/5 Avis vérifié C'est parfait. Avis du 01/10/2025 , suite à une expérience du 18/09/2025 par Philippe B. Utile (0) Signaler 5/5 Avis vérifié Le produit parfait très robuste. Facile à installer. Excellente prise en main. Produit à recommander. Avis du 23/09/2025 , suite à une expérience du 08/09/2025 par Cyrille B. Utile (0) Signaler 1 2",
+  "supplierRef": "A80109",
+  "price": {
+    "amount": 15.99,
+    "currency": "EUR",
+    "formatted": "15.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005393",
+      "sku": "SU-0005393",
+      "supplierRef": "A80109",
+      "price": {
+        "amount": 15.99,
+        "currency": "EUR",
+        "formatted": "15.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/q/aquatys-poignee-de-bloc-universelle_eloo2gjpkzm9mpmb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-419-pl-419-picture_1-pl-419-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:20:58.247Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/q/aquatys-poignee-de-bloc-universelle_eloo2gjpkzm9mpmb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005393/01-aquatys-poignee-de-bloc-universelle_eloo2gjpkzm9mpmb.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-419-pl-419-picture_1-pl-419-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005393/02-pl-419-pl-419-picture_1-pl-419-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "bouteilles-et-blocs",
+    "accessoires-pour-bouteille-de-plongee-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "bouteilles-et-blocs",
+    "accessoires-pour-bouteille-de-plongee-sous-marine"
+  ]
+}

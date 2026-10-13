@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0005497",
+  "url": "https://www.cabesto.com/fr/plongee-protection-d-ecran-ordinateur-galileo-2-film-pl-16295.html",
+  "title": "Protection d'écran \"film\" pour ordinateur GALILEO 2 SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "accessoires-ordinateurs-de-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Protection d'écran \"film\" pour ordinateur GALILEO 2 SCUBAPRO"
+  ],
+  "description": "Film protection d'écran contre les rayures pour votre ordinateur Galileo 2 Scubapro",
+  "supplierRef": "06.205.261",
+  "price": {
+    "amount": 14,
+    "currency": "EUR",
+    "formatted": "14 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005497",
+      "sku": "SU-0005497",
+      "supplierRef": "06.205.261",
+      "price": {
+        "amount": 14,
+        "currency": "EUR",
+        "formatted": "14 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-16295-pl-16295-picture_1-pl-16295-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:27:51.803Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-16295-pl-16295-picture_1-pl-16295-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005497/01-pl-16295-pl-16295-picture_1-pl-16295-1.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee",
+    "accessoires-ordinateurs-de-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee",
+    "accessoires-ordinateurs-de-plongee"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "PI-0002458",
+  "url": "https://www.cabesto.com/fr/piscine-ph-plus-poudre-1kg-pi-202.html",
+  "title": "PH PLUS POUDRE 1KG",
+  "brand": "CABESTO",
+  "category": "pH plus",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Régulation du pH",
+    "pH plus"
+  ],
+  "categories": [
+    "Régulation du pH",
+    "pH plus"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PH PLUS POUDRE 1KG"
+  ],
+  "description": "Achetez PH PLUS POUDRE 1KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "108411",
+  "price": {
+    "amount": 6.1,
+    "currency": "EUR",
+    "formatted": "6.1 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002458",
+      "sku": "PI-0002458",
+      "supplierRef": "108411",
+      "price": {
+        "amount": 6.1,
+        "currency": "EUR",
+        "formatted": "6.1 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/8/6894701-ph-plus-granules-1kg_cmyk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/g/sgh09_environnement_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/g/sgh05_corrosion_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:31:52.751Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/6894701-ph-plus-granules-1kg_cmyk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002458/01-6894701-ph-plus-granules-1kg_cmyk.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/g/sgh09_environnement_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002458/02-sgh09_environnement_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/g/sgh05_corrosion_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002458/03-sgh05_corrosion_4.jpg",
+      "skipped": false
+    }
+  ]
+}

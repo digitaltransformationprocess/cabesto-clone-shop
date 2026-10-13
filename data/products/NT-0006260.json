@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0006260",
+  "url": "https://www.cabesto.com/fr/verticalite-anneau-dynaloop-150-cm-beal-nt-0006260.html",
+  "title": "Anneau Dynaloop 150 cm - BEAL",
+  "brand": "BEAL",
+  "category": "Anneaux cousus",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Anneaux cousus"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Anneaux cousus"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Anneau Dynaloop 150 cm - BEAL"
+  ],
+  "description": "Achetez Anneau Dynaloop 150 cm - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BLDL.150",
+  "price": {
+    "amount": 16.4,
+    "currency": "EUR",
+    "formatted": "16.4 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006260",
+      "sku": "NT-0006260",
+      "supplierRef": "BLDL.150",
+      "price": {
+        "amount": 16.4,
+        "currency": "EUR",
+        "formatted": "16.4 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/l/bl52_1-anneau-dynaloop-150-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bl52_1-anneau-dynaloop-150-cm-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:14:36.475Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl52_1-anneau-dynaloop-150-cm-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006260/01-bl52_1-anneau-dynaloop-150-cm-beal.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bl52_1-anneau-dynaloop-150-cm-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006260/02-bl52_1-anneau-dynaloop-150-cm-beal_1.jpg",
+      "skipped": true
+    }
+  ]
+}

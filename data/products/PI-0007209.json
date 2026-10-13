@@ -1,0 +1,65 @@
+{
+  "sku": "PI-0007209",
+  "url": "https://www.cabesto.com/fr/piscine-douche-hybride-dada-curve-38-l-anthracite-alu-brosse-pi-1521.html",
+  "title": "Douche hybride dada curve 38 l - anthracite/alu brossé",
+  "brand": "CABESTO",
+  "category": "Douche piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "douche-piscine"
+  ],
+  "categories": [
+    "piscine",
+    "couverture",
+    "confort-loisirs",
+    "douche-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Douche hybride dada curve 38 l - anthracite/alu brossé"
+  ],
+  "description": "Achetez Douche hybride dada curve 38 l - anthracite/alu brossé chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "DS-D363NX",
+  "price": {
+    "amount": 849.6,
+    "currency": "EUR",
+    "formatted": "849.6 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0007209",
+      "sku": "PI-0007209",
+      "supplierRef": "DS-D363NX",
+      "price": {
+        "amount": 849.6,
+        "currency": "EUR",
+        "formatted": "849.6 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/u/ducha-solar-hibrida-dada-cuva-38l-formidra_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:40:41.386Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/u/ducha-solar-hibrida-dada-cuva-38l-formidra_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007209/01-ducha-solar-hibrida-dada-cuva-38l-formidra_1.jpg",
+      "skipped": false
+    }
+  ]
+}

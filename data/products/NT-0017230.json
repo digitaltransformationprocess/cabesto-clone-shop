@@ -1,0 +1,77 @@
+{
+  "sku": "NT-0017230",
+  "url": "https://www.cabesto.com/fr/randonnee-fixation-lampe-frontale-pour-casque-pro-adapt-petzl-nt-0017230.html",
+  "title": "Fixation Lampe Frontale pour Casque - Pro Adapt - PETZL",
+  "brand": "PETZL",
+  "category": "Accessoires lampes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Eclairage",
+    "Casques",
+    "Accessoires, entretien casques",
+    "Accessoires lampes"
+  ],
+  "categories": [
+    "Eclairage",
+    "Casques",
+    "Accessoires, entretien casques",
+    "Accessoires lampes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Montagne",
+    "Montagne",
+    "Randonnée",
+    "Randonnée",
+    "Eclairage",
+    "Eclairage",
+    "Fixation Lampe Frontale pour Casque - Pro Adapt - PETZL"
+  ],
+  "description": "Achetez Fixation Lampe Frontale pour Casque - Pro Adapt - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "E80004",
+  "price": {
+    "amount": 24.95,
+    "currency": "EUR",
+    "formatted": "24.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0017230",
+      "sku": "NT-0017230",
+      "supplierRef": "E80004",
+      "price": {
+        "amount": 24.95,
+        "currency": "EUR",
+        "formatted": "24.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/e/pe65_1-pro-adapt-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/e/pe65_1-pro-adapt-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:16:04.468Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe65_1-pro-adapt-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0017230/01-pe65_1-pro-adapt-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/e/pe65_1-pro-adapt-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0017230/02-pe65_1-pro-adapt-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

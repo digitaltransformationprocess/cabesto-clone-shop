@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0002200",
+  "url": "https://www.cabesto.com/fr/piscine-no-phos-1l-bayrol-pi-220.html",
+  "title": "NO PHOS 1L BAYROL",
+  "brand": "BAYROL",
+  "category": "Détartrer sa piscine",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "NO PHOS 1L BAYROL"
+  ],
+  "description": "Achetez NO PHOS 1L BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "2197002",
+  "price": {
+    "amount": 34.3,
+    "currency": "EUR",
+    "formatted": "34.3 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002200",
+      "sku": "PI-0002200",
+      "supplierRef": "2197002",
+      "price": {
+        "amount": 34.3,
+        "currency": "EUR",
+        "formatted": "34.3 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/h/shopping_4541_.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:31:15.602Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/h/shopping_4541_.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002200/01-shopping_4541_.png",
+      "skipped": false
+    }
+  ]
+}

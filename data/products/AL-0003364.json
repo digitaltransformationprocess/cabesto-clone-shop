@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0003364",
+  "url": "https://www.cabesto.com/fr/rhum-arrange-breiz-ile-passion-70-cl-23.html",
+  "title": "RHUM ARRANGE BREIZ'ILE PASSION 70 CL 23°",
+  "brand": "BREIZILE",
+  "category": "Punchs",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-exotique",
+    "les-punchs"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-exotique",
+    "les-punchs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "RHUM ARRANGE BREIZ'ILE PASSION 70 CL 23°"
+  ],
+  "description": "Achetez RHUM ARRANGE BREIZ'ILE PASSION 70 CL 23° chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1004",
+  "price": {
+    "amount": 27.99,
+    "currency": "EUR",
+    "formatted": "27.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003364",
+      "sku": "AL-0003364",
+      "supplierRef": "1004",
+      "price": {
+        "amount": 27.99,
+        "currency": "EUR",
+        "formatted": "27.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/0/0/0025877-0025877-picture_1-0025877_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:57:28.035Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/0/0025877-0025877-picture_1-0025877_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003364/01-0025877-0025877-picture_1-0025877_1.jpg",
+      "skipped": true
+    }
+  ]
+}

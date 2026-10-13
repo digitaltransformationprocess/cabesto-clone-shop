@@ -1,0 +1,71 @@
+{
+  "sku": "PE-0000284",
+  "url": "https://www.cabesto.com/fr/epuisette-agility-boat-net.html",
+  "title": "Épuisette Agility Boat Net",
+  "brand": "SHAKESPEARE",
+  "category": "Black November - Pêche",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Manipulation des prises",
+    "Épuisettes",
+    "Destockage Pêche",
+    "Ventes privées Pêche",
+    "Black November - Pêche"
+  ],
+  "categories": [
+    "Manipulation des prises",
+    "Épuisettes",
+    "Destockage Pêche",
+    "Ventes privées Pêche",
+    "Black November - Pêche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pêche",
+    "Pêche",
+    "Équipements",
+    "Équipements",
+    "Épuisette Agility Boat Net"
+  ],
+  "description": "L'Agility Boat Net Shakespeare, une épuisette téléscopique exceptionnelle à petit prix ! Elle fera face à toutes les situations, même face à de gros poissons !",
+  "supplierRef": "1315261",
+  "price": {
+    "amount": 26.99,
+    "currency": "EUR",
+    "formatted": "26.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0000284",
+      "sku": "PE-0000284",
+      "supplierRef": "1315261",
+      "price": {
+        "amount": 26.99,
+        "currency": "EUR",
+        "formatted": "26.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/p/epuisette-shakespeare-agility-boat-net.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:56:22.863Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/epuisette-shakespeare-agility-boat-net.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0000284/01-epuisette-shakespeare-agility-boat-net.jpg",
+      "skipped": true
+    }
+  ]
+}

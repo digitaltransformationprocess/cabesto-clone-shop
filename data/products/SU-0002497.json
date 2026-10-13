@@ -1,0 +1,81 @@
+{
+  "sku": "SU-0002497",
+  "url": "https://www.cabesto.com/fr/plongee-fil-dyneema-5m-2mm-pl-1714.html",
+  "title": "Fil chasse sous-marine blanc/noir Ø 2 mm DYNEEMA 5 m SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "cordages-pour-drisses-et-ecoutes",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Fil chasse sous-marine blanc/noir Ø 2 mm DYNEEMA 5 m SALVIMAR"
+  ],
+  "description": "Kit fil Dyneema® vert 5 mètres Ø 2 mm : Résistance et Fiabilité pour la Chasse Sous-MarineOptimisez vos montages avec le kit fil dyneema vert 5 mètres Ø 2 mm SALVIMAR, un fil ultra-résistant conçu pour les conditions marines les plus exigeantes.Le fil Dyneema® 5 mètres Ø 2 mm de Salvimar est un accessoire indispensable pour les chasseurs sous-marins à la recherche de fiabilité et de performance.Fabriqué avec une âme en Dyneema® SK75, ce fil offre une résistance exceptionnelle à la traction, supportant jusqu'à 240 kg.Sa gaine en polyester rigide garantit une durabilité accrue et une protection optimale contre les abrasions et les rayons UV.Conçu pour résister à la corrosion de l'eau de mer, ce fil ne présente aucun effet mémoire, assurant ainsi une manipulation facile et une efficacité maximale lors de vos sorties en mer.Idéal pour le montage de moulinets ou d'autres équipements de chasse sous-marine, le fil Dyneema® 5M 2MM est un choix incontournable pour les passionnés d'activités subaquatiques.- Charge de rupture 240 kg- Âme Dyneema® SK75- Enveloppe polyester rigide- Résistante aux UV- Ligne résistante à l'usure de l'eau de merCaractéristiques Fil Dyneema® 5M 2MMÂme en Dyneema® SK75 pour une résistance exceptionnelleGaine en polyester rigide pour une durabilité accrueRésistance à la traction jusqu'à 120 kgProtection contre les abrasions et les rayons UVIdéal pour les montages de moulinets et équipementsInformations techniques :Matériau interneDyneema® SK75.Matériau externePolyester rigide.DiamètreØ 2 mm.Résistance240 kg.Longueur5 mètres.CouleurVert.Contenu du colis1 x Kit fil Dyneema® 5 mètres Ø 2 mm, couleur vert.",
+  "supplierRef": "400365",
+  "price": {
+    "amount": 7.99,
+    "currency": "EUR",
+    "formatted": "7.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0002497",
+      "sku": "SU-0002497",
+      "supplierRef": "400365",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/d/y/dyn.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/img-84-p4_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/salvimar-fil-flottant-1mm-150kg-50m_oqdrqzo7t1xeqxrt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/o/bobine-polyester-noir-50-m-1.6mm-epsealon_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:02.083Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/d/y/dyn.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002497/01-dyn.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-84-p4_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002497/02-img-84-p4_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/salvimar-fil-flottant-1mm-150kg-50m_oqdrqzo7t1xeqxrt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002497/03-salvimar-fil-flottant-1mm-150kg-50m_oqdrqzo7t1xeqxrt.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/o/bobine-polyester-noir-50-m-1.6mm-epsealon_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002497/04-bobine-polyester-noir-50-m-1.6mm-epsealon_01.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "cordages",
+    "cordages-pour-drisses-et-ecoutes"
+  ],
+  "categories": [
+    "nautisme",
+    "cordages",
+    "cordages-pour-drisses-et-ecoutes"
+  ]
+}

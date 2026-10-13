@@ -1,0 +1,83 @@
+{
+  "sku": "NT-0000187",
+  "url": "https://www.cabesto.com/fr/200-m-spelenium-10-mm.html",
+  "title": "200 m Spélénium 10 mm",
+  "brand": "BEAL",
+  "category": "cordes-semi-statiques-10-mm",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "cordes-sangles",
+    "cordes-semi-statiques",
+    "cordes-semi-statiques-10-mm"
+  ],
+  "categories": [
+    "montagne",
+    "cordes-sangles",
+    "cordes-semi-statiques",
+    "cordes-semi-statiques-10-mm"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "200 m Spélénium 10 mm"
+  ],
+  "description": "Avec son diamètre de 10 mm cette corde statique de spéléologie est idéale pour une utilisation Clubs.",
+  "supplierRef": "CSP10-200",
+  "price": {
+    "amount": 479.51,
+    "currency": "EUR",
+    "formatted": "479.51 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0000187",
+      "sku": "NT-0000187",
+      "supplierRef": "CSP10-200",
+      "price": {
+        "amount": 479.51,
+        "currency": "EUR",
+        "formatted": "479.51 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/p/spelenium-10mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/0/1072.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pz85_1-descendeur-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pc18_1-60-m-corde-club-10-mm-orange-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:36:59.997Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/p/spelenium-10mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000187/01-spelenium-10mm.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/0/1072.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000187/02-1072.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pz85_1-descendeur-simple-2019-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000187/03-pz85_1-descendeur-simple-2019-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pc18_1-60-m-corde-club-10-mm-orange-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000187/04-pc18_1-60-m-corde-club-10-mm-orange-petzl.jpg",
+      "skipped": false
+    }
+  ]
+}

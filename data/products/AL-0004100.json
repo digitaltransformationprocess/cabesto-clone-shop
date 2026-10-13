@@ -1,0 +1,63 @@
+{
+  "sku": "AL-0004100",
+  "url": "https://www.cabesto.com/fr/supreme-langoustine-1l.html",
+  "title": "VELOUTE LANGOUSTINE 1L PENMARCH",
+  "brand": "LA POINTE DE PENMARCH",
+  "category": "Soupes de crustacés et fruits de mer",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "langoustes-et-crustaces"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "langoustes-et-crustaces"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "VELOUTE LANGOUSTINE 1L PENMARCH"
+  ],
+  "description": "Achetez VELOUTE LANGOUSTINE 1L PENMARCH chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "MPO 000 601",
+  "price": {
+    "amount": 5.95,
+    "currency": "EUR",
+    "formatted": "5.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0004100",
+      "sku": "AL-0004100",
+      "supplierRef": "MPO 000 601",
+      "price": {
+        "amount": 5.95,
+        "currency": "EUR",
+        "formatted": "5.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0004100.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:58:01.099Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0004100.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0004100/01-al-0004100.jpg",
+      "skipped": true
+    }
+  ]
+}

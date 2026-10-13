@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0005194",
+  "url": "https://www.cabesto.com/fr/randonnee-couverture-de-survie-160-x-210-pharma-voyage-nt-0005194.html",
+  "title": "Couverture de survie 160 x 210 - PHARMA VOYAGE",
+  "brand": "PHARMA VOYAGE",
+  "category": "Couvertures de survie",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Sécurité et soin du corps",
+    "Couvertures de survie"
+  ],
+  "categories": [
+    "Sécurité et soin du corps",
+    "Couvertures de survie"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couverture de survie 160 x 210 - PHARMA VOYAGE"
+  ],
+  "description": "Achetez Couverture de survie 160 x 210 - PHARMA VOYAGE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "PHTSFS-128",
+  "price": {
+    "amount": 3.95,
+    "currency": "EUR",
+    "formatted": "3.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005194",
+      "sku": "NT-0005194",
+      "supplierRef": "PHTSFS-128",
+      "price": {
+        "amount": 3.95,
+        "currency": "EUR",
+        "formatted": "3.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/t/kt13_1-couverture-de-survie-160-x-210-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/t/kt13_1-couverture-de-survie-160-x-210-pharma-voyage_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:22:57.652Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/t/kt13_1-couverture-de-survie-160-x-210-pharma-voyage.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005194/01-kt13_1-couverture-de-survie-160-x-210-pharma-voyage.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/t/kt13_1-couverture-de-survie-160-x-210-pharma-voyage_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005194/02-kt13_1-couverture-de-survie-160-x-210-pharma-voyage_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0002013",
+  "url": "https://www.cabesto.com/fr/lot-de-2-vannes-d-arret-piscine-intex.html",
+  "title": "LOT DE 2 VANNES D'ARRET PISCINE - INTEX",
+  "brand": "INTEX",
+  "category": "Pièces détachées de piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Accessoires piscine et pièces détachées",
+    "Pièces détachées de piscine"
+  ],
+  "categories": [
+    "Accessoires piscine et pièces détachées",
+    "Pièces détachées de piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "LOT DE 2 VANNES D'ARRET PISCINE - INTEX"
+  ],
+  "description": "Achetez LOT DE 2 VANNES D'ARRET PISCINE - INTEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "25010",
+  "price": {
+    "amount": 34,
+    "currency": "EUR",
+    "formatted": "34 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002013",
+      "sku": "PI-0002013",
+      "supplierRef": "25010",
+      "price": {
+        "amount": 34,
+        "currency": "EUR",
+        "formatted": "34 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/shop/2745-large_default/lot-de-2-vannes-d-arret.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:48:39.479Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/shop/2745-large_default/lot-de-2-vannes-d-arret.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002013/01-lot-de-2-vannes-d-arret.jpg",
+      "skipped": false
+    }
+  ]
+}

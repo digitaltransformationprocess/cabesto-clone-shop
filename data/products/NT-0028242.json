@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0028242",
+  "url": "https://www.cabesto.com/fr/sac-etanche-210d-60l-noir-frendo.html",
+  "title": "Sac Etanche 210D 60L Noir - FRENDO",
+  "brand": "FRENDO",
+  "category": "Sacs et bidons étanches",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Sacs étanches",
+    "Glisse",
+    "Sacs et bidons étanches",
+    "Kayaks",
+    "Sacs et bidons étanches"
+  ],
+  "categories": [
+    "Sacs étanches",
+    "Glisse",
+    "Sacs et bidons étanches",
+    "Kayaks",
+    "Sacs et bidons étanches"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac Etanche 210D 60L Noir - FRENDO"
+  ],
+  "description": "Achetez Sac Etanche 210D 60L Noir - FRENDO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "701821",
+  "price": {
+    "amount": 19.99,
+    "currency": "EUR",
+    "formatted": "19.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028242",
+      "sku": "NT-0028242",
+      "supplierRef": "701821",
+      "price": {
+        "amount": 19.99,
+        "currency": "EUR",
+        "formatted": "19.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/sac-etanche-60l-noir-frendo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:42:24.215Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sac-etanche-60l-noir-frendo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028242/01-sac-etanche-60l-noir-frendo.jpg",
+      "skipped": false
+    }
+  ]
+}

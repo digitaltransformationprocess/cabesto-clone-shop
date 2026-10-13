@@ -1,0 +1,93 @@
+{
+  "sku": "PCNT-0028651",
+  "url": "https://www.cabesto.com/fr/randonnee-veste-femme-millet-fitz-roy-iii-millet-mu22.html",
+  "title": "Veste Femme MILLET FITZ ROY III - MILLET",
+  "brand": "MILLET",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Veste Femme MILLET FITZ ROY III - MILLET"
+  ],
+  "description": "Achetez Veste Femme MILLET FITZ ROY III - MILLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0028651",
+      "sku": "PCNT-0028651",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/i/miv8629_9550_c1h_0_original.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mu22_5_ah-veste-femme-fitz-roy-iii-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mu22_1_ah-veste-femme-fitz-roy-iii-millet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mu22_4_ah-veste-femme-fitz-roy-iii-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mu22_3_ah-veste-femme-fitz-roy-iii-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mu22_2_ah-veste-femme-fitz-roy-iii-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:35:50.917Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/i/miv8629_9550_c1h_0_original.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028651/01-miv8629_9550_c1h_0_original.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mu22_5_ah-veste-femme-fitz-roy-iii-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028651/02-mu22_5_ah-veste-femme-fitz-roy-iii-millet.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mu22_1_ah-veste-femme-fitz-roy-iii-millet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028651/03-mu22_1_ah-veste-femme-fitz-roy-iii-millet_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mu22_4_ah-veste-femme-fitz-roy-iii-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028651/04-mu22_4_ah-veste-femme-fitz-roy-iii-millet.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mu22_3_ah-veste-femme-fitz-roy-iii-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028651/05-mu22_3_ah-veste-femme-fitz-roy-iii-millet.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mu22_2_ah-veste-femme-fitz-roy-iii-millet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0028651/06-mu22_2_ah-veste-femme-fitz-roy-iii-millet.jpg",
+      "skipped": false
+    }
+  ]
+}

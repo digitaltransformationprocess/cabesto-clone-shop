@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0003019",
+  "url": "https://www.cabesto.com/fr/piments-doux-vegetariens-200g.html",
+  "title": "PIMENTS DOUX \"VEGETARIENS\" 200G",
+  "brand": "DIVERS",
+  "category": "poissons-exotiques",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "poissons",
+    "poissons-exotiques"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "poissons",
+    "poissons-exotiques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PIMENTS DOUX \"VEGETARIENS\" 200G"
+  ],
+  "description": "Achetez PIMENTS DOUX \"VEGETARIENS\" 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "PIMENTS DOUX VEGETAR",
+  "price": {
+    "amount": 4.49,
+    "currency": "EUR",
+    "formatted": "4.49 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003019",
+      "sku": "AL-0003019",
+      "supplierRef": "PIMENTS DOUX VEGETAR",
+      "price": {
+        "amount": 4.49,
+        "currency": "EUR",
+        "formatted": "4.49 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/AL-0003019.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:54:20.677Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/AL-0003019.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003019/01-AL-0003019.jpg",
+      "skipped": true
+    }
+  ]
+}

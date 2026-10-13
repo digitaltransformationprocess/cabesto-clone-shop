@@ -1,0 +1,107 @@
+{
+  "sku": "SU-0001990",
+  "url": "https://www.cabesto.com/fr/plongee-couteau-k-jack-pl-17279.html",
+  "title": "Couteau de plongée sous-marine pour gilet stab K-JACK SEAC SUB",
+  "brand": "SEAC",
+  "category": "accessoires-pour-gilets-de-plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Couteau de plongée sous-marine pour gilet stab K-JACK SEAC SUB"
+  ],
+  "description": "Couteau de plongée sous-marine K-JACK SEAC SUBSécurisez vos plongées sous-marine avec le couteau pour gilet stabilisateur et flexible de détendeur, lame en INOX et kit de fixation modulable ultra pratique & facile à monter.Le couteau de plongée sous-marine K-JACK SEAC SUB possède une lame en acier inoxydable dotée d’un coupe-fil intégré. Le couteau K-JACK se range facilement dans le fourreau grâce à son système bouton Easy Lock.Le couteau K-JACK SEAC se monte facilement sur un gilet stabilisateur de plongée sous-marine grâce à son kit visserie avec écrous ou sur un flexible de détendeur (moyenne pression ou haute pression) avec son support pour flexible.Lame en acier inoxydable dotée d’un coupe-fil intégré.Manche ergonomique bimatière.Fourreau en plastique anti-chocs.Système de fermeture asymétrique avec bouton Easy Lock.Le produit en vidéoGaine à fermeture rapideLe Fourreau en plastique du couteau K-JACK SEAC SUB est anti-chocs et possède une fermeture asymétrique Easy Lock.Couteau multi-usagesLa pointe carré \"blunt\" du couteau K-JACK SEAC SUB empêche les dommages accidentels sur votre gilet stabilisateur et vous permet d'utiliser le couteau comme un tournevis si besoin.Kit complet pour montage sur stab ou sur flexibleSupport, visserie et écrous livrés avec le couteau K-JACK SEAC.Caractéristiques Couteau de plongée sous-marine K-JACK SEAC SUBCouteau de plongée sous-marine modulableKit de fixation pour gilet stabilisateur & flexible de détendeurLame acier INOX et manche ergonomiqueGaine à fixation clipée & sécurisanteInformations techniques :Matériaux lame INOXLongueur totale avec manche 150 mmLongueur de la lame 54 mmMatériaux fourreau PolymèreAccessoire lame Coupe fil et pointe carré \"blunt\" Contenu du colis1 couteau de plongée sous-marine K-JACK SEAC SUB",
+  "supplierRef": "0550019000000A",
+  "price": {
+    "amount": 25.99,
+    "currency": "EUR",
+    "formatted": "25.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0001990",
+      "sku": "SU-0001990",
+      "supplierRef": "0550019000000A",
+      "price": {
+        "amount": 25.99,
+        "currency": "EUR",
+        "formatted": "25.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/0/5/0550019000_k_jack_55-19_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-14290-pl-14290-picture_1-pl-14290-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-14287-pl-14287-picture_1-pl-14287-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/5/0550019000_k_jack_55-19_01_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/5/0550019000_k_jack_55-19_03_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/5/0550019000_k_jack_55-19_04_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/5/0550019000_k_jack_55-19_02_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_72.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:27:38.705Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/5/0550019000_k_jack_55-19_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001990/01-0550019000_k_jack_55-19_00_800.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-14290-pl-14290-picture_1-pl-14290-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001990/02-pl-14290-pl-14290-picture_1-pl-14290-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-14287-pl-14287-picture_1-pl-14287-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001990/03-pl-14287-pl-14287-picture_1-pl-14287-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/5/0550019000_k_jack_55-19_01_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001990/04-0550019000_k_jack_55-19_01_800.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/5/0550019000_k_jack_55-19_03_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001990/05-0550019000_k_jack_55-19_03_800.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/5/0550019000_k_jack_55-19_04_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001990/06-0550019000_k_jack_55-19_04_800.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/5/0550019000_k_jack_55-19_02_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001990/07-0550019000_k_jack_55-19_02_800.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_72.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001990/08-hqdefault_72.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "gilets-stabilisateurs",
+    "accessoires-pour-gilets-de-plongee"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "gilets-stabilisateurs",
+    "accessoires-pour-gilets-de-plongee"
+  ]
+}

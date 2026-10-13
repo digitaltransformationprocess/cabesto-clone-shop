@@ -1,0 +1,91 @@
+{
+  "sku": "PI-0007184",
+  "url": "https://www.cabesto.com/fr/piscine-piscine-bois-rect-bois-pool-n-box-500-x-200-x-h133-cm-coffre-filtration-integre-gris-pi-77.html",
+  "title": "PISCINE BOIS POOL'N BOX 6.20x2.50XHt: 1.33 - Piscine avec coffre de rangement intégré",
+  "brand": "BWT",
+  "category": "Piscine rectangulaire",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine bois",
+    "Piscine rectangulaire"
+  ],
+  "categories": [
+    "Piscine bois",
+    "Piscine rectangulaire"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE BOIS POOL'N BOX 6.20x2.50XHt: 1.33 - Piscine avec coffre de rangement intégré"
+  ],
+  "description": "Achetez PISCINE BOIS POOL'N BOX 6.20x2.50XHt: 1.33 - Piscine avec coffre de rangement intégré chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "27180018",
+  "price": {
+    "amount": 6850,
+    "currency": "EUR",
+    "formatted": "6850 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0007184",
+      "sku": "PI-0007184",
+      "supplierRef": "27180018",
+      "price": {
+        "amount": 6850,
+        "currency": "EUR",
+        "formatted": "6850 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/22187-large_default/piscine-bois-pool-n-box-500-x-200-x-h-133-cm-avec-coffre-de-filtration.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/7/27180018_3566837210915_ambiance_pool_n_box_bwt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/7/27180018_3566837210915_pool_box2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:30:34.500Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/22187-large_default/piscine-bois-pool-n-box-500-x-200-x-h-133-cm-avec-coffre-de-filtration.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007184/01-piscine-bois-pool-n-box-500-x-200-x-h-133-cm-avec-coffre-de-filtration.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007184/02-pool_n_box_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/7/27180018_3566837210915_ambiance_pool_n_box_bwt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007184/03-27180018_3566837210915_ambiance_pool_n_box_bwt.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/7/27180018_3566837210915_pool_box2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007184/04-27180018_3566837210915_pool_box2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pool_n_box_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007184/05-pool_n_box_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007184/06-hqdefault_13.jpg",
+      "skipped": false
+    }
+  ]
+}

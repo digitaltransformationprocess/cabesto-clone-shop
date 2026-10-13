@@ -1,0 +1,77 @@
+{
+  "sku": "AL-0009096",
+  "url": "https://www.cabesto.com/fr/coffret-fish-moi-la-peche-3-80g-atelier-du-cuisinier-al-0009096.html",
+  "title": "COFFRET FISH MOI LA PECHE 3*80G ATELIER DU CUISINIER",
+  "brand": "ATELIER DU CUISINIER",
+  "category": "Coffrets tartinables",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-exotique",
+    "tartinables-exotiques"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-exotique",
+    "tartinables-exotiques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "COFFRET FISH MOI LA PECHE 3*80G ATELIER DU CUISINIER"
+  ],
+  "description": "Achetez COFFRET FISH MOI LA PECHE 3*80G ATELIER DU CUISINIER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "ATC-COF~FMLP",
+  "price": {
+    "amount": 19.99,
+    "currency": "EUR",
+    "formatted": "19.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0009096",
+      "sku": "AL-0009096",
+      "supplierRef": "ATC-COF~FMLP",
+      "price": {
+        "amount": 19.99,
+        "currency": "EUR",
+        "formatted": "19.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/o/coffret-fish-moi-la-peche.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/o/coffret-fish-moi-la-peche_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/o/coffret-fish-moi-la-peche_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:27:28.730Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/o/coffret-fish-moi-la-peche.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0009096/01-coffret-fish-moi-la-peche.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/o/coffret-fish-moi-la-peche_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0009096/02-coffret-fish-moi-la-peche_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/o/coffret-fish-moi-la-peche_2_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0009096/03-coffret-fish-moi-la-peche_2_.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "sku": "AL-0003528",
+  "url": "https://www.cabesto.com/fr/rouille-du-pecheur-90g-epicerie.html",
+  "title": "ROUILLE DU PECHEUR 90G EPICERIE",
+  "brand": "AU BEC FIN",
+  "category": "Accompagnements pour soupe",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "Accompagnements pour soupe",
+    "% Offre alimentation"
+  ],
+  "categories": [
+    "Accompagnements pour soupe",
+    "% Offre alimentation"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROUILLE DU PECHEUR 90G EPICERIE"
+  ],
+  "description": "Achetez ROUILLE DU PECHEUR 90G EPICERIE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "01010029",
+  "price": {
+    "amount": 3.49,
+    "currency": "EUR",
+    "formatted": "3.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003528",
+      "sku": "AL-0003528",
+      "supplierRef": "01010029",
+      "price": {
+        "amount": 3.49,
+        "currency": "EUR",
+        "formatted": "3.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/r/o/rouille-du-pecheur-90g-epicerie_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:25:44.090Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/o/rouille-du-pecheur-90g-epicerie_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003528/01-rouille-du-pecheur-90g-epicerie_01.jpg",
+      "skipped": false
+    }
+  ]
+}

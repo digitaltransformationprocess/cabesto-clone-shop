@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0001503",
+  "url": "https://www.cabesto.com/fr/antisnow-leopard.html",
+  "title": "Antisnow Leopard - PETZL",
+  "brand": "PETZL",
+  "category": "antibott",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "neige-glace",
+    "alpinisme",
+    "crampons",
+    "antibott"
+  ],
+  "categories": [
+    "montagne",
+    "neige-glace",
+    "alpinisme",
+    "crampons",
+    "antibott"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Antisnow Leopard - PETZL"
+  ],
+  "description": "Achetez Antisnow Leopard - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "T01A AS",
+  "price": {
+    "amount": 24.95,
+    "currency": "EUR",
+    "formatted": "24.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0001503",
+      "sku": "NT-0001503",
+      "supplierRef": "T01A AS",
+      "price": {
+        "amount": 24.95,
+        "currency": "EUR",
+        "formatted": "24.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/r/pr10_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:25.739Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr10_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0001503/01-pr10_1.jpg",
+      "skipped": false
+    }
+  ]
+}

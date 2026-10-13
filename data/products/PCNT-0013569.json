@@ -1,0 +1,65 @@
+{
+  "sku": "PCNT-0013569",
+  "url": "https://www.cabesto.com/fr/randonnee-chaussures-randonnee-homme-moab-2-ltr-mid-gore-tex-merrell-mr25.html",
+  "title": "Chaussures randonnée homme MOAB 2 LTR MID GORE-TEX - MERRELL",
+  "brand": "MERRELL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Chaussures hautes homme",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Chaussures hautes homme",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussures randonnée homme MOAB 2 LTR MID GORE-TEX - MERRELL"
+  ],
+  "description": "Achetez Chaussures randonnée homme MOAB 2 LTR MID GORE-TEX - MERRELL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0013569",
+      "sku": "PCNT-0013569",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/r/mr25_1_ca-chaussures-randonnee-homme--moab-2-ltr-mid-gore-te-merrell_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:31:09.252Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/r/mr25_1_ca-chaussures-randonnee-homme--moab-2-ltr-mid-gore-te-merrell_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0013569/01-mr25_1_ca-chaussures-randonnee-homme--moab-2-ltr-mid-gore-te-merrell_9.jpg",
+      "skipped": false
+    }
+  ]
+}

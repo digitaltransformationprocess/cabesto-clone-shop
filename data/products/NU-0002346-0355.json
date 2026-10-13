@@ -1,0 +1,97 @@
+{
+  "sku": "NU-0002346-0355",
+  "url": "https://www.cabesto.com/fr/axiom-7-rv-ecran-tactile-multifonctions-7-module-sondeur-600w-downvision-et-realvision-3d-integre-wifi-sonde-rv-100-incluse-ps-7413267.html",
+  "title": "AXIOM+ 7 RV. Écran tactile multifonctions 7” Module sondeur 600W. Downvision et Realvision 3D intégré. Wifi. sonde RV-100 incluse",
+  "brand": "RAYMARINE",
+  "category": "Centrale de navigation",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Electronique",
+    "Nautisme",
+    "Sondeurs / Combinés GPS-Sondeurs",
+    "GPS",
+    "Centrale de navigation"
+  ],
+  "categories": [
+    "Electronique",
+    "Nautisme",
+    "Sondeurs / Combinés GPS-Sondeurs",
+    "GPS",
+    "Centrale de navigation"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Nautisme",
+    "Nautisme",
+    "Electronique",
+    "Electronique",
+    "Centrale de navigation",
+    "Centrale de navigation",
+    "AXIOM+ 7 RV. Écran tactile multifonctions 7” Module sondeur 600W. Downvision et Realvision 3D intégré. Wifi. sonde RV-100 incluse"
+  ],
+  "description": "Achetez AXIOM+ 7 RV. Écran tactile multifonctions 7” Module sondeur 600W. Downvision et Realvision 3D intégré. Wifi. sonde RV-100 incluse chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "E70635-03",
+  "price": {
+    "amount": 1229,
+    "currency": "EUR",
+    "formatted": "1229 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0002346-0355",
+      "sku": "NU-0002346-0355",
+      "supplierRef": "E70635-03",
+      "price": {
+        "amount": 1229,
+        "currency": "EUR",
+        "formatted": "1229 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/x/axiom_7_front_chart_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/x/axiom_7_tilt_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/fishfinders-chirpsonar_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/i/fishfinders-sidevisionsonar_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/capture_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:09:07.425Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/x/axiom_7_front_chart_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0002346-0355/01-axiom_7_front_chart_1.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/x/axiom_7_tilt_1.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0002346-0355/02-axiom_7_tilt_1.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/fishfinders-chirpsonar_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0002346-0355/03-fishfinders-chirpsonar_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/i/fishfinders-sidevisionsonar_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0002346-0355/04-fishfinders-sidevisionsonar_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/capture_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0002346-0355/05-capture_1_1.jpg",
+      "skipped": true
+    }
+  ]
+}

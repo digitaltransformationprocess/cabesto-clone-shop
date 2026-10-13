@@ -1,0 +1,63 @@
+{
+  "sku": "PCNT-0007555",
+  "url": "https://www.cabesto.com/fr/collant-dame-fuseknit-comfort-ed16.html",
+  "title": "Collant dame Fuseknit comfort",
+  "brand": "CRAFT",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Collant dame Fuseknit comfort"
+  ],
+  "description": "Achetez Collant dame Fuseknit comfort chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0007555",
+      "sku": "PCNT-0007555",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/d/ed16_1_b-collant-dame-fuseknit-comfort-craft_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:32:42.214Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/d/ed16_1_b-collant-dame-fuseknit-comfort-craft_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007555/01-ed16_1_b-collant-dame-fuseknit-comfort-craft_4.jpg",
+      "skipped": false
+    }
+  ]
+}

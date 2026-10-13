@@ -1,0 +1,69 @@
+{
+  "sku": "AL-0003705",
+  "url": "https://www.cabesto.com/fr/sardines-piquantes-a-l-huile-d-olive-bio-jg.html",
+  "title": "Sardines Piquantes à l'huile d'olive BIO JG",
+  "brand": "GONIDEC",
+  "category": "Conserves Sardines",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "conserves-de-la-mer"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "conserves-de-la-mer"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sardines Piquantes à l'huile d'olive BIO JG"
+  ],
+  "description": "Achetez Sardines Piquantes à l'huile d'olive BIO JG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "JGSP6B",
+  "price": {
+    "amount": 4.39,
+    "currency": "EUR",
+    "formatted": "4.39 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003705",
+      "sku": "AL-0003705",
+      "supplierRef": "JGSP6B",
+      "price": {
+        "amount": 4.39,
+        "currency": "EUR",
+        "formatted": "4.39 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6067275-6067275-picture_1-6067275_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/0/6067275-6067275-picture_2-6067275_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:56:05.399Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6067275-6067275-picture_1-6067275_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003705/01-6067275-6067275-picture_1-6067275_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6067275-6067275-picture_2-6067275_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003705/02-6067275-6067275-picture_2-6067275_2.jpg",
+      "skipped": false
+    }
+  ]
+}

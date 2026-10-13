@@ -1,0 +1,91 @@
+{
+  "sku": "PCPL-1511",
+  "url": "https://www.cabesto.com/fr/plongee-masque-super-compensator-silicone-carne-beuchat-pcpl-1511.html",
+  "title": "MASQUE SUPER COMPENSATOR SILICONE (carné) BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MASQUE SUPER COMPENSATOR SILICONE (carné) BEUCHAT"
+  ],
+  "description": "MASQUE SUPER COMPENSATOR SILICONE (carné) BEUCHATMasque emblématique et historique de Beuchat revisité avec des techniques et matériaux actuelsMasque avec technologie injection frameless sans cerclage, la jupe est moulée directement sur le verreVision dégagée grâce à l’absence de forme centrale pour le nez et de cerclageLors de la remontée en surface l’inclinaison du masque facilite et rend plus confortable la vision vers la surfaceBossages de compensation à soufflets pour ne déformer que la partie nasale lors des manoeuvres de compensation et ne pas affecter l’étanchéité de la jupeGrande solidité grâce à la technologie frameless et aux boucles montées directement sur la jupeAjustement facile et précis grâce aux zones spécifiques de préhension sur la jupe et aux boucles orientables en 3DPeut aussi être utilisé en masque de secoursIdéal pour la photo sous-marine car il offre une excellente vision des visagesLes plongeurs recherchant un masque emblématique avec un grand champ de vision dégagé sans faire l’impasse sur le confort. Masque dans la tendance néo-vintageMasque Super Compensator, emblématique et historique de la marque, revisité avec des techniques et matériaux actuelsMasque avec mono-verre ovale et jupe en silicone anallergique Manœuvre de compensation facilitéeDesign de la jupe et du cerclage au niveau du nez pensé pour faciliter la compensation Grand champ de visionVision dégagée grâce à l’absence de forme centrale pour le nez et à l’absence de cerclage (technologie frameless)Lors de la remontée en surface l’inclinaison du masque facilite et rend plus confortable la vision vers la surface Petit volume pour ce type de masqueLa technologie frameless et la vitre inclinée réduisent le volume interne EtanchéitéLe rebord de la jupe est soudé chimiquement au verre (technologie injection frameless) : aucune fuiteBossages de compensation à soufflets pour ne déformer que la partie nasale de la jupe lors des manœuvres de compensation et ainsi ne pas affecter l’étanchéité (le reste la jupe n’est pas déformé) RobusteLe rebord de la jupe est soudé chimiquement au verre (technologie injection frameless) : aucun désassemblage du verre n’est pas possibles et la robustesse est augmentéeLe montage des boucles sur la jupe rend l’ensemble plus compact et plus robuste Offre une vision sans obstacle et expressive des visagesIdéal pour la photo sous-marine Peut être utilisé en masque de secoursDe par la possibilité de pliage de sa jupe et l’absence de cerclage le Super Compensator Silicone convient peut être utilisé en masque de secours Ajustement facile et précisZones spécifiques de préhension sur la partie supérieure de la jupe pour faciliter l’ajustementBoucles orientables en 3 dimensionsTypeMono-verreJupeSiliconeLargeur jupe (mm)125Poids (gr)219Volume (cm3)187NormeCE certified - EN 250Ce masque a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 1) suivant la norme NF EN 16805.",
+  "supplierRef": null,
+  "price": {
+    "amount": 59,
+    "currency": "EUR",
+    "formatted": "59 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1511",
+      "sku": "PCPL-1511",
+      "supplierRef": null,
+      "price": {
+        "amount": 59,
+        "currency": "EUR",
+        "formatted": "59 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-1511-pl-11440-picture_1-pcpl-1511-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/super-compensator-silicone_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/super-compensator-silicone.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_19_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-11440-pl-11440-picture_1-pcpl-1511-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PL-11440-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:52.826Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-1511-pl-11440-picture_1-pcpl-1511-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1511/01-pcpl-1511-pl-11440-picture_1-pcpl-1511-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/super-compensator-silicone_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1511/02-super-compensator-silicone_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/super-compensator-silicone.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1511/03-super-compensator-silicone.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_19_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1511/04-hqdefault_19_8.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-11440-pl-11440-picture_1-pcpl-1511-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1511/05-pl-11440-pl-11440-picture_1-pcpl-1511-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PL-11440-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1511/06-PL-11440-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sku": "SU-0003967",
+  "url": "https://www.cabesto.com/fr/plongee-mono-10-l-232-bars-1-sortie-pl-7708.html",
+  "title": "Bouteille de plongée mono bloc 10 litres 232 bars 1 sortie ROTH",
+  "brand": "ROTH",
+  "category": "blocs-marins-permis-bateau",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bouteille de plongée mono bloc 10 litres 232 bars 1 sortie ROTH"
+  ],
+  "description": "Bouteille de plongée mono bloc 10 litres 232 bars 1 sortie 2023La qualité MADE IN FRANCE...Bouteille de plongée sous-marine de fabrication française par ROTH à Mions, produites avec la technique du fluotournage en acier. Le bloc possède un fond plus épais et des parois plus résistantes qu'une fabrication classique étirée, le tout avec une masse contenue.Poignée de portage et filet de protection EN OPTION.Ici en format 10 Litres, 1 sorties, pression de service 232 bars pour 11 Kg.Une référence en matière de sécuritéEn partenariat avec de grands spécialistes de la distribution de matériel de plongée et conseillé par des plongeurs professionnels, ROTH Mions a développé durant les quarante dernières années des bouteilles de plongée en acier qui restent une référence en matière de sécurité.Lors de la fabrication, une attention particulière est portée au renforcement du fond et du col, parties sensibles de la bouteille, pour garantir usage durable et confort d'utilisation. La matière première fabriquée en Europe répond à un cahier des charges très spécifique afin d'assurer un produit final d'une grande fiabilité.Précurseur dans l’élaboration de corps en aciers de haute technicité, Roth entretient une forte image de marque sur l’ensemble de ses produits : la \"bouteille Roth\" s'est ainsi imposée dans le monde de la plongée comme une référence incontournable.171 MM de diamètre592 MM de longueur11 kilos",
+  "supplierRef": "10 Litres 230B",
+  "price": {
+    "amount": 319.99,
+    "currency": "EUR",
+    "formatted": "319.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0003967",
+      "sku": "SU-0003967",
+      "supplierRef": "10 Litres 230B",
+      "price": {
+        "amount": 319.99,
+        "currency": "EUR",
+        "formatted": "319.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-7708-pl-7708-picture_1-pl-7708-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/q/aquatys-poignee-de-bloc-universelle_eloo2gjpkzm9mpmb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seac-tank-net-black_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-7708-pl-7708-picture_2-pl-7708-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:52.983Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-7708-pl-7708-picture_1-pl-7708-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003967/01-pl-7708-pl-7708-picture_1-pl-7708-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/q/aquatys-poignee-de-bloc-universelle_eloo2gjpkzm9mpmb.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003967/02-aquatys-poignee-de-bloc-universelle_eloo2gjpkzm9mpmb.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seac-tank-net-black_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003967/03-seac-tank-net-black_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-7708-pl-7708-picture_2-pl-7708-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0003967/04-pl-7708-pl-7708-picture_2-pl-7708-2.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "securite-navigation",
+    "blocs-marins-permis-bateau"
+  ],
+  "categories": [
+    "nautisme",
+    "securite-navigation",
+    "blocs-marins-permis-bateau"
+  ]
+}

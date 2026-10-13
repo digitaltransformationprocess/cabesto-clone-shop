@@ -1,0 +1,89 @@
+{
+  "sku": "PCPL-49041",
+  "url": "https://www.cabesto.com/fr/plongee-arbalete-c4-gladius-camo-med-pcpl-49041.html",
+  "title": "ARBALETE C4 GLADIUS CAMO MED",
+  "brand": "C4",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ARBALETE C4 GLADIUS CAMO MED"
+  ],
+  "description": "Le fut en carbone format \"os de seiche\" de l'arbalète GLADIUS CAMO garantie un équilibre parfait avec la précision du rail guide flèche intégral, un ensemble haut de gamme pour les chasseurs sous-marins les plus exigeants.L’arbalète GLADIUS CAMO est un monocoque fabriqué exclusivement en fibre de carbone à haut module.Le camouflage du GLADIUS CAMO est unique. Inspiré par le mimétisme animal, il a été spécialement peint à main levée avec des coups de pinceau numériques, dessinant une “texture de peau” qui mélange la couleur camo tout en laissant un aperçu de la fibre de carbone.L’effet obtenu crée un design particulier, qui fait référence à la texture de la peau d’une tortue ou à celle d’une race d’animal tachetée.Un camouflage anti-rayuresSur le GLADIUS CAMO, C4 propose une technique d’application innovante pour la texture camo. Le camouflage est ainsi protégé par une résine de finition anti UV qui le rend résistant aux rayures et à la décoloration dans le temps.GLADIUS CAMO est parfaitement hydrodynamique. Elle possède un fût rigide pour un tir précis et stable. Elle est polyvalente et convient à tous les types de pêche sous-marine.Elle a une forme d’os de seiche avec une tête réduite et plus de volume au niveau de la crosse. Cette forme la rend très équilibrée et très manoeuvrable dans l’eau. Le fût est doté d’un guide flèche intégral.Le mécanisme arrière est le C4 “Auto-R” avec un largue fil positionable à gauche ou à droite. Le mécanisme et la queue de détente sont fabriqués intégralement en inox AISI316.La tête, intégrée au fût, est complètement en fibre de carbone. Elle peut recevoir jusqu’à 2 sandows de 18mm. La tête comporte 2 guides fils latéraux en inox et un accroche fil vissé en dessous.GLADIUS CAMO est fourni avec une double poignée anatomique (petite et grande) et avec un support sternal monté en standard en couleur verte. Les mêmes pièces de couleur blanche sont fournies à l’intérieur du kit d’accessoires.Le talon d’armement est recouvert d’une matière souple pour plus de stabilité pen- dant le chargement. GLADIUS CAMO peut être équipée du moulinet C4 HERCULES.Livré avec flèche et sandow. Sur les tailles 85 et 95cm 1 sandow de Ø18mm et pour les tailles 105 et 115cm 2 sandows(1 de Ø18mm et 1 de Ø16mm).Des mesuresGLADIUS 85: Lunghezza Fusto: 850 mm – Lunghezza Asta: 1200 mmGLADIUS 95: Lunghezza Fusto: 950 mm – Lunghezza Asta: 1300 mmGLADIUS 105: Lunghezza Fusto: 1050 mm – Lunghezza Asta: 1400 mmGLADIUS 115: Lunghezza Fusto: 1150 mm – Lunghezza Asta: 1500 mmAccastillageModèle Gladius Flèche Inox17/4 phSandow C4 “Primeline” Circulaire85/95Ø 6,50 mm simple ardillon,4 ergots – made in Italy1(16mm noir)105/115Ø 6,75 mm simple ardillon,4 ergots – made in Italy2(16mm noir)",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-49041",
+      "sku": "PCPL-49041",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/l/gladius_camo_c4web-uai-720x720_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/4/c4_stampa_mimetica_300dpi__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/4/c4_gladius_camo_part.imp.bianca_300dpi__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/l/gladius_camo_c4web_3-uai-720x720_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/l/gladius_camo_c4web_2-uai-720x720_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:32:31.607Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/l/gladius_camo_c4web-uai-720x720_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49041/01-gladius_camo_c4web-uai-720x720_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/4/c4_stampa_mimetica_300dpi__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49041/02-c4_stampa_mimetica_300dpi__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/4/c4_gladius_camo_part.imp.bianca_300dpi__2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49041/03-c4_gladius_camo_part.imp.bianca_300dpi__2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/l/gladius_camo_c4web_3-uai-720x720_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49041/04-gladius_camo_c4web_3-uai-720x720_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/l/gladius_camo_c4web_2-uai-720x720_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49041/05-gladius_camo_c4web_2-uai-720x720_2.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

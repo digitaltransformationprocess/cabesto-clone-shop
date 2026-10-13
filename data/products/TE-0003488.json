@@ -1,0 +1,103 @@
+{
+  "sku": "TE-0003488",
+  "url": "https://www.cabesto.com/fr/article-generique-textile-te-0003488.html",
+  "title": "Sac de voyage duffle bag SEA STASH jaune QUIKSILVER",
+  "brand": "QUIKSILVER",
+  "category": "✽ La boutique Quiksilver",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "Accessoires",
+    "Accessoires",
+    "Idées cadeaux Textile",
+    "Sélection Textile",
+    "✽ La boutique Quiksilver"
+  ],
+  "categories": [
+    "Accessoires",
+    "Accessoires",
+    "Idées cadeaux Textile",
+    "Sélection Textile",
+    "✽ La boutique Quiksilver"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac de voyage duffle bag SEA STASH jaune QUIKSILVER"
+  ],
+  "description": "Voyagez avec le sac de voyage DUFFLE SEA STASH QUIKSILVER, le sac robuste, imperméable et stylé parfait pour protéger vos affaires en milieu humide.",
+  "supplierRef": "AQYBL03022-YZE0",
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR",
+    "formatted": "39.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "TE-0003488",
+      "sku": "TE-0003488",
+      "supplierRef": "AQYBL03022-YZE0",
+      "price": {
+        "amount": 39.99,
+        "currency": "EUR",
+        "formatted": "39.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/q/k/qk_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/5/0/50183f8e-7aed-4aa9-b346-226c9fc22148_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/e/helly-hansen-hh-duffel-bag-2-30l-ocean-22840_328542_22840.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/q/k/qk4_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/q/k/qk1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/q/k/qk5_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/q/k/qk2_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:28:07.120Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/q/k/qk_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/TE-0003488/01-qk_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/5/0/50183f8e-7aed-4aa9-b346-226c9fc22148_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/TE-0003488/02-50183f8e-7aed-4aa9-b346-226c9fc22148_1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/e/helly-hansen-hh-duffel-bag-2-30l-ocean-22840_328542_22840.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/TE-0003488/03-helly-hansen-hh-duffel-bag-2-30l-ocean-22840_328542_22840.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/q/k/qk4_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/TE-0003488/04-qk4_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/q/k/qk1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/TE-0003488/05-qk1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/q/k/qk5_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/TE-0003488/06-qk5_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/q/k/qk2_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/TE-0003488/07-qk2_2.jpg",
+      "skipped": false
+    }
+  ]
+}

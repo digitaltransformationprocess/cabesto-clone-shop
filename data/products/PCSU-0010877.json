@@ -1,0 +1,91 @@
+{
+  "sku": "PCSU-0010877",
+  "url": "https://www.cabesto.com/fr/palmes-de-plongee-reglables-plana-lt-blanches-mares-pcsu-0010877.html",
+  "title": "Palmes de plongée réglables PLANA LT blanches MARES",
+  "brand": "MARES",
+  "category": "Palmes de plongée réglables",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Palmes de plongée",
+    "Palmes de plongée réglables"
+  ],
+  "categories": [
+    "Palmes de plongée",
+    "Palmes de plongée réglables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Palmes de plongée réglables PLANA LT blanches MARES"
+  ],
+  "description": "Palmez efficacement et voyagez avec les nouvelles palmes POWER PLANA LT MARES, les palmes réglables légères et performantes conçues pour les plongeurs techniques et voyageurs, offrant un confort et une adaptabilité inégalés.",
+  "supplierRef": null,
+  "price": {
+    "amount": 134,
+    "currency": "EUR",
+    "formatted": "134 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0010877",
+      "sku": "PCSU-0010877",
+      "supplierRef": null,
+      "price": {
+        "amount": 134,
+        "currency": "EUR",
+        "formatted": "134 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/t/ltblanc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/t/ltblack.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/t/ltorange.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/power-plana-lt-white.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/power-plana-lt-white_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/o/power-plana-lt-white_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:38:31.011Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/t/ltblanc.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010877/01-ltblanc.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/t/ltblack.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010877/02-ltblack.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/t/ltorange.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010877/03-ltorange.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/power-plana-lt-white.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010877/04-power-plana-lt-white.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/power-plana-lt-white_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010877/05-power-plana-lt-white_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/power-plana-lt-white_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010877/06-power-plana-lt-white_1_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0004261",
+  "url": "https://www.cabesto.com/fr/masque-plongee-adulte-spirit-turquoise-beuchat.html",
+  "title": "MASQUE SPIRIT TURQUOISE ADULTE BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "MASQUE SPIRIT TURQUOISE ADULTE BEUCHAT"
+  ],
+  "description": "MASQUE SPIRIT TURQUOISE ADULTE BEUCHATDécouvrez l'esprit de la marque BEUCHAT au meilleur prix avec le masque SPIRIT ADULTE BEUCHAT, ici en couleur turquoise.Le masque adulte Spirit Turquoise de Beuchat est équipé d'une jupe transparente et de boucle avec sangles très faciles d'utilisation. Il permet d'avoir un excellent champ de vision sous l'eau pour une activité de plongée sous-marine ou de snorkeling.Boucles à réglages facileVerre Securit BeuchatSilicone haute densitéCe masque a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 1) suivant la norme NF EN 16805.",
+  "supplierRef": "951512",
+  "price": {
+    "amount": 13.99,
+    "currency": "EUR",
+    "formatted": "13.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004261",
+      "sku": "SU-0004261",
+      "supplierRef": "951512",
+      "price": {
+        "amount": 13.99,
+        "currency": "EUR",
+        "formatted": "13.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/0/3/0341284003_masque_spirit_bleu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:27:22.361Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/3/0341284003_masque_spirit_bleu.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004261/01-0341284003_masque_spirit_bleu.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "1er-prix-club-association"
+  ],
+  "categories": [
+    "plongee",
+    "1er-prix-club-association"
+  ]
+}

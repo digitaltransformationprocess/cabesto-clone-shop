@@ -1,0 +1,71 @@
+{
+  "sku": "AL-0000198",
+  "url": "https://www.cabesto.com/fr/achards-de-legumes-chaleur-creole-200g.html",
+  "title": "ACHARDS DE LEGUMES CHALEUR CREOLE 200G",
+  "brand": "CHALEUR CREOLE",
+  "category": "Sauces des iles",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "plats-cuisines-frais",
+    "sauces"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "plats-cuisines-frais",
+    "sauces"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ACHARDS DE LEGUMES CHALEUR CREOLE 200G"
+  ],
+  "description": "Achetez ACHARDS DE LEGUMES CHALEUR CREOLE 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3486411000186.",
+  "price": {
+    "amount": 3.99,
+    "currency": "EUR",
+    "formatted": "3.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000198",
+      "sku": "AL-0000198",
+      "supplierRef": "3486411000186.",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/c/achards-de-legumes-chaleur-creole.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/0/6014898-6014898-picture_1-6014898_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:02:42.382Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/c/achards-de-legumes-chaleur-creole.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000198/01-achards-de-legumes-chaleur-creole.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6014898-6014898-picture_1-6014898_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000198/02-6014898-6014898-picture_1-6014898_1.jpg",
+      "skipped": false
+    }
+  ]
+}

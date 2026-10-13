@@ -1,0 +1,131 @@
+{
+  "sku": "PCSU-0010657",
+  "url": "https://www.cabesto.com/fr/combinaison-de-plongee-shorty-aquatic-femme-2mm-salvimar-pcsu-0010657.html",
+  "title": "Combinaison shorty femme AQUATIC zip frontal 2 mm SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "Combinaisons de longe-côte femme",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Shorties femme",
+    "Shortys et Survestes",
+    "Combinaisons de longe-côte femme",
+    "1er prix - Club - Association"
+  ],
+  "categories": [
+    "Shorties femme",
+    "Shortys et Survestes",
+    "Combinaisons de longe-côte femme",
+    "1er prix - Club - Association"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Combinaison shorty femme AQUATIC zip frontal 2 mm SALVIMAR"
+  ],
+  "description": "Profitez du confort optimal pour le snorkeling grâce au shorty pour femme AQUATIC SALVIMAR offrant une liberté de mouvement exceptionnelle pour une expérience de randonnée aquatique sans égale.",
+  "supplierRef": null,
+  "price": {
+    "amount": 45.99,
+    "currency": "EUR",
+    "formatted": "45.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0010657",
+      "sku": "PCSU-0010657",
+      "supplierRef": null,
+      "price": {
+        "amount": 45.99,
+        "currency": "EUR",
+        "formatted": "45.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mutasnoaquaticjr_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mutasnoaquaticjgirl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticman_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/h/shorty-salvimar-aquatic-femme-2mm-p-image-38077-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/salvi-fem-3mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0_1_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0_1_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0_1_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:36:19.080Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010657/01-mutafreeshortyaquaticlady_0.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mutasnoaquaticjr_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010657/02-mutasnoaquaticjr_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mutasnoaquaticjgirl_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010657/03-mutasnoaquaticjgirl_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticman_0.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010657/04-mutafreeshortyaquaticman_0.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/h/shorty-salvimar-aquatic-femme-2mm-p-image-38077-grande.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010657/05-shorty-salvimar-aquatic-femme-2mm-p-image-38077-grande.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/salvi-fem-3mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010657/06-salvi-fem-3mm.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0_1_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010657/07-mutafreeshortyaquaticlady_0_1_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0_1_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010657/08-mutafreeshortyaquaticlady_0_1_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010657/09-mutafreeshortyaquaticlady_0_1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0_1_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010657/10-mutafreeshortyaquaticlady_0_1_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010657/11-mutafreeshortyaquaticlady_0_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mutafreeshortyaquaticlady_0_1_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010657/12-mutafreeshortyaquaticlady_0_1_5.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0002054",
+  "url": "https://www.cabesto.com/fr/piscine-manchon-d63-16-bars-pi-767.html",
+  "title": "Manchon D63 - 16 bars",
+  "brand": "INTERPLAST",
+  "category": "Pièces PVC",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "categories": [
+    "Plomberie et tuyaux",
+    "Pièces PVC"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Manchon D63 - 16 bars"
+  ],
+  "description": "Achetez Manchon D63 - 16 bars chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SMA1063",
+  "price": {
+    "amount": 3,
+    "currency": "EUR",
+    "formatted": "3 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002054",
+      "sku": "PI-0002054",
+      "supplierRef": "SMA1063",
+      "price": {
+        "amount": 3,
+        "currency": "EUR",
+        "formatted": "3 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/a/manchon-63-16-bars-16652.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:36:52.739Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/a/manchon-63-16-bars-16652.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002054/01-manchon-63-16-bars-16652.jpg",
+      "skipped": false
+    }
+  ]
+}

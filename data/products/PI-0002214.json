@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0002214",
+  "url": "https://www.cabesto.com/fr/piscine-oxygene-actif-choc-1kg-pi-190.html",
+  "title": "OXYGENE ACTIF CHOC 1KG",
+  "brand": "CABESTO",
+  "category": "Oxygène actif de piscine",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "OXYGENE ACTIF CHOC 1KG"
+  ],
+  "description": "Achetez OXYGENE ACTIF CHOC 1KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "FVU017904",
+  "price": {
+    "amount": 21.99,
+    "currency": "EUR",
+    "formatted": "21.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0002214",
+      "sku": "PI-0002214",
+      "supplierRef": "FVU017904",
+      "price": {
+        "amount": 21.99,
+        "currency": "EUR",
+        "formatted": "21.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/8/6832445-traitement-choc-sans-chlore-1_25kg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:32:11.957Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/8/6832445-traitement-choc-sans-chlore-1_25kg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0002214/01-6832445-traitement-choc-sans-chlore-1_25kg.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0009291",
+  "url": "https://www.cabesto.com/fr/plongee-cartouche-filtrante-pour-narguile-thermique-pl-5019.html",
+  "title": "Cartouche filtrante pour narguilé thermique NARDI",
+  "brand": "NARDI",
+  "category": "accessoires-pour-compresseur-plongee-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cartouche filtrante pour narguilé thermique NARDI"
+  ],
+  "description": "Cartouche de filtration de rechange pour narguilé essence. Remplacement à effectuer toutes les 30 heures environ pour rester dans les normes \"CE\" .",
+  "supplierRef": "A036-102",
+  "price": {
+    "amount": 69,
+    "currency": "EUR",
+    "formatted": "69 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0009291",
+      "sku": "SU-0009291",
+      "supplierRef": "A036-102",
+      "price": {
+        "amount": 69,
+        "currency": "EUR",
+        "formatted": "69 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-5019-pl-5019-picture_1-pl-5019-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:58.184Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-5019-pl-5019-picture_1-pl-5019-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0009291/01-pl-5019-pl-5019-picture_1-pl-5019-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "compresseurs-et-narguiles",
+    "accessoires-pour-compresseur-plongee-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "compresseurs-et-narguiles",
+    "accessoires-pour-compresseur-plongee-sous-marine"
+  ]
+}

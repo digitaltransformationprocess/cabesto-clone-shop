@@ -1,0 +1,77 @@
+{
+  "sku": "SU-0005744",
+  "url": "https://www.cabesto.com/fr/plongee-sac-master-etanche-dessault-pl-18808.html",
+  "title": "Sac de plongée étanche MASTER DESSAULT",
+  "brand": null,
+  "category": "chasse-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Plongée",
+    "Plongée",
+    "Chasse sous-marine",
+    "Chasse sous-marine",
+    "Sac de plongée étanche MASTER DESSAULT"
+  ],
+  "description": "SAC MASTER ETANCHE DESSAULTLe MASTER DESSAULT est un sac étanche en toile résistante conçu pour les chasseurs et les apnéistes qui utilisent des longues palmes.Sa fermeture en U permet un large accès à l'intérieur du sac pour faciliter le rangement de tout le matériel. Pour rincer le matériel et vider le sac le MASTER DESSAULT est équipé d'une purge de vidange. Ses sangles de portage réglables et amovibles peuvent permettre le portage sur le dos. Sa toile étanche en tarpaulin résistante jusqu'à 100 kg en fait également un sac idéal pour les plongeurs sous-marins en bouteille.Volume 105 litresToile étanche tarpaulin 500 DFermeture en U avec rabat de protection2 sangles de portage réglables et amovibles2 poignées rigides latéralesPurge de vidangeLongueur : 92 cmLargeur : 45 CmHauteur : 25 cm",
+  "supplierRef": "DSBAGMAS",
+  "price": {
+    "amount": 56.99,
+    "currency": "EUR",
+    "formatted": "56.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005744",
+      "sku": "SU-0005744",
+      "supplierRef": "DSBAGMAS",
+      "price": {
+        "amount": 56.99,
+        "currency": "EUR",
+        "formatted": "56.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-18808-pl-18808-picture_1-pl-18808-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_33_17.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:20:46.649Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-18808-pl-18808-picture_1-pl-18808-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005744/01-pl-18808-pl-18808-picture_1-pl-18808-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005744/02-hqdefault_56_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_33_17.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005744/03-hqdefault_33_17.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "chasse-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "chasse-sous-marine"
+  ]
+}

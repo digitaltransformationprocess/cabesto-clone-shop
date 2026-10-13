@@ -1,0 +1,59 @@
+{
+  "sku": "PE-0003491",
+  "url": "https://www.cabesto.com/fr/peche-epuisette-loisirs-1-50m-pe-12190.html",
+  "title": "Epuisette Loisirs 1.50M",
+  "brand": "TORTUE",
+  "category": "peche",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche"
+  ],
+  "categories": [
+    "peche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Epuisette Loisirs 1.50M"
+  ],
+  "description": "Achetez Epuisette Loisirs 1.50M chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "AWQ180038",
+  "price": {
+    "amount": 14.99,
+    "currency": "EUR",
+    "formatted": "14.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0003491",
+      "sku": "PE-0003491",
+      "supplierRef": "AWQ180038",
+      "price": {
+        "amount": 14.99,
+        "currency": "EUR",
+        "formatted": "14.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/p/epuisette-telescopique-ragot-loisirs-z-1580-158071_l8hwvlmz1f35acgs.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:25:09.044Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/p/epuisette-telescopique-ragot-loisirs-z-1580-158071_l8hwvlmz1f35acgs.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0003491/01-epuisette-telescopique-ragot-loisirs-z-1580-158071_l8hwvlmz1f35acgs.jpg",
+      "skipped": false
+    }
+  ]
+}

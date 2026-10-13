@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0007219",
+  "url": "https://www.cabesto.com/fr/kit-colle-150mm-rouleau-4m.html",
+  "title": "Kit colle pour peaux 150mm rouleau 4m - COLL-TEX",
+  "brand": "COLL-TEX",
+  "category": "colles-et-farts",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "neige-glace",
+    "ski-de-randonnee",
+    "peaux",
+    "colles-et-farts"
+  ],
+  "categories": [
+    "montagne",
+    "neige-glace",
+    "ski-de-randonnee",
+    "peaux",
+    "colles-et-farts"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Kit colle pour peaux 150mm rouleau 4m - COLL-TEX"
+  ],
+  "description": "Achetez Kit colle pour peaux 150mm rouleau 4m - COLL-TEX chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "CTXK4M150",
+  "price": {
+    "amount": 34.4,
+    "currency": "EUR",
+    "formatted": "34.4 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0007219",
+      "sku": "NT-0007219",
+      "supplierRef": "CTXK4M150",
+      "price": {
+        "amount": 34.4,
+        "currency": "EUR",
+        "formatted": "34.4 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/q/sq02_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:41:00.352Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/q/sq02_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007219/01-sq02_1.jpg",
+      "skipped": false
+    }
+  ]
+}

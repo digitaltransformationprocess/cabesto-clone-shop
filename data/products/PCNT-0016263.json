@@ -1,0 +1,85 @@
+{
+  "sku": "PCNT-0016263",
+  "url": "https://www.cabesto.com/fr/verticalite-piton-rocher-mixte-2mm-epaisseur-petzl-charlet-1762.html",
+  "title": "Piton rocher mixte 2mm épaisseur PETZL CHARLET",
+  "brand": "PETZL",
+  "category": "Pitons, plombs",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Escalade",
+    "Pitons, plombs"
+  ],
+  "categories": [
+    "Escalade",
+    "Pitons, plombs"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Piton rocher mixte 2mm épaisseur PETZL CHARLET"
+  ],
+  "description": "Achetez Piton rocher mixte 2mm épaisseur PETZL CHARLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 18.95,
+    "currency": "EUR",
+    "formatted": "18.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0016263",
+      "sku": "PCNT-0016263",
+      "supplierRef": null,
+      "price": {
+        "amount": 18.95,
+        "currency": "EUR",
+        "formatted": "18.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/7/1762_1_m-piton-rocher-mixte-petzl-charlet_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/1762_1_m-piton-rocher-mixte-petzl-charlet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/1762_1_m-piton-rocher-mixte-petzl-charlet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/1762_1_m-piton-rocher-mixte-petzl-charlet_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/1762_1_m-piton-rocher-mixte-petzl-charlet_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:23:59.838Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1762_1_m-piton-rocher-mixte-petzl-charlet_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016263/01-1762_1_m-piton-rocher-mixte-petzl-charlet_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1762_1_m-piton-rocher-mixte-petzl-charlet_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016263/02-1762_1_m-piton-rocher-mixte-petzl-charlet_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1762_1_m-piton-rocher-mixte-petzl-charlet.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016263/03-1762_1_m-piton-rocher-mixte-petzl-charlet.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1762_1_m-piton-rocher-mixte-petzl-charlet_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016263/04-1762_1_m-piton-rocher-mixte-petzl-charlet_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1762_1_m-piton-rocher-mixte-petzl-charlet_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016263/05-1762_1_m-piton-rocher-mixte-petzl-charlet_2.jpg",
+      "skipped": false
+    }
+  ]
+}

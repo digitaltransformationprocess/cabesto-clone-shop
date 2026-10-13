@@ -1,0 +1,67 @@
+{
+  "sku": "PCNT-0005910",
+  "url": "https://www.cabesto.com/fr/randonnee-pantalon-escalade-voyage-femme-hampi-rock-patagonia-pb20.html",
+  "title": "Pantalon Escalade Voyage Femme Hampi Rock - PATAGONIA",
+  "brand": "PATAGONIA",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Pantalons d'escalade",
+    "Destockage Montagne",
+    "Pantalons d'escalade Femme",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Pantalons d'escalade",
+    "Destockage Montagne",
+    "Pantalons d'escalade Femme",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pantalon Escalade Voyage Femme Hampi Rock - PATAGONIA"
+  ],
+  "description": "Achetez Pantalon Escalade Voyage Femme Hampi Rock - PATAGONIA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0005910",
+      "sku": "PCNT-0005910",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/b/pb20_1_kr-pantalon-escalade-voyage-femme-hampi-rock-patagonia_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:31:12.046Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/b/pb20_1_kr-pantalon-escalade-voyage-femme-hampi-rock-patagonia_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0005910/01-pb20_1_kr-pantalon-escalade-voyage-femme-hampi-rock-patagonia_4.jpg",
+      "skipped": false
+    }
+  ]
+}

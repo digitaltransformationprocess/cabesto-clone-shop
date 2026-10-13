@@ -1,0 +1,89 @@
+{
+  "sku": "SU-0004401",
+  "url": "https://www.cabesto.com/fr/plongee-obus-lario-pl-19385.html",
+  "title": "Ogives vissée arbalète chasse sous-marine LARIO plastique MARES",
+  "brand": "MARES",
+  "category": "Obus",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ogives vissée arbalète chasse sous-marine LARIO plastique MARES"
+  ],
+  "description": "détaillée 8,99 € Quantité Ajouter au panier En stock Livraison estimée entre le 15/10/2026 et le 19/10/2026 Selon le mode de livraison choisi et les délais du transporteur. Vérifie la disponibilité... Vérifier la disponibilité dans votre magasin Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation.",
+  "supplierRef": "423912",
+  "price": {
+    "amount": 8.99,
+    "currency": "EUR",
+    "formatted": "8.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004401",
+      "sku": "SU-0004401",
+      "supplierRef": "423912",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-19385-pl-19385-picture_1-pl-19385-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/f/u/fusil-de-plongee-sous-marine-standard-obusier-v-en-acier-inoxydable_plucw8xbct9i7tsx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/o/b/obus-dyneline_7d8mvdznwxu49gq9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-4710-pl-4710-picture_1-pl-4710-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/4/2/423936_speed3_uh1gnzv9rcwdjuqk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/a/lario-wishbone_2uggq9kneczwhdzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:27.189Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-19385-pl-19385-picture_1-pl-19385-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004401/01-pl-19385-pl-19385-picture_1-pl-19385-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/f/u/fusil-de-plongee-sous-marine-standard-obusier-v-en-acier-inoxydable_plucw8xbct9i7tsx.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004401/02-fusil-de-plongee-sous-marine-standard-obusier-v-en-acier-inoxydable_plucw8xbct9i7tsx.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/b/obus-dyneline_7d8mvdznwxu49gq9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004401/03-obus-dyneline_7d8mvdznwxu49gq9.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-4710-pl-4710-picture_1-pl-4710-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004401/04-pl-4710-pl-4710-picture_1-pl-4710-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/2/423936_speed3_uh1gnzv9rcwdjuqk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004401/05-423936_speed3_uh1gnzv9rcwdjuqk.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/a/lario-wishbone_2uggq9kneczwhdzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004401/06-lario-wishbone_2uggq9kneczwhdzl.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Obus"
+  ],
+  "categories": [
+    "Obus"
+  ]
+}

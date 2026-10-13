@@ -1,0 +1,105 @@
+{
+  "sku": "PCPL-49037",
+  "url": "https://www.cabesto.com/fr/plongee-arbalete-hero-tomahawk-salvimar-pcpl-49037.html",
+  "title": "Arbalète de chasse sous-marine HERO TOMAHAWK SALVIMAR",
+  "brand": "SALVIMAR",
+  "category": "ais",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Arbalète de chasse sous-marine HERO TOMAHAWK SALVIMAR"
+  ],
+  "description": "Arbalète de chasse sous-marine HERO TOMAHAWK SALVIMARPar rapport à un ROLLER standard, L'arbalète HERO TOMAHAWK SALVIMAR développe 35% de puissance en plus grâce à la poussée fournie par les 4 élastiques supplémentaires dont l'allongement commence lorsque l'élastique supérieur a atteint l'extension idéale contrainte par le noyau interne.L'arbalète HERO TOMAHAWK SALVIMAR propose :Tube elliptique asymétrique en alliage d'aluminium aéronautiqueGuide intégral de la flècheTeflon®Profil augmenté pour une meilleure garniture hydrostatiqueRéglage de la sensibilité de la queue de détenteQueue de détente en INOXSupport de sternum \"GUN BUTT\" en caoutchouc souplePoignée avec crochet pour fixation de ligne ou mousqueton renforcéNouveau mécanisme de libération Heavy Metal 350 (charge testée 350 kg)Largue fil INOX surdimensionnéFlèche INOX diamètre 7 mm 3 ailerons soudés fraisés avec ardillon inversé hawaienPoignée ergonomique avec crosse gauche et droite de sérieSupport pour les moulinets Salvimar (moulinet en option)Le système de propulsion de l'arbalète HERO TOMAHAWK SALVIMAR se compose :bandes élastiques supérieures S400 ø 16mm à allongement contrôlé au moyen d'un noyau interne en ligne Dymax, 1,4mm 100% Climax®, charge de rupture 250kg + n ° 4 élastiques supplémentaires en ligne S400R ø 15mmLongueur du propulseur en fonction de la taille de l'arbalète HERO TOMAHAWK SALVIMAR :- 75 cm : 2 black Ø16mmx24cm + 4 red Ø15mmx20cm- 85 cm : 2 black Ø16mmx27cm + 4 red Ø15mmx23cm- 95 cm : 2 black Ø16mmx30cm + 4 red Ø15mmx26cm- 105 cm : 2 black Ø16mmx33cm + 4 red Ø15mmx28cm- 115 cm : 2 black Ø16mmx35cm + 4 red Ø15mmx31cm- 125 : 2 black Ø16mmx38cm + 4 red Ø15mmx34cm- 135 : 2 black Ø16mmx41cm + 4 red Ø15mmx37cm",
+  "supplierRef": null,
+  "price": {
+    "amount": 294.99,
+    "currency": "EUR",
+    "formatted": "294.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-49037",
+      "sku": "PCPL-49037",
+      "supplierRef": null,
+      "price": {
+        "amount": 294.99,
+        "currency": "EUR",
+        "formatted": "294.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/i/m/img-398-p1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/img-398-p2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/img-398-p3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_26.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_29_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/img-398-p1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/img-398-p1_1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/i/m/img-398-p1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:32:23.150Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-398-p1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49037/01-img-398-p1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-398-p2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49037/02-img-398-p2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-398-p3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49037/03-img-398-p3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_26.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49037/04-hqdefault_56_26.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_29_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49037/05-hqdefault_29_6.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-398-p1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49037/06-img-398-p1_1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-398-p1_1_1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49037/07-img-398-p1_1_1_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/i/m/img-398-p1_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-49037/08-img-398-p1_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ],
+  "categories": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ]
+}

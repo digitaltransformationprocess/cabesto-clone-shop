@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0028365",
+  "url": "https://www.cabesto.com/fr/verticalite-mousqueton-bague-automatique-atom-2-lock-camp-nt-0028365.html",
+  "title": "Mousqueton Bague Automatique ATOM 2 LOCK - CAMP",
+  "brand": "CAMP",
+  "category": "Mousquetons bagues automatiques",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Matériel métallique",
+    "Mousquetons bagues automatiques"
+  ],
+  "categories": [
+    "Matériel métallique",
+    "Mousquetons bagues automatiques"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Mousqueton Bague Automatique ATOM 2 LOCK - CAMP"
+  ],
+  "description": "Achetez Mousqueton Bague Automatique ATOM 2 LOCK - CAMP chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "2922.00",
+  "price": {
+    "amount": 17.9,
+    "currency": "EUR",
+    "formatted": "17.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0028365",
+      "sku": "NT-0028365",
+      "supplierRef": "2922.00",
+      "price": {
+        "amount": 17.9,
+        "currency": "EUR",
+        "formatted": "17.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/p/cp76_1-mousqueton-bague-automatique-atom-2-lock-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/p/cp76_1-mousqueton-bague-automatique-atom-2-lock-camp_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:21:23.782Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp76_1-mousqueton-bague-automatique-atom-2-lock-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028365/01-cp76_1-mousqueton-bague-automatique-atom-2-lock-camp.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp76_1-mousqueton-bague-automatique-atom-2-lock-camp_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0028365/02-cp76_1-mousqueton-bague-automatique-atom-2-lock-camp_1.jpg",
+      "skipped": false
+    }
+  ]
+}

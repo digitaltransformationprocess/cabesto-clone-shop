@@ -1,0 +1,97 @@
+{
+  "sku": "PCPL-430",
+  "url": "https://www.cabesto.com/fr/plongee-masque-crystal-vu-noir-scubapro-pcpl-430.html",
+  "title": "Masque de plongée CRYSTAL VU noir SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Masque de plongée CRYSTAL VU noir SCUBAPRO"
+  ],
+  "description": "Masque de plongée CRYSTAL VU noir SCUBAPROProfitez d'un champ de vision exceptionnel avec vision latérale grâce au masque de plongée sous-marine CRYSTAL VU SCUBAPRO ici en jupe silicone noire.Procédé de peinture métallisée exclusif comprenant trois nuances de couleurs à deux tons.Double jupe en silicone transparente pour plus de confort.Masque mono-verre breveté avec panneaux latéraux continus, pour un champ de vision panoramique.Faible volume pour un ajustement au plus près du visage, et un vidage facile.Ce masque a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 1) suivant la norme NF EN 16805.",
+  "supplierRef": null,
+  "price": {
+    "amount": 84.99,
+    "currency": "EUR",
+    "formatted": "84.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-430",
+      "sku": "PCPL-430",
+      "supplierRef": null,
+      "price": {
+        "amount": 84.99,
+        "currency": "EUR",
+        "formatted": "84.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/c/scubapro-crystal-vu-masque_noir_gris_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-430-pl-3309-picture_1-pcpl-430-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/c/scubapro-crystal-vu-masque-orange-black_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3310-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_7_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_32.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PL-3310-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:31:00.725Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/scubapro-crystal-vu-masque_noir_gris_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-430/01-scubapro-crystal-vu-masque_noir_gris_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-430-pl-3309-picture_1-pcpl-430-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-430/02-pcpl-430-pl-3309-picture_1-pcpl-430-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/c/scubapro-crystal-vu-masque-orange-black_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-430/03-scubapro-crystal-vu-masque-orange-black_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3310-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-430/04-pl-3310-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_7_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-430/05-hqdefault_7_10.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_56_32.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-430/06-hqdefault_56_32.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PL-3310-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-430/07-PL-3310-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "ventes-privees",
+    "plongee"
+  ],
+  "categories": [
+    "ventes-privees",
+    "plongee"
+  ]
+}

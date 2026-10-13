@@ -1,0 +1,77 @@
+{
+  "sku": "NT-0016274",
+  "url": "https://www.cabesto.com/fr/pixadapt-nt-0016274.html",
+  "title": "Pixadapt",
+  "brand": "PETZL",
+  "category": "lampes-frontales",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "securite-navigation",
+    "signalisation-visuelle-et-sonore",
+    "lampes-frontales"
+  ],
+  "categories": [
+    "nautisme",
+    "securite-navigation",
+    "signalisation-visuelle-et-sonore",
+    "lampes-frontales"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pixadapt"
+  ],
+  "description": "Achetez Pixadapt chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "E78005",
+  "price": {
+    "amount": 11.95,
+    "currency": "EUR",
+    "formatted": "11.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0016274",
+      "sku": "NT-0016274",
+      "supplierRef": "E78005",
+      "price": {
+        "amount": 11.95,
+        "currency": "EUR",
+        "formatted": "11.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/7/176l_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/176l_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/176l_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:38:57.422Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/176l_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0016274/01-176l_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/176l_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0016274/02-176l_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/176l_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0016274/03-176l_2.jpg",
+      "skipped": false
+    }
+  ]
+}

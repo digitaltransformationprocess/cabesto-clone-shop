@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0002797",
+  "url": "https://www.cabesto.com/fr/pains-grilles-ail-et-persil-plaza-del-sol-sachet-150g.html",
+  "title": "Pains grillés ail et persil PLAZA DEL SOL sachet 150g",
+  "brand": "PLAZA DEL SOL",
+  "category": "Tapas",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-espagnole",
+    "tapas"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-espagnole",
+    "tapas"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pains grillés ail et persil PLAZA DEL SOL sachet 150g"
+  ],
+  "description": "Achetez Pains grillés ail et persil PLAZA DEL SOL sachet 150g chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1C6346",
+  "price": {
+    "amount": 2.39,
+    "currency": "EUR",
+    "formatted": "2.39 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002797",
+      "sku": "AL-0002797",
+      "supplierRef": "1C6346",
+      "price": {
+        "amount": 2.39,
+        "currency": "EUR",
+        "formatted": "2.39 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0002797.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:57:40.023Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0002797.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002797/01-al-0002797.jpg",
+      "skipped": true
+    }
+  ]
+}

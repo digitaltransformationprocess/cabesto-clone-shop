@@ -1,0 +1,69 @@
+{
+  "sku": "NT-0022401",
+  "url": "https://www.cabesto.com/fr/neige-glace-trigrest-petzl-nt-0022401.html",
+  "title": "Trigrest - PETZL",
+  "brand": "PETZL",
+  "category": "Accessoires piolets",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Neige & Glace",
+    "Alpinisme",
+    "Accessoires piolets"
+  ],
+  "categories": [
+    "Neige & Glace",
+    "Alpinisme",
+    "Accessoires piolets"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Trigrest - PETZL"
+  ],
+  "description": "Achetez Trigrest - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "U016AA00",
+  "price": {
+    "amount": 16.95,
+    "currency": "EUR",
+    "formatted": "16.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0022401",
+      "sku": "NT-0022401",
+      "supplierRef": "U016AA00",
+      "price": {
+        "amount": 16.95,
+        "currency": "EUR",
+        "formatted": "16.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl07_1-trigrest-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl07_1-trigrest-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:15:56.363Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl07_1-trigrest-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0022401/01-pl07_1-trigrest-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl07_1-trigrest-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0022401/02-pl07_1-trigrest-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "sku": "PI-0008755",
+  "url": "https://www.cabesto.com/fr/prise-balai-pour-piscine-liner-blanche.html",
+  "title": "PRISE BALAI POUR PISCINE LINER BLANCHE",
+  "brand": "ASTRAL",
+  "category": "Pièces à sceller",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "piscine",
+    "construction",
+    "pieces-a-sceller"
+  ],
+  "categories": [
+    "piscine",
+    "construction",
+    "pieces-a-sceller"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PRISE BALAI POUR PISCINE LINER BLANCHE"
+  ],
+  "description": "Achetez PRISE BALAI POUR PISCINE LINER BLANCHE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "34411",
+  "price": {
+    "amount": 10,
+    "currency": "EUR",
+    "formatted": "10 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0008755",
+      "sku": "PI-0008755",
+      "supplierRef": "34411",
+      "price": {
+        "amount": 10,
+        "currency": "EUR",
+        "formatted": "10 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/3/4/34411-modele-parker-blanc-ref-41580n.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:46:36.449Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/4/34411-modele-parker-blanc-ref-41580n.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0008755/01-34411-modele-parker-blanc-ref-41580n.png",
+      "skipped": false
+    }
+  ]
+}

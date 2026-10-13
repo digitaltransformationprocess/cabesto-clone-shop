@@ -1,0 +1,69 @@
+{
+  "sku": "PE-0006116",
+  "url": "https://www.cabesto.com/fr/moulinet-sakura-lagoa-light-jigging-77.html",
+  "title": "MOULINET SAKURA LAGOA LIGHT JIGGING 77",
+  "brand": "SAKURA",
+  "category": "moulinets-casting-jig",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche",
+    "moulinets",
+    "moulinets-casting-jig"
+  ],
+  "categories": [
+    "peche",
+    "moulinets",
+    "moulinets-casting-jig"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pêche",
+    "Pêche",
+    "Moulinets",
+    "Moulinets",
+    "Moulinets Casting Jig",
+    "Moulinets Casting Jig",
+    "MOULINET SAKURA LAGOA LIGHT JIGGING 77"
+  ],
+  "description": "Achetez MOULINET SAKURA LAGOA LIGHT JIGGING 77 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SAPRG70017711",
+  "price": {
+    "amount": 279,
+    "currency": "EUR",
+    "formatted": "279 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0006116",
+      "sku": "PE-0006116",
+      "supplierRef": "SAPRG70017711",
+      "price": {
+        "amount": 279,
+        "currency": "EUR",
+        "formatted": "279 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/o/moulinet-sakura-lagoa-light-jigging-77_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:56:49.730Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/o/moulinet-sakura-lagoa-light-jigging-77_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0006116/01-moulinet-sakura-lagoa-light-jigging-77_01.jpg",
+      "skipped": true
+    }
+  ]
+}

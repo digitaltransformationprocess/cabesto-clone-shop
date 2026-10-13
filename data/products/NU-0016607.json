@@ -1,0 +1,65 @@
+{
+  "sku": "NU-0016607",
+  "url": "https://www.cabesto.com/fr/valve-wc-jabsco-jabsco.html",
+  "title": "VALVE WC - JABSCO",
+  "brand": "JABSCO",
+  "category": "accessoires-et-commandes-wc-marins",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "electromenager-marin",
+    "wc-marin-et-accessoires",
+    "accessoires-et-commandes-wc-marins"
+  ],
+  "categories": [
+    "nautisme",
+    "electromenager-marin",
+    "wc-marin-et-accessoires",
+    "accessoires-et-commandes-wc-marins"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "VALVE WC - JABSCO"
+  ],
+  "description": "Achetez VALVE WC - JABSCO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "JAB29092-1000",
+  "price": {
+    "amount": 15.99,
+    "currency": "EUR",
+    "formatted": "15.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0016607",
+      "sku": "NU-0016607",
+      "supplierRef": "JAB29092-1000",
+      "price": {
+        "amount": 15.99,
+        "currency": "EUR",
+        "formatted": "15.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/v/a/valve-wc-jabsco-jabsco_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:02:32.564Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/a/valve-wc-jabsco-jabsco_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0016607/01-valve-wc-jabsco-jabsco_01.jpg",
+      "skipped": false
+    }
+  ]
+}

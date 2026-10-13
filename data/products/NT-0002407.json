@@ -1,0 +1,73 @@
+{
+  "sku": "NT-0002407",
+  "url": "https://www.cabesto.com/fr/verticalite-blister-cordelette-7mm-x-4m-beal-nt-0002407.html",
+  "title": "Blister Cordelette 7mm x 4m - BEAL",
+  "brand": "BEAL",
+  "category": "Cordelettes de montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Cordes et sangles",
+    "Cordelettes de montagne"
+  ],
+  "categories": [
+    "Cordes et sangles",
+    "Cordelettes de montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Blister Cordelette 7mm x 4m - BEAL"
+  ],
+  "description": "Achetez Blister Cordelette 7mm x 4m - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BC07.4 unitée",
+  "price": {
+    "amount": 8.4,
+    "currency": "EUR",
+    "formatted": "8.4 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0002407",
+      "sku": "NT-0002407",
+      "supplierRef": "BC07.4 unitée",
+      "price": {
+        "amount": 8.4,
+        "currency": "EUR",
+        "formatted": "8.4 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/l/bla9_1-blister-cordelette-7-mm-x-4-m-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bla9_2-blister-cordelette-7-mm-x-4-m-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/bla9_1-blister-cordelette-7-mm-x-4-m-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:18:35.681Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bla9_1-blister-cordelette-7-mm-x-4-m-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0002407/01-bla9_1-blister-cordelette-7-mm-x-4-m-beal.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bla9_2-blister-cordelette-7-mm-x-4-m-beal.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0002407\\02-bla9_2-blister-cordelette-7-mm-x-4-m-beal.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0002407\\02-bla9_2-blister-cordelette-7-mm-x-4-m-beal.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/bla9_1-blister-cordelette-7-mm-x-4-m-beal_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0002407/03-bla9_1-blister-cordelette-7-mm-x-4-m-beal_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "sku": "AL-0004216",
+  "url": "https://www.cabesto.com/fr/rillette-courgette-chevre-miel-100gr.html",
+  "title": "RILLETTE COURGETTE CHEVRE MIEL 100GR",
+  "brand": "BERNARD MAROT",
+  "category": "saveur-nature-en-fete",
+  "description": "Préparation tartinable prête à l’emploi. Le produit est à consommer froid sur des toasts lors de l’apéritif.",
+  "price": {
+    "amount": 3.19,
+    "currency": "EUR",
+    "formatted": "3.19 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "In stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0004216",
+      "sku": "AL-0004216",
+      "price": {
+        "amount": 3.19,
+        "currency": "EUR",
+        "formatted": "3.19 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "In stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/6/0/6033189-6033189-picture_1-6033189_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6033189-6033189-picture_1-6033189_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6033189-6033189-picture_1-6033189_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0004216/01-6033189-6033189-picture_1-6033189_1.jpg",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:11:26.819Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/6/0/6033189-6033189-picture_1-6033189_1.jpg?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "3.19",
+    "currency": "EUR",
+    "availability": "in stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "saveur-nature-en-fete"
+  ],
+  "categories": [
+    "saveur-nature-en-fete"
+  ]
+}

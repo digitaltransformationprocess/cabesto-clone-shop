@@ -1,0 +1,61 @@
+{
+  "sku": "SU-0001832",
+  "url": "https://www.cabesto.com/fr/plongee-colle-neoprene-30-gr-pack-en-biblox-pl-15712.html",
+  "title": "Colle néoprène noire spéciale plongée 30 gr SEAC SUB",
+  "brand": "SEAC",
+  "category": "plongee",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Colle néoprène noire spéciale plongée 30 gr SEAC SUB"
+  ],
+  "description": "Colle néoprène noire spéciale plongée 30 gr SEAC SUBRéparez et collez votre combinaison en néoprène de plongée ou de chasse sous-marine avec la colle néoprène noire SEAC SUB, la colle qui reste souple après séchage et qui tient dans l'eau...Colle pour combinaison en néoprène conditionnée en tube de 30 grammes.Colle de \"contact\" : laisser sécher impérativement avant encollage. Application sur un néoprène propre (sans graisse ou solvant...) et sec.Colle de couleur noir pour s'adapter aux combinaisons de plongée et de chasse.Idéal pour effectuer une réparation sur le néoprène.Reste souple après le collage.Ne pas sniffer ou ingérer...Caractéristiques Colle néoprène noire spéciale plongée 30 gr SEAC SUBColle néoprène \"spéciale plongée\".Colle noire : reste souple après séchage, discrétion sur la combinaison.Laisser sécher avant de coller.Résistante à l'eau de mer, l'eau douce, le chlore.Made in Italy.Informations techniques :Conditionnement TubeCapacité 30 grammesFabrication Made in ItalyContenu du colis1 Tube de colle néoprène noire SEAC SUB capacité 30 gr.",
+  "supplierRef": "1110069000000A",
+  "price": {
+    "amount": 5.99,
+    "currency": "EUR",
+    "formatted": "5.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0001832",
+      "sku": "SU-0001832",
+      "supplierRef": "1110069000000A",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/1/1110069000_neoprene_glue_699_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:27:13.477Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/1/1110069000_neoprene_glue_699_00_800.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0001832/01-1110069000_neoprene_glue_699_00_800.jpg",
+      "skipped": true
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "1er-prix-club-association"
+  ],
+  "categories": [
+    "plongee",
+    "1er-prix-club-association"
+  ]
+}

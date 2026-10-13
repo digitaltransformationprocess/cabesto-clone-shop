@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0004395",
+  "url": "https://www.cabesto.com/fr/plongee-obus-plastique-dyneline-pl-13224.html",
+  "title": "Ogives vissées arbalète chasse sous-marine DYNEEMA IMERSION",
+  "brand": "DESIAGE",
+  "category": "Obus",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Ogives vissées arbalète chasse sous-marine DYNEEMA IMERSION"
+  ],
+  "description": "détaillée 4,99 € Quantité Ajouter au panier En stock Livraison estimée entre le 15/10/2026 et le 19/10/2026 Selon le mode de livraison choisi et les délais du transporteur. Disponible en magasin Vérifier la disponibilité dans votre magasin Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation.",
+  "supplierRef": "8004BC",
+  "price": {
+    "amount": 4.99,
+    "currency": "EUR",
+    "formatted": "4.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004395",
+      "sku": "SU-0004395",
+      "supplierRef": "8004BC",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/o/b/obus-dyneline_7d8mvdznwxu49gq9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-13224-pl-13224-picture_1-pl-13224-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:23.796Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/o/b/obus-dyneline_7d8mvdznwxu49gq9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004395/01-obus-dyneline_7d8mvdznwxu49gq9.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-13224-pl-13224-picture_1-pl-13224-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004395/02-pl-13224-pl-13224-picture_1-pl-13224-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Obus"
+  ],
+  "categories": [
+    "Obus"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "sku": "AL-0002600",
+  "url": "https://www.cabesto.com/fr/nectar-fruits-de-la-passion-1l.html",
+  "title": "NECTAR FRUITS DE LA PASSION 1L",
+  "brand": "MONT PELE",
+  "category": "Boissons et desserts des iles",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "boissons-italiennes"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "boissons-italiennes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "NECTAR FRUITS DE LA PASSION 1L"
+  ],
+  "description": "Achetez NECTAR FRUITS DE LA PASSION 1L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3278422003306.",
+  "price": {
+    "amount": 3.99,
+    "currency": "EUR",
+    "formatted": "3.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002600",
+      "sku": "AL-0002600",
+      "supplierRef": "3278422003306.",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/0/2021-mont-pele-1l-passion.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/0/3/0353347-0353347-picture_1-0353347_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:00:28.660Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2021-mont-pele-1l-passion.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002600/01-2021-mont-pele-1l-passion.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/0/3/0353347-0353347-picture_1-0353347_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002600/02-0353347-0353347-picture_1-0353347_1.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "sku": "PCNT-0011298",
+  "url": "https://www.cabesto.com/fr/verticalite-combinaison-canyoning-long-john-mulhacen-vd-femme-seland-gr08.html",
+  "title": "Combinaison Canyoning - Long John Mulhacen VD Femme - SELAND",
+  "brand": "SELAND",
+  "category": "combinaisons-neoprene-top",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "canyoning",
+    "neoprene-canyoning",
+    "combinaisons-neoprene-top"
+  ],
+  "categories": [
+    "montagne",
+    "canyoning",
+    "neoprene-canyoning",
+    "combinaisons-neoprene-top"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Combinaison Canyoning - Long John Mulhacen VD Femme - SELAND"
+  ],
+  "description": "Achetez Combinaison Canyoning - Long John Mulhacen VD Femme - SELAND chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 122,
+    "currency": "EUR",
+    "formatted": "122 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0011298",
+      "sku": "PCNT-0011298",
+      "supplierRef": null,
+      "price": {
+        "amount": 122,
+        "currency": "EUR",
+        "formatted": "122 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/r/gr08_1_j-long-john-mulhacen-vd-femme-seland_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/u/mulhacen_vd_peto_bk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seland_femme.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr08_1_j-long-john-mulhacen-vd-femme-seland.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr08_1_j-long-john-mulhacen-vd-femme-seland_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr08_1_j-long-john-mulhacen-vd-femme-seland_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr08_1_j-long-john-mulhacen-vd-femme-seland_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/r/gr08_1_j-long-john-mulhacen-vd-femme-seland_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:27:02.080Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr08_1_j-long-john-mulhacen-vd-femme-seland_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0011298/01-gr08_1_j-long-john-mulhacen-vd-femme-seland_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/u/mulhacen_vd_peto_bk.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0011298/02-mulhacen_vd_peto_bk.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seland_femme.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0011298/03-seland_femme.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr08_1_j-long-john-mulhacen-vd-femme-seland.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0011298/04-gr08_1_j-long-john-mulhacen-vd-femme-seland.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr08_1_j-long-john-mulhacen-vd-femme-seland_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0011298/05-gr08_1_j-long-john-mulhacen-vd-femme-seland_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr08_1_j-long-john-mulhacen-vd-femme-seland_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0011298/06-gr08_1_j-long-john-mulhacen-vd-femme-seland_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr08_1_j-long-john-mulhacen-vd-femme-seland_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0011298/07-gr08_1_j-long-john-mulhacen-vd-femme-seland_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/r/gr08_1_j-long-john-mulhacen-vd-femme-seland_6.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0011298/08-gr08_1_j-long-john-mulhacen-vd-femme-seland_6.jpg",
+      "skipped": false
+    }
+  ]
+}

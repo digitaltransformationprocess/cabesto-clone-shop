@@ -1,0 +1,62 @@
+{
+  "sku": "AL-0004228",
+  "url": "https://www.cabesto.com/fr/rillette-saumon-creme-citron-vert-100g.html",
+  "title": "TARTINE SAUMON CREME & CITRON VERT 100G",
+  "brand": "BERNARD MAROT",
+  "category": "saveur-nature-en-fete",
+  "description": "Préparation tartinable prête à l’emploi. Le produit est à consommer froid sur des toasts lors de l'appéritif. Il est conditionné en verrine de 100 g stérile pour la vente au détail en rayon libre service conserve.",
+  "price": {
+    "amount": 3.99,
+    "currency": "EUR",
+    "formatted": "3.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "In stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0004228",
+      "sku": "AL-0004228",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "In stock"
+      },
+      "images": [
+        {
+          "url": "https://www.cabesto.com/media/catalog/product/6/0/6033182-6033182-picture_1-6033182_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width="
+        }
+      ]
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6033182-6033182-picture_1-6033182_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6033182-6033182-picture_1-6033182_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0004228/01-6033182-6033182-picture_1-6033182_1.jpg",
+      "skipped": false
+    }
+  ],
+  "scrapedAt": "2026-10-13T10:14:13.680Z",
+  "metadata": {
+    "ogImage": "https://www.cabesto.com/media/catalog/product/6/0/6033182-6033182-picture_1-6033182_1.jpg?width=800&height=&canvas=800,&optimize=medium&bg-color=255,255,255&fit=bounds",
+    "priceAmount": "3.99",
+    "currency": "EUR",
+    "availability": "in stock"
+  },
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "saveur-nature-en-fete"
+  ],
+  "categories": [
+    "saveur-nature-en-fete"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0002582",
+  "url": "https://www.cabesto.com/fr/plongee-rallonge-flexible-de-narghile-17-m-avec-2-etage-pl-4929.html",
+  "title": "Rallonge de flexible pour narguilé de plongée 17 m avec boitier 2ème étage NARDI",
+  "brand": "NARDI",
+  "category": "accessoires-pour-compresseur-plongee-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Rallonge de flexible pour narguilé de plongée 17 m avec boitier 2ème étage NARDI"
+  ],
+  "description": "Flexible de 17 mètres avec 2° étage utilisable soit en rechange, soit pour adapter un 2° flexible sur un narguilé, si celui-ci le permet.Attention, sur les modèles Esprit, le débit n'est pas suffisant pour 2 plongeurs à 15 mètres en restant conforme aux normes \"CE\".",
+  "supplierRef": "AC036-111",
+  "price": {
+    "amount": 349,
+    "currency": "EUR",
+    "formatted": "349 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0002582",
+      "sku": "SU-0002582",
+      "supplierRef": "AC036-111",
+      "price": {
+        "amount": 349,
+        "currency": "EUR",
+        "formatted": "349 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-4929-pl-4929-picture_1-pl-4929-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:23:52.673Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-4929-pl-4929-picture_1-pl-4929-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0002582/01-pl-4929-pl-4929-picture_1-pl-4929-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "compresseurs-et-narguiles",
+    "accessoires-pour-compresseur-plongee-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "compresseurs-et-narguiles",
+    "accessoires-pour-compresseur-plongee-sous-marine"
+  ]
+}

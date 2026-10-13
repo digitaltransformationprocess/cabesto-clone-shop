@@ -1,0 +1,63 @@
+{
+  "sku": "NT-0000188",
+  "url": "https://www.cabesto.com/fr/200-m-spelenium-9-mm-nt-0000188.html",
+  "title": "200 m Spélénium 9 mm",
+  "brand": "BEAL",
+  "category": "les-produits-d-exception",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "les-produits-d-exception"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "les-produits-d-exception"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "200 m Spélénium 9 mm"
+  ],
+  "description": "Achetez 200 m Spélénium 9 mm chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BCSP09.200",
+  "price": {
+    "amount": 360,
+    "currency": "EUR",
+    "formatted": "360 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0000188",
+      "sku": "NT-0000188",
+      "supplierRef": "BCSP09.200",
+      "price": {
+        "amount": 360,
+        "currency": "EUR",
+        "formatted": "360 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/c/ac44.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:36:58.734Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/c/ac44.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000188/01-ac44.jpg",
+      "skipped": false
+    }
+  ]
+}

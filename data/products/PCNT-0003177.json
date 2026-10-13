@@ -1,0 +1,109 @@
+{
+  "sku": "PCNT-0003177",
+  "url": "https://www.cabesto.com/fr/verticalite-harnais-escalade-homme-baudrier-momentum-black-diamond-bde3.html",
+  "title": "Harnais baudrier d'escalade homme MOMENTUM BLACK DIAMOND",
+  "brand": "BLACK DIAMOND",
+  "category": "Harnais cuisses réglables",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Escalade",
+    "Harnais cuisses réglables"
+  ],
+  "categories": [
+    "Escalade",
+    "Harnais cuisses réglables"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Harnais baudrier d'escalade homme MOMENTUM BLACK DIAMOND"
+  ],
+  "description": "Léger, polyvalent et confortable, le harnais MOMENTUM BLACK DIAMOND est à l'aise autant en salle d'escalade qu'en couenne ou grandes voies.",
+  "supplierRef": null,
+  "price": {
+    "amount": 41.93,
+    "currency": "EUR",
+    "formatted": "41.93 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0003177",
+      "sku": "PCNT-0003177",
+      "supplierRef": null,
+      "price": {
+        "amount": 41.93,
+        "currency": "EUR",
+        "formatted": "41.93 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/d/bde3_1_dg-harnais-escalade-homme-momentum-black-diamond_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/d/bdc6_1_kt-assureur-descendeur-atc-guide-black-diamond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/d/bde7_1_cg-degaine-hotwire-quickdraw-16cm-black-diamond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/d/bde6_1_kw-casque-homme-vision-black-diamond_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/8/8/8807b18a21aeab1287597fb49fa8f2ae71c46273__99766.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/9/1/91053ad990290763f62ac587244e1381a638c04f__49258.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/o/momentunt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/3/2/327a24cc2959d113f54aaa17f33d9228e43efa6c__03227.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/d/bde3_1_dg-harnais-escalade-homme-momentum-black-diamond_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:34:17.138Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bde3_1_dg-harnais-escalade-homme-momentum-black-diamond_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003177/01-bde3_1_dg-harnais-escalade-homme-momentum-black-diamond_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bdc6_1_kt-assureur-descendeur-atc-guide-black-diamond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003177/02-bdc6_1_kt-assureur-descendeur-atc-guide-black-diamond_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bde7_1_cg-degaine-hotwire-quickdraw-16cm-black-diamond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003177/03-bde7_1_cg-degaine-hotwire-quickdraw-16cm-black-diamond_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bde6_1_kw-casque-homme-vision-black-diamond_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003177/04-bde6_1_kw-casque-homme-vision-black-diamond_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/8/8/8807b18a21aeab1287597fb49fa8f2ae71c46273__99766.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003177/05-8807b18a21aeab1287597fb49fa8f2ae71c46273__99766.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/9/1/91053ad990290763f62ac587244e1381a638c04f__49258.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003177/06-91053ad990290763f62ac587244e1381a638c04f__49258.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/o/momentunt.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003177/07-momentunt.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/3/2/327a24cc2959d113f54aaa17f33d9228e43efa6c__03227.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003177/08-327a24cc2959d113f54aaa17f33d9228e43efa6c__03227.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bde3_1_dg-harnais-escalade-homme-momentum-black-diamond_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003177/09-bde3_1_dg-harnais-escalade-homme-momentum-black-diamond_2.jpg",
+      "skipped": false
+    }
+  ]
+}

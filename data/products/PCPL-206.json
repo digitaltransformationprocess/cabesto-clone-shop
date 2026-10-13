@@ -1,0 +1,101 @@
+{
+  "sku": "PCPL-206",
+  "url": "https://www.cabesto.com/fr/plongee-chaussons-hawaii-3-mm-pcpl-206.html",
+  "title": "Chaussons chasse sous-marine HAWAII refendu 3 mm IMERSION",
+  "brand": "IMERSION",
+  "category": "chaussons",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussons chasse sous-marine HAWAII refendu 3 mm IMERSION"
+  ],
+  "description": "Chaussons néoprène refendu HAWAII 3 mm IMERSION pour la chasse sous-marineChassez et faites de l'apnée avec les chaussons en néoprène refendu HAWAII 3 mm IMERSION confortables et antidérapants, idéals pour protéger vos pieds avec toutes vos palmes de chasse.Les chaussons néoprène refendu HAWAII 3 mm IMERSION font partie des accessoires en néoprène indispensables pour la chasse sous-marine et toutes vos sorties subaquatiques.Conçus pour être portés avec tous types de palmes, ils améliorent nettement le confort en limitant les frottements et les irritations au niveau du pied et de la cheville.Leur construction en matériel en néoprène de 3 mm offre une bonne isolation thermique, tout en conservant une grande souplesse pour ne pas gêner le palmage.La face extérieure en nylon assure une excellente résistance à l’abrasion, tandis que l’intérieur refendu (sauf la semelle) permet un ajustement proche de la peau, limitant les entrées d’eau et optimisant la chaleur.La semelle, doublée nylon à l’intérieur et protégée par un revêtement Supratex à l’extérieur, est spécialement pensée pour être antidérapante, afin de réduire les risques de glissade sur le bateau, les rochers ou le bord de piscine.Ces chaussons en néoprène sont ainsi un véritable atout pour sécuriser vos déplacements tout en préservant la durée de vie de vos palmes.Que vous soyez chasseur sous-marin, apnéiste ou simple passionné d’activités subaquatiques, ces chaussons HAWAII 3 mm complètent parfaitement votre matériel en néoprène : combinaison, gants, moufles ou cagoule.Faciles à enfiler, ils se rincent simplement à l’eau claire après chaque sortie et sèchent à l’air libre, à l’ombre, pour conserver toute leur souplesse. Un choix fiable et durable pour ceux qui recherchent des accessoires en néoprène efficaces, confortables et pensés pour un usage intensif en milieu marin.Entretien :Après utilisation rincer à l’eau claire et laisser sécher à l’air libre.Eviter de laisser sécher au soleil afin de préserver la durée de vie du néoprène.Ranger dans un endroit sec et aéré. Caractéristiques Chaussons néoprène refendu HAWAII 3 mm IMERSION pour la chasse sous-marineChaussons en néoprène 3 mm compatibles avec tous types de palmesSemelle antidérapante Supratex pour une meilleure accrocheIntérieur refendu (sauf semelle) pour un meilleur maintien et une bonne isolationNylon extérieur résistant à l’abrasion pour une longue durée de vieAccessoire en néoprène idéal pour la chasse sous-marine et l’apnéeInformations techniques :Type d'accessoire Chausson de chasse sous-marine & d'apnéeComposition Extérieur nylon, intérieur refendu (sauf semelle)Tissu extérieur Nylon/jerseyEpaisseur 3 mmSemelle Doublée nylon intérieur, protection Supratex antidérapanteType d'eau Tempérées à chaudesCouleurs NoirTailles disponibles S, M, L, XLGarantie 2 ansContenu du colis1 x Paire de chaussons néoprène refendu HAWAII 3 mm IMERSION, pointure à choisir.",
+  "supplierRef": null,
+  "price": {
+    "amount": 19.99,
+    "currency": "EUR",
+    "formatted": "19.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-206",
+      "sku": "PCPL-206",
+      "supplierRef": null,
+      "price": {
+        "amount": 19.99,
+        "currency": "EUR",
+        "formatted": "19.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-206-pl-2140-picture_1-pcpl-206-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/h/chaussons-tropic-2-mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/seriole.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-2142-pl-2142-picture_1-pcpl-206-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-2141-pl-2141-picture_1-pcpl-206-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-2140-pl-2140-picture_1-pcpl-206-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-2143-pl-2143-picture_1-pcpl-206-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:28:38.314Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-206-pl-2140-picture_1-pcpl-206-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-206/01-pcpl-206-pl-2140-picture_1-pcpl-206-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/h/chaussons-tropic-2-mm.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-206/02-chaussons-tropic-2-mm.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seriole.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-206/03-seriole.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-2142-pl-2142-picture_1-pcpl-206-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-206/04-pl-2142-pl-2142-picture_1-pcpl-206-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-2141-pl-2141-picture_1-pcpl-206-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-206/05-pl-2141-pl-2141-picture_1-pcpl-206-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-2140-pl-2140-picture_1-pcpl-206-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-206/06-pl-2140-pl-2140-picture_1-pcpl-206-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-2143-pl-2143-picture_1-pcpl-206-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-206/07-pl-2143-pl-2143-picture_1-pcpl-206-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-neoprene-plongee",
+    "chaussons"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "accessoires-neoprene-plongee",
+    "chaussons"
+  ]
+}

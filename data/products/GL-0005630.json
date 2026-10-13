@@ -1,0 +1,61 @@
+{
+  "sku": "GL-0005630",
+  "url": "https://www.cabesto.com/fr/flamme-orange-2021.html",
+  "title": "FLAMME ORANGE POUR WAKE. BOUÉE TRACTÉE. SKIS JOBE",
+  "brand": "JOBE",
+  "category": "Idées cadeaux Glisse",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Cordages & accessoires",
+    "Idées cadeaux Glisse"
+  ],
+  "categories": [
+    "Cordages & accessoires",
+    "Idées cadeaux Glisse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FLAMME ORANGE POUR WAKE. BOUÉE TRACTÉE. SKIS JOBE"
+  ],
+  "description": "Achetez FLAMME ORANGE POUR WAKE. BOUÉE TRACTÉE. SKIS JOBE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "210305001-PCS.",
+  "price": {
+    "amount": 14.99,
+    "currency": "EUR",
+    "formatted": "14.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "GL-0005630",
+      "sku": "GL-0005630",
+      "supplierRef": "210305001-PCS.",
+      "price": {
+        "amount": 14.99,
+        "currency": "EUR",
+        "formatted": "14.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/5/657.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:06:54.264Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/5/657.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/GL-0005630/01-657.jpg",
+      "skipped": true
+    }
+  ]
+}

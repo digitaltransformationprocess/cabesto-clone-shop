@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0009396",
+  "url": "https://www.cabesto.com/fr/thermometre-flottant-piscine-gre.html",
+  "title": "THERMOMETRE FLOTTANT",
+  "brand": "KOKIDO",
+  "category": "Thermomètre",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Accessoires",
+    "Thermomètre"
+  ],
+  "categories": [
+    "Accessoires",
+    "Thermomètre"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "THERMOMETRE FLOTTANT"
+  ],
+  "description": "Achetez THERMOMETRE FLOTTANT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "TM04CB24",
+  "price": {
+    "amount": 3.1,
+    "currency": "EUR",
+    "formatted": "3.1 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0009396",
+      "sku": "PI-0009396",
+      "supplierRef": "TM04CB24",
+      "price": {
+        "amount": 3.1,
+        "currency": "EUR",
+        "formatted": "3.1 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/import/rkkD42wNPY5K/550x364.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:47:54.474Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/rkkD42wNPY5K/550x364.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0009396/01-550x364.jpg",
+      "skipped": false
+    }
+  ]
+}

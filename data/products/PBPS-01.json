@@ -1,0 +1,65 @@
+{
+  "sku": "PBPS-01",
+  "url": "https://www.cabesto.com/fr/nautisme-pack-combine-helix-5g2-di-sonde-ta-carte-navionics-france-entiere-26g-pbps-01.html",
+  "title": "Pack Combiné GPS / SONDEUR HELIX 5G2 DI + sonde TA + Carte Navionics France Entiere 26G",
+  "brand": "HUMMINBIRD",
+  "category": "Combiné GPS traceur et sondeur",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Nautisme",
+    "Electronique",
+    "Sondeurs / Combinés GPS-Sondeurs",
+    "Combiné GPS traceur et sondeur"
+  ],
+  "categories": [
+    "Nautisme",
+    "Electronique",
+    "Sondeurs / Combinés GPS-Sondeurs",
+    "Combiné GPS traceur et sondeur"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pack Combiné GPS / SONDEUR HELIX 5G2 DI + sonde TA + Carte Navionics France Entiere 26G"
+  ],
+  "description": "Combiné HELIX 5G2",
+  "supplierRef": "H5G2-CDITA-PACK26",
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PBPS-01",
+      "sku": "PBPS-01",
+      "supplierRef": "H5G2-CDITA-PACK26",
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/0/1093507_primary.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:23:29.926Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/0/1093507_primary.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PBPS-01/01-1093507_primary.jpg",
+      "skipped": false
+    }
+  ]
+}

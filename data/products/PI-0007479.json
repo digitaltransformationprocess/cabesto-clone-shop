@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0007479",
+  "url": "https://www.cabesto.com/fr/piscine-algicide-3-fonctions-waterblue-50l-pi-1048.html",
+  "title": "KIT ANALYSEUR D'EAU SPECIAL ELECTROLYSE AQUACHEK",
+  "brand": "AQUACHEK",
+  "category": "Bandelette d'analyse",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Matériel d'analyse d'eau",
+    "Bandelette d'analyse"
+  ],
+  "categories": [
+    "Matériel d'analyse d'eau",
+    "Bandelette d'analyse"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "KIT ANALYSEUR D'EAU SPECIAL ELECTROLYSE AQUACHEK"
+  ],
+  "description": "Achetez KIT ANALYSEUR D'EAU SPECIAL ELECTROLYSE AQUACHEK chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "542228AEU",
+  "price": {
+    "amount": 15.9,
+    "currency": "EUR",
+    "formatted": "15.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0007479",
+      "sku": "PI-0007479",
+      "supplierRef": "542228AEU",
+      "price": {
+        "amount": 15.9,
+        "currency": "EUR",
+        "formatted": "15.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/i/kit-electrolyse-aquachek_3j1o6re3lxstp8xg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:39:11.882Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/i/kit-electrolyse-aquachek_3j1o6re3lxstp8xg.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007479/01-kit-electrolyse-aquachek_3j1o6re3lxstp8xg.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "sku": "PCPL-286",
+  "url": "https://www.cabesto.com/fr/plongee-tuba-corsica-cressi-sub-pcpl-286.html",
+  "title": "TUBA CORSICA CRESSI SUB",
+  "brand": "CRESSI",
+  "category": "leurres-souples",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "TUBA CORSICA CRESSI SUB"
+  ],
+  "description": "TUBA CORSICA CRESSI SUBLe tube du Corsica de Cressi est caractérisé par l'emploi de polymères spéciaux, de conception nouvelle, à effet mémoire élevé pour permettre au tuba de récupérer instantanément la position la plus adaptée à l'apnéiste.L'embout, réalisé en silicone hypoallergénique, a été fabriqué dans une forme ergonomique spéciale, capable de réduire l'effet de gêne même après une utilisation prolongée.Le tuba pliable Corsica Cressi est spécifiquement conçu pour le snorkeling, l'apnée profonde et la chasse sous-marine.L'embout en silicone hypoallergénique est confortable pendant de longues durées dans l'eau.Ce tuba a été fabriqué conformément aux exigences du règlement CE 2016/425 suivant la norme NF EN 1972.",
+  "supplierRef": null,
+  "price": {
+    "amount": 13.99,
+    "currency": "EUR",
+    "formatted": "13.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-286",
+      "sku": "PCPL-286",
+      "supplierRef": null,
+      "price": {
+        "amount": 13.99,
+        "currency": "EUR",
+        "formatted": "13.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/r/cressi-tube-plongee-corsica1_-_copie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/r/cressi-tube-plongee-corsica.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-286-pl-2644-picture_1-pcpl-286-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/r/cressi-tube-plongee-corsica2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/r/cressi-tube-plongee-corsica1_-_copie_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:32.607Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/r/cressi-tube-plongee-corsica1_-_copie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-286/01-cressi-tube-plongee-corsica1_-_copie.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/r/cressi-tube-plongee-corsica.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-286/02-cressi-tube-plongee-corsica.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-286-pl-2644-picture_1-pcpl-286-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-286/03-pcpl-286-pl-2644-picture_1-pcpl-286-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/r/cressi-tube-plongee-corsica2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-286/04-cressi-tube-plongee-corsica2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/r/cressi-tube-plongee-corsica1_-_copie_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-286/05-cressi-tube-plongee-corsica1_-_copie_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche",
+    "leurres",
+    "leurres-souples"
+  ],
+  "categories": [
+    "peche",
+    "leurres",
+    "leurres-souples"
+  ]
+}

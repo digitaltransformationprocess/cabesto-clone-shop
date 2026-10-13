@@ -1,0 +1,99 @@
+{
+  "sku": "PCSU-0010858",
+  "url": "https://www.cabesto.com/fr/cagoule-de-plongee-x-trem-femme-6-5-mm-beuchat-pcsu-0010858.html",
+  "title": "Cagoule de plongée X-TREM Femme 6.5 mm BEUCHAT",
+  "brand": "BEUCHAT",
+  "category": "Semi-Etanches",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Accessoires Néoprène plongée",
+    "Cagoules",
+    "Semi-Etanches"
+  ],
+  "categories": [
+    "Accessoires Néoprène plongée",
+    "Cagoules",
+    "Semi-Etanches"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cagoule de plongée X-TREM Femme 6.5 mm BEUCHAT"
+  ],
+  "description": "Protégez votre tête du froid et équipez votre semi étanche X-TREM avec la cagoule X-TREM pour femme, épaisseur 6.5 mm, souple et facile à mettre et à enlever.",
+  "supplierRef": null,
+  "price": {
+    "amount": 55,
+    "currency": "EUR",
+    "formatted": "55 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0010858",
+      "sku": "PCSU-0010858",
+      "supplierRef": null,
+      "price": {
+        "amount": 55,
+        "currency": "EUR",
+        "formatted": "55 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/a/cagx_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/x/c/xcare_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_-_copie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2025_04_16_12_32_33_semi_dry_x_trem_homme_beuchat_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cagx_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cagx_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/cagx_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:39:07.235Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cagx_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010858/01-cagx_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/x/c/xcare_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010858/02-xcare_1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/semi-dry-x-trem-femme_-_copie.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010858/03-semi-dry-x-trem-femme_-_copie.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2025_04_16_12_32_33_semi_dry_x_trem_homme_beuchat_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010858/04-2025_04_16_12_32_33_semi_dry_x_trem_homme_beuchat_2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cagx_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010858/05-cagx_3.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cagx_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010858/06-cagx_2.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/cagx_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0010858/07-cagx_4.jpg",
+      "skipped": true
+    }
+  ]
+}

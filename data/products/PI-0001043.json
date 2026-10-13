@@ -1,0 +1,85 @@
+{
+  "sku": "PI-0001043",
+  "url": "https://www.cabesto.com/fr/piscine-bois-tropic-4-14x120-procopi.html",
+  "title": "PISCINE BOIS TROPIC 414 - 4.14xHt120 - Octogonale. Pin certifié PEFC. installation hors sol avec échelle et escalier",
+  "brand": "BWT",
+  "category": "Piscine octogonale",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Piscine bois",
+    "Piscine octogonale"
+  ],
+  "categories": [
+    "Piscine bois",
+    "Piscine octogonale"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "PISCINE BOIS TROPIC 414 - 4.14xHt120 - Octogonale. Pin certifié PEFC. installation hors sol avec échelle et escalier"
+  ],
+  "description": "Achetez PISCINE BOIS TROPIC 414 - 4.14xHt120 - Octogonale. Pin certifié PEFC. installation hors sol avec échelle et escalier chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "27111205",
+  "price": {
+    "amount": 3943,
+    "currency": "EUR",
+    "formatted": "3943 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0001043",
+      "sku": "PI-0001043",
+      "supplierRef": "27111205",
+      "price": {
+        "amount": 3943,
+        "currency": "EUR",
+        "formatted": "3943 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/T/r/Tropic-Octo-414_800x800.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/B/W/BWT_Tropic_Octo_Main3_1920x1920.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/B/W/BWT_Tropic_Octo_main2_1920x1920.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/B/W/BWT_Tropic_Octo_Pumpe1_1920x1920.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/B/W/BWT_Tropic_Octo_Filter_1920x1920.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:49:46.879Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/T/r/Tropic-Octo-414_800x800.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001043/01-Tropic-Octo-414_800x800.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/B/W/BWT_Tropic_Octo_Main3_1920x1920.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001043/02-BWT_Tropic_Octo_Main3_1920x1920.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/B/W/BWT_Tropic_Octo_main2_1920x1920.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001043/03-BWT_Tropic_Octo_main2_1920x1920.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/B/W/BWT_Tropic_Octo_Pumpe1_1920x1920.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001043/04-BWT_Tropic_Octo_Pumpe1_1920x1920.png",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/B/W/BWT_Tropic_Octo_Filter_1920x1920.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0001043/05-BWT_Tropic_Octo_Filter_1920x1920.jpg",
+      "skipped": false
+    }
+  ]
+}

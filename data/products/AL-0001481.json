@@ -1,0 +1,61 @@
+{
+  "sku": "AL-0001481",
+  "url": "https://www.cabesto.com/fr/eau-gazeuse-didier-nature-50-cl.html",
+  "title": "EAU GAZEUSE DIDIER NATURE 50 CL DIDIER",
+  "brand": "DIDIER",
+  "category": "Eaux",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "Boissons et desserts des iles",
+    "Eaux"
+  ],
+  "categories": [
+    "Boissons et desserts des iles",
+    "Eaux"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "EAU GAZEUSE DIDIER NATURE 50 CL DIDIER"
+  ],
+  "description": "Achetez EAU GAZEUSE DIDIER NATURE 50 CL DIDIER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3329120001061.",
+  "price": {
+    "amount": 1.19,
+    "currency": "EUR",
+    "formatted": "1.19 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001481",
+      "sku": "AL-0001481",
+      "supplierRef": "3329120001061.",
+      "price": {
+        "amount": 1.19,
+        "currency": "EUR",
+        "formatted": "1.19 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/e/a/eau_minerale_didier_50_cl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:00:46.411Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/e/a/eau_minerale_didier_50_cl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001481/01-eau_minerale_didier_50_cl.jpg",
+      "skipped": true
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0002848",
+  "url": "https://www.cabesto.com/fr/brosse-a-corde-nt-0002848.html",
+  "title": "Brosse à corde",
+  "brand": "BEAL",
+  "category": "accessoires",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "accessoires"
+  ],
+  "categories": [
+    "textile",
+    "accessoires"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Brosse à corde"
+  ],
+  "description": "Achetez Brosse à corde chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "BRB",
+  "price": {
+    "amount": 18.9,
+    "currency": "EUR",
+    "formatted": "18.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0002848",
+      "sku": "NT-0002848",
+      "supplierRef": "BRB",
+      "price": {
+        "amount": 18.9,
+        "currency": "EUR",
+        "formatted": "18.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/0/1018_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/0/1018_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:31.931Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/0/1018_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0002848/01-1018_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/0/1018_2_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0002848/02-1018_2_1.jpg",
+      "skipped": false
+    }
+  ]
+}

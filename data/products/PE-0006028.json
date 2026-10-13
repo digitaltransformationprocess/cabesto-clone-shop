@@ -1,0 +1,65 @@
+{
+  "sku": "PE-0006028",
+  "url": "https://www.cabesto.com/fr/kit-a-ligaturer-pafex-fil-vernis.html",
+  "title": "KIT À LIGATURER PAFEX FIL + VERNIS",
+  "brand": "PAFEX",
+  "category": "bricolage-du-pecheur",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche",
+    "equipements",
+    "reparation-entretien",
+    "bricolage-du-pecheur"
+  ],
+  "categories": [
+    "peche",
+    "equipements",
+    "reparation-entretien",
+    "bricolage-du-pecheur"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "KIT À LIGATURER PAFEX FIL + VERNIS"
+  ],
+  "description": "Achetez KIT À LIGATURER PAFEX FIL + VERNIS chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "KIT-VL-LC",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0006028",
+      "sku": "PE-0006028",
+      "supplierRef": "KIT-VL-LC",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/i/kit-a-ligaturer-pafex-fil-vernis_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:56:32.206Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/i/kit-a-ligaturer-pafex-fil-vernis_01.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0006028/01-kit-a-ligaturer-pafex-fil-vernis_01.jpg",
+      "skipped": true
+    }
+  ]
+}

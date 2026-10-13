@@ -1,0 +1,67 @@
+{
+  "sku": "NT-0000165",
+  "url": "https://www.cabesto.com/fr/verticalite-20-amarrages-coeur-bolt-inox-12-mm-petzl-nt-0000165.html",
+  "title": "20 Amarrages Coeur Bolt Inox 12 mm - PETZL",
+  "brand": "PETZL",
+  "category": "Plaquettes, vis 10 et 12 mm",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Matériel métallique",
+    "Plaquettes, vis 10 et 12 mm"
+  ],
+  "categories": [
+    "Matériel métallique",
+    "Plaquettes, vis 10 et 12 mm"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "20 Amarrages Coeur Bolt Inox 12 mm - PETZL"
+  ],
+  "description": "Achetez 20 Amarrages Coeur Bolt Inox 12 mm - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "P36BS 12 boite 20",
+  "price": {
+    "amount": 164.95,
+    "currency": "EUR",
+    "formatted": "164.95 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0000165",
+      "sku": "NT-0000165",
+      "supplierRef": "P36BS 12 boite 20",
+      "price": {
+        "amount": 164.95,
+        "currency": "EUR",
+        "formatted": "164.95 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb4_2-20-amarrages-coeur-bolt-inox-12-mm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/z/pzb4_2-20-amarrages-coeur-bolt-inox-12-mm-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:19:04.014Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb4_2-20-amarrages-coeur-bolt-inox-12-mm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000165/01-pzb4_2-20-amarrages-coeur-bolt-inox-12-mm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/z/pzb4_2-20-amarrages-coeur-bolt-inox-12-mm-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0000165/02-pzb4_2-20-amarrages-coeur-bolt-inox-12-mm-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

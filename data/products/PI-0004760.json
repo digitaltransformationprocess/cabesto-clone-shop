@@ -1,0 +1,65 @@
+{
+  "sku": "PI-0004760",
+  "url": "https://www.cabesto.com/fr/piscine-aquabrome-oxidizer-bayrol-ex-regenerator-pi-160.html",
+  "title": "AQUABROME OXIDIZER BAYROL (ex REGENERATOR)",
+  "brand": "BAYROL",
+  "category": "Black November - Piscine",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Brome bayrol",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine"
+  ],
+  "categories": [
+    "Brome bayrol",
+    "Destockage Piscine",
+    "Black November - Piscine",
+    "Ventes privées Piscine"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "AQUABROME OXIDIZER BAYROL (ex REGENERATOR)"
+  ],
+  "description": "Achetez AQUABROME OXIDIZER BAYROL (ex REGENERATOR) chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "4132939",
+  "price": {
+    "amount": 68,
+    "currency": "EUR",
+    "formatted": "68 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0004760",
+      "sku": "PI-0004760",
+      "supplierRef": "4132939",
+      "price": {
+        "amount": 68,
+        "currency": "EUR",
+        "formatted": "68 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/c/activateur-de-brome-aquabrome-oxidizer-5-kg-bayrol.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:33:22.400Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/c/activateur-de-brome-aquabrome-oxidizer-5-kg-bayrol.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0004760/01-activateur-de-brome-aquabrome-oxidizer-5-kg-bayrol.jpg",
+      "skipped": false
+    }
+  ]
+}

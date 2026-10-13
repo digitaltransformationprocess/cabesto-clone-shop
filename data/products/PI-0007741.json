@@ -1,0 +1,87 @@
+{
+  "sku": "PI-0007741",
+  "url": "https://www.cabesto.com/fr/piscine-super-pump-vitesse-variable-1-5-cv-vstd-pi-1401.html",
+  "title": "Super Pump vitesse variable 1.5 CV VSTD",
+  "brand": "HAYWARD",
+  "category": "Pompe SuperPump",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Pompe piscine",
+    "Pompe Hayward",
+    "Pompe SuperPump"
+  ],
+  "categories": [
+    "Pompe piscine",
+    "Pompe Hayward",
+    "Pompe SuperPump"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Super Pump vitesse variable 1.5 CV VSTD"
+  ],
+  "description": "Achetez Super Pump vitesse variable 1.5 CV VSTD chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SP2616VSTD",
+  "price": {
+    "amount": 999,
+    "currency": "EUR",
+    "formatted": "999 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0007741",
+      "sku": "PI-0007741",
+      "supplierRef": "SP2616VSTD",
+      "price": {
+        "amount": 999,
+        "currency": "EUR",
+        "formatted": "999 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/o/pompe.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_30_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/super-pump-1-5hp-vstd-piscine-center-1558432011.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/super-pump-1-5hp-vstd-piscine-center-1558430068.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/u/super-pump-hayward-3-4-cv-mono-11-m-h-1-1-2-piscine-center-1517320542.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:40:14.008Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/o/pompe.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007741/01-pompe.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_30_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007741/02-hqdefault_30_10.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/super-pump-1-5hp-vstd-piscine-center-1558432011.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007741/03-super-pump-1-5hp-vstd-piscine-center-1558432011.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/super-pump-1-5hp-vstd-piscine-center-1558430068.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007741/04-super-pump-1-5hp-vstd-piscine-center-1558430068.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/u/super-pump-hayward-3-4-cv-mono-11-m-h-1-1-2-piscine-center-1517320542.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0007741/05-super-pump-hayward-3-4-cv-mono-11-m-h-1-1-2-piscine-center-1517320542.jpg",
+      "skipped": false
+    }
+  ]
+}

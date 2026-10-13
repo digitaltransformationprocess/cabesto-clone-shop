@@ -1,0 +1,65 @@
+{
+  "sku": "PE-0001889",
+  "url": "https://www.cabesto.com/fr/attractant-peche-ebishaki.html",
+  "title": "ATTRACTANT MARUKYU EBISHAKI",
+  "brand": "MARUKYU",
+  "category": "Attractants",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche",
+    "appats-attractants-amorcage",
+    "eau-douce",
+    "attractants"
+  ],
+  "categories": [
+    "peche",
+    "appats-attractants-amorcage",
+    "eau-douce",
+    "attractants"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ATTRACTANT MARUKYU EBISHAKI"
+  ],
+  "description": "Achetez ATTRACTANT MARUKYU EBISHAKI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "M-508",
+  "price": {
+    "amount": 12.99,
+    "currency": "EUR",
+    "formatted": "12.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0001889",
+      "sku": "PE-0001889",
+      "supplierRef": "M-508",
+      "price": {
+        "amount": 12.99,
+        "currency": "EUR",
+        "formatted": "12.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/-/m-508x1200_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:24:46.206Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/-/m-508x1200_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0001889/01-m-508x1200_1.jpg",
+      "skipped": false
+    }
+  ]
+}

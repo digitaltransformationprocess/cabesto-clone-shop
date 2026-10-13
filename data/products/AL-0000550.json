@@ -1,0 +1,71 @@
+{
+  "sku": "AL-0000550",
+  "url": "https://www.cabesto.com/fr/blanc-manger-coco-70g.html",
+  "title": "BLANC MANGER COCO 70G",
+  "brand": "CHALEUR CREOLE",
+  "category": "Boissons et desserts des iles",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "boissons-italiennes"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "epicerie-italienne",
+    "boissons-italiennes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "BLANC MANGER COCO 70G"
+  ],
+  "description": "Achetez BLANC MANGER COCO 70G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3486411000049.",
+  "price": {
+    "amount": 2.99,
+    "currency": "EUR",
+    "formatted": "2.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0000550",
+      "sku": "AL-0000550",
+      "supplierRef": "3486411000049.",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/l/blanc-magn_-coco-chaleur-cr_ole.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/l/blanc_manger_coco_chaleur_cr_ole.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:00:49.127Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/blanc-magn_-coco-chaleur-cr_ole.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000550/01-blanc-magn_-coco-chaleur-cr_ole.png",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/l/blanc_manger_coco_chaleur_cr_ole.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0000550/02-blanc_manger_coco_chaleur_cr_ole.png",
+      "skipped": false
+    }
+  ]
+}

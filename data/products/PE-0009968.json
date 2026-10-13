@@ -1,0 +1,61 @@
+{
+  "sku": "PE-0009968",
+  "url": "https://www.cabesto.com/fr/peche-moulinet-daiwa-saltiga-bj-200-shl-pe-201.html",
+  "title": "Moulinet SALTIGA BAY JIGGING 200 SHL | DAIWA",
+  "brand": "DAIWA",
+  "category": "Moulinets Traine Côtière",
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "Moulinets Casting Jig",
+    "Moulinets Traine Côtière"
+  ],
+  "categories": [
+    "Moulinets Casting Jig",
+    "Moulinets Traine Côtière"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Moulinet SALTIGA BAY JIGGING 200 SHL | DAIWA"
+  ],
+  "description": "Achetez Moulinet SALTIGA BAY JIGGING 200 SHL | DAIWA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SG BJ 200 SHL",
+  "price": {
+    "amount": 424.15,
+    "currency": "EUR",
+    "formatted": "424.15 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PE-0009968",
+      "sku": "PE-0009968",
+      "supplierRef": "SG BJ 200 SHL",
+      "price": {
+        "amount": 424.15,
+        "currency": "EUR",
+        "formatted": "424.15 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/a/saltiga-bj.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:24:27.933Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/saltiga-bj.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PE-0009968/01-saltiga-bj.jpg",
+      "skipped": false
+    }
+  ]
+}

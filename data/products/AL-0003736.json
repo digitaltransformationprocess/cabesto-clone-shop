@@ -1,0 +1,71 @@
+{
+  "sku": "AL-0003736",
+  "url": "https://www.cabesto.com/fr/beurre-citron-riche-en-beurre-frais-200ml.html",
+  "title": "SAUCE BEURRE CITRON 150G",
+  "brand": "BERNARD MAROT",
+  "category": "Sauces et condiments",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "aides-culinaires",
+    "sauces-et-condiments"
+  ],
+  "categories": [
+    "alimentation",
+    "epicerie-de-la-mer",
+    "aides-culinaires",
+    "sauces-et-condiments"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SAUCE BEURRE CITRON 150G"
+  ],
+  "description": "Achetez SAUCE BEURRE CITRON 150G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "1694",
+  "price": {
+    "amount": 2.49,
+    "currency": "EUR",
+    "formatted": "2.49 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0003736",
+      "sku": "AL-0003736",
+      "supplierRef": "1694",
+      "price": {
+        "amount": 2.49,
+        "currency": "EUR",
+        "formatted": "2.49 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6041960-6041960-picture_1-beurre%20citron.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/0/6041960-6041960-picture_1-beurre?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:53:26.666Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6041960-6041960-picture_1-beurre%20citron.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003736/01-6041960-6041960-picture_1-beurre_20citron.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6041960-6041960-picture_1-beurre?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0003736/02-6041960-6041960-picture_1-beurre.jpg",
+      "skipped": false
+    }
+  ]
+}

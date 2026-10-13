@@ -1,0 +1,65 @@
+{
+  "sku": "AL-0001844",
+  "url": "https://www.cabesto.com/fr/galettes-et-palets-bretons-pur-beurre.html",
+  "title": "GALETTES ET PALETS BRETONS PUR BEURRE",
+  "brand": "BISCUITS D'YS",
+  "category": "Biscuiterie marine",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "GALETTES ET PALETS BRETONS PUR BEURRE"
+  ],
+  "description": "Achetez GALETTES ET PALETS BRETONS PUR BEURRE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3700754717564",
+  "price": {
+    "amount": 5.59,
+    "currency": "EUR",
+    "formatted": "5.59 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001844",
+      "sku": "AL-0001844",
+      "supplierRef": "3700754717564",
+      "price": {
+        "amount": 5.59,
+        "currency": "EUR",
+        "formatted": "5.59 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/6/0/6069498-6069498-picture_1-6069498_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:56:30.608Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6069498-6069498-picture_1-6069498_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001844/01-6069498-6069498-picture_1-6069498_1.jpg",
+      "skipped": true
+    }
+  ]
+}

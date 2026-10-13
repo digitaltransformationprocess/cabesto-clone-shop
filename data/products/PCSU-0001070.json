@@ -1,0 +1,145 @@
+{
+  "sku": "PCSU-0001070",
+  "url": "https://www.cabesto.com/fr/bottilons-de-plongee-classic-ng-5-mm-mares-pcsu-0001070.html",
+  "title": "Bottilons de plongée CLASSIC NG 5 mm MARES",
+  "brand": "MARES",
+  "category": "Accessoires en néoprène longe-côte",
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "Accessoires Néoprène plongée",
+    "Bottillons",
+    "Longe-côte & Marche aquatique",
+    "Équipement pour le longe-côte",
+    "Accessoires en néoprène longe-côte"
+  ],
+  "categories": [
+    "Accessoires Néoprène plongée",
+    "Bottillons",
+    "Longe-côte & Marche aquatique",
+    "Équipement pour le longe-côte",
+    "Accessoires en néoprène longe-côte"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bottilons de plongée CLASSIC NG 5 mm MARES"
+  ],
+  "description": "Plongez et marchez avec les bottillons de plongée en néoprène CLASSIC NG 5 mm MARES, offrant un excellent maintien du pied, une protection thermique fiable et une semelle robuste pour des plongées confortables en toutes conditions.",
+  "supplierRef": null,
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR",
+    "formatted": "34.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCSU-0001070",
+      "sku": "PCSU-0001070",
+      "supplierRef": null,
+      "price": {
+        "amount": 34.99,
+        "currency": "EUR",
+        "formatted": "34.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/n/g/ngg_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/g/ng_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/t/a/tailleng.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-270-pl-270-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-279-pl-279-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-274-pl-274-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-271-pl-271-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-276-pl-276-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-278-pl-278-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-272-pl-272-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-275-pl-275-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-277-pl-277-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-273-pl-273-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:40:21.136Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/g/ngg_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0001070/01-ngg_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/presentation-412636_equator_boots.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0001070/02-presentation-412636_equator_boots.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/g/ng_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0001070/03-ng_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/t/a/tailleng.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0001070/04-tailleng.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-270-pl-270-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0001070/05-pl-270-pl-270-picture_1-pcpl-41-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-279-pl-279-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0001070/06-pl-279-pl-279-picture_1-pcpl-41-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-274-pl-274-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0001070\\07-pl-274-pl-274-picture_1-pcpl-41-1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0001070\\07-pl-274-pl-274-picture_1-pcpl-41-1.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-271-pl-271-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0001070\\08-pl-271-pl-271-picture_1-pcpl-41-1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0001070\\08-pl-271-pl-271-picture_1-pcpl-41-1.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-276-pl-276-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0001070/09-pl-276-pl-276-picture_1-pcpl-41-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-278-pl-278-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0001070/10-pl-278-pl-278-picture_1-pcpl-41-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-272-pl-272-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0001070\\11-pl-272-pl-272-picture_1-pcpl-41-1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\PCSU-0001070\\11-pl-272-pl-272-picture_1-pcpl-41-1.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-275-pl-275-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0001070/12-pl-275-pl-275-picture_1-pcpl-41-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-277-pl-277-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0001070/13-pl-277-pl-277-picture_1-pcpl-41-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-273-pl-273-picture_1-pcpl-41-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCSU-0001070/14-pl-273-pl-273-picture_1-pcpl-41-1.jpg",
+      "skipped": false
+    }
+  ]
+}

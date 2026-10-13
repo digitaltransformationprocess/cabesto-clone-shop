@@ -1,0 +1,153 @@
+{
+  "sku": "PCNT-0004904",
+  "url": "https://www.cabesto.com/fr/chaussons-d-escalade-ballerine-cobra-la-sportiva-cobra.html",
+  "title": "Chaussons d'Escalade Ballerine Cobra La Sportiva",
+  "brand": "LA SPORTIVA",
+  "category": "Chaussons d'escalade homme, mixtes",
+  "topLevel": "glisse",
+  "topLevelLabel": "Glisse",
+  "categoryPath": [
+    "Escalade",
+    "Chaussons d'escalade",
+    "Chaussons d'escalade homme, mixtes"
+  ],
+  "categories": [
+    "Escalade",
+    "Chaussons d'escalade",
+    "Chaussons d'escalade homme, mixtes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Chaussons d'Escalade Ballerine Cobra La Sportiva"
+  ],
+  "description": "Incontournables pour la Salle ou le Bloc, les Cobra LA SPORTIVA séduiront par leur sensibilité et leur rapidité de chaussage.",
+  "supplierRef": null,
+  "price": {
+    "amount": 84.9,
+    "currency": "EUR",
+    "formatted": "84.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0004904",
+      "sku": "PCNT-0004904",
+      "supplierRef": null,
+      "price": {
+        "amount": 84.9,
+        "currency": "EUR",
+        "formatted": "84.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls07_2_br-ballerines-escalade-cobra-la-sportiva.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_23.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-06_14_54_50-la_sportiva___cobra_gris_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-06_14_54_28-la_sportiva___cobra_gris_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-06_14_54_11-la_sportiva___cobra_gris_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-06_14_53_52-la_sportiva___cobra_gris_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_42_23-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_12.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_14.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_15.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:32:34.428Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_22.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/01-ls07_1_br-ballerines-escalade-cobra-la-sportiva_22.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls07_2_br-ballerines-escalade-cobra-la-sportiva.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/02-ls07_2_br-ballerines-escalade-cobra-la-sportiva.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_23.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/03-ls07_1_br-ballerines-escalade-cobra-la-sportiva_23.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-06_14_54_50-la_sportiva___cobra_gris_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/04-2022-10-06_14_54_50-la_sportiva___cobra_gris_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-06_14_54_28-la_sportiva___cobra_gris_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/05-2022-10-06_14_54_28-la_sportiva___cobra_gris_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-06_14_54_11-la_sportiva___cobra_gris_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/06-2022-10-06_14_54_11-la_sportiva___cobra_gris_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-06_14_53_52-la_sportiva___cobra_gris_-_chaussures_d_escalade.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/07-2022-10-06_14_53_52-la_sportiva___cobra_gris_-_chaussures_d_escalade.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2022-10-07_12_42_23-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/08-2022-10-07_12_42_23-la_sportiva___katana_homme_-_jaune_-_chaussures_d_escalade_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/09-ls07_1_br-ballerines-escalade-cobra-la-sportiva_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_9.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/10-ls07_1_br-ballerines-escalade-cobra-la-sportiva_9.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_10.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/11-ls07_1_br-ballerines-escalade-cobra-la-sportiva_10.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_11.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/12-ls07_1_br-ballerines-escalade-cobra-la-sportiva_11.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_12.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/13-ls07_1_br-ballerines-escalade-cobra-la-sportiva_12.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_13.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/14-ls07_1_br-ballerines-escalade-cobra-la-sportiva_13.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_14.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/15-ls07_1_br-ballerines-escalade-cobra-la-sportiva_14.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/l/s/ls07_1_br-ballerines-escalade-cobra-la-sportiva_15.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0004904/16-ls07_1_br-ballerines-escalade-cobra-la-sportiva_15.jpg",
+      "skipped": false
+    }
+  ]
+}

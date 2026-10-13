@@ -1,0 +1,71 @@
+{
+  "sku": "NU-0004428",
+  "url": "https://www.cabesto.com/fr/lifejacket-led-flashing-light-satelite-ii-water-activated-on-off-lsa.html",
+  "title": "Lampe Flash pour gilet et brassière - Safelite IV - LALIZAS",
+  "brand": "LALIZAS",
+  "category": "Lampe flash",
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "Sécurité - Navigation",
+    "Signalisation visuelle et sonore",
+    "Lampe flash"
+  ],
+  "categories": [
+    "Sécurité - Navigation",
+    "Signalisation visuelle et sonore",
+    "Lampe flash"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Nautisme",
+    "Nautisme",
+    "Sécurité - Navigation",
+    "Sécurité - Navigation",
+    "Signalisation visuelle et sonore",
+    "Signalisation visuelle et sonore",
+    "Lampe flash",
+    "Lampe flash",
+    "Lampe Flash pour gilet et brassière - Safelite IV - LALIZAS"
+  ],
+  "description": "Achetez Lampe Flash pour gilet et brassière - Safelite IV - LALIZAS chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "72349",
+  "price": {
+    "amount": 9.99,
+    "currency": "EUR",
+    "formatted": "9.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NU-0004428",
+      "sku": "NU-0004428",
+      "supplierRef": "72349",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/4/1/4168_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:00:15.660Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/4/1/4168_1__1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NU-0004428/01-4168_1__1.jpg",
+      "skipped": true
+    }
+  ]
+}

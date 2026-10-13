@@ -1,0 +1,63 @@
+{
+  "sku": "NT-0005148",
+  "url": "https://www.cabesto.com/fr/corde-axis-11-mm-blanc-10-m-1-tc.html",
+  "title": "Corde AXIS 11 mm blanc 10 m 1 TC",
+  "brand": "PETZL",
+  "category": "cordes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "montagne",
+    "professionnels",
+    "cordes"
+  ],
+  "categories": [
+    "montagne",
+    "professionnels",
+    "cordes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Corde AXIS 11 mm blanc 10 m 1 TC"
+  ],
+  "description": "Achetez Corde AXIS 11 mm blanc 10 m 1 TC chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "R074BA00",
+  "price": {
+    "amount": 44.95,
+    "currency": "EUR",
+    "formatted": "44.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0005148",
+      "sku": "NT-0005148",
+      "supplierRef": "R074BA00",
+      "price": {
+        "amount": 44.95,
+        "currency": "EUR",
+        "formatted": "44.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/2/124_axis_blanc.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:37:52.431Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/2/124_axis_blanc.jpeg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0005148/01-124_axis_blanc.jpeg",
+      "skipped": false
+    }
+  ]
+}

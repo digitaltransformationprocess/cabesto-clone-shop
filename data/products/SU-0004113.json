@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0004113",
+  "url": "https://www.cabesto.com/fr/plongee-masque-capri-silicone-noir-seac-sub-pl-6276.html",
+  "title": "Masque de chasse sous marine CAPRI noir SEAC SUB",
+  "brand": "SEAC",
+  "category": "anchois-marines",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Masque de chasse sous marine CAPRI noir SEAC SUB"
+  ],
+  "description": "MASQUE CAPRI SILICONE NOIR SEAC SUBLe masque CAPRI SEAC SUB, c'est pas fini...Le caractère pratique d’un design innovateur.Le Capri seac sub est parfait pour la nage en PMT et le snorkeling, il fera aussi un excellent masque de plongée sous-marine.Le masque CAPRI SEAC conjugue un volume intérieur réduit avec un bon champ de visionChassis en Polycarbonate.Jupe en Silicone noir.Verres asymétriques \"tempered galss\"Boucles montées sur la jupe, permettent de réduire la pression sur le visage, avec réglage rapideCe masque a été fabriqué conformément aux exigences du règlement CE 2016 / 425 pour les EPI (catégorie 1) suivant la norme NF EN 16805",
+  "supplierRef": "6750013003520A",
+  "price": {
+    "amount": 16.99,
+    "currency": "EUR",
+    "formatted": "16.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0004113",
+      "sku": "SU-0004113",
+      "supplierRef": "6750013003520A",
+      "price": {
+        "amount": 16.99,
+        "currency": "EUR",
+        "formatted": "16.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/e/seac-capri.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_49_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:20.633Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seac-capri.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004113/01-seac-capri.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/h/q/hqdefault_49_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0004113/02-hqdefault_49_1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ]
+}

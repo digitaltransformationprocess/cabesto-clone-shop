@@ -1,0 +1,77 @@
+{
+  "sku": "PCNT-0007637",
+  "url": "https://www.cabesto.com/fr/randonnee-gants-g-hot-dry-femme-camp-cp59.html",
+  "title": "Gants G Hot Dry Femme - CAMP",
+  "brand": "CAMP",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Gants et surgants de montagne",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Gants et surgants de montagne",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Gants G Hot Dry Femme - CAMP"
+  ],
+  "description": "Achetez Gants G Hot Dry Femme - CAMP chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 0,
+    "currency": "EUR",
+    "formatted": "0 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0007637",
+      "sku": "PCNT-0007637",
+      "supplierRef": null,
+      "price": {
+        "amount": 0,
+        "currency": "EUR",
+        "formatted": "0 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/p/cp59_1_af-gants-g-hot-dry-femme-camp_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/p/cp59_2_af-gants-g-hot-dry-femme-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/p/cp59_1_af-gants-g-hot-dry-femme-camp_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:33:06.059Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp59_1_af-gants-g-hot-dry-femme-camp_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007637/01-cp59_1_af-gants-g-hot-dry-femme-camp_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp59_2_af-gants-g-hot-dry-femme-camp.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007637/02-cp59_2_af-gants-g-hot-dry-femme-camp.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/p/cp59_1_af-gants-g-hot-dry-femme-camp_5.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007637/03-cp59_1_af-gants-g-hot-dry-femme-camp_5.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "sku": "PCPL-1116",
+  "url": "https://www.cabesto.com/fr/plongee-1er-etage-mk25-evo-pcpl-1116.html",
+  "title": "1ER ETAGE MK25 EVO SCUBAPRO",
+  "brand": "SCUBAPRO",
+  "category": "detendeur-plongee-1ers-ou-2eme-etage-seul",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "1ER ETAGE MK25 EVO SCUBAPRO"
+  ],
+  "description": "1ER ETAGE MK25 EVO SCUBAPROLe premier étage de Scubapro MK25 évolue en 2015 vers l'EVO... nouveaux brevets, nouveau système d'isolation, un premier étage de détendeur de plongée haut de gamme et ultra performant !• Le nouveau XTIS (Système d’isolation thermique étendu), équipé d’un mécanisme complètement isolé de l’environnement, améliore la résistance à l’eau froide/au givrage sans compromis sur la performance respiratoire du piston (brevet en cours).• Des ailettes supplémentaires situées sur le corps usiné augmentent les échanges thermiques.• Un design moderne.• Les composants essentiels du système d’isolation sont en bleu.• Conforme aux exigences de la norme EN 250-2014.• Piston compensé• 2 Sorties haute pression• 5 Sorties pression intermédiaire haut débit HFP• Tourelle pivotanteCe détendeur a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme NF EN 250.",
+  "supplierRef": null,
+  "price": {
+    "amount": 439.99,
+    "currency": "EUR",
+    "formatted": "439.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-1116",
+      "sku": "PCPL-1116",
+      "supplierRef": null,
+      "price": {
+        "amount": 439.99,
+        "currency": "EUR",
+        "formatted": "439.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/m/k/mk25-evo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk25-evo-din.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/m/k/mk25-evo-etrier.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-8164-pl-8164-picture_1-pcpl-1116-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:29:37.403Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk25-evo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1116/01-mk25-evo.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk25-evo-din.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1116/02-mk25-evo-din.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/m/k/mk25-evo-etrier.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1116/03-mk25-evo-etrier.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-8164-pl-8164-picture_1-pcpl-1116-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-1116/04-pl-8164-pl-8164-picture_1-pcpl-1116-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "detendeurs-et-octopus",
+    "detendeur-plongee-1ers-ou-2eme-etage-seul"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "detendeurs-et-octopus",
+    "detendeur-plongee-1ers-ou-2eme-etage-seul"
+  ]
+}

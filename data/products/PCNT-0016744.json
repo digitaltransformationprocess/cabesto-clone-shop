@@ -1,0 +1,89 @@
+{
+  "sku": "PCNT-0016744",
+  "url": "https://www.cabesto.com/fr/randonnee-polaire-legere-homme-m-s-better-sweater-patagonia-pt39.html",
+  "title": "Polaire Légère Homme M's Better Sweater - PATAGONIA",
+  "brand": "PATAGONIA",
+  "category": "sweats-pulls-polaires",
+  "topLevel": "textile",
+  "topLevelLabel": "Textile",
+  "categoryPath": [
+    "textile",
+    "femme",
+    "marin",
+    "sweats-pulls-polaires"
+  ],
+  "categories": [
+    "textile",
+    "femme",
+    "marin",
+    "sweats-pulls-polaires"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Polaire Légère Homme M's Better Sweater - PATAGONIA"
+  ],
+  "description": "Achetez Polaire Légère Homme M's Better Sweater - PATAGONIA chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 149.9,
+    "currency": "EUR",
+    "formatted": "149.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0016744",
+      "sku": "PCNT-0016744",
+      "supplierRef": null,
+      "price": {
+        "amount": 149.9,
+        "currency": "EUR",
+        "formatted": "149.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/t/pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/t/pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/t/pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/t/pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/t/pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:33:42.192Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016744/01-pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016744/02-pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016744/03-pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016744/04-pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/t/pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0016744/05-pt39_1_ks-polaire-legere-homme-m-s-better-sweater-patagonia.jpg",
+      "skipped": false
+    }
+  ]
+}

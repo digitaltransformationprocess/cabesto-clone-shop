@@ -1,0 +1,77 @@
+{
+  "sku": "AL-0002009",
+  "url": "https://www.cabesto.com/fr/homard-cuit-sous-glace-msc-325g.html",
+  "title": "HOMARD CUIT SOUS GLACE MSC 325G",
+  "brand": "SEABLUE",
+  "category": "homard",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "surgeles",
+    "langoustes-et-crustaces",
+    "homard"
+  ],
+  "categories": [
+    "alimentation",
+    "surgeles",
+    "langoustes-et-crustaces",
+    "homard"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "HOMARD CUIT SOUS GLACE MSC 325G"
+  ],
+  "description": "Achetez HOMARD CUIT SOUS GLACE MSC 325G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "5686",
+  "price": {
+    "amount": 12.49,
+    "currency": "EUR",
+    "formatted": "12.49 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0002009",
+      "sku": "AL-0002009",
+      "supplierRef": "5686",
+      "price": {
+        "amount": 12.49,
+        "currency": "EUR",
+        "formatted": "12.49 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/AL-0002009.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/AL-0002009-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0002009.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:06:03.480Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/AL-0002009.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002009/01-AL-0002009.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/AL-0002009-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002009/02-AL-0002009-1.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0002009.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0002009/03-al-0002009.jpg",
+      "skipped": true
+    }
+  ]
+}

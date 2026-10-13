@@ -1,0 +1,91 @@
+{
+  "sku": "PI-0012614",
+  "url": "https://www.cabesto.com/fr/robot-piscine-wybot-s2-solar-pi-0012614.html",
+  "title": "ROBOT DE PISCINE SANS FIL S2 SOLAR WYBOT",
+  "brand": "WYBOT",
+  "category": "Robot électrique sur base",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Robot électrique",
+    "Idées cadeaux Piscine",
+    "Sélection Piscine",
+    "Robot électrique sans fil",
+    "Robot électrique sur base"
+  ],
+  "categories": [
+    "Robot électrique",
+    "Idées cadeaux Piscine",
+    "Sélection Piscine",
+    "Robot électrique sans fil",
+    "Robot électrique sur base"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "ROBOT DE PISCINE SANS FIL S2 SOLAR WYBOT"
+  ],
+  "description": "Achetez ROBOT DE PISCINE SANS FIL S2 SOLAR WYBOT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "WYEU-S2S",
+  "price": {
+    "amount": 999,
+    "currency": "EUR",
+    "formatted": "999 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0012614",
+      "sku": "PI-0012614",
+      "supplierRef": "WYEU-S2S",
+      "price": {
+        "amount": 999,
+        "currency": "EUR",
+        "formatted": "999 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/w/y/wyboy-s2-solar-main-picture.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/e/redimensionne__550x556_solar_s2_wybot_station_de_charge_solaire.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/e/redimensionne__550x546_solar_s2_wybot_mode_dispo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/e/redimensionne__550x549_wybot_s2_solar_vision_double_filtration.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/r/e/redimensionne__550x545_solar_s2_wybot_station_de_charge_solaire_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:51:09.298Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/w/y/wyboy-s2-solar-main-picture.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012614/01-wyboy-s2-solar-main-picture.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/e/redimensionne__550x556_solar_s2_wybot_station_de_charge_solaire.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012614/02-redimensionne__550x556_solar_s2_wybot_station_de_charge_solaire.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/e/redimensionne__550x546_solar_s2_wybot_mode_dispo.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012614/03-redimensionne__550x546_solar_s2_wybot_mode_dispo.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/e/redimensionne__550x549_wybot_s2_solar_vision_double_filtration.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012614/04-redimensionne__550x549_wybot_s2_solar_vision_double_filtration.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/r/e/redimensionne__550x545_solar_s2_wybot_station_de_charge_solaire_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0012614/05-redimensionne__550x545_solar_s2_wybot_station_de_charge_solaire_2.jpg",
+      "skipped": false
+    }
+  ]
+}

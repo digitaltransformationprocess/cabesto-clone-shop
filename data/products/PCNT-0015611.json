@@ -1,0 +1,69 @@
+{
+  "sku": "PCNT-0015611",
+  "url": "https://www.cabesto.com/fr/randonnee-pantalon-ski-rando-windy-spirit-mp-homme-vertical-ve36.html",
+  "title": "Pantalon ski rando Windy Spirit MP+ homme - VERTICAL",
+  "brand": "VERTICAL",
+  "category": "Black November - Montagne",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pantalon ski rando Windy Spirit MP+ homme - VERTICAL"
+  ],
+  "description": "Achetez Pantalon ski rando Windy Spirit MP+ homme - VERTICAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 179.4,
+    "currency": "EUR",
+    "formatted": "179.4 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0015611",
+      "sku": "PCNT-0015611",
+      "supplierRef": null,
+      "price": {
+        "amount": 179.4,
+        "currency": "EUR",
+        "formatted": "179.4 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/v/e/ve36_1_ab-pantalon-ski--rando-windy-spirit-mp--homme-vertical_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/ve36_1_ab-pantalon-ski--rando-windy-spirit-mp--homme-vertical_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:32:47.970Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/ve36_1_ab-pantalon-ski--rando-windy-spirit-mp--homme-vertical_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0015611/01-ve36_1_ab-pantalon-ski--rando-windy-spirit-mp--homme-vertical_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/ve36_1_ab-pantalon-ski--rando-windy-spirit-mp--homme-vertical_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0015611/02-ve36_1_ab-pantalon-ski--rando-windy-spirit-mp--homme-vertical_2.jpg",
+      "skipped": false
+    }
+  ]
+}

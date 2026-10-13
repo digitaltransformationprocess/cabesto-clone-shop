@@ -1,0 +1,71 @@
+{
+  "sku": "SU-0005756",
+  "url": "https://www.cabesto.com/fr/plongee-housse-arbaletes-gun-bag-dessault-pl-7589.html",
+  "title": "Sac housse arbalète chasse sous-marine GUN BAG DESSAULT",
+  "brand": "DESSAULT",
+  "category": "fluorocarbones",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sac housse arbalète chasse sous-marine GUN BAG DESSAULT"
+  ],
+  "description": "Housse à arbalète standard Hugues Dessault, de 155 cm, possibilité de mettre deux arbalètes avec flèches.",
+  "supplierRef": "DSBAGGUN",
+  "price": {
+    "amount": 19.99,
+    "currency": "EUR",
+    "formatted": "19.99 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0005756",
+      "sku": "SU-0005756",
+      "supplierRef": "DSBAGGUN",
+      "price": {
+        "amount": 19.99,
+        "currency": "EUR",
+        "formatted": "19.99 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/g/u/gun-bag_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-7589-pl-7589-picture_2-pl-7589-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:24:42.966Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/u/gun-bag_1_.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005756/01-gun-bag_1_.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-7589-pl-7589-picture_2-pl-7589-2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0005756/02-pl-7589-pl-7589-picture_2-pl-7589-2.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "peche",
+  "topLevelLabel": "Pêche",
+  "categoryPath": [
+    "peche",
+    "accessoires-montage-ligne",
+    "fils-tresses-bas-de-lignes",
+    "fluorocarbones"
+  ],
+  "categories": [
+    "peche",
+    "accessoires-montage-ligne",
+    "fils-tresses-bas-de-lignes",
+    "fluorocarbones"
+  ]
+}

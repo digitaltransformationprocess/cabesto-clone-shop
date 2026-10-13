@@ -1,0 +1,77 @@
+{
+  "sku": "PCPL-383",
+  "url": "https://www.cabesto.com/fr/plongee-filet-bouteille-7-litres-pcpl-383.html",
+  "title": "FILET BOUTEILLE 7 LITRES SEAC SUB",
+  "brand": "SEAC SUB",
+  "category": "accessoires-pour-bouteille-de-plongee-sous-marine",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "FILET BOUTEILLE 7 LITRES SEAC SUB"
+  ],
+  "description": "détaillée 13,99 € Choisissez votre couleur : Choisissez une option... Quantité Ajouter au panier Vérifier la disponibilité dans votre magasin Livraison express en France Métropolitaine Paiement 100% sécurisé 30 jours pour changer d'avis Paiement en 3x, 4x ou 10x avec Floa Sous réserve d’acceptation par Floa. Vous disposez du délai légal de rétractation. AVIS CLIENTS 5 / 5 Basé sur 2 avis soumis à un contrôle Voir tous les avis sur ce site 5 étoiles 2 4 étoiles 0 3 étoiles 0 2 étoiles 0 1 étoile 0 Trier les avis Les plus récents Les plus anciens Notes les plus élevées Notes les plus basses Les plus utiles 5/5 Avis vérifié parfait, parfaitement adapté au bloc Avis du 28/06/2023 , suite à une expérience du 17/06/2023 par A.A. Utile (0) Signaler Réponse de cabesto.com L’équipe Cabesto vous remercie pour votre commentaire. Nous continuerons à travailler pour vous apporter la meilleure satisfaction clientèle possible 5/5 Avis vérifié Rien à signaler Avis du 14/01/2021 , suite à une expérience du 28/12/2020 par A.A. Utile (0) Signaler",
+  "supplierRef": null,
+  "price": {
+    "amount": 13.99,
+    "currency": "EUR",
+    "formatted": "13.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-383",
+      "sku": "PCPL-383",
+      "supplierRef": null,
+      "price": {
+        "amount": 13.99,
+        "currency": "EUR",
+        "formatted": "13.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/e/seac-tank-net-black.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-3094-pl-3094-picture_1-pcpl-383-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/import/PL-3094-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:45.532Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/e/seac-tank-net-black.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-383/01-seac-tank-net-black.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-3094-pl-3094-picture_1-pcpl-383-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-383/02-pl-3094-pl-3094-picture_1-pcpl-383-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/import/PL-3094-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-383/03-PL-3094-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "bouteilles-et-blocs",
+    "accessoires-pour-bouteille-de-plongee-sous-marine"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "bouteilles-et-blocs",
+    "accessoires-pour-bouteille-de-plongee-sous-marine"
+  ]
+}

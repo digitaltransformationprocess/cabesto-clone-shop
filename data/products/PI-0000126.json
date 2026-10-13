@@ -1,0 +1,67 @@
+{
+  "sku": "PI-0000126",
+  "url": "https://www.cabesto.com/fr/piscine-bache-a-bulles-de-piscine-rectangulaire-5m49x2m74-pi-317.html",
+  "title": "Bâche à bulles de piscine rectangulaire 5M49x2M74",
+  "brand": "INTEX",
+  "category": "Bâche à bulles",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Bâche à bulles",
+    "Bâche à bulles"
+  ],
+  "categories": [
+    "Bâche à bulles",
+    "Bâche à bulles"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bâche à bulles de piscine rectangulaire 5M49x2M74"
+  ],
+  "description": "Bâche à bulles de piscine rectangulaire 5M49x2M74 BACHE A BULLES 5M49x2M74 - IDEAL POUR MAINTENIR LA CHALEUR DE SA PISCINE Cette couverture solaire de piscine de la marque Intex repose directement sur la surface de l'eau, à l'intérieur des bords de la pi",
+  "supplierRef": "28016",
+  "price": {
+    "amount": 39.9,
+    "currency": "EUR",
+    "formatted": "39.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000126",
+      "sku": "PI-0000126",
+      "supplierRef": "28016",
+      "price": {
+        "amount": 39.9,
+        "currency": "EUR",
+        "formatted": "39.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/9/29026-bache-bulles-rectangulaire-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_4_3.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:33:58.770Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/9/29026-bache-bulles-rectangulaire-.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000126/01-29026-bache-bulles-rectangulaire-.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/a/sans_titre_4_3.png?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000126/02-sans_titre_4_3.png",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "sku": "AL-0001885",
+  "url": "https://www.cabesto.com/fr/gateau-breton-caramel-100g-2.html",
+  "title": "GATEAU BRETON CARAMEL 100G * 2",
+  "brand": "BERROU",
+  "category": "Biscuiterie marine",
+  "topLevel": "alimentation",
+  "topLevelLabel": "Alimentation",
+  "categoryPath": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "categories": [
+    "alimentation",
+    "marche-frais",
+    "tapas",
+    "anchois-marines"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "GATEAU BRETON CARAMEL 100G * 2"
+  ],
+  "description": "Achetez GATEAU BRETON CARAMEL 100G * 2 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "3294517000227.",
+  "price": {
+    "amount": 4.59,
+    "currency": "EUR",
+    "formatted": "4.59 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "AL-0001885",
+      "sku": "AL-0001885",
+      "supplierRef": "3294517000227.",
+      "price": {
+        "amount": 4.59,
+        "currency": "EUR",
+        "formatted": "4.59 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/a/l/al-0001885.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/6/0/6016545-6016545-picture_1-6016545_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/g/a/gateau_caramel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T14:03:34.213Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/a/l/al-0001885.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001885/01-al-0001885.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/6/0/6016545-6016545-picture_1-6016545_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001885/02-6016545-6016545-picture_1-6016545_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/g/a/gateau_caramel.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/AL-0001885/03-gateau_caramel.jpg",
+      "skipped": false
+    }
+  ]
+}

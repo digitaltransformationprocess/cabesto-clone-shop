@@ -1,0 +1,61 @@
+{
+  "sku": "PI-0000859",
+  "url": "https://www.cabesto.com/fr/sac-de-verre-gros-piscine-1-6-3mm-20kg.html",
+  "title": "SAC DE VERRE GROS PISCINE 1.6/3MM 20KG",
+  "brand": "DIVERS",
+  "category": "Verre",
+  "topLevel": "piscine",
+  "topLevelLabel": "Piscine",
+  "categoryPath": [
+    "Média filtrant",
+    "Verre"
+  ],
+  "categories": [
+    "Média filtrant",
+    "Verre"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "SAC DE VERRE GROS PISCINE 1.6/3MM 20KG"
+  ],
+  "description": "Achetez SAC DE VERRE GROS PISCINE 1.6/3MM 20KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "SCF-F28-R",
+  "price": {
+    "amount": 13.9,
+    "currency": "EUR",
+    "formatted": "13.9 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "PI-0000859",
+      "sku": "PI-0000859",
+      "supplierRef": "SCF-F28-R",
+      "price": {
+        "amount": 13.9,
+        "currency": "EUR",
+        "formatted": "13.9 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/2/0/2024-11-08_15_59_49-sable_pour_filtre_piscine_et_pompe_de_filtration___piscine_center.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:50:43.843Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/2/0/2024-11-08_15_59_49-sable_pour_filtre_piscine_et_pompe_de_filtration___piscine_center.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PI-0000859/01-2024-11-08_15_59_49-sable_pour_filtre_piscine_et_pompe_de_filtration___piscine_center.jpg",
+      "skipped": false
+    }
+  ]
+}

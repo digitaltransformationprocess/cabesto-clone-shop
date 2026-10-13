@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0007307",
+  "url": "https://www.cabesto.com/fr/randonnee-boucle-de-remplacement-15mm-1-barrette-metal-seatosummit-nt-0007307.html",
+  "title": "Boucle de remplacement 15mm - 1 Barrette métal - SeaToSummit",
+  "brand": "SEA TO SUMMIT",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Sacs à dos, rangement",
+    "Rangements, accessoires",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Sacs à dos, rangement",
+    "Rangements, accessoires",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Boucle de remplacement 15mm - 1 Barrette métal - SeaToSummit"
+  ],
+  "description": "Achetez Boucle de remplacement 15mm - 1 Barrette métal - SeaToSummit chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "DDRYZBOU31",
+  "price": {
+    "amount": 1.98,
+    "currency": "EUR",
+    "formatted": "1.98 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0007307",
+      "sku": "NT-0007307",
+      "supplierRef": "DDRYZBOU31",
+      "price": {
+        "amount": 1.98,
+        "currency": "EUR",
+        "formatted": "1.98 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/s/v/sv20_1-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/v/sv20_3-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/v/sv20_2-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/s/v/sv20_1-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:20:55.934Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/v/sv20_1-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": null,
+      "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0007307\\01-sv20_1-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0007307\\01-sv20_1-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit.jpg'"
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/v/sv20_3-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007307/02-sv20_3-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/v/sv20_2-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007307/03-sv20_2-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/s/v/sv20_1-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0007307/04-sv20_1-boucle-de-remplacement-15-mm---1-barrette-metal-sea-to-summit_1.jpg",
+      "skipped": false
+    }
+  ]
+}

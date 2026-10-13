@@ -1,0 +1,75 @@
+{
+  "sku": "NT-0003293",
+  "url": "https://www.cabesto.com/fr/neige-glace-caritool-petzl-nt-0003293.html",
+  "title": "Caritool - PETZL",
+  "brand": "PETZL",
+  "category": "Accessoires broches à glace",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Neige & Glace",
+    "Alpinisme",
+    "Accessoires broches à glace"
+  ],
+  "categories": [
+    "Neige & Glace",
+    "Alpinisme",
+    "Accessoires broches à glace"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Caritool - PETZL"
+  ],
+  "description": "Achetez Caritool - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "P42",
+  "price": {
+    "amount": 7.9,
+    "currency": "EUR",
+    "formatted": "7.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0003293",
+      "sku": "NT-0003293",
+      "supplierRef": "P42",
+      "price": {
+        "amount": 7.9,
+        "currency": "EUR",
+        "formatted": "7.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/1/7/1773_1-caritool-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/n/a/navi.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/1/7/1773_1-caritool-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:11:31.616Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1773_1-caritool-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0003293/01-1773_1-caritool-petzl.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/n/a/navi.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0003293/02-navi.jpg",
+      "skipped": true
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/1/7/1773_1-caritool-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0003293/03-1773_1-caritool-petzl_1.jpg",
+      "skipped": true
+    }
+  ]
+}

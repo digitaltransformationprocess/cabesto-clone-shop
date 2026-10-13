@@ -1,0 +1,79 @@
+{
+  "sku": "PCNT-0003181",
+  "url": "https://www.cabesto.com/fr/verticalite-degaine-hotwire-quickdraw-16cm-black-diamond-bde7.html",
+  "title": "Dégaine HOTWIRE QUICKDRAW 16cm BLACK DIAMOND",
+  "brand": "BLACK DIAMOND",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Matériel métallique",
+    "Dégaines",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Matériel métallique",
+    "Dégaines",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Dégaine HOTWIRE QUICKDRAW 16cm BLACK DIAMOND"
+  ],
+  "description": "Achetez Dégaine HOTWIRE QUICKDRAW 16cm BLACK DIAMOND chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 14.9,
+    "currency": "EUR",
+    "formatted": "14.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0003181",
+      "sku": "PCNT-0003181",
+      "supplierRef": null,
+      "price": {
+        "amount": 14.9,
+        "currency": "EUR",
+        "formatted": "14.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/b/d/bde7_1_cg-degaine-hotwire-quickdraw-16cm-black-diamond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/d/bde7_1_cg-degaine-hotwire-quickdraw-16cm-black-diamond_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/b/d/bde7_1_cg-degaine-hotwire-quickdraw-16cm-black-diamond.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:34:17.135Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bde7_1_cg-degaine-hotwire-quickdraw-16cm-black-diamond_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003181/01-bde7_1_cg-degaine-hotwire-quickdraw-16cm-black-diamond_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bde7_1_cg-degaine-hotwire-quickdraw-16cm-black-diamond_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003181/02-bde7_1_cg-degaine-hotwire-quickdraw-16cm-black-diamond_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/b/d/bde7_1_cg-degaine-hotwire-quickdraw-16cm-black-diamond.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003181/03-bde7_1_cg-degaine-hotwire-quickdraw-16cm-black-diamond.jpg",
+      "skipped": false
+    }
+  ]
+}

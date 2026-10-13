@@ -1,0 +1,95 @@
+{
+  "sku": "PCNT-0003274",
+  "url": "https://www.cabesto.com/fr/randonnee-bottes-de-neige-caribou-femme-sorel-kh44.html",
+  "title": "Bottes de neige Caribou Femme - SOREL",
+  "brand": "SOREL",
+  "category": "Black November - Montagne",
+  "topLevel": "selection",
+  "topLevelLabel": "Sélection",
+  "categoryPath": [
+    "Chaussures grand froid, bottes de neige femme",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "categories": [
+    "Chaussures grand froid, bottes de neige femme",
+    "Destockage Montagne",
+    "Ventes privées Montagne",
+    "Black November - Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Bottes de neige Caribou Femme - SOREL"
+  ],
+  "description": "Achetez Bottes de neige Caribou Femme - SOREL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 179.9,
+    "currency": "EUR",
+    "formatted": "179.9 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0003274",
+      "sku": "PCNT-0003274",
+      "supplierRef": null,
+      "price": {
+        "amount": 179.9,
+        "currency": "EUR",
+        "formatted": "179.9 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/k/h/kh44_1_b-bottes-de-neige-caribou-femme-sorel_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/h/kh44_1_b-bottes-de-neige-caribou-femme-sorel_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/h/kh44_1_b-bottes-de-neige-caribou-femme-sorel_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/h/kh44_1_b-bottes-de-neige-caribou-femme-sorel_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/h/kh44_1_b-bottes-de-neige-caribou-femme-sorel_4_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/k/h/kh44_1_b-bottes-de-neige-caribou-femme-sorel_4_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:26:31.880Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh44_1_b-bottes-de-neige-caribou-femme-sorel_4.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003274/01-kh44_1_b-bottes-de-neige-caribou-femme-sorel_4.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh44_1_b-bottes-de-neige-caribou-femme-sorel_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003274/02-kh44_1_b-bottes-de-neige-caribou-femme-sorel_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh44_1_b-bottes-de-neige-caribou-femme-sorel_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003274/03-kh44_1_b-bottes-de-neige-caribou-femme-sorel_2.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh44_1_b-bottes-de-neige-caribou-femme-sorel_3.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003274/04-kh44_1_b-bottes-de-neige-caribou-femme-sorel_3.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh44_1_b-bottes-de-neige-caribou-femme-sorel_4_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003274/05-kh44_1_b-bottes-de-neige-caribou-femme-sorel_4_1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/k/h/kh44_1_b-bottes-de-neige-caribou-femme-sorel_4_2.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0003274/06-kh44_1_b-bottes-de-neige-caribou-femme-sorel_4_2.jpg",
+      "skipped": false
+    }
+  ]
+}

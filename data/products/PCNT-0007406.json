@@ -1,0 +1,109 @@
+{
+  "sku": "PCNT-0007406",
+  "url": "https://www.cabesto.com/fr/pantalon-alpi-fissure.html",
+  "title": "Pantalon Alpi Fissure - VERTICAL",
+  "brand": "VERTICAL",
+  "category": "Pantalons, combinaisons",
+  "topLevel": "ventes-privees",
+  "topLevelLabel": "Ventes privées",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Equipement de la personne",
+    "Pantalons, combinaisons",
+    "Destockage Montagne",
+    "Ventes privées Montagne"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Equipement de la personne",
+    "Pantalons, combinaisons",
+    "Destockage Montagne",
+    "Ventes privées Montagne"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Pantalon Alpi Fissure - VERTICAL"
+  ],
+  "description": "Achetez Pantalon Alpi Fissure - VERTICAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 89.99,
+    "currency": "EUR",
+    "formatted": "89.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCNT-0007406",
+      "sku": "PCNT-0007406",
+      "supplierRef": null,
+      "price": {
+        "amount": 89.99,
+        "currency": "EUR",
+        "formatted": "89.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/v/e/ve29_1_br-pantalon-alpi-fissure-vertical_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/ve29_6_br-pantalon-alpi-fissure-vertical.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/ve29_5_br-pantalon-alpi-fissure-vertical.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/ve29_4_br-pantalon-alpi-fissure-vertical.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/ve29_3_br-pantalon-alpi-fissure-vertical.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/ve29_2_br-pantalon-alpi-fissure-vertical.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/ve29_1_br-pantalon-alpi-fissure-vertical_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/v/e/ve29_1_br-pantalon-alpi-fissure-vertical.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:32:15.830Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/ve29_1_br-pantalon-alpi-fissure-vertical_7.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007406/01-ve29_1_br-pantalon-alpi-fissure-vertical_7.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/ve29_6_br-pantalon-alpi-fissure-vertical.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007406/02-ve29_6_br-pantalon-alpi-fissure-vertical.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/ve29_5_br-pantalon-alpi-fissure-vertical.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007406/03-ve29_5_br-pantalon-alpi-fissure-vertical.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/ve29_4_br-pantalon-alpi-fissure-vertical.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007406/04-ve29_4_br-pantalon-alpi-fissure-vertical.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/ve29_3_br-pantalon-alpi-fissure-vertical.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007406/05-ve29_3_br-pantalon-alpi-fissure-vertical.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/ve29_2_br-pantalon-alpi-fissure-vertical.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007406/06-ve29_2_br-pantalon-alpi-fissure-vertical.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/ve29_1_br-pantalon-alpi-fissure-vertical_8.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007406/07-ve29_1_br-pantalon-alpi-fissure-vertical_8.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/v/e/ve29_1_br-pantalon-alpi-fissure-vertical.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCNT-0007406/08-ve29_1_br-pantalon-alpi-fissure-vertical.jpg",
+      "skipped": false
+    }
+  ]
+}

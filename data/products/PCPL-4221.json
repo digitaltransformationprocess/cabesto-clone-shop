@@ -1,0 +1,81 @@
+{
+  "sku": "PCPL-4221",
+  "url": "https://www.cabesto.com/fr/plongee-sangle-bungee-pour-palmes-mares-la-paire-2018-noir-pcpl-4221.html",
+  "title": "Sangle Bungee pour palmes Mares (la paire) 2018 - NOIR",
+  "brand": "MARES",
+  "category": "ais",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Sangle Bungee pour palmes Mares (la paire) 2018 - NOIR"
+  ],
+  "description": "Alternative aux sangles de talon à ressort en acier, les sangles Bungee permettent d'enfiler et retirer les palmes facilement, avec un confort indéniable au cours de la plongée grâce au couvre-talon ergonomique intégré. De plus, contrairement aux sangles en acier, les sangles bungee sont insensibles au soleil, au sel et aux agents chimiques, elles sont également plus légère et économiques.Une alternative futée aux ressorts de talon en Inox3 tailles : XS/S, R, XL2 extensions pour un meilleur ajustementCouvre talon ergonomiqueLarge boucle pouvant être utilisée même avec des gants épaisColoris : noir, blanc, bleu, jaune et lime",
+  "supplierRef": null,
+  "price": {
+    "amount": 41.99,
+    "currency": "EUR",
+    "formatted": "41.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPL-4221",
+      "sku": "PCPL-4221",
+      "supplierRef": null,
+      "price": {
+        "amount": 41.99,
+        "currency": "EUR",
+        "formatted": "41.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/c/pcpl-4221-pl-16690-picture_1-pcpl-4221-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-16690-pl-16690-picture_1-pcpl-4221-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-16692-pl-16692-picture_1-pcpl-4221-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-16691-pl-16691-picture_1-pcpl-4221-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:30:54.051Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/c/pcpl-4221-pl-16690-picture_1-pcpl-4221-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4221/01-pcpl-4221-pl-16690-picture_1-pcpl-4221-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-16690-pl-16690-picture_1-pcpl-4221-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4221/02-pl-16690-pl-16690-picture_1-pcpl-4221-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-16692-pl-16692-picture_1-pcpl-4221-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4221/03-pl-16692-pl-16692-picture_1-pcpl-4221-1.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-16691-pl-16691-picture_1-pcpl-4221-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPL-4221/04-pl-16691-pl-16691-picture_1-pcpl-4221-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "nautisme",
+  "topLevelLabel": "Nautisme",
+  "categoryPath": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ],
+  "categories": [
+    "nautisme",
+    "electronique",
+    "ais"
+  ]
+}

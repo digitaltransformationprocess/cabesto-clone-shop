@@ -1,0 +1,67 @@
+{
+  "sku": "PCPE-0018774",
+  "url": "https://www.cabesto.com/fr/cannes-de-peche-aux-leurres-max-fight-rapala.html",
+  "title": "Cannes de pêche aux leurres Max Fight | Rapala",
+  "brand": "RAPALA",
+  "category": "Peche a classer",
+  "topLevel": "bons-plans-du-moment",
+  "topLevelLabel": "Bons plans",
+  "categoryPath": [
+    "bons-plans-du-moment",
+    "promotions-peche"
+  ],
+  "categories": [
+    "bons-plans-du-moment",
+    "promotions-peche"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Cannes de pêche aux leurres Max Fight | Rapala"
+  ],
+  "description": "Achetez Cannes de pêche aux leurres Max Fight | Rapala chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": null,
+  "price": {
+    "amount": 99.99,
+    "currency": "EUR",
+    "formatted": "99.99 EUR"
+  },
+  "availability": {
+    "inStock": true,
+    "text": "in stock"
+  },
+  "variants": [
+    {
+      "id": "PCPE-0018774",
+      "sku": "PCPE-0018774",
+      "supplierRef": null,
+      "price": {
+        "amount": 99.99,
+        "currency": "EUR",
+        "formatted": "99.99 EUR"
+      },
+      "availability": {
+        "inStock": true,
+        "text": "in stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-rapala-max-fight-z-2767-276742_kekgscey0fdldeyi.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-rapala-max-fight-z-2767-276742_edrzdxfdohnfedby.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T13:26:25.117Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-rapala-max-fight-z-2767-276742_kekgscey0fdldeyi.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018774/01-canne-spinning-rapala-max-fight-z-2767-276742_kekgscey0fdldeyi.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/c/a/canne-spinning-rapala-max-fight-z-2767-276742_edrzdxfdohnfedby.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/PCPE-0018774/02-canne-spinning-rapala-max-fight-z-2767-276742_edrzdxfdohnfedby.jpg",
+      "skipped": false
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "sku": "NT-0006418",
+  "url": "https://www.cabesto.com/fr/verticalite-longe-jane-i-150-cm-petzl-nt-0006418.html",
+  "title": "Longe Jane I 150 cm - PETZL",
+  "brand": "PETZL",
+  "category": "Longes",
+  "topLevel": "montagne",
+  "topLevelLabel": "Montagne",
+  "categoryPath": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Longes"
+  ],
+  "categories": [
+    "Travaux en hauteur, secours",
+    "Travail en hauteur",
+    "Secours",
+    "Industrie",
+    "Longes"
+  ],
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "Longe Jane I 150 cm - PETZL"
+  ],
+  "description": "Achetez Longe Jane I 150 cm - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "supplierRef": "L050BA02",
+  "price": {
+    "amount": 30.95,
+    "currency": "EUR",
+    "formatted": "30.95 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "NT-0006418",
+      "sku": "NT-0006418",
+      "supplierRef": "L050BA02",
+      "price": {
+        "amount": 30.95,
+        "currency": "EUR",
+        "formatted": "30.95 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/r/pr45_1-longe-jane-i-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr45_3-longe-jane-i-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr45_2-longe-jane-i-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+    "https://www.cabesto.com/media/catalog/product/p/r/pr45_1-longe-jane-i-150-cm-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T12:22:14.690Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr45_1-longe-jane-i-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006418/01-pr45_1-longe-jane-i-150-cm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr45_3-longe-jane-i-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006418/02-pr45_3-longe-jane-i-150-cm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr45_2-longe-jane-i-150-cm-petzl.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006418/03-pr45_2-longe-jane-i-150-cm-petzl.jpg",
+      "skipped": false
+    },
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/r/pr45_1-longe-jane-i-150-cm-petzl_1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/NT-0006418/04-pr45_1-longe-jane-i-150-cm-petzl_1.jpg",
+      "skipped": false
+    }
+  ]
+}

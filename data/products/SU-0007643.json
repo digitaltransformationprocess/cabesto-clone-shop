@@ -1,0 +1,65 @@
+{
+  "sku": "SU-0007643",
+  "url": "https://www.cabesto.com/fr/plongee-kit-pile-joint-newton-drake-pl-12998.html",
+  "title": "KIT PILE + JOINT NEWTON / DRAKE",
+  "brand": "CRESSI",
+  "category": "changement-de-piles-ordinateurs",
+  "breadcrumbs": [
+    "Accueil",
+    "Accueil",
+    "KIT PILE + JOINT NEWTON / DRAKE"
+  ],
+  "description": "Kit pile + joint torique pour ordinateur NEWTON & DRAKE CRESSI SUBChangez la pile de votre ordinateur de plongée avec la pile bouton lithium CR2032 3V, vendue ici à l'unité. Kit pile + joint torique de rechange pour le changement de piles de votre montre ordinateur de plongée Newton , ou d'apnée DRAKE Cressi.Informations techniques :Référence CR2032Type de pile LithiumVoltage 3 VFormat BoutonCompatibilité Montre DRAKE & NEWTONContenu du colis1 x Pile lithium CR2032 3V à l'unité.",
+  "supplierRef": "KZ805094",
+  "price": {
+    "amount": 19,
+    "currency": "EUR",
+    "formatted": "19 EUR"
+  },
+  "availability": {
+    "inStock": false,
+    "text": "out of stock"
+  },
+  "variants": [
+    {
+      "id": "SU-0007643",
+      "sku": "SU-0007643",
+      "supplierRef": "KZ805094",
+      "price": {
+        "amount": 19,
+        "currency": "EUR",
+        "formatted": "19 EUR"
+      },
+      "availability": {
+        "inStock": false,
+        "text": "out of stock"
+      }
+    }
+  ],
+  "imageUrls": [
+    "https://www.cabesto.com/media/catalog/product/p/l/pl-12998-pl-12998-picture_1-pl-12998-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds"
+  ],
+  "scrapedAt": "2026-10-13T11:26:19.288Z",
+  "source": "puppeteer",
+  "localImages": [
+    {
+      "url": "https://www.cabesto.com/media/catalog/product/p/l/pl-12998-pl-12998-picture_1-pl-12998-1.jpg?width=1200&optimize=high&bg-color=255%2C255%2C255&fit=bounds",
+      "path": "data/images/SU-0007643/01-pl-12998-pl-12998-picture_1-pl-12998-1.jpg",
+      "skipped": false
+    }
+  ],
+  "topLevel": "plongee",
+  "topLevelLabel": "Plongée",
+  "categoryPath": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee",
+    "changement-de-piles-ordinateurs"
+  ],
+  "categories": [
+    "plongee",
+    "plongee-sous-marine",
+    "ordinateurs-de-plongee",
+    "changement-de-piles-ordinateurs"
+  ]
+}
