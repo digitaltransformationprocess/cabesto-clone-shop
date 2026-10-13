@@ -35,7 +35,7 @@ export function Layout({ children }: { children: ReactNode }) {
                 <button onClick={logout} className="text-muted-foreground hover:text-destructive">Déconnexion</button>
               </>
             ) : <Link to="/connexion" className="hover:text-accent">Mon compte</Link>}
-            <span className="rounded-full bg-accent px-3 py-1 text-accent-foreground">Panier · {count}</span>
+            <Link to="/panier" className="rounded-full bg-accent px-3 py-1 text-accent-foreground hover:opacity-90">Panier · {count}</Link>
           </div>
         </div>
         <nav className="border-t bg-secondary">
@@ -43,7 +43,8 @@ export function Layout({ children }: { children: ReactNode }) {
             {categories.map((c) => (
               <Link key={c.slug} to="/categorie/$slug" params={{ slug: c.slug }} className="whitespace-nowrap hover:text-accent" activeProps={{ className: "text-accent" }}>{c.name}</Link>
             ))}
-            <span className="ml-auto text-accent">Promos</span>
+            <Link to="/magasins" className="ml-auto whitespace-nowrap hover:text-accent">Nos magasins</Link>
+            <Link to="/faq" className="whitespace-nowrap hover:text-accent">Aide</Link>
           </div>
         </nav>
       </header>
@@ -51,9 +52,13 @@ export function Layout({ children }: { children: ReactNode }) {
       <footer className="mt-16 bg-primary text-primary-foreground">
         <div className="mx-auto grid max-w-7xl gap-8 px-4 py-10 text-sm md:grid-cols-4">
           <div><p className="font-display text-xl font-bold">Marinéo</p><p className="mt-2 opacity-75">L'équipement de la mer, pour la pêche, le bateau et la plongée.</p></div>
-          {[["Boutique", categories.map((c) => c.name)], ["Service client", ["Livraison", "Retours", "Contact"]], ["Infos", ["Mentions légales", "CGV", "Cookies"]]].map(([t, l]) => (
-            <div key={t as string}><p className="font-semibold">{t}</p><ul className="mt-2 space-y-1 opacity-75">{(l as string[]).map((x) => <li key={x}>{x}</li>)}</ul></div>
-          ))}
+          <div><p className="font-semibold">Boutique</p><ul className="mt-2 space-y-1 opacity-75">{categories.map((c) => <li key={c.slug}><Link to="/categorie/$slug" params={{ slug: c.slug }}>{c.name}</Link></li>)}</ul></div>
+          <div><p className="font-semibold">Service client</p><ul className="mt-2 space-y-1 opacity-75">
+            <li><Link to="/faq">FAQ</Link></li><li><Link to="/livraison">Livraison</Link></li><li><Link to="/retours">Retours</Link></li><li><Link to="/magasins">Nos magasins</Link></li>
+          </ul></div>
+          <div><p className="font-semibold">Infos</p><ul className="mt-2 space-y-1 opacity-75">
+            <li><Link to="/cgv">CGV</Link></li><li><Link to="/fidelite">Programme fidélité</Link></li>
+          </ul></div>
         </div>
       </footer>
     </div>

@@ -40,7 +40,7 @@ export const testUsers: User[] = [
 
 export const statuses = ["En préparation", "Expédiée", "En transit", "Livrée", "Retournée", "Annulée"] as const;
 export type Status = (typeof statuses)[number];
-export type Order = { id: string; customer: string; email: string; date: string; items: { id: string; qty: number }[]; status: Status; carrier: string };
+export type Order = { id: string; customer: string; email: string; date: string; items: { id: string; qty: number }[]; status: Status; carrier: string; shipping?: { name: string; street: string; zip: string; city: string; phone: string } };
 export const initialOrders: Order[] = [
   { id: "CMD-1042", customer: "Julie Martin", email: "client@test.fr", date: "2026-10-12", items: [{ id: "p1", qty: 1 }, { id: "p3", qty: 2 }], status: "En préparation", carrier: "Colissimo" },
   { id: "CMD-1038", customer: "Julie Martin", email: "client@test.fr", date: "2026-10-08", items: [{ id: "p4", qty: 1 }], status: "En transit", carrier: "Chronopost" },
