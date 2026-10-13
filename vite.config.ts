@@ -12,7 +12,7 @@ import { defineConfig as defineLovableConfig } from "@lovable.dev/vite-tanstack-
 // Charge le .env dans process.env SANS écraser les secrets injectés par la
 // plateforme (Lovable). loadEnv priorise process.env, donc les secrets
 // système restent intacts et le .env local ne sert qu'en complément.
-const mode = process.env.NODE_ENV === "production" ? "production" : "development";
+const mode = process.env["NODE_ENV"] === "production" ? "production" : "development";
 Object.assign(process.env, loadEnv(mode, process.cwd(), ""));
 
 const imagesRoot = path.resolve("data/images");
@@ -58,7 +58,7 @@ export default defineLovableConfig({
   },
   nitro: {
     publicAssets: [{ baseURL: "media", dir: "data/images", maxAge: 60 * 60 * 24 }],
-  },
+  } as never,
   tanstackStart: {
     // Redirect TanStack Start's bundled server entry to src/server.ts (our SSR error wrapper).
     // nitro/vite builds from this

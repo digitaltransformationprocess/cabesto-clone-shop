@@ -202,7 +202,7 @@ export const initialOrders: Order[] = [
     status: "En transit",
     carrier: "Chronopost",
   },
-].filter((o) => o.items.length > 0 && o.items.every((i) => products.some((p) => p.id === i.id)));
+].filter((o) => o.items.length > 0 && o.items.every((i) => products.some((p) => p.id === i.id))) as Order[];
 
 export const orderTotal = (o: Order) =>
   o.items.reduce((s, i) => s + (products.find((p) => p.id === i.id)?.price ?? 0) * i.qty, 0);
