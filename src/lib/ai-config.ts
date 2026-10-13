@@ -35,8 +35,11 @@ function readDotEnvFile(): Record<string, string> {
 }
 
 function env(name: string): string {
+  // Priorité aux secrets injectés par la plateforme, puis au .env local.
+  const fromProcess = (process.env[name] ?? "").trim();
+  if (fromProcess) return fromProcess;
   const file = readDotEnvFile();
-  return (file[name] ?? process.env[name] ?? "").trim();
+  return (file[name] ?? "").trim();
 }
 
 function normalizeProvider(raw: string, apiKey: string): AiConfig["provider"] {
