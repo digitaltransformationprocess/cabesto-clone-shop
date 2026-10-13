@@ -10,33 +10,102 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as AdminRouteImport } from './routes/admin'
+import { Route as CompteRouteImport } from './routes/compte'
+import { Route as ConnexionRouteImport } from './routes/connexion'
+import { Route as CategorieSlugRouteImport } from './routes/categorie.$slug'
+import { Route as ProduitIdRouteImport } from './routes/produit.$id'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AdminRoute = AdminRouteImport.update({
+  id: '/admin',
+  path: '/admin',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CompteRoute = CompteRouteImport.update({
+  id: '/compte',
+  path: '/compte',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ConnexionRoute = ConnexionRouteImport.update({
+  id: '/connexion',
+  path: '/connexion',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CategorieSlugRoute = CategorieSlugRouteImport.update({
+  id: '/categorie/$slug',
+  path: '/categorie/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ProduitIdRoute = ProduitIdRouteImport.update({
+  id: '/produit/$id',
+  path: '/produit/$id',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/admin': typeof AdminRoute
+  '/compte': typeof CompteRoute
+  '/connexion': typeof ConnexionRoute
+  '/categorie/$slug': typeof CategorieSlugRoute
+  '/produit/$id': typeof ProduitIdRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/admin': typeof AdminRoute
+  '/compte': typeof CompteRoute
+  '/connexion': typeof ConnexionRoute
+  '/categorie/$slug': typeof CategorieSlugRoute
+  '/produit/$id': typeof ProduitIdRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/admin': typeof AdminRoute
+  '/compte': typeof CompteRoute
+  '/connexion': typeof ConnexionRoute
+  '/categorie/$slug': typeof CategorieSlugRoute
+  '/produit/$id': typeof ProduitIdRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths:
+    | '/'
+    | '/admin'
+    | '/compte'
+    | '/connexion'
+    | '/categorie/$slug'
+    | '/produit/$id'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to:
+    | '/'
+    | '/admin'
+    | '/compte'
+    | '/connexion'
+    | '/categorie/$slug'
+    | '/produit/$id'
+  id:
+    | '__root__'
+    | '/'
+    | '/admin'
+    | '/compte'
+    | '/connexion'
+    | '/categorie/$slug'
+    | '/produit/$id'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  AdminRoute: typeof AdminRoute
+  CompteRoute: typeof CompteRoute
+  ConnexionRoute: typeof ConnexionRoute
+  CategorieSlugRoute: typeof CategorieSlugRoute
+  ProduitIdRoute: typeof ProduitIdRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +117,51 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/admin': {
+      id: '/admin'
+      path: '/admin'
+      fullPath: '/admin'
+      preLoaderRoute: typeof AdminRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/compte': {
+      id: '/compte'
+      path: '/compte'
+      fullPath: '/compte'
+      preLoaderRoute: typeof CompteRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/connexion': {
+      id: '/connexion'
+      path: '/connexion'
+      fullPath: '/connexion'
+      preLoaderRoute: typeof ConnexionRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/categorie/$slug': {
+      id: '/categorie/$slug'
+      path: '/categorie/$slug'
+      fullPath: '/categorie/$slug'
+      preLoaderRoute: typeof CategorieSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/produit/$id': {
+      id: '/produit/$id'
+      path: '/produit/$id'
+      fullPath: '/produit/$id'
+      preLoaderRoute: typeof ProduitIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  AdminRoute: AdminRoute,
+  CompteRoute: CompteRoute,
+  ConnexionRoute: ConnexionRoute,
+  CategorieSlugRoute: CategorieSlugRoute,
+  ProduitIdRoute: ProduitIdRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
