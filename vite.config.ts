@@ -9,12 +9,10 @@ import path from "node:path";
 import { loadEnv } from "vite";
 import { defineConfig as defineLovableConfig } from "@lovable.dev/vite-tanstack-config";
 
-// Charge le .env dans process.env en FORÇANT l'écrasement (sinon un vieux
-// AI_MODEL reste figé après un restart Vite soft — loadEnv priorise process.env).
+// Charge le .env dans process.env SANS écraser les secrets injectés par la
+// plateforme (Lovable). loadEnv priorise process.env, donc les secrets
+// système restent intacts et le .env local ne sert qu'en complément.
 const mode = process.env.NODE_ENV === "production" ? "production" : "development";
-for (const key of ["AI_API_KEY", "AI_PROVIDER", "AI_MODEL"]) {
-  delete process.env[key];
-}
 Object.assign(process.env, loadEnv(mode, process.cwd(), ""));
 
 const imagesRoot = path.resolve("data/images");
