@@ -1,3 +1,4 @@
+import type React from "react";
 import { createContext, useContext, useEffect, useState, type ReactNode } from "react";
 import { initialOrders, products, testUsers, type Order, type Status, type User } from "./data";
 
@@ -22,7 +23,8 @@ type Ctx = {
   addTicket: (subject: string, message: string) => void;
   setTicketStatus: (id: string, s: Ticket["status"]) => void;
 };
-const StoreCtx = createContext<Ctx | null>(null);
+const g = globalThis as unknown as { __storeCtx?: React.Context<Ctx | null> };
+const StoreCtx = (g.__storeCtx ??= createContext<Ctx | null>(null));
 
 const read = <T,>(k: string, d: T): T => { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch { return d; } };
 const write = (k: string, v: unknown) => localStorage.setItem(k, JSON.stringify(v));
