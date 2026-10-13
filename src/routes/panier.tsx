@@ -19,7 +19,7 @@ function Cart() {
   const nav = useNavigate();
   const lines = Object.entries(cart).map(([id, qty]) => ({ p: products.find((x) => x.id === id)!, qty })).filter((l) => l.p);
   const subtotal = lines.reduce((s, l) => s + l.p.price * l.qty, 0);
-  const [carrier, setCarrier] = useState(carriers[0]);
+  const [carrier, setCarrier] = useState<string>(carriers[0]!);
   const ship = shippingCost(subtotal, carrier);
   const [addr, setAddr] = useState<Address>(profile.shipping ?? { name: user?.name ?? "", street: "", zip: "", city: "", phone: "" });
   const [done, setDone] = useState<string | null>(null);

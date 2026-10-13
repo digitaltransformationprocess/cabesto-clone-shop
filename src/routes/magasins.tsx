@@ -17,7 +17,7 @@ function Stores() {
   const [q, setQ] = useState("");
   const [u, setU] = useState("");
   const list = all.filter((s) => (!u || s.universes.includes(u)) && `${s.name} ${s.city}`.toLowerCase().includes(q.toLowerCase()));
-  const [sel, setSel] = useState<Store>(all[0]);
+  const [sel, setSel] = useState<Store>(all[0]!);
   const d = 0.02;
   const map = sel.lat ? `https://www.openstreetmap.org/export/embed.html?bbox=${sel.lng! - d},${sel.lat - d},${sel.lng! + d},${sel.lat + d}&layer=mapnik&marker=${sel.lat},${sel.lng}` : "";
   return (
