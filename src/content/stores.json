@@ -1,0 +1,345 @@
+[
+ {
+  "name": "Cabesto Aubagne",
+  "address": "Zone commerciale d'Auchan - ZAC Le Pastré 2",
+  "city": "13400 Aubagne, France",
+  "phone": "0496180018",
+  "universes": [
+   "Nautisme",
+   "Pêche",
+   "Plongée",
+   "Glisse",
+   "Textile",
+   "Montagne",
+   "Alimentation",
+   "Piscine"
+  ],
+  "hours": "09h00 à 20h00",
+  "lat": 43.2936526,
+  "lng": 5.5631851
+ },
+ {
+  "name": "Cabesto Brest",
+  "address": "47 rue Amiral Romain Desfosses",
+  "city": "29200 Brest, France",
+  "phone": "0290828488",
+  "universes": [
+   "Nautisme",
+   "Pêche",
+   "Plongée",
+   "Glisse",
+   "Textile",
+   "Montagne",
+   "Alimentation",
+   "Piscine"
+  ],
+  "hours": "09h30 à 19h30",
+  "lat": 48.4272631,
+  "lng": -4.472692
+ },
+ {
+  "name": "Cabesto Cogolin",
+  "address": "9005 rue Blaise Pascal",
+  "city": "83310 Cogolin, France",
+  "phone": "0483368341",
+  "universes": [
+   "Nautisme",
+   "Pêche",
+   "Plongée",
+   "Glisse",
+   "Piscine"
+  ],
+  "hours": "09h00 à 12h30 / 14h00 à 18h00",
+  "lat": 43.2560082,
+  "lng": 6.5226958
+ },
+ {
+  "name": "Cabesto Mandelieu",
+  "address": "Sortie n°41, Autoroute A 8, La Canardière",
+  "city": "06210 Mandelieu La Napoule, France",
+  "phone": "0492973190",
+  "universes": [
+   "Nautisme",
+   "Pêche",
+   "Plongée",
+   "Glisse",
+   "Textile",
+   "Montagne",
+   "Alimentation",
+   "Piscine"
+  ],
+  "hours": "09h00 à 20h00",
+  "lat": 43.5381554,
+  "lng": 6.9182303
+ },
+ {
+  "name": "Cabesto Mauguio",
+  "address": "Sortie 29 – Autoroute A9, D66 route de Vauguières, sortie Lattes",
+  "city": "34130 Mauguio, France",
+  "phone": "0467152424",
+  "universes": [
+   "Nautisme",
+   "Pêche",
+   "Plongée",
+   "Glisse",
+   "Textile",
+   "Montagne",
+   "Alimentation",
+   "Piscine"
+  ],
+  "hours": "09h00 à 20h00",
+  "lat": 43.6108026,
+  "lng": 4.0206652
+ },
+ {
+  "name": "Cabesto Montagne Pont-en-Royans",
+  "address": "2925 route du Vercors",
+  "city": "38680 Auberives-en-Royans, France",
+  "phone": "0457330058",
+  "universes": [],
+  "hours": "10h00 à 13h00 / 14h30 à 18h30",
+  "lat": 45.056944,
+  "lng": 5.318924
+ },
+ {
+  "name": "Cabesto Montagne Clermont-Ferrand",
+  "address": "96 Boulevard Lafayette",
+  "city": "63000 Clermont-Ferrand, France",
+  "phone": "0473930768",
+  "universes": [],
+  "hours": "10h00 à 19h00",
+  "lat": 45.7706857,
+  "lng": 3.1006352
+ },
+ {
+  "name": "Cabesto Montagne Lyon",
+  "address": "102 rue Boileau",
+  "city": "69006 Lyon, France",
+  "phone": "0437242223",
+  "universes": [],
+  "hours": "11h00 à 14h00 / 15h00 à 19h00",
+  "lat": 45.7673204,
+  "lng": 4.8491991
+ },
+ {
+  "name": "Cabesto Montagne Montpellier",
+  "address": "3 cours Gambetta",
+  "city": "34000 Montpellier, France",
+  "phone": "0467584769",
+  "universes": [],
+  "hours": "10h00 à 19h00",
+  "lat": 43.6052511,
+  "lng": 3.8742008
+ },
+ {
+  "name": "Cabesto Montagne Saint-Étienne",
+  "address": "19 place Chavanelle",
+  "city": "42000 Saint-Étienne, France",
+  "phone": "0477490314",
+  "universes": [],
+  "hours": "10h00 à 19h00",
+  "lat": 45.4344669,
+  "lng": 4.3922093
+ },
+ {
+  "name": "Cabesto Ollioules",
+  "address": "765 Chemin de Lagoubran",
+  "city": "83190 Ollioules, France",
+  "phone": "0498070240",
+  "universes": [
+   "Nautisme",
+   "Pêche",
+   "Plongée",
+   "Glisse",
+   "Textile",
+   "Montagne",
+   "Alimentation",
+   "Piscine"
+  ],
+  "hours": "09h00 à 20h00",
+  "lat": 43.1247874,
+  "lng": 5.879088
+ },
+ {
+  "name": "Cabesto Rivesaltes",
+  "address": "Z.C. Cap Roussillon, rue H. Chretien - Sortie 3, Direction les plages, D83",
+  "city": "66600 Rivesaltes, France",
+  "phone": "0468084050",
+  "universes": [
+   "Nautisme",
+   "Pêche",
+   "Plongée",
+   "Glisse",
+   "Textile",
+   "Montagne",
+   "Alimentation",
+   "Piscine"
+  ],
+  "hours": "09h00 à 20h00",
+  "lat": 42.7733887,
+  "lng": 2.8710269
+ },
+ {
+  "name": "Cabesto Toulon Grand Var",
+  "address": "23 Centre Grand Var",
+  "city": "83160 La Valette du var, France",
+  "phone": "0483361740",
+  "universes": [
+   "Nautisme",
+   "Pêche",
+   "Plongée",
+   "Glisse",
+   "Textile",
+   "Montagne",
+   "Alimentation",
+   "Piscine"
+  ],
+  "hours": "09h00 à 20h00",
+  "lat": 43.150256,
+  "lng": 5.9918532
+ },
+ {
+  "name": "Cabesto Lorient",
+  "address": "2 Rue François Truffaut",
+  "city": "56100 Lorient, France",
+  "phone": "0256540566",
+  "universes": [
+   "Nautisme",
+   "Pêche",
+   "Plongée",
+   "Glisse",
+   "Textile",
+   "Montagne",
+   "Alimentation",
+   "Piscine"
+  ],
+  "hours": "09h00 à 19h30",
+  "lat": 47.7578394,
+  "lng": -3.3886197
+ },
+ {
+  "name": "Cabesto Martigues",
+  "address": "Boulevard Paul Eluard - Zone commerciale Canto Perdrix",
+  "city": "13500 Martigues, France",
+  "phone": "0486176628",
+  "universes": [
+   "Nautisme",
+   "Pêche",
+   "Plongée",
+   "Glisse",
+   "Textile",
+   "Alimentation",
+   "Piscine"
+  ],
+  "hours": "09h00 à 19h30",
+  "lat": 43.381012,
+  "lng": 5.0499786
+ },
+ {
+  "name": "Cabesto Piscine Saint-Mitre",
+  "address": "Zac Des Étangs, 10 Rue des Roseaux",
+  "city": "13920 Saint-Mitre-les-Remparts, France",
+  "phone": "0442440765",
+  "universes": [],
+  "hours": "09h00 à 12h00 / 14h00 à 18h00",
+  "lat": 43.4554748,
+  "lng": 5.0151833
+ },
+ {
+  "name": "Cabesto Mer Bandol",
+  "address": "Le Pont d'Aran",
+  "city": "83150 Bandol, France",
+  "phone": "0494887052",
+  "universes": [],
+  "hours": "09h00 à 12h30 / 14h00 à 18h00",
+  "lat": 43.1477637,
+  "lng": 5.7475696
+ },
+ {
+  "name": "Cabesto Mer Saint-Tropez",
+  "address": "Chantiers Navals de Beaulieu - 8 Allée du Quai de l’Epi",
+  "city": "83990 Saint-Tropez, France",
+  "phone": "0494970019",
+  "universes": [],
+  "hours": "09h00 à 12h00 / 14h00 à 16h30",
+  "lat": 43.2624342,
+  "lng": 6.6633865
+ },
+ {
+  "name": "Cabesto Sérignan",
+  "address": "400 Avenue Edgar Faure ",
+  "city": "34410 Sérignan, France",
+  "phone": "0449014015",
+  "universes": [
+   "Nautisme",
+   "Pêche",
+   "Plongée",
+   "Glisse",
+   "Textile",
+   "Alimentation",
+   "Piscine"
+  ],
+  "hours": "09h00 à 19h30",
+  "lat": 43.266359,
+  "lng": 3.2839407
+ },
+ {
+  "name": "Cabesto Guadeloupe - Ouverture prochainement",
+  "address": "343 rue Ferdinand Forest",
+  "city": "97122 Baie-Mahault, Guadeloupe",
+  "phone": "",
+  "universes": [
+   "Nautisme",
+   "Pêche",
+   "Plongée",
+   "Glisse",
+   "Textile",
+   "Montagne",
+   "Alimentation",
+   "Piscine"
+  ],
+  "hours": "09h00 à 19h00",
+  "lat": 16.2393395,
+  "lng": -61.570468
+ },
+ {
+  "name": "Cabesto Mer Marseille Vieux Port",
+  "address": "23 Quai de Rive Neuve",
+  "city": "13007 Marseille, France",
+  "phone": "",
+  "universes": [],
+  "hours": "08h30 à 12h30 / 14h00 à 18h30",
+  "lat": 43.2929249,
+  "lng": 5.3699561
+ },
+ {
+  "name": "Cabesto Mer Saint-Cyprien",
+  "address": "ZI du Port, 7 rue Maurice Ravel",
+  "city": "66750 Saint-Cyprien, France",
+  "phone": "0468213858",
+  "universes": [],
+  "hours": "09h00 à 12h00 / 14h00 à 18h00",
+  "lat": 42.6214894,
+  "lng": 3.0164703
+ },
+ {
+  "name": "Cabesto Mer Antibes",
+  "address": "14 Boulevard d’Aguillon",
+  "city": "06600 Antibes, France",
+  "phone": "",
+  "universes": [],
+  "hours": "08h30 à 18h00",
+  "lat": 43.583162,
+  "lng": 7.1247818
+ },
+ {
+  "name": "Cabesto Mer Belz - Ouverture prochainement",
+  "address": "1 Rue Gutenberg",
+  "city": "56550 Belz, France",
+  "phone": "0297553355",
+  "universes": [],
+  "hours": "09h00 à 19h00",
+  "lat": 47.6688218,
+  "lng": -3.184877
+ }
+]
