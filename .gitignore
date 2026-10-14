@@ -37,3 +37,6 @@ dist-ssr
 *.sw?
 .env.local
 .env
+# Local seed / upload scratch
+.tmp/
+

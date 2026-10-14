@@ -1,1 +1,0 @@
-select public.import_products($json$[{"sku":"PBSU-58","name":"Pack ordinateur de plongée GENIUS MARES + Transmetteur LED TANK MARES & sacoche DIVER MARES","brand":"MARES","category_path":["plongee"],"

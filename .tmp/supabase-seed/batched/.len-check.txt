@@ -1,2 +1,0 @@
-44277 -- brands
-insert int  excluded.parent_id;
