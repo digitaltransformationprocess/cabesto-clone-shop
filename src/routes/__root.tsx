@@ -11,6 +11,7 @@ import {
 import { useEffect, type ReactNode } from "react";
 
 import appCss from "../styles.css?url";
+import { ensureCatalog } from "../lib/data";
 import { StoreProvider } from "../lib/store";
 import { reportLovableError } from "../lib/lovable-error-reporting";
 
@@ -98,6 +99,9 @@ function ErrorComponent({ error, reset }: ErrorComponentProps) {
 }
 
 export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()({
+  beforeLoad: async () => {
+    await ensureCatalog();
+  },
   head: () => ({
     meta: [
       { charSet: "utf-8" },

@@ -26,7 +26,7 @@ function Index() {
             <p className="font-semibold uppercase tracking-widest text-accent">Catalogue Cabesto</p>
             <h1 className="mt-3 font-display text-5xl font-extrabold leading-tight">Tout pour prendre le large.</h1>
             <p className="mt-4 max-w-md opacity-85">
-              {products.length.toLocaleString("fr-FR")} références scrapées — nautisme, plongée, pêche, montagne, piscine et plus.
+              {products.length.toLocaleString("fr-FR")} références — nautisme, plongée, pêche, montagne, piscine et plus.
             </p>
             <Link
               to="/categorie/$"

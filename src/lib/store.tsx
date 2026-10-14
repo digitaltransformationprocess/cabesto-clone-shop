@@ -47,7 +47,7 @@ const cartKey = (u: User | null) => `demo-cart:${u?.email ?? "guest"}`;
 export function StoreProvider({ children }: { children: ReactNode }) {
   const [user, setUser] = useState<User | null>(null);
   const [cart, setCartState] = useState<Record<string, number>>({});
-  const [orders, setOrders] = useState<Order[]>(initialOrders);
+  const [orders, setOrders] = useState<Order[]>(() => initialOrders);
   const [profiles, setProfiles] = useState<Record<string, Profile>>({});
   const [tickets, setTickets] = useState<Ticket[]>([]);
 

@@ -1,0 +1,9 @@
+{
+  "file": "02-products-00.sql",
+  "queryLen": 177911,
+  "chunks": [
+    "c:\\Users\\bilal\\Desktop\\the IA app\\cabesto-clone-shop\\.tmp\\supabase-seed\\batched\\.mcp-staged\\02-products-00.sql.chunk0.json",
+    "c:\\Users\\bilal\\Desktop\\the IA app\\cabesto-clone-shop\\.tmp\\supabase-seed\\batched\\.mcp-staged\\02-products-00.sql.chunk1.json",
+    "c:\\Users\\bilal\\Desktop\\the IA app\\cabesto-clone-shop\\.tmp\\supabase-seed\\batched\\.mcp-staged\\02-products-00.sql.chunk2.json"
+  ]
+}

@@ -17,31 +17,40 @@ Object.assign(process.env, loadEnv(mode, process.cwd(), ""));
 
 const imagesRoot = path.resolve("data/images");
 
+function serveMedia(
+  req: { url?: string },
+  res: { setHeader: (k: string, v: string) => void; pipe?: unknown } & NodeJS.WritableStream,
+  next: () => void,
+) {
+  try {
+    const urlPath = decodeURIComponent(String(req.url || "/").split("?")[0] || "/");
+    const file = path.normalize(path.join(imagesRoot, urlPath));
+    if (!file.startsWith(imagesRoot)) return next();
+    if (!fs.existsSync(file) || !fs.statSync(file).isFile()) return next();
+    const ext = path.extname(file).toLowerCase();
+    const types: Record<string, string> = {
+      ".jpg": "image/jpeg",
+      ".jpeg": "image/jpeg",
+      ".png": "image/png",
+      ".webp": "image/webp",
+      ".gif": "image/gif",
+    };
+    res.setHeader("Content-Type", types[ext] || "application/octet-stream");
+    res.setHeader("Cache-Control", "public, max-age=86400");
+    fs.createReadStream(file).pipe(res);
+  } catch {
+    next();
+  }
+}
+
 function mediaPlugin() {
   return {
     name: "cabesto-media",
-    configureServer(server: { middlewares: { use: (path: string, fn: (req: any, res: any, next: () => void) => void) => void } }) {
-      server.middlewares.use("/media", (req, res, next) => {
-        try {
-          const urlPath = decodeURIComponent(String(req.url || "/").split("?")[0] || "/");
-          const file = path.normalize(path.join(imagesRoot, urlPath));
-          if (!file.startsWith(imagesRoot)) return next();
-          if (!fs.existsSync(file) || !fs.statSync(file).isFile()) return next();
-          const ext = path.extname(file).toLowerCase();
-          const types: Record<string, string> = {
-            ".jpg": "image/jpeg",
-            ".jpeg": "image/jpeg",
-            ".png": "image/png",
-            ".webp": "image/webp",
-            ".gif": "image/gif",
-          };
-          res.setHeader("Content-Type", types[ext] || "application/octet-stream");
-          res.setHeader("Cache-Control", "public, max-age=86400");
-          fs.createReadStream(file).pipe(res);
-        } catch {
-          next();
-        }
-      });
+    configureServer(server: { middlewares: { use: (path: string, fn: typeof serveMedia) => void } }) {
+      server.middlewares.use("/media", serveMedia);
+    },
+    configurePreviewServer(server: { middlewares: { use: (path: string, fn: typeof serveMedia) => void } }) {
+      server.middlewares.use("/media", serveMedia);
     },
   };
 }
@@ -51,14 +60,16 @@ export default defineLovableConfig({
     plugins: [mediaPlugin()],
     server: {
       fs: { allow: [path.resolve("."), path.resolve("data")] },
+      // data/ holds ~7k scraped images/JSON — watching them freezes Vite SSR
+      // (transport invoke timed out on virtual:tanstack-start-server-entry).
+      watch: {
+        ignored: ["**/data/**", "**/src/lib/catalog.json"],
+      },
     },
     json: {
       stringify: true,
     },
   },
-  nitro: {
-    publicAssets: [{ baseURL: "media", dir: "data/images", maxAge: 60 * 60 * 24 }],
-  } as never,
   tanstackStart: {
     // Redirect TanStack Start's bundled server entry to src/server.ts (our SSR error wrapper).
     // nitro/vite builds from this

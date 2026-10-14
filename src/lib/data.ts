@@ -1,8 +1,5 @@
-import pecheImg from "@/assets/cat-peche.jpg";
 import nautismeImg from "@/assets/cat-nautisme.jpg";
-import plongeeImg from "@/assets/cat-plongee.jpg";
-import vetementsImg from "@/assets/cat-vetements.jpg";
-import catalog from "./catalog.json";
+import { ensureCatalog as fetchCatalogFromSupabase } from "./catalog";
 
 export type CategoryNode = {
   slug: string;
@@ -29,33 +26,44 @@ export type Product = {
 /** Top-level universes for nav / home (from category-tree). */
 export type Category = { slug: string; name: string; tagline: string; image: string; path: string[] };
 
-const universeImages: Record<string, string> = {
-  peche: pecheImg,
-  nautisme: nautismeImg,
-  plongee: plongeeImg,
-  textile: vetementsImg,
-  vetements: vetementsImg,
-};
+/** Filled by `ensureCatalog()` from Supabase (root beforeLoad). */
+export const products: Product[] = [];
+export const categoryTree: CategoryNode[] = [];
+export const categories: Category[] = [];
+export let initialOrders: Order[] = [];
 
-export const categoryTree = catalog.tree as CategoryNode[];
-export const products = catalog.products as Product[];
+/** Load catalogue from Supabase into the exported arrays (idempotent / cached). */
+export async function ensureCatalog() {
+  const snap = await fetchCatalogFromSupabase();
+  products.splice(0, products.length, ...snap.products);
+  categoryTree.splice(0, categoryTree.length, ...snap.categoryTree);
+  categories.splice(0, categories.length, ...snap.categories);
+  initialOrders = snap.initialOrders;
+  return snap;
+}
 
 const fallbackCover = (slug: string) => {
   const hit = products.find((p) => p.category === slug && p.cover);
   return hit?.cover ?? nautismeImg;
 };
 
-export const categories: Category[] = categoryTree.map((u) => ({
-  slug: u.slug,
-  name: u.name,
-  tagline: `${u.productCount} produit${u.productCount > 1 ? "s" : ""}`,
-  image: universeImages[u.slug] ?? fallbackCover(u.slug),
-  path: u.path,
-}));
+/** Storage URLs are already absolute; keep helper for any leftover /media paths. */
+export function mediaUrl(src: string): string {
+  if (!src || src.startsWith("http://") || src.startsWith("https://") || src.startsWith("data:")) {
+    return src;
+  }
+  const base = (import.meta.env.VITE_SUPABASE_URL as string | undefined)?.replace(/\/$/, "");
+  if (base && src.startsWith("/media/")) {
+    return `${base}/storage/v1/object/public/product-media/${src.slice("/media/".length)}`;
+  }
+  return src;
+}
 
-export const productImage = (p: Product) => p.cover || p.images[0] || fallbackCover(p.category);
+export const productImage = (p: Product) =>
+  mediaUrl(p.cover || p.images[0] || fallbackCover(p.category));
 
-export const productImages = (p: Product) => (p.images?.length ? p.images : [productImage(p)]);
+export const productImages = (p: Product) =>
+  (p.images?.length ? p.images : [p.cover || fallbackCover(p.category)]).map(mediaUrl);
 
 export const euro = (n: number) => n.toLocaleString("fr-FR", { style: "currency", currency: "EUR" });
 
@@ -116,93 +124,6 @@ export type Order = {
   carrier: string;
   shipping?: { name: string; street: string; zip: string; city: string; phone: string };
 };
-
-const pick = (...ids: string[]) => ids.filter((id) => products.some((p) => p.id === id));
-const sampleIds = pick(
-  products[0]?.id ?? "",
-  products[1]?.id ?? "",
-  products[2]?.id ?? "",
-  products.find((p) => p.category === "plongee")?.id ?? "",
-  products.find((p) => p.category === "nautisme")?.id ?? "",
-  products.find((p) => p.category === "peche")?.id ?? "",
-  products.find((p) => p.category === "montagne")?.id ?? "",
-  products.find((p) => p.category === "piscine")?.id ?? "",
-);
-
-export const initialOrders: Order[] = [
-  {
-    id: "CMD-1042",
-    customer: "Julie Martin",
-    email: "client@test.fr",
-    date: "2026-10-12",
-    items: sampleIds.slice(0, 2).map((id, i) => ({ id, qty: i === 1 ? 2 : 1 })),
-    status: "En préparation",
-    carrier: "Colissimo",
-  },
-  {
-    id: "CMD-1038",
-    customer: "Julie Martin",
-    email: "client@test.fr",
-    date: "2026-10-08",
-    items: sampleIds.slice(2, 3).map((id) => ({ id, qty: 1 })),
-    status: "En transit",
-    carrier: "Chronopost",
-  },
-  {
-    id: "CMD-1021",
-    customer: "Julie Martin",
-    email: "client@test.fr",
-    date: "2026-09-21",
-    items: sampleIds.slice(3, 5).map((id) => ({ id, qty: 1 })),
-    status: "Livrée",
-    carrier: "Colissimo",
-  },
-  {
-    id: "CMD-1009",
-    customer: "Julie Martin",
-    email: "client@test.fr",
-    date: "2026-09-02",
-    items: sampleIds.slice(0, 1).map((id) => ({ id, qty: 1 })),
-    status: "Retournée",
-    carrier: "Mondial Relay",
-  },
-  {
-    id: "CMD-1040",
-    customer: "Thomas Kerboul",
-    email: "thomas@mail.fr",
-    date: "2026-10-11",
-    items: sampleIds.slice(5, 6).map((id) => ({ id, qty: 1 })),
-    status: "Expédiée",
-    carrier: "DHL",
-  },
-  {
-    id: "CMD-1036",
-    customer: "Nadia Rousseau",
-    email: "nadia@mail.fr",
-    date: "2026-10-06",
-    items: sampleIds.slice(6, 8).map((id) => ({ id, qty: 1 })),
-    status: "Livrée",
-    carrier: "Transporteur",
-  },
-  {
-    id: "CMD-1033",
-    customer: "Paul Riou",
-    email: "paul@mail.fr",
-    date: "2026-10-03",
-    items: sampleIds.slice(1, 2).map((id) => ({ id, qty: 1 })),
-    status: "Annulée",
-    carrier: "Colissimo",
-  },
-  {
-    id: "CMD-1030",
-    customer: "Emma Guen",
-    email: "emma@mail.fr",
-    date: "2026-09-29",
-    items: sampleIds.slice(3, 5).map((id) => ({ id, qty: 1 })),
-    status: "En transit",
-    carrier: "Chronopost",
-  },
-].filter((o) => o.items.length > 0 && o.items.every((i) => products.some((p) => p.id === i.id))) as Order[];
 
 export const orderTotal = (o: Order) =>
   o.items.reduce((s, i) => s + (products.find((p) => p.id === i.id)?.price ?? 0) * i.qty, 0);
