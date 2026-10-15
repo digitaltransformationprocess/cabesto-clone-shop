@@ -1,4 +1,5 @@
-import { getAiConfig } from "./ai-config";
+import { createServerFn } from "@tanstack/react-start";
+import { getServerAiConfig } from "./ai-config";
 
 export type AiConfig = { provider: "google" | "openrouter"; apiKey: string; model: string };
 export type AiPublicStatus = {
@@ -37,7 +38,7 @@ async function loadContentDocs() {
 }
 
 async function callAi(cfg: AiConfig, messages: { role: string; content: string }[]) {
-  if (!cfg.apiKey) throw new Error("Aucune clé API configurée. Renseigne AI_API_KEY (ou VITE_AI_API_KEY) dans .env.");
+  if (!cfg.apiKey) throw new Error("Aucune clé API configurée. Renseigne AI_API_KEY dans le fichier .env.");
   const res = await fetch(ENDPOINTS[cfg.provider], {
     method: "POST",
     headers: {
@@ -59,7 +60,7 @@ async function callAi(cfg: AiConfig, messages: { role: string; content: string }
     }
     if (res.status === 429) {
       throw new Error(
-        "Quota API dépassé. Attends un peu, change de modèle dans .env, ou utilise OpenRouter (AI_PROVIDER=openrouter).",
+        "Quota API dépassé (limite gratuite Gemini). Attends un peu, change de modèle dans .env (ex. gemini-2.0-flash), ou utilise OpenRouter (AI_PROVIDER=openrouter).",
       );
     }
     throw new Error(`Erreur ${res.status} : ${msg}`);
@@ -68,19 +69,18 @@ async function callAi(cfg: AiConfig, messages: { role: string; content: string }
   return (j.choices?.[0]?.message?.content as string) ?? "";
 }
 
-export async function getAiStatus(): Promise<AiPublicStatus> {
-  const cfg = getAiConfig();
+export const getAiStatus = createServerFn({ method: "POST" }).handler(async (): Promise<AiPublicStatus> => {
+  const cfg = getServerAiConfig();
   if (!cfg) return { configured: false, provider: null, model: null };
   return { configured: true, provider: cfg.provider, model: cfg.model };
-}
+});
 
-export async function testAiConnection() {
-  const cfg = getAiConfig();
+export const testAiConnection = createServerFn({ method: "POST" }).handler(async () => {
+  const cfg = getServerAiConfig();
   if (!cfg) {
     return {
       ok: false,
-      message:
-        "AI_API_KEY manquante dans .env. Copie .env.example vers .env et renseigne la clé, puis redémarre npm run dev.",
+      message: "AI_API_KEY manquante dans .env. Copie .env.example vers .env et renseigne la clé, puis redémarre npm run dev.",
     };
   }
   try {
@@ -89,27 +89,30 @@ export async function testAiConnection() {
   } catch (e) {
     return { ok: false, message: (e as Error).message };
   }
-}
+});
 
-export async function chatWithAi(input: { messages: Msg[]; context: string }) {
-  try {
-    const cfg = getAiConfig();
-    if (!cfg) {
-      return {
-        ok: false as const,
-        reply:
-          "L'assistant n'est pas configuré. Ajoute `AI_API_KEY` dans `.env`, puis redémarre `npm run dev`.",
-      };
-    }
+export const chatWithAi = createServerFn({ method: "POST" })
+  .validator((d: { messages: Msg[]; context: string }) => ({
+    messages: Array.isArray(d?.messages) ? d.messages : [],
+    context: typeof d?.context === "string" ? d.context : "",
+  }))
+  .handler(async ({ data }) => {
+    try {
+      const cfg = getServerAiConfig();
+      if (!cfg) {
+        return {
+          ok: false as const,
+          reply:
+            "L'assistant n'est pas configuré. Ajoute `AI_API_KEY` dans le fichier `.env` à la racine du projet, puis redémarre le serveur (`npm run dev`).",
+        };
+      }
 
-    const docs = await loadContentDocs();
-    const messages = Array.isArray(input.messages) ? input.messages : [];
-    const context = typeof input.context === "string" ? input.context : "";
+      const docs = await loadContentDocs();
 
-    const system = `Tu es l'assistant de la boutique Marinéo (matériel marin : pêche, nautisme, plongée, vêtements). Réponds en français, de façon courte et utile, en markdown.
+      const system = `Tu es l'assistant de la boutique Marinéo (matériel marin : pêche, nautisme, plongée, vêtements). Réponds en français, de façon courte et utile, en markdown.
 Règles : les faits (prix, stock, statut de commande, transporteur, n° de suivi) viennent UNIQUEMENT des données ci-dessous ; n'invente jamais. Si une info manque, dis-le et propose le Support Client (onglet « Support Client » du compte) ou le 01 89 61 14 22. Pour un produit, donne nom, prix, stock et le lien markdown [voir](/produit/ID). Pour une commande, le client doit être connecté ; ne parle jamais des commandes d'un autre client.
 
-${context.slice(0, 20000)}
+${data.context.slice(0, 20000)}
 
 ## Livraison
 ${docs.livraison.slice(0, 4000)}
@@ -120,16 +123,16 @@ ${docs.retours.slice(0, 3000)}
 ## FAQ
 ${docs.faq.slice(0, 8000)}`;
 
-    const reply = await callAi(cfg, [
-      { role: "system", content: system },
-      ...messages.slice(-12).map((m) => ({
-        role: m.role,
-        content: String(m.content ?? ""),
-      })),
-    ]);
-    return { ok: true as const, reply: reply || "Je n'ai pas pu formuler de réponse." };
-  } catch (e) {
-    console.error("[chatWithAi]", e);
-    return { ok: false as const, reply: (e as Error).message || "Erreur assistant IA" };
-  }
-}
+      const reply = await callAi(cfg, [
+        { role: "system", content: system },
+        ...data.messages.slice(-12).map((m) => ({
+          role: m.role,
+          content: String(m.content ?? ""),
+        })),
+      ]);
+      return { ok: true as const, reply: reply || "Je n'ai pas pu formuler de réponse." };
+    } catch (e) {
+      console.error("[chatWithAi]", e);
+      return { ok: false as const, reply: (e as Error).message || "Erreur assistant IA" };
+    }
+  });

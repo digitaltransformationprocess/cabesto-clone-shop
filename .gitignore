@@ -39,7 +39,6 @@ dist-ssr
 .env
 # Local seed / upload scratch
 .tmp/
-.lovable/
 
 # Product photos live in Supabase Storage (product-media)
 data/images/

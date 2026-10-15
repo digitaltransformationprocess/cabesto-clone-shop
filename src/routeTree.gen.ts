@@ -20,6 +20,7 @@ import { Route as LivraisonRouteImport } from './routes/livraison'
 import { Route as MagasinsRouteImport } from './routes/magasins'
 import { Route as PanierRouteImport } from './routes/panier'
 import { Route as RetoursRouteImport } from './routes/retours'
+import { Route as ApiChatRouteImport } from './routes/api/chat'
 import { Route as CategorieSplatRouteImport } from './routes/categorie.$'
 import { Route as ProduitIdRouteImport } from './routes/produit.$id'
 
@@ -78,6 +79,11 @@ const RetoursRoute = RetoursRouteImport.update({
   path: '/retours',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ApiChatRoute = ApiChatRouteImport.update({
+  id: '/api/chat',
+  path: '/api/chat',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const CategorieSplatRoute = CategorieSplatRouteImport.update({
   id: '/categorie/$',
   path: '/categorie/$',
@@ -101,6 +107,7 @@ export interface FileRoutesByFullPath {
   '/magasins': typeof MagasinsRoute
   '/panier': typeof PanierRoute
   '/retours': typeof RetoursRoute
+  '/api/chat': typeof ApiChatRoute
   '/categorie/$': typeof CategorieSplatRoute
   '/produit/$id': typeof ProduitIdRoute
 }
@@ -116,6 +123,7 @@ export interface FileRoutesByTo {
   '/magasins': typeof MagasinsRoute
   '/panier': typeof PanierRoute
   '/retours': typeof RetoursRoute
+  '/api/chat': typeof ApiChatRoute
   '/categorie/$': typeof CategorieSplatRoute
   '/produit/$id': typeof ProduitIdRoute
 }
@@ -132,6 +140,7 @@ export interface FileRoutesById {
   '/magasins': typeof MagasinsRoute
   '/panier': typeof PanierRoute
   '/retours': typeof RetoursRoute
+  '/api/chat': typeof ApiChatRoute
   '/categorie/$': typeof CategorieSplatRoute
   '/produit/$id': typeof ProduitIdRoute
 }
@@ -149,6 +158,7 @@ export interface FileRouteTypes {
     | '/magasins'
     | '/panier'
     | '/retours'
+    | '/api/chat'
     | '/categorie/$'
     | '/produit/$id'
   fileRoutesByTo: FileRoutesByTo
@@ -164,6 +174,7 @@ export interface FileRouteTypes {
     | '/magasins'
     | '/panier'
     | '/retours'
+    | '/api/chat'
     | '/categorie/$'
     | '/produit/$id'
   id:
@@ -179,6 +190,7 @@ export interface FileRouteTypes {
     | '/magasins'
     | '/panier'
     | '/retours'
+    | '/api/chat'
     | '/categorie/$'
     | '/produit/$id'
   fileRoutesById: FileRoutesById
@@ -195,6 +207,7 @@ export interface RootRouteChildren {
   MagasinsRoute: typeof MagasinsRoute
   PanierRoute: typeof PanierRoute
   RetoursRoute: typeof RetoursRoute
+  ApiChatRoute: typeof ApiChatRoute
   CategorieSplatRoute: typeof CategorieSplatRoute
   ProduitIdRoute: typeof ProduitIdRoute
 }
@@ -278,6 +291,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof RetoursRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/api/chat': {
+      id: '/api/chat'
+      path: '/api/chat'
+      fullPath: '/api/chat'
+      preLoaderRoute: typeof ApiChatRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/categorie/$': {
       id: '/categorie/$'
       path: '/categorie/$'
@@ -307,9 +327,19 @@ const rootRouteChildren: RootRouteChildren = {
   MagasinsRoute: MagasinsRoute,
   PanierRoute: PanierRoute,
   RetoursRoute: RetoursRoute,
+  ApiChatRoute: ApiChatRoute,
   CategorieSplatRoute: CategorieSplatRoute,
   ProduitIdRoute: ProduitIdRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
   ._addFileTypes<FileRouteTypes>()
+
+import type { getRouter } from './router.tsx'
+import type { createStart } from '@tanstack/react-start'
+declare module '@tanstack/react-start' {
+  interface Register {
+    ssr: true
+    router: Awaited<ReturnType<typeof getRouter>>
+  }
+}
