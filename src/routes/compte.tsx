@@ -67,7 +67,12 @@ function Account() {
                 )}
                 <ul className="space-y-1">{o.items.map((i) => <li key={i.id}>{i.qty}× {productName(i.id)}</li>)}</ul>
                 {o.shipping && <p className="mt-2 text-muted-foreground">Livraison : {o.shipping.street}, {o.shipping.zip} {o.shipping.city}</p>}
-                {["Expédiée", "En transit", "Livrée"].includes(o.status) && <p className="mt-2">N° de suivi : <b>{o.carrier.slice(0, 2).toUpperCase()}{o.id.replace("CMD-", "")}FR</b></p>}
+                {["Expédiée", "En transit", "Livrée"].includes(o.status) && (
+                  <p className="mt-2">
+                    N° de suivi :{" "}
+                    <b>{o.trackingCode || `${o.carrier.slice(0, 2).toUpperCase()}${o.id.replace("CMD-", "")}FR`}</b>
+                  </p>
+                )}
                 {o.status === "Livrée" && <Link to="/retours" className="mt-2 inline-block text-accent underline">Retourner un article</Link>}
               </div>
             )}

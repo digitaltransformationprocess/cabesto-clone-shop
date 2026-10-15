@@ -1,6 +1,7 @@
 import type React from "react";
 import { createContext, useContext, useEffect, useState, type ReactNode } from "react";
 import { initialOrders, products, testUsers, type Order, type Status, type User } from "./data";
+import { fetchOrdersFromSupabase } from "./orders";
 
 export type Address = { name: string; street: string; zip: string; city: string; phone: string };
 export type Profile = { newsletter: boolean; billing?: Address; shipping?: Address };
@@ -26,7 +27,7 @@ type Ctx = {
 const g = globalThis as unknown as { __storeCtx?: React.Context<Ctx | null> };
 const StoreCtx = (g.__storeCtx ??= createContext<Ctx | null>(null));
 
-const STORE_VERSION = "catalog-v2";
+const STORE_VERSION = "orders-db-v1";
 const read = <T,>(k: string, d: T): T => {
   try {
     const v = localStorage.getItem(k);
@@ -52,40 +53,56 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   const [tickets, setTickets] = useState<Ticket[]>([]);
 
   useEffect(() => {
-    try {
-      if (localStorage.getItem("demo-store-version") !== STORE_VERSION) {
-        for (const k of Object.keys(localStorage)) {
-          if (k.startsWith("demo-")) localStorage.removeItem(k);
+    let cancelled = false;
+    (async () => {
+      try {
+        if (localStorage.getItem("demo-store-version") !== STORE_VERSION) {
+          for (const k of Object.keys(localStorage)) {
+            if (k.startsWith("demo-")) localStorage.removeItem(k);
+          }
+          localStorage.setItem("demo-store-version", STORE_VERSION);
         }
-        localStorage.setItem("demo-store-version", STORE_VERSION);
+        const u = testUsers.find((x) => x.email === localStorage.getItem("demo-user")) ?? null;
+        setUser(u);
+        const rawCart = read<Record<string, number>>(cartKey(u), {});
+        const cleanCart = Object.fromEntries(
+          Object.entries(rawCart).filter(([id]) => products.some((p) => p.id === id)),
+        );
+        setCartState(cleanCart);
+        write(cartKey(u), cleanCart);
+        setProfiles(read("demo-profiles", {}));
+        setTickets(read("demo-tickets", []));
+
+        // Prefer Supabase demo orders; keep locally placed orders on top
+        const localExtra = read<Order[]>("demo-orders-local", []);
+        let fromDb: Order[] = [];
+        try {
+          fromDb = await fetchOrdersFromSupabase();
+        } catch (err) {
+          console.warn("[StoreProvider] orders fetch failed, using catalog seed", err);
+          fromDb = initialOrders;
+        }
+        if (cancelled) return;
+        const byId = new Map<string, Order>();
+        for (const o of fromDb) byId.set(o.id, o);
+        for (const o of localExtra) byId.set(o.id, o);
+        const merged = [...byId.values()].sort((a, b) => b.date.localeCompare(a.date));
+        setOrders(merged.length ? merged : initialOrders);
+      } catch (e) {
+        console.error("[StoreProvider] init failed", e);
       }
-      const u = testUsers.find((x) => x.email === localStorage.getItem("demo-user")) ?? null;
-      setUser(u);
-      const rawCart = read<Record<string, number>>(cartKey(u), {});
-      const cleanCart = Object.fromEntries(
-        Object.entries(rawCart).filter(([id]) => products.some((p) => p.id === id)),
-      );
-      setCartState(cleanCart);
-      write(cartKey(u), cleanCart);
-      const rawOrders = read<Order[]>("demo-orders", initialOrders);
-      const cleanOrders = (Array.isArray(rawOrders) ? rawOrders : [])
-        .map((o) => ({
-          ...o,
-          items: (o.items ?? []).filter((i) => products.some((p) => p.id === i.id)),
-        }))
-        .filter((o) => o.items.length > 0);
-      const ordersToUse = cleanOrders.length ? cleanOrders : initialOrders;
-      setOrders(ordersToUse);
-      write("demo-orders", ordersToUse);
-      setProfiles(read("demo-profiles", {}));
-      setTickets(read("demo-tickets", []));
-    } catch (e) {
-      console.error("[StoreProvider] init failed", e);
-    }
+    })();
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   const setCart = (u: User | null, c: Record<string, number>) => { write(cartKey(u), c); setCartState(c); };
-  const saveOrders = (o: Order[]) => { write("demo-orders", o); setOrders(o); };
+  const saveOrders = (o: Order[]) => {
+    // Persist only orders not coming from the seeded DB set (local placements / admin edits)
+    write("demo-orders-local", o);
+    setOrders(o);
+  };
 
   const login = (email: string, password: string) => {
     const u = testUsers.find((x) => x.email === email && x.password === password);

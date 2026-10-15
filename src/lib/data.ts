@@ -122,6 +122,7 @@ export type Order = {
   status: Status;
   carrier: string;
   shipping?: { name: string; street: string; zip: string; city: string; phone: string };
+  trackingCode?: string;
 };
 
 export const orderTotal = (o: Order) =>
