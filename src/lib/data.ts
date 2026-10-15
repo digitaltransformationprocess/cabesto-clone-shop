@@ -1,4 +1,3 @@
-import nautismeImg from "@/assets/cat-nautisme.jpg";
 import { ensureCatalog as fetchCatalogFromSupabase } from "./catalog";
 
 export type CategoryNode = {
@@ -44,7 +43,7 @@ export async function ensureCatalog() {
 
 const fallbackCover = (slug: string) => {
   const hit = products.find((p) => p.category === slug && p.cover);
-  return hit?.cover ?? nautismeImg;
+  return hit?.cover ?? products.find((p) => p.cover)?.cover ?? "";
 };
 
 /** Storage URLs are already absolute; keep helper for any leftover /media paths. */

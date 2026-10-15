@@ -1,7 +1,3 @@
-import pecheImg from "@/assets/cat-peche.jpg";
-import nautismeImg from "@/assets/cat-nautisme.jpg";
-import plongeeImg from "@/assets/cat-plongee.jpg";
-import vetementsImg from "@/assets/cat-vetements.jpg";
 import { getSupabase } from "./supabase";
 import type { Category, CategoryNode, Order, Product } from "./data";
 
@@ -26,14 +22,6 @@ type DbProductRow = {
   category_path: string[] | null;
   brand_name: string | null;
   images: Array<{ path: string; position?: number; is_cover?: boolean }> | null;
-};
-
-const universeImages: Record<string, string> = {
-  peche: pecheImg,
-  nautisme: nautismeImg,
-  plongee: plongeeImg,
-  textile: vetementsImg,
-  vetements: vetementsImg,
 };
 
 export type CatalogSnapshot = {
@@ -231,7 +219,7 @@ async function fetchSnapshot(): Promise<CatalogSnapshot> {
       slug: u.slug,
       name: u.name,
       tagline: `${u.productCount} produit${u.productCount > 1 ? "s" : ""}`,
-      image: universeImages[u.slug] ?? hit?.cover ?? nautismeImg,
+      image: hit?.cover ?? products.find((p) => p.cover)?.cover ?? "",
       path: u.path,
     };
   });

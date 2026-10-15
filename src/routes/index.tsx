@@ -1,7 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Layout, ProductCard } from "@/components/Layout";
-import { categories, products } from "@/lib/data";
-import hero from "@/assets/cat-nautisme.jpg";
+import { categories, mediaUrl, products } from "@/lib/data";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -17,6 +16,10 @@ export const Route = createFileRoute("/")({
 
 function Index() {
   const featured = products.filter((p) => p.stock > 0).slice(0, 8);
+  const hero =
+    mediaUrl(categories.find((c) => c.slug === "nautisme")?.image || "") ||
+    mediaUrl(categories[0]?.image || "") ||
+    mediaUrl(featured[0]?.cover || "");
 
   return (
     <Layout>
@@ -36,7 +39,9 @@ function Index() {
               Découvrir
             </Link>
           </div>
-          <img src={hero} alt="Équipement nautique" className="rounded-xl shadow-2xl" />
+          {hero ? (
+            <img src={hero} alt="Équipement nautique" className="rounded-xl shadow-2xl" />
+          ) : null}
         </div>
       </section>
       <section className="mx-auto max-w-7xl px-4 py-12">
@@ -50,7 +55,7 @@ function Index() {
               className="group relative overflow-hidden rounded-lg"
             >
               <img
-                src={c.image}
+                src={mediaUrl(c.image)}
                 alt={c.name}
                 className="aspect-[4/5] w-full object-cover transition group-hover:scale-105"
               />

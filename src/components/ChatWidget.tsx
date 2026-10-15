@@ -50,20 +50,15 @@ export function ChatWidget() {
     try {
       // Appel direct (sans useServerFn) pour éviter qu'une erreur serveur
       // ne remonte jusqu'à l'error boundary de la page (vu hors navigateur Cursor).
-      const r = await chatWithAi({ data: { messages: next, context: context() } });
-      const reply =
-        r && typeof r === "object" && "reply" in r
-          ? String((r as { reply: string }).reply)
-          : "Réponse invalide du serveur.";
-      const ok = Boolean(r && typeof r === "object" && "ok" in r && (r as { ok: boolean }).ok);
-      setMsgs([...next, { role: "assistant", content: ok ? reply : `⚠️ ${reply}` }]);
+      const r = await chatWithAi({ messages: next, context: context() });
+      setMsgs([...next, { role: "assistant", content: r.ok ? r.reply : `⚠️ ${r.reply}` }]);
     } catch (e) {
       const msg = e instanceof Error ? e.message : String(e);
       setMsgs([
         ...next,
         {
           role: "assistant",
-          content: `⚠️ Impossible de joindre l'assistant (${msg}). Ouvre http://localhost:8080/ (pas l'IP réseau), puis Ctrl+Shift+R.`,
+          content: `⚠️ Impossible de joindre l'assistant (${msg}). Vérifie AI_API_KEY dans .env, puis Ctrl+Shift+R.`,
         },
       ]);
     } finally {

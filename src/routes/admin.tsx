@@ -26,9 +26,8 @@ function AiSettings() {
     <div className="max-w-xl space-y-4 rounded-lg border bg-card p-6">
       <h2 className="text-2xl font-bold">Assistant IA</h2>
       <p className="text-sm text-muted-foreground">
-        La clé API se configure en local dans le fichier <code className="rounded bg-muted px-1">.env</code> (voir{" "}
-        <code className="rounded bg-muted px-1">.env.example</code>). Redémarre <code className="rounded bg-muted px-1">npm run dev</code> après
-        modification.
+        La clé API se configure dans <code className="rounded bg-muted px-1">.env</code> (variables exposées au
+        navigateur via Vite). Redémarre <code className="rounded bg-muted px-1">npm run dev</code> après modification.
       </p>
       <ul className="rounded border bg-muted/40 p-3 font-mono text-xs leading-relaxed">
         <li>AI_PROVIDER=google | openrouter</li>
