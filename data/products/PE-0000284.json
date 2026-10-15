@@ -29,7 +29,7 @@
     "Équipements",
     "Épuisette Agility Boat Net"
   ],
-  "description": "L'Agility Boat Net Shakespeare, une épuisette téléscopique exceptionnelle à petit prix ! Elle fera face à toutes les situations, même face à de gros poissons !",
+  "description": "L'épuisette Agility Boat Net Shakespeare est une épuisette simple d'utilisation, dotée d'une poignée en caoutchouc offrant une prise en main confortable et un manche télescopique réglable en aluminium.\n\nTête d'épuisette 62 x 54 cm fixable par cliquet\nExtension 75 cm - fermeture par loquet\nMailles en caoutchouc\nManche aluminium repliable\nLivré dans un sac de qualité\nManche télescopique en aluminium\nPoignée en caoutchouc",
   "supplierRef": "1315261",
   "price": {
     "amount": 26.99,
@@ -67,5 +67,8 @@
       "path": "data/images/PE-0000284/01-epuisette-shakespeare-agility-boat-net.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:24:34.623Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "L'Agility Boat Net Shakespeare, une épuisette téléscopique exceptionnelle à petit prix ! Elle fera face à toutes les situations, même face à de gros poissons !"
 }

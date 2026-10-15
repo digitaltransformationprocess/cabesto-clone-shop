@@ -23,7 +23,7 @@
     "Accueil",
     "GATEAU BRETON FRAMBOISE DEMI-LUNE"
   ],
-  "description": "Achetez GATEAU BRETON FRAMBOISE DEMI-LUNE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Gâteau demi-lune, 400 g\n\nDécouvrez notre Gâteau Breton garni d'une délicieuse confiture de framboise. Plaisir fruité, alliance de l'acidulé de la framboise et de la douceur de la pâte sablée pur beurre.",
   "supplierRef": "3353630000214",
   "price": {
     "amount": 6.99,
@@ -73,5 +73,8 @@
       "path": "data/images/AL-0001890/03-al-0001890_3.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:29:43.542Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez GATEAU BRETON FRAMBOISE DEMI-LUNE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

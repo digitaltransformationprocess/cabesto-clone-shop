@@ -21,7 +21,7 @@
     "Accueil",
     "Tresse Pêche Exotique GT SMP 600m | Spiderwire"
   ],
-  "description": "Achetez Tresse Pêche Exotique GT SMP 600m | Spiderwire chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "TRESSE PÊCHE EXOTIQUE GT SMP 600M | SPIDERWIRE",
   "supplierRef": null,
   "price": {
     "amount": 0,
@@ -59,5 +59,8 @@
       "path": "data/images/PCPE-0012027/01-tresse-mer-varivas-gt-super-max-power-600m-z-868-86822_kckpnjigd7mfk2gp.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:18:35.396Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Tresse Pêche Exotique GT SMP 600m | Spiderwire chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

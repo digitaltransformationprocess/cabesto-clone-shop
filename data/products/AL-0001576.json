@@ -23,7 +23,7 @@
     "Accueil",
     "ETUI GRANDES GALETTES 135G"
   ],
-  "description": "Achetez ETUI GRANDES GALETTES 135G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Grandes galettes. Fabrication artisanale bretonne.",
   "supplierRef": "5170",
   "price": {
     "amount": 2.69,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001576/01-6016550-6016550-picture_1-6016550_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:27:56.776Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ETUI GRANDES GALETTES 135G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

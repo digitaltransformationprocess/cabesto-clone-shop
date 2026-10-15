@@ -19,7 +19,7 @@
     "Accueil",
     "AMARETTI MORBIDI 250G"
   ],
-  "description": "Achetez AMARETTI MORBIDI 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Biscuits tendres à base d'amandes, cuits au four.",
   "supplierRef": "A2558DO",
   "price": {
     "amount": 4.99,
@@ -63,5 +63,8 @@
       "path": "data/images/AL-0000245/02-6128411-6128411-picture_1-6128411_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:22:57.332Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez AMARETTI MORBIDI 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

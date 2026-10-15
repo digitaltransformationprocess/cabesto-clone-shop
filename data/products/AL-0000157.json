@@ -27,7 +27,7 @@
     "Produits surgelés",
     "48 ESCARGOTS DE BOURGOGNE MOYEN CUISINES SACHET 269 GR"
   ],
-  "description": "Achetez 48 ESCARGOTS DE BOURGOGNE MOYEN CUISINES SACHET 269 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "48 ESCARGOTS DE BOURGOGNE MOYEN CUISINES SACHET 269 GR\n\nL’ESPÈCE : L’escargot de Bourgogne, ou Helix pomatia, est une espèce d’escargot sauvage qui est récoltée à la main dans les régions forestières et talus humides d’Europe centrale où la nature est préservée.\n\nLE CALIBRE : Le calibre Moyen correspond à des chairs d’escargots de belle taille. Il garantit 67g d’escargots préparés par douzaine pour les Helix pomatia.\n\nLA RECETTE : Cette recette originale et savoureuse au beurre, au ail et au persil régalera tous les amateurs d’escargots qui souhaitent retrouver les saveurs du terroir français. La préparation de la farce s’effectue à Strasbourg selon la recette élaborée par notre Chef issu de la gastronomie française.\n\nLA FABRICATION : Nos escargots sont préparés avec soin: les chairs sont soigneusement nettoyées, parées et cuisinées avant d’être remises manuellement dans leur coquille. Elles sont ensuite recouvertes, toujours à la main, d’une farce savoureuse dans notre atelier alsacien.",
   "supplierRef": "92265",
   "price": {
     "amount": 15.79,
@@ -65,5 +65,8 @@
       "path": "data/images/AL-0000157/01-AL-0000157.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:22:41.184Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez 48 ESCARGOTS DE BOURGOGNE MOYEN CUISINES SACHET 269 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

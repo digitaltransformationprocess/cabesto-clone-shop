@@ -23,7 +23,7 @@
     "Accueil",
     "Piolet Ride 45 cm - PETZL"
   ],
-  "description": "Achetez Piolet Ride 45 cm - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Le piolet Ride est idéal pour toutes les sorties en ski sur glacier ou lors des randonnées glaciaires. Malgré son extrême légèreté et sa compacité, il conservera tout de même une bonne qualité d'ancrage avec sa lame affinée à 3 mm et son manche galbé.\n\nCARACTERISTIQUES TECHNIQUES DU PIOLET RIDE : \n\nTête et lame en acier pour une bonne pénétration dans la glace.\n\nManche aluminium 7075, galbé et grip usiné pour une bonne tenue avec pointe en biseau.\n\nLongueur : 45 cm.\n\nPoids : 240 g.\n\nCe produit a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme : EN 13089 : 2011 + A1 : 2015 UIAA 152 : 2013 to the exception of the § 2.2.",
   "supplierRef": "U04A 45",
   "price": {
     "amount": 79.9,
@@ -73,5 +73,8 @@
       "path": "data/images/NT-0018044/03-pv94_3_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:48:54.129Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Piolet Ride 45 cm - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

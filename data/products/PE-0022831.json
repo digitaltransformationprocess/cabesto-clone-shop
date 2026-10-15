@@ -21,7 +21,7 @@
     "Accueil",
     "CANNE BUSCLE YUKI PECHE DORADE 270 50/300GR"
   ],
-  "description": "Achetez CANNE BUSCLE YUKI PECHE DORADE 270 50/300GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Canne buscle \"Pêche Dorade\" 270 50-300g | Yuki\nUne canne à buscle bateau dédiée à la pêche des daurades royales\n\nComme son nom l'indique, la \"Pêche Dorade\" est une canne pensée spécialement pour la pêche des sparidés en bateau et plus particulièrement des daurades royales.\n\nElle est fournie avec 3 buscles interchangeables (Super Soft, Soft et MH) pour s'adapter à toutes les configurations \n\nInformations techniques :\nRéférence\nCAPD27\nLongueur\n2,70 m\nPuissance\n50-300\n g\nPoids\n306 g\nEncombrement\n145 cm\nNombre d'éléments\n2 + 3 buscles\nContenu du colis\n\n1 canne buscle Yuki Peche Dorade",
   "supplierRef": "CAPD27",
   "price": {
     "amount": 78.99,
@@ -65,5 +65,8 @@
       "path": "data/images/PE-0022831/02-2peche-dorade.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:26:38.918Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez CANNE BUSCLE YUKI PECHE DORADE 270 50/300GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -23,7 +23,7 @@
     "Accueil",
     "TOMATES SECHEES 270G"
   ],
-  "description": "Achetez TOMATES SECHEES 270G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Tomates séchées à l'huile de tournesol. Prêtes à être déguster une fois égouttées, les tomates séchées s'apprécieront 'à l'Italienne\" en hors d'œuvre avec de la charcuterie ou à l'apéritif, sur des toast ou en brochette. Elles agrémenteront également toutes vos salades composées et vos plats de pâtes.",
   "supplierRef": "A0769FL",
   "price": {
     "amount": 4.59,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0004329/01-0352867-0352867-picture_1-0352867_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:39:15.278Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez TOMATES SECHEES 270G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

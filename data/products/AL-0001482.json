@@ -19,7 +19,7 @@
     "Accueil",
     "EAU GAZEUSE OREZZA 1L"
   ],
-  "description": "Achetez EAU GAZEUSE OREZZA 1L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "EAU GAZEUSE OREZZA 1L BOUTEILLE EN VERRE\n\nLa mythique eau Corse, au goût agréable et délicatement pétillante !\n\nAu cœur de la majestueuse Castagniccia, où la nature corse dévoile ses panoramas les plus époustouflants, jaillit une source d'une rareté inégalée : l'eau minérale naturelle d'Orezza. Depuis des siècles, cette eau se fraye un chemin à travers des roches riches en minéraux, acquérant une composition unique qui la distingue parmi les eaux minérales les plus prisées au monde.\n\n L'eau minérale d'Orezza, naturellement pétillante et dotée d'un goût subtil et rafraîchissant, est un trésor de bien-être et de vitalité. Reconnue pour ses vertus digestives et ses propriétés revitalisantes, elle est l'alliée idéale de ceux qui cherchent à allier plaisir et bien être dans leur quotidien.\n\nA Orezza, nous sommes fiers de préserver l'héritage naturel de la Corse. Notre engagement envers la durabilité et le respect de l'environnement assure que chaque bouteille d'Orezza que vous savourez est un hommage à la pureté et à la beauté intemporelle de notre île.\n\n Découvrez l'eau minérale naturelle d'Orezza, le joyau de la Corse, et laissez-vous transporter par une expérience gustative qui éveille les sens et célèbre la vie.",
   "supplierRef": "1507.",
   "price": {
     "amount": 2.09,
@@ -57,5 +57,8 @@
       "path": "data/images/AL-0001482/01-0345712-0345712-picture_1-0345712_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:27:15.789Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez EAU GAZEUSE OREZZA 1L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

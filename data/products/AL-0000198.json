@@ -23,7 +23,7 @@
     "Accueil",
     "ACHARDS DE LEGUMES CHALEUR CREOLE 200G"
   ],
-  "description": "Achetez ACHARDS DE LEGUMES CHALEUR CREOLE 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Achards de Légumes – Chaleur Créole (200 g)\n\nInvitez le soleil de l’océan Indien dans votre assiette !\n\nDécouvrez les Achards de Légumes Chaleur Créole, un condiment traditionnel de La Réunion qui éveillera vos papilles dès la première bouchée. Ce bocal de 200 g renferme un mélange savoureux de légumes croquants (chou, carottes, haricots verts) finement émincés et marinés dans une sauce épicée au curcuma, gingembre, ail et piment de Cayenne.\n\nPourquoi vous allez adorer ce produit\n\nAuthenticité créole : Une recette fidèle aux traditions réunionnaises, élaborée avec des épices authentiques pour un goût véritablement exotique.\n\nPrêt à déguster : Idéal pour accompagner vos grillades, riz, caris, ou simplement pour rehausser vos tartines, samoussas et apéritifs.\n\nFormat pratique : Bocal en verre refermable de 200 g, parfait pour une consommation rapide et une conservation optimale au réfrigérateur après ouverture.\n\nIngrédients\n\nChou blanc émincé (47%), carottes émincées (12%), huile de tournesol, eau, oignons émincés (5%), haricots verts (4,8%), vinaigre, gingembre, sel, ail, épices (curcuma, piment de Cayenne).\n\nConseils d’utilisation\n\nServez frais en accompagnement de vos plats créoles (caris, rougails, grillades), ou utilisez-le comme condiment pour donner du piquant à vos sandwiches, salades et entrées.",
   "supplierRef": "3486411000186.",
   "price": {
     "amount": 3.99,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0000198/02-6014898-6014898-picture_1-6014898_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:22:43.385Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ACHARDS DE LEGUMES CHALEUR CREOLE 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

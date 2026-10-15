@@ -1,9 +1,19 @@
 import type { AiConfig } from "../chat.functions";
 import { getServerAiConfig } from "../ai-config";
 import {
+  formatOrdersForPrompt,
+  formatTicketsForPrompt,
+  type ChatSessionPayload,
+} from "./account-assist";
+import {
+  detectChatIntent,
+  LOGIN_REQUIRED_REPLY,
+  requiresAuth,
+} from "./chat-intents";
+import {
   buildRagContext,
   buildSiteRagContext,
-  formatEuroFromCents,
+  hydrateProductImages,
   retrieveAll,
   type MatchFilters,
   type RetrievedProduct,
@@ -15,6 +25,8 @@ export type ChatMessage = { role: "user" | "assistant"; content: string };
 export type ChatRequestBody = {
   messages: ChatMessage[];
   filters?: MatchFilters;
+  /** Client session: login + orders/tickets (localStorage demo). */
+  session?: ChatSessionPayload;
 };
 
 const ENDPOINTS = {
@@ -23,24 +35,34 @@ const ENDPOINTS = {
 } as const;
 
 const SYSTEM_RULES = `Tu es l'assistant de la boutique Marinéo (pêche, nautisme, plongée, montagne, piscine).
-Réponds en français, concis, en markdown.
+Réponds en français, concis.
+Tu es un assistant virtuel (pas un conseiller humain).
 
 Règles STRICTES :
-1. Tu ne réponds qu'à partir du contexte fourni : « Produits retrouvés » et/ou « Pages du site ».
-2. Pour les produits : prix et stock viennent UNIQUEMENT des champs « Prix (live) » et « Stock (live) ». Cite nom, prix, stock et lien [voir](/produit/SKU).
-3. Pour FAQ / livraison / retours / magasins / fidélité / CGV : utilise uniquement « Pages du site » et ajoute le lien de la page (ex. [FAQ](/faq), [Livraison](/livraison), [Retours](/retours), [Magasins](/magasins)).
-4. Si des produits OU des pages sont listés et concernent la question, réponds avec ces infos (ne dis pas « Je ne sais pas »).
-5. Réponds « Je ne sais pas » UNIQUEMENT si aucune source utile n'est fournie.
-6. N'invente rien hors contexte.`;
+1. Tu ne réponds qu'à partir du contexte fourni : « Produits retrouvés », « Pages du site », et le cas échéant « Compte client ».
+2. PRODUITS : l'interface affiche déjà des cartes (photo, prix, stock, boutons). Ta réponse texte doit être UNIQUEMENT 1 ou 2 phrases d'intro (ex. « Voici 2 options adaptées : » ou « Ces articles sont en rupture pour le moment. »).
+   - INTERDIT : tableaux markdown (| ... |), listes détaillées de produits, répétition prix/stock/liens.
+   - Maximum 3 produits dans le contexte — ne parle que de ceux-là.
+3. Pour FAQ / livraison / retours / magasins : utilise « Pages du site », phrases courtes + un lien markdown [Titre](/chemin).
+4. Pour les commandes / tickets : utilise uniquement « Compte client ». N'invente aucun statut ni numéro.
+5. Ne promets jamais de remboursement. Pour le SAV, propose un ticket ; si tu as sujet + description, termine par une ligne :
+[CREER_TICKET] sujet court | description détaillée
+6. Si des sources utiles sont listées, réponds avec elles (ne dis pas « Je ne sais pas »).
+7. Réponds « Je ne sais pas » UNIQUEMENT si aucune source utile n'est fournie.
+8. N'invente rien hors contexte.
+9. N'utilise JAMAIS de tableau markdown.`;
 
 function deterministicProductAnswer(products: RetrievedProduct[]): string {
-  return products
-    .slice(0, 4)
-    .map((p) => {
-      const stock = p.stock > 0 ? `${p.stock} en stock` : "rupture de stock";
-      return `**${p.name}**\n- Prix : ${formatEuroFromCents(p.priceCents)}\n- Stock : ${stock}\n- [voir](/produit/${p.sku})`;
-    })
-    .join("\n\n");
+  const n = Math.min(products.length, 3);
+  const allOos = products.slice(0, n).every((p) => p.stock <= 0);
+  if (allOos) {
+    return n === 1
+      ? "Voici l'article trouvé — il est actuellement en rupture de stock."
+      : `Voici ${n} articles trouvés — tous actuellement en rupture de stock.`;
+  }
+  return n === 1
+    ? "Voici l'article le plus pertinent :"
+    : `Voici ${n} options adaptées à votre recherche :`;
 }
 
 function deterministicDocAnswer(docs: RetrievedSiteChunk[]): string {
@@ -179,13 +201,36 @@ export async function createRagChatSseStream(body: ChatRequestBody): Promise<Res
           return;
         }
 
-        const { products, docs, siteIntent } = await retrieveAll(query, body.filters ?? {});
+        const intent = detectChatIntent(query);
+        const session = body.session;
+        const authed = Boolean(session?.authenticated);
+
+        if (requiresAuth(intent) && !authed) {
+          send({ type: "meta", products: [], docs: [], intent, authRequired: true });
+          send({ type: "token", text: LOGIN_REQUIRED_REPLY });
+          send({ type: "done" });
+          controller.close();
+          return;
+        }
+
+        const accountMode = authed && (intent === "order_tracking" || intent === "sav");
+
+        const retrieved = accountMode
+          ? { products: [] as RetrievedProduct[], docs: [] as RetrievedSiteChunk[], siteIntent: false }
+          : await retrieveAll(query, body.filters ?? {});
+        const products = accountMode
+          ? retrieved.products
+          : await hydrateProductImages(retrieved.products);
+        const docs = retrieved.docs;
+        const siteIntent = retrieved.siteIntent;
+
         const publicProducts = products.map((p) => ({
           sku: p.sku,
           name: p.name,
           priceCents: p.priceCents,
           stock: p.stock,
           similarity: Number(p.maxSimilarity.toFixed(4)),
+          ...(p.imageUrl ? { imageUrl: p.imageUrl } : {}),
         }));
         const publicDocs = docs.map((d) => ({
           docId: d.docId,
@@ -194,9 +239,22 @@ export async function createRagChatSseStream(body: ChatRequestBody): Promise<Res
           section: d.section,
           similarity: Number(d.similarity.toFixed(4)),
         }));
-        send({ type: "meta", products: publicProducts, docs: publicDocs, siteIntent });
+        send({
+          type: "meta",
+          products: publicProducts,
+          docs: publicDocs,
+          siteIntent,
+          intent,
+          authRequired: false,
+        });
 
-        if (!products.length && !docs.length) {
+        const ordersCtx = formatOrdersForPrompt(session?.orders ?? []);
+        const ticketsCtx = formatTicketsForPrompt(session?.tickets ?? []);
+        const accountCtx = accountMode
+          ? `Client : ${session?.userName ?? "?"} (${session?.email ?? "?"})\nCommandes :\n${ordersCtx}\nTickets SAV :\n${ticketsCtx}`
+          : "";
+
+        if (!products.length && !docs.length && !accountMode) {
           send({ type: "token", text: "Je ne sais pas" });
           send({ type: "done" });
           controller.close();
@@ -205,9 +263,13 @@ export async function createRagChatSseStream(body: ChatRequestBody): Promise<Res
 
         const productCtx = buildRagContext(products);
         const siteCtx = buildSiteRagContext(docs);
-        const focus = siteIntent
-          ? "Priorité: répondre avec « Pages du site » (FAQ, livraison, retours, magasins…)."
-          : "Priorité: répondre avec les produits si la question porte sur un article.";
+        const focus = accountMode
+          ? intent === "sav"
+            ? "Priorité: SAV — utilise « Compte client ». Pas de promesse de remboursement. Propose [CREER_TICKET] si assez d'info."
+            : "Priorité: suivi de commande — utilise uniquement « Compte client »."
+          : siteIntent
+            ? "Priorité: répondre avec « Pages du site » (FAQ, livraison, retours, magasins…)."
+            : "Priorité: répondre avec les produits si la question porte sur un article.";
         const system = `${SYSTEM_RULES}
 
 ${focus}
@@ -216,7 +278,10 @@ ${focus}
 ${productCtx || "(aucun)"}
 
 ## Pages du site
-${siteCtx || "(aucune)"}`;
+${siteCtx || "(aucune)"}
+
+## Compte client
+${accountCtx || "(non connecté / non applicable)"}`;
 
         const llmMessages = [
           { role: "system", content: system },

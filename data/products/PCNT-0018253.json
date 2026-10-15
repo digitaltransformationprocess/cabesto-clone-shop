@@ -25,7 +25,7 @@
     "Accueil",
     "Rondelles Vario - KOMPERDELL"
   ],
-  "description": "Achetez Rondelles Vario - KOMPERDELL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Rondelles Vario - KOMPERDELL\n 2 rondelles de rechange pour les bâtons Komperdell.\n 2 tailles disponibles : été (pleines, diamètre 60 mm) ou hiver (évidées, diamètre 80 mm).",
   "supplierRef": null,
   "price": {
     "amount": 4,
@@ -75,5 +75,8 @@
       "path": "data/images/PCNT-0018253/03-sb09_1_un-rondelles-vario-komperdell.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:13:47.893Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Rondelles Vario - KOMPERDELL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

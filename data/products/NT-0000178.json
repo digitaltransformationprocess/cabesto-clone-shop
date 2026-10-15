@@ -23,7 +23,7 @@
     "Accueil",
     "Spikit III"
   ],
-  "description": "Achetez Spikit III chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "La Spikit III version thermosoudée est une sacoche à spits conçue pour un usage intensif en spéléologie.\nElle dispose d'un logement pour deux forets de 100 mm de long.\nLes chevilles sont logées sur 2 cordelettes équipées de dévidoirs et les cônes sur 2 cartouchières pour éviter leur perte.\n\nCARACTERISTIQUES TECHNIQUES DU SPIKIT III :\nCapacité du conditionnement : 20 chevilles et 20 cônes.\nAccrochage: anneau en sangle.\nAssemblage PVC : par procédé de thermosoudure.\nDimension: 30x10 cm.\nColoris : orange.\nPoids : 150 g.",
   "supplierRef": "#5110 SOUDE",
   "price": {
     "amount": 18.5,
@@ -61,5 +61,8 @@
       "path": "data/images/NT-0000178/01-0115_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:41:43.381Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Spikit III chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

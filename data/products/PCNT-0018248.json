@@ -19,7 +19,7 @@
     "Accueil",
     "Sac Rond 25 L Plus AVENTURE VERTICALE"
   ],
-  "description": "Sac Rond 25 L + AVENTURE VERTICALE Les poignées de ce kit de spéléologie AVENTURE VERTICALE 25 L facilitent la préhension.",
+  "description": "Ce Kit robuste de spéléologie rond 25 L + Aventure Verticale facilite la préhension\n Matière: polyester 1100 dTex enduit PVC avec vernis anti-usure pour une très bonne résistance.\n Fond avec jonc de protection.\n 1 poignée latérale, 1 poignée de fond et une poignée de hissage.\n 2 bretelles réglables.\n Longe en cordelette.\n Fermeture par oeillets, cordelette et bloqueur.\n Rabat intérieur positionné à l'opposé des bretelles pour une meilleure sécurité, porte-étiquette transparent.\n 2 anneaux en sangle en haut du sac pour accrocher la corde ou servir de porte-matériel.\n Peut contenir 2 bidons de 6 litres.\n Hauteur 62 cm.\n Diamètre 22 cm.\n Poids: 788 g.",
   "supplierRef": null,
   "price": {
     "amount": 72.2,
@@ -75,5 +75,8 @@
       "path": "data/images/PCNT-0018248/04-sac-transport-avsp27-kit-bag-25l-rond_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:13:42.595Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Sac Rond 25 L + AVENTURE VERTICALE Les poignées de ce kit de spéléologie AVENTURE VERTICALE 25 L facilitent la préhension."
 }

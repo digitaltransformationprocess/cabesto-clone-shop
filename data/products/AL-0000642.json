@@ -23,7 +23,7 @@
     "Accueil",
     "BOUILLABAISSE MARMITE 85CL"
   ],
-  "description": "Achetez BOUILLABAISSE MARMITE 85CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Fabrication Artisanale Sans conservateur, ni colorant, ni liant. Ce plat typique méditerranéen est réalisé à partir de poissons de roche et  de poissons tels que rascasse, saint pierre, congres, vives ainsi que quelques moules et seiches. Le produit est fabriqué en Provence.",
   "supplierRef": "01010003",
   "price": {
     "amount": 16.99,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0000642/02-0023911-0023911-picture_2-0023911_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:24:33.373Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BOUILLABAISSE MARMITE 85CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

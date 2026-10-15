@@ -23,7 +23,7 @@
     "Accueil",
     "IGP COTE DE THAU COQUILLAGES CRUSTACES 75CL"
   ],
-  "description": "Achetez IGP COTE DE THAU COQUILLAGES CRUSTACES 75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "COQUILLAGES ET CRUSTACES 75CL\n\nIGP COTE DE THAU \n\nMoteur de la filière languedocienne depuis 6 générations, l'ambition commune de Maison\nJeanjean et de Vignobles Jeanjean est d'être la famille qui incarne la plus belle réussite viticole\ndu Languedoc en le faisant rayonner internationalement.\nLa mission de Maison Jeanjean ; sourcer, assembler, conditionner et promouvoir une offre\nLanguedocienne de vins, de marques & de services, unique et complète, adaptée aux besoins\ndes distributeurs en France et dans le monde, dans le respect des hommes et de\nl'environnement.\nCoquillages et Crustacés fait référence à l'étang de Thau et aux moments de sérénité passes\nsur la plage, les pieds dans l'eau, un verre de vin blanc à la main.\nLes raisins de cette cuvée proviennent des alentours de l'étang de Thau, qui tempère les étés\nchauds par sa brise rafraichissante.\nDÉGUSTATION\nRobe : Robe pâle avec des reflets verts.\nNez : Nez fin avec des arômes de citron et de pamplemousse, accompagnés d'une touche\nminérale.\nBouche : Equilibré et frais en bouche.\nACCORDS METS ET VINS\nServir sur des fruits de mer, les poissons grillés ou en sauce\n\nCEPAGES : Grenache blanc, Colombard et Terret",
   "supplierRef": "F0062137",
   "price": {
     "amount": 6.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000311/01-coquillages_et_crustac_s.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:23:32.322Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez IGP COTE DE THAU COQUILLAGES CRUSTACES 75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

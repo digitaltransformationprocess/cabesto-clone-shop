@@ -23,7 +23,7 @@
     "Accueil",
     "Bonnet de bain en silicone adulte ZOGGS"
   ],
-  "description": "Protégez vos cheveux et vos oreilles avec le bonnet en silicone MARES, idéal en piscine comme en mer, résistant et durable.",
+  "description": "Bonnet de piscine silicone adulte MARES\nProtégez vos cheveux et vos oreilles avec le bonnet en silicone MARES, idéal en piscine comme en mer, résistant et durable.\n\nBonnet en silcone, taille unique adulte.",
   "supplierRef": null,
   "price": {
     "amount": 9.99,
@@ -103,5 +103,8 @@
       "path": "data/images/PCSU-0010280/08-zgs_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:22:41.716Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Protégez vos cheveux et vos oreilles avec le bonnet en silicone MARES, idéal en piscine comme en mer, résistant et durable."
 }

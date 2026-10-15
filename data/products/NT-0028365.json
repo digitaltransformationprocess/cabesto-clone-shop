@@ -19,7 +19,7 @@
     "Accueil",
     "Mousqueton Bague Automatique ATOM 2 LOCK - CAMP"
   ],
-  "description": "Achetez Mousqueton Bague Automatique ATOM 2 LOCK - CAMP chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Mousqueton Bague Automatique ATOM 2 LOCK - CAMP\nMousqueton forme HMS à verrouillage 2 mouvements Twist Lock.\n\nFermeture Bet Lock, système sans point d'accroche possible de la corde ou de la sangle.\nGrande ouverture.\n\nCARACTERISTIQUES TECHNIQUES :\n\n- R 24 kN, r 8 kN, Ro 8 kN, O 23 mm.\n\n- Ce produit a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme :  EN 12275:2013 - EN 362:2004\n\n- Poids 86 g.\n\nNotice d'utilisation dont liste des accessoires utilisables avec cet EPI cliquez ICI",
   "supplierRef": "2922.00",
   "price": {
     "amount": 17.9,
@@ -63,5 +63,8 @@
       "path": "data/images/NT-0028365/02-cp76_1-mousqueton-bague-automatique-atom-2-lock-camp_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:50:34.274Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Mousqueton Bague Automatique ATOM 2 LOCK - CAMP chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

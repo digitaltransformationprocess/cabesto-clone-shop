@@ -9,7 +9,7 @@
     "Accueil",
     "Amortisseur de drisse pour bungee pour arbalère chasse sous-marine IMERSION"
   ],
-  "description": "Amortisseur de drisse pour bungee pour arbalère chasse sous-marine IMERSIONOptimisez vos performances avec cet amortisseur robuste et polyvalent.",
+  "description": "Amortisseur de drisse pour bungee pour arbalère chasse sous-marine IMERSION\nOptimisez vos performances avec cet amortisseur robuste et polyvalent.",
   "supplierRef": "DC121",
   "price": {
     "amount": 4.99,
@@ -89,5 +89,8 @@
     "nautisme",
     "mouillage-amarrage",
     "ressorts-amortisseur-d-amarrage"
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:18:39.896Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Amortisseur de drisse pour bungee pour arbalère chasse sous-marine IMERSIONOptimisez vos performances avec cet amortisseur robuste et polyvalent."
 }

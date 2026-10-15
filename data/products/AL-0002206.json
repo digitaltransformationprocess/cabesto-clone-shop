@@ -23,7 +23,7 @@
     "Accueil",
     "LINGUINE SAUMON 500G"
   ],
-  "description": "Achetez LINGUINE SAUMON 500G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Les linguine Rustichella, de fabrication artisanale à la semoule de blé dur, sont des spaghetti \"plats\" de haute qualité. Ce format de pâte est originaire de Ligurie, on l'utilise souvent en accompagnement de sauces à base de poissons et de fruits de mer.",
   "supplierRef": "AG949",
   "price": {
     "amount": 4.59,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002206/01-0362538-0362538-picture_1-0362538_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:31:12.277Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez LINGUINE SAUMON 500G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -19,7 +19,7 @@
     "Accueil",
     "Couverts randonnée Light Spork Bioplastic - LIGHT MY FIRE"
   ],
-  "description": "Achetez Couverts randonnée Light Spork Bioplastic - LIGHT MY FIRE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Couverts randonnée Light Spork - LIGHT MY FIRE\n Cuillère, fourchette et couteau, 3 en 1, en Bioplastique résistant à la chaleur, très solide, compatible avec les revêtements teflon.\n Poids : 9 g.",
   "supplierRef": null,
   "price": {
     "amount": 3.95,
@@ -99,5 +99,8 @@
       "path": "data/images/PCNT-0026920/08-lm03_1_m-couverts-randonnee-light-spork-light-my-fire.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:17:05.365Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Couverts randonnée Light Spork Bioplastic - LIGHT MY FIRE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

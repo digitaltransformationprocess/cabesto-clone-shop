@@ -19,7 +19,7 @@
     "Accueil",
     "BIERE BOURBON BTLE 33CL"
   ],
-  "description": "Achetez BIERE BOURBON BTLE 33CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Bière Bourbon – Bouteille 33 cl : L'Authenticité de l'Île de La Réunion\n\nEmblème incontesté de La Réunion, la bière Bourbon (affectueusement surnommée « Dodo » par les locaux) vous invite à un voyage gustatif sous les tropiques. Brassée depuis 1962 avec un savoir-faire unique, cette bière blonde de type Pils capture l'essence d'un art de vivre détendu et ensoleillé.\n\nUn équilibre parfait pour tous les palais\n\nReconnue mondialement avec plusieurs médailles d'or aux Sélections Mondiales de la Qualité, la Bourbon se distingue par sa légèreté et sa grande drinkability. Avec un taux d'alcool de 5%, elle offre une amertume maîtrisée qui la rend accessible à tous, tout en conservant une typicité remarquable.\n\nStyle : Blonde Pils / Lager\n\nContenance : 33 cl (Bouteille en verre)\n\nDegré d'alcool : 5% vol.\n\nOrigine : Brassée à La Réunion\n\nIngrédients : 100% naturels (eau, malt d'orge, houblon, levure)\n\nNotes de dégustation\n\nServie bien fraîche (idéalement entre 4°C et 6°C), cette bière révèle une robe dorée limpide surmontée d'une mousse blanche et onctueuse. En bouche, elle déploie des arômes subtils de malt et de houblon, avec une finale propre et désaltérante parfaitement adaptée aux climats chauds.\n\nAccords mets & boissons\n\nLa légèreté de la Bourbon en fait la compagne idéale pour vos moments conviviaux :\n\nApéritifs : Parfaite seule ou avec des amuse-bouches salés.\n\nPlats : S'accorde merveilleusement avec les spécialités réunionnaises (carry, rougail), les viandes grillées, les fruits de mer ou simplement un burger entre amis.\n\nMoment de consommation : Idéale pour accompagner un repas festif ou pour se rafraîchir lors d'une pause ensoleillée.\n\nCet oiseau disparu, le dodo, symbole de la Réunion, est l'emblême de la Brasserie de Bourbon, fondée en 1962. La bière Bourbon, ou plus communément, la bière Dodo, est blonde et légère, adaptée à la chaleur des tropiques.",
   "supplierRef": "3278720000960.",
   "price": {
     "amount": 2.39,
@@ -63,5 +63,8 @@
       "path": "data/images/AL-0000492/02-6015588-6015588-picture_1-6015588_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:23:59.817Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BIERE BOURBON BTLE 33CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

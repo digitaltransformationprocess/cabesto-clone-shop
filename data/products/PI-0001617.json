@@ -21,7 +21,7 @@
     "Accueil",
     "HIVERNAGE STANDARD 5L"
   ],
-  "description": "Achetez HIVERNAGE STANDARD 5L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Hivernage Efficace pour Piscines - Standard 5L\nProtégez votre piscine en hiver avec notre solution anti-algues.\n\nL'Hivernage Standard 5L est la solution idéale pour maintenir la qualité de l'eau de votre piscine pendant les mois d'hiver. Ce produit spécialement conçu pour les bassins de toutes tailles offre une protection efficace contre les algues grâce à sa formule concentrée. Avec un dosage adapté à la dureté de l'eau, il assure une eau claire et saine, prête pour la prochaine saison de baignade. Fabriqué en France, ce produit peu moussant est facile à utiliser et respectueux de l'environnement.\n\nCaractéristiques Hivernage Efficace pour Piscines - Standard 5L\nProtection longue durée\nFormule anti-algues renforcée\nUtilisation économique\nRespectueux de l'environnement\nInformations techniques :\nVolume\n5 Litres\nDosage\n300 à 500 mL/10m³ pour dureté < 35°F\nDosage pour dureté > 35°F\n500 à 700 mL/10m³\nFabrication\nFrance\nRéférence\nFVU050102\nContenu du colis\n\n1 bidon de Hivernage Standard 5L.",
   "supplierRef": "FVU050102",
   "price": {
     "amount": 10.99,
@@ -59,5 +59,8 @@
       "path": "data/images/PI-0001617/01-6843005-hivernage_5l_flat.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:40:03.124Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez HIVERNAGE STANDARD 5L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

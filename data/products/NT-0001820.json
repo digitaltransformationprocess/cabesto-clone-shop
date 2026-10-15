@@ -23,7 +23,7 @@
     "Accueil",
     "Autocollants réfléchissants pour Vertex"
   ],
-  "description": "Achetez Autocollants réfléchissants pour Vertex chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Autocollants Casques VERTEX\nAutocollants réfléchissants pour une visibilité accrues des casque Vertex de Petzl\n\nFacile à installer sur les emplacements prévus.\n\nCaractéristiques Autocollants Casques VERTEX\nPlanche de neuf autocollants réfléchissants prédécoupés pour une visibilité accrue\nCompatibles avec les casques VERTEX à partir de 2019\nInformations techniques :\nCouleur\nGris\nPoids\n10 g",
   "supplierRef": "A010MA00",
   "price": {
     "amount": 9.45,
@@ -61,5 +61,8 @@
       "path": "data/images/NT-0001820/01-vertexauto.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:15.449Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Autocollants réfléchissants pour Vertex chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

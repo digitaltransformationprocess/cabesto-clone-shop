@@ -23,7 +23,7 @@
     "Accueil",
     "GALETTES ET PALETS BRETONS PUR BEURRE"
   ],
-  "description": "Achetez GALETTES ET PALETS BRETONS PUR BEURRE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "De délicieuses galettes et palets pur beurre, croquants et savoureux pour accompagner vos pauses gourmandes.",
   "supplierRef": "3700754717564",
   "price": {
     "amount": 5.59,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001844/01-6069498-6069498-picture_1-6069498_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:29:11.090Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez GALETTES ET PALETS BRETONS PUR BEURRE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

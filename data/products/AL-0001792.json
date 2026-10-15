@@ -23,7 +23,7 @@
     "Accueil",
     "FLORELLI AUBERGINE PARMESAN BASILIC 190G"
   ],
-  "description": "Achetez FLORELLI AUBERGINE PARMESAN BASILIC 190G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sauce à base d'aubergines de parmesan et de basilic. La douceur de l'aubergine, la saveur du parmesan et l'arôme délicat du basilic font de cette sauce un accompagnement parfait pour un plat de pâtes ou de gnocchis. Elle est idéale pour faire de délicieuses bruschettas ou sur des toasts de pain grillé à l'heure de l'apéritif.",
   "supplierRef": "A2107FL",
   "price": {
     "amount": 3.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001792/01-0352855-0352855-picture_1-0352855_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:28:48.112Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez FLORELLI AUBERGINE PARMESAN BASILIC 190G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

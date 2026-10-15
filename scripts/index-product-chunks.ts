@@ -261,7 +261,7 @@ async function main() {
     );
 
     const rows = batch.map((item, j) => ({
-      ...(item.existingId ? { id: item.existingId } : {}),
+      id: item.existingId || crypto.randomUUID(),
       product_id: item.draft.productId,
       chunk_index: item.draft.chunkIndex,
       section: item.draft.section,

@@ -23,7 +23,7 @@
     "Accueil",
     "HOMARD CUIT SOUS GLACE MSC 325G"
   ],
-  "description": "Achetez HOMARD CUIT SOUS GLACE MSC 325G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "HOMARD CUIT SOUS GLACE MSC 325G\n\nLe homard, synonyme d’excellence s’invite à la table de fête. Ce produit de haute qualité, certifié MSC, est déjà cuit et donc simple et rapide à préparer. Finie l’appréhension de rater la cuisson, le dîner sera parfait ! Idéal pour les grandes occasions, il peut s’accorder de différentes façons: aussi bien froid avec une sauce maison ou sur un lit de salade, ou chaud gratiné aux amandes. PRÉPARATION : Décongeler le homard dans son sachet pendant 12 à 14 heures au réfrigérateur. Pour décongeler rapidement, retirer le homard du sachet, laisser couler de l’eau froide, jusqu’à ce que la glace ait fondue et le placer dans de l’eau tiède pendant une heure. Couper le homard en deux dans le sens de la longueur. Froid :en accompagnement d’une salade avec une vinaigrette aux agrumes. Chaud : arroser le homard d’un peu d’huile d’olive épicée ou le garnir de beurre et le passer sous le gril 2 minutes. Accompagner d’un risotto.\n\n \n\nQu'est ce que le label MSC Pêche Durable ?\n\nIl vous apporte l’assurance que le produit que vous achetez provient d’une pêcherie durable certifiée qui respectent les 3 principes de notre cahier des charges environnemental :\n\nStocks de poisson durables : l'effort de pêche doit se situer à un niveau qui permet d'assurer la pérennité des populations de poissons.\nImpact environnemental minimisé : les activités de pêche doivent être gérées de façon à maintenir la structure, la productivité, la fonction et la diversité de l'écosystème.\nGestion efficace des pêcheries : la pêcherie doit respecter les lois en vigueur et doit avoir un système de gestion lui permettant de s'adapter aux différents changements.",
   "supplierRef": "5686",
   "price": {
     "amount": 12.49,
@@ -73,5 +73,8 @@
       "path": "data/images/AL-0002009/03-al-0002009.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:30:21.543Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez HOMARD CUIT SOUS GLACE MSC 325G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

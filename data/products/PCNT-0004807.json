@@ -21,7 +21,7 @@
     "Accueil",
     "Sac à corde City - Climbing Technology"
   ],
-  "description": "Achetez Sac à corde City - Climbing Technology chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sac à corde City - Climbing Technology\nSac à corde en bandoulière avec bâche intégrée. Pratique pour transporter une corde de 80m ainsi que le matériel d'escalade.\n\nGrande bâche de 140x150 cm avec 2 points d'attache pour fixer les extrémités de la corde, pour protéger la corde en bas de la voie.\n\nBandoulière réglable pour plus de confort et 2 poignées.\nOuverture avec 2 boucles réglables en aluminium.\nPoids: 400g.",
   "supplierRef": null,
   "price": {
     "amount": 24.9,
@@ -77,5 +77,8 @@
       "path": "data/images/PCNT-0004807/04-ct07_1_a-sac-a-corde-city-climbing-technology.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:57:52.682Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sac à corde City - Climbing Technology chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

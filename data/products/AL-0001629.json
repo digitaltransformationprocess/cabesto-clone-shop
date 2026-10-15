@@ -23,7 +23,7 @@
     "Accueil",
     "FILET D'ANCHOIS 140G"
   ],
-  "description": "Achetez FILET D'ANCHOIS 140G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Découvrez les filets d'anchois à l'huile d'olive 140G!",
   "supplierRef": "DIM21262",
   "price": {
     "amount": 4.49,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0001629/02-0349832-0349832-picture_2-0349832_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:28:29.834Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez FILET D'ANCHOIS 140G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

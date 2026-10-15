@@ -23,7 +23,7 @@
     "Accueil",
     "DEPAZ CUVEE MONTAGNE PELEE 45° 70CL DEPAZ"
   ],
-  "description": "Achetez DEPAZ CUVEE MONTAGNE PELEE 45° 70CL DEPAZ chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "DEPAZ CUVEE MONTAGNE PELEE 45° 70CL\n\nRhum blanc agricole de Martinique, issu de la distillation du pur jus de cannes à sucre exclusivement récoltées sur la jupe de la Montagne Pelée, le rhum blanc Cuvée de La Montagne est le fruit d’un savoir-faire unique.\n\n \n\nBénéficiant d’une longue fermentation associée à une réduction très lente et fractionnée de 60 jours minimum ainsi que d’une maturation de 3 mois minimum avant mise en bouteille, cette Cuvée de la Montagne Depaz développe une richesse aromatique exceptionnelle.",
   "supplierRef": "10922",
   "price": {
     "amount": 34.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0008324/01-337.png",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:39:54.252Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez DEPAZ CUVEE MONTAGNE PELEE 45° 70CL DEPAZ chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

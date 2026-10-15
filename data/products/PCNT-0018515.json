@@ -25,7 +25,7 @@
     "Accueil",
     "Sac à dos d'escalade Bug III PETZL"
   ],
-  "description": "Le sac à dos d'escalade BUG Petzl est conçu pour l'escalade en grande voie rocheuse, falaise ou pour tous vos usages au quotidien.",
+  "description": "SAC A DOS D'ESCALADE BUG III PETZL\n Le sac à dos d'escalade BUG Petzl est conçu pour l'escalade en grande voie rocheuse, falaise ou pour tous vos usages au quotidien.\n Le BUG PETZL est adapté pour porter l'équipement pendant la marche d'approche et tout le nécessaire pendant l'escalade (poche à eau, vivres de course, vêtements, chaussures...).\n Il est conçu pour offrir le meilleur confort d'usage : encombrement minimal, liberté de mouvement aux épaules, ceinture escamotable, portage haut dégageant l'accès au harnais.\n Caractéristiques :\n Sangles de compression latérales\n Sangle réglable pour attacher une corde sur le dessus du sac\n Large poche extérieure\n Compartiment intérieur pour une poche à eau ou un ordinateur portable\n Poche portefeuille\n Poche topo cachée dans le dos du sac\n Ceinture escamotable\n Sangle sternale réglable pour assurer la stabilité du sac\n Grande durabilité : fond et côtés doublés en textile haute ténacité\n Informations techniques :\n Matière(s) : Nylon",
   "supplierRef": null,
   "price": {
     "amount": 49,
@@ -87,5 +87,8 @@
       "path": "data/images/PCNT-0018515/05-pz78_1_j-sac-a-dos-d-escalade-bug-iii-petzl.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:14:39.570Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Le sac à dos d'escalade BUG Petzl est conçu pour l'escalade en grande voie rocheuse, falaise ou pour tous vos usages au quotidien."
 }

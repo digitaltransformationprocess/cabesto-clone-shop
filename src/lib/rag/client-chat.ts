@@ -1,3 +1,5 @@
+import type { ChatSessionPayload } from "./account-assist";
+
 export type ChatUiMessage = { role: "user" | "assistant"; content: string };
 
 export type RagMetaProduct = {
@@ -6,6 +8,7 @@ export type RagMetaProduct = {
   priceCents: number;
   stock: number;
   similarity: number;
+  imageUrl?: string;
 };
 
 export type StreamChatHandlers = {
@@ -14,6 +17,7 @@ export type StreamChatHandlers = {
   onDone?: () => void;
   onError?: (message: string) => void;
   signal?: AbortSignal;
+  session?: ChatSessionPayload;
 };
 
 type SseEvent =
@@ -30,14 +34,20 @@ export async function streamRagChat(
   messages: ChatUiMessage[],
   handlers: StreamChatHandlers = {},
 ): Promise<void> {
+  const cleanMessages = messages.map((m) => ({
+    role: m.role,
+    content: m.content,
+  }));
+
   const res = await fetch("/api/chat", {
     method: "POST",
     headers: { "Content-Type": "application/json", Accept: "text/event-stream" },
     body: JSON.stringify({
-      messages,
+      messages: cleanMessages,
       filters: { inStockOnly: false, matchCount: 8 },
+      session: handlers.session ?? { authenticated: false },
     }),
-    signal: handlers.signal,
+    ...(handlers.signal ? { signal: handlers.signal } : {}),
   });
 
   if (!res.ok) {

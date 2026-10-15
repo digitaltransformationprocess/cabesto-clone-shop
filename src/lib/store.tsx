@@ -20,7 +20,7 @@ type Ctx = {
   profile: Profile;
   updateProfile: (p: Partial<Profile>) => void;
   tickets: Ticket[];
-  addTicket: (subject: string, message: string) => void;
+  addTicket: (subject: string, message: string) => Ticket | null;
   setTicketStatus: (id: string, s: Ticket["status"]) => void;
 };
 const g = globalThis as unknown as { __storeCtx?: React.Context<Ctx | null> };
@@ -137,7 +137,19 @@ export function StoreProvider({ children }: { children: ReactNode }) {
       addToCart: (id, qty = 1) => setQty(id, (cart[id] ?? 0) + qty),
       clearCart: () => setCart(user, {}),
       setStatus: (id, s) => saveOrders(orders.map((o) => (o.id === id ? { ...o, status: s } : o))),
-      addTicket: (subject, message) => user && saveTickets([{ id: `T-${Date.now().toString().slice(-5)}`, email: user.email, subject, message, date: new Date().toISOString().slice(0, 10), status: "Ouvert" }, ...tickets]),
+      addTicket: (subject, message) => {
+        if (!user) return null;
+        const ticket: Ticket = {
+          id: `T-${Date.now().toString().slice(-5)}`,
+          email: user.email,
+          subject,
+          message,
+          date: new Date().toISOString().slice(0, 10),
+          status: "Ouvert",
+        };
+        saveTickets([ticket, ...tickets]);
+        return ticket;
+      },
       setTicketStatus: (id, s) => saveTickets(tickets.map((t) => (t.id === id ? { ...t, status: s } : t))),
     }}>{children}</StoreCtx.Provider>
   );

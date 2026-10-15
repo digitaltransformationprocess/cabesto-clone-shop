@@ -23,7 +23,7 @@
     "Accueil",
     "PASTA FESTA FARFALLES MULTICOLORES 250G"
   ],
-  "description": "Achetez PASTA FESTA FARFALLES MULTICOLORES 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Pâtes alimentaires de qualité supérieure aromatisées à la betterave, aux épinards, au curcuma, au paprika, à la tomate et à l'encre de sèche.",
   "supplierRef": "A8826FL",
   "price": {
     "amount": 3.19,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0001600/02-6128409-6128409-picture_1-6128409_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:28:20.417Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PASTA FESTA FARFALLES MULTICOLORES 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -23,7 +23,7 @@
     "Accueil",
     "KIT PECHE AU FLOTTEUR FLASHMER"
   ],
-  "description": "Achetez KIT PECHE AU FLOTTEUR FLASHMER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Kit Pêche au flotteur Flashmet\nTout en un !\n\nExclusivité Cabesto, ce kit Flashmer vous propose tout l'équipement pour pêcher au flotteur en mer ! Il est composé de : 3 montage pêche au coup avec flotteur et ligne plombée, un sachet d'hameçon n°12, une boite de plomb, un dégorgeoir, un achet d'émerillon et un plomb sonde.\n\nLe produit en vidéo\nContenu du colis\n\nUn kit Pêche au flotteur",
   "supplierRef": "KXKTPF",
   "price": {
     "amount": 14.99,
@@ -67,5 +67,8 @@
       "path": "data/images/PE-0006055/02-kit_peche_aux_flotteurs_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:25:48.023Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez KIT PECHE AU FLOTTEUR FLASHMER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

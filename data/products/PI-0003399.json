@@ -19,7 +19,7 @@
     "Accueil",
     "INTEX TAPIS DE SOL 4.72M X 4.72M"
   ],
-  "description": "Achetez INTEX TAPIS DE SOL 4.72M X 4.72M chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "TAPIS DE SOL 4M72 x 4M72\n\nAvec le tapis sol INTEX, apportez une protection supplémentaire au fond de votre piscine. Adapté pour les piscines de 2m44 à 4m57 de diamètre, ce tapis de sol évitera les micro-rayures dû au frotement entre le sol et votre bassin.",
   "supplierRef": "28048",
   "price": {
     "amount": 17.99,
@@ -63,5 +63,8 @@
       "path": "data/images/PI-0003399/02-28048-tapis-de-sol-piscine-.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:12:06.444Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez INTEX TAPIS DE SOL 4.72M X 4.72M chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

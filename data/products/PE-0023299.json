@@ -19,7 +19,7 @@
     "Accueil",
     "BANANE DE PECHE GAME TIME HIP BAG | MUSTAD"
   ],
-  "description": "Achetez BANANE DE PECHE GAME TIME HIP BAG | MUSTAD chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Mustad Game Time Hip Bag\n\nLa Mustad Game Time Hip Bag est une sacoche banane conçue pour les pêcheurs en mouvement, qui veulent garder l’essentiel à portée de main sans s’encombrer.\n\nSon compartiment principal peut accueillir des boîtes format 3600, tandis que des sections supplémentaires permettent de séparer et organiser pinces, accessoires, bas de ligne et petits outils.\n\nLa sacoche se porte naturellement sur la hanche pour un accès rapide, idéale pour les sessions courtes, la prospection et les déplacements fréquents entre deux spots.\n\nSon point différenciant : une conception de sangle modulable qui permet de transformer la sacoche en sling bag, voire en petit sac à dos lorsque la situation le demande.\n\nFabriquée dans une matière résistante à l’eau, elle protège efficacement le matériel contre les éclaboussures et les conditions variables, tout en restant compacte et confortable.\n\nInformations techniques :\nRéférence\nMGTHB\nType de sac\nHip bag / banane\nCompatibilité\nBoîtes format 3600\nMatière\nRésistante à l’eau\nRangements\nCompartiments + poches externes\nConditionnement\nUnité\nContenu du colis\n\nUne sacoche banane Mustad Game Time Hip Bag.",
   "supplierRef": "MGTHB",
   "price": {
     "amount": 37.99,
@@ -57,5 +57,8 @@
       "path": "data/images/PE-0023299/01-game_time_hip_bag.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:26:41.237Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BANANE DE PECHE GAME TIME HIP BAG | MUSTAD chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

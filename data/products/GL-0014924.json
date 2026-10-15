@@ -21,7 +21,7 @@
     "Accueil",
     "Siège paddle et kayak ULTRA ABSTRACT"
   ],
-  "description": "Pagayez confortablement sur le siège pour stand-up paddle sup et kayak ABSTRACT",
+  "description": "Siège paddle et kayak ULTRA ABSTRACT\n\nPagayez confortablement sur le siège pour stand-up paddle sup et kayak ABSTRACT.\n\nLe siège kayak Fusion Aquadesign offre le soutien lombaire idéal pour vos sorties sur l’eau.\n\nSa coque en mousse PVC assure un maximum de confort et de rigidité pour optimiser votre assise quelle que soit votre embarcation : Kayak gonflable, Seat-on-top ou encore Stand Up Paddle Board.\n\nEn effet, grâce à ses multiples sangles et passants de réglage, le siège kayak Fusion vous permet d’adapter ses fixations au centimètre près. Contrairement à de nombreux sièges kayak sur le marché, le modèle Aquadesign Fusion est équipé de mousquetons en laiton beaucoup plus durables d’une fixation en plastique offrant ainsi une durée de vie bien plus conséquente.\n\nContenu du colis\n\n1 x Siège kayak & paddle ULTRA ABSTRACT, couleur noir.",
   "supplierRef": "ABSA8095",
   "price": {
     "amount": 34.99,
@@ -83,5 +83,8 @@
       "path": "data/images/GL-0014924/05-sa8095-siege-kayak-fusion-back-web.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:40:46.375Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Pagayez confortablement sur le siège pour stand-up paddle sup et kayak ABSTRACT"
 }

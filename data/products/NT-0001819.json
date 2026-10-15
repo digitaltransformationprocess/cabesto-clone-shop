@@ -23,7 +23,7 @@
     "Accueil",
     "Autocollants réfléchissants pour Strato"
   ],
-  "description": "Achetez Autocollants réfléchissants pour Strato chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Autocollants casques STRATO\nAutocollants réfléchissants pour une visibilité accrue des casques STARTO\n\nFacile à installer sur les emplacements prévus.\n\nCaractéristiques Autocollants casques STRATO\nPlanche de quatre autocollants réfléchissants prédécoupés pour une visibilité accrue.\nCompatibles avec les casques STRATO à partir de 2019.\nInformations techniques :\nCouleur\nGris\nPoids\n10 g",
   "supplierRef": "A020FA00",
   "price": {
     "amount": 9.45,
@@ -61,5 +61,8 @@
       "path": "data/images/NT-0001819/01-s-l640_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:13.208Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Autocollants réfléchissants pour Strato chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

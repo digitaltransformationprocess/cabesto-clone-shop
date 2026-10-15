@@ -19,7 +19,7 @@
     "Accueil",
     "Sangle de compression 1.5 m 20 mm avec crochet - SEA TO SUMMIT"
   ],
-  "description": "Achetez Sangle de compression 1.5 m 20 mm avec crochet - SEA TO SUMMIT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sangle de compression 1.5 m 20 mm avec crochet - SEA TO SUMMIT\n2 sangles de compression avec boucle crochet en aluminium anodisé.\nCARACTERISTIQUES TECHNIQUES :\nLongueur : 1,5 m.\nLargeur : 20 mm.\nSupporte jusqu'à 150 kg.",
   "supplierRef": "DSANGLE",
   "price": {
     "amount": 13.95,
@@ -63,5 +63,8 @@
       "path": "data/images/NT-0000013/02-se14_1-sangle-de-compression-1-5-m-20-mm-avec-crochet-sea-to-summit_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:40:49.730Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sangle de compression 1.5 m 20 mm avec crochet - SEA TO SUMMIT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

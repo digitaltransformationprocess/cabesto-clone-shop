@@ -1,56 +1,448 @@
-import { useEffect, useRef, useState } from "react";
-import { streamRagChat } from "@/lib/rag/client-chat";
+import { useEffect, useMemo, useRef, useState } from "react";
+import {
+  buildOrderTrackingReply,
+  ordersToSession,
+  ticketsToSession,
+} from "@/lib/rag/account-assist";
+import {
+  CHAT_CARRIERS,
+  defaultShippingAddress,
+  detectCartIntent,
+  formatCartReply,
+  formatCheckoutPrompt,
+  parseCarrier,
+  type ChatCarrier,
+} from "@/lib/rag/chat-cart";
+import {
+  detectChatIntent,
+  HANDOFF_REPLY,
+  LOGIN_REQUIRED_REPLY,
+  requiresAuth,
+} from "@/lib/rag/chat-intents";
+import { streamRagChat, type RagMetaProduct } from "@/lib/rag/client-chat";
+import { logChatEvent } from "@/lib/rag/chat-log";
+import { productImage, products } from "@/lib/data";
 import { useStore } from "@/lib/store";
 
-type Msg = { role: "user" | "assistant"; content: string };
+function formatEuro(cents: number): string {
+  return new Intl.NumberFormat("fr-FR", { style: "currency", currency: "EUR" }).format(
+    cents / 100,
+  );
+}
 
-const quick = [
-  "Ordinateur de plongée Mares Genius",
-  "Quels sont les délais de livraison ?",
-  "Comment faire un retour ?",
-  "Magasin à Brest",
+type MsgAction = { id: string; label: string; primary?: boolean };
+type MsgKind = "default" | "login" | "success" | "cart";
+
+type Msg = {
+  role: "user" | "assistant";
+  content: string;
+  products?: RagMetaProduct[];
+  actions?: MsgAction[];
+  kind?: MsgKind;
+};
+
+type CheckoutDraft = { carrier: ChatCarrier };
+
+const quickActions: { label: string; prompt: string; needsAuth?: boolean }[] = [
+  { label: "Trouver un produit", prompt: "Je cherche un produit" },
+  { label: "Suivre ma commande", prompt: "Je veux suivre ma commande", needsAuth: true },
+  { label: "Livraison et délais", prompt: "Quels sont les délais de livraison ?" },
+  { label: "Retour ou réclamation", prompt: "J'ai un problème avec une commande", needsAuth: true },
 ];
 
-function render(text: string) {
-  return text.split("\n").map((line, i) => {
-    const parts = line.split(/(\[[^\]]+\]\([^)]+\)|\*\*[^*]+\*\*)/g).map((p, j) => {
-      const l = p.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
-      if (l) {
-        return (
-          <a key={j} href={l[2]} className="font-semibold text-accent underline">
-            {l[1]}
-          </a>
-        );
-      }
-      const b = p.match(/^\*\*([^*]+)\*\*$/);
-      return b ? <b key={j}>{b[1]}</b> : p;
-    });
+function parseCreateTicket(text: string): { subject: string; message: string } | null {
+  const m = text.match(/\[CREER_TICKET\]\s*([^|\n]+)\|\s*([\s\S]+?)(?:\n|$)/i);
+  if (!m?.[1] || !m[2]) return null;
+  const subject = m[1].trim().slice(0, 120);
+  const message = m[2].trim().slice(0, 2000);
+  if (!subject || !message) return null;
+  return { subject, message };
+}
+
+function stripTicketMarker(text: string): string {
+  return text.replace(/\n?\[CREER_TICKET\][^\n]*/gi, "").trim();
+}
+
+/** Drop markdown tables / verbose product dumps when UI cards already show products. */
+function formatDisplayText(text: string, hasProductCards: boolean): string {
+  let t = stripTicketMarker(text);
+  // Remove GFM tables
+  t = t
+    .split("\n")
+    .filter((line) => {
+      const s = line.trim();
+      if (!s) return true;
+      if (/^\|/.test(s) && s.includes("|")) return false;
+      if (/^[\s|:-]+$/.test(s)) return false;
+      return true;
+    })
+    .join("\n");
+
+  if (hasProductCards) {
+    // Drop bullet lines that look like product dumps (prix / stock / voir)
+    t = t
+      .split("\n")
+      .filter((line) => {
+        const s = line.trim();
+        if (/^[-*]\s*(prix|stock|voir)\b/i.test(s)) return false;
+        if (/^[-*]\s*.+\s[—–-]\s*\d+[.,]\d{2}\s*€/i.test(s)) return false;
+        if (/^\*\*[^*]+\*\*\s*$/.test(s) && s.length > 40) return false;
+        return true;
+      })
+      .join("\n");
+  }
+
+  return t.replace(/\n{3,}/g, "\n\n").trim();
+}
+
+function inlineMd(line: string, keyPrefix: string) {
+  return line.split(/(\[[^\]]+\]\([^)]+\)|\*\*[^*]+\*\*)/g).map((p, j) => {
+    const l = p.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+    if (l) {
+      return (
+        <a
+          key={`${keyPrefix}-${j}`}
+          href={l[2]}
+          className="font-semibold text-accent underline underline-offset-2"
+        >
+          {l[1]}
+        </a>
+      );
+    }
+    const b = p.match(/^\*\*([^*]+)\*\*$/);
+    return b ? <strong key={`${keyPrefix}-${j}`}>{b[1]}</strong> : p;
+  });
+}
+
+/** Turn leftover markdown tables into compact rows (fallback if no product cards). */
+function tableToBlocks(text: string): { intro: string; rows: string[][] } | null {
+  const lines = text.split("\n");
+  const tableLines = lines.filter((l) => /^\|/.test(l.trim()) && l.includes("|"));
+  if (tableLines.length < 2) return null;
+  const parsed = tableLines
+    .filter((l) => !/^[\s|:-]+$/.test(l.replace(/\|/g, "").trim() ? l : "|---|"))
+    .filter((l) => !/^\|\s*[-:| ]+\s*\|/.test(l.trim()))
+    .map((l) =>
+      l
+        .trim()
+        .replace(/^\||\|$/g, "")
+        .split("|")
+        .map((c) => c.trim()),
+    )
+    .filter((cells) => cells.some((c) => c && !/^[-:]+$/.test(c)));
+  if (parsed.length < 2) return null;
+  const intro = lines
+    .filter((l) => !/^\|/.test(l.trim()))
+    .join("\n")
+    .trim();
+  return { intro, rows: parsed.slice(1) }; // skip header
+}
+
+function render(text: string, hasProductCards = false) {
+  const cleaned = formatDisplayText(text, hasProductCards);
+  if (!cleaned) return null;
+
+  if (!hasProductCards) {
+    const table = tableToBlocks(text);
+    if (table && table.rows.length) {
+      return (
+        <div className="space-y-2">
+          {table.intro ? (
+            <div className="space-y-1 text-sm leading-relaxed">{render(table.intro, false)}</div>
+          ) : null}
+          <ul className="space-y-2">
+            {table.rows.map((cells, i) => (
+              <li
+                key={i}
+                className="rounded-lg border bg-background/80 px-3 py-2 text-xs leading-snug"
+              >
+                <p className="font-semibold">{inlineMd(cells[0] ?? "", `t${i}`)}</p>
+                <p className="mt-1 text-muted-foreground">
+                  {[cells[1], cells[2]].filter(Boolean).join(" · ")}
+                  {cells[3] ? <> · {inlineMd(cells[3], `tl${i}`)}</> : null}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </div>
+      );
+    }
+  }
+
+  return cleaned.split("\n").map((line, i) => {
+    const t = line.trim();
+    if (!t) return <div key={i} className="h-1.5" />;
     return (
-      <p key={i} className={line.trim().startsWith("-") || line.trim().startsWith("*") ? "pl-2" : ""}>
-        {parts}
+      <p
+        key={i}
+        className={
+          t.startsWith("-") || t.startsWith("*")
+            ? "pl-2 text-sm leading-relaxed"
+            : "text-sm leading-relaxed"
+        }
+      >
+        {inlineMd(line, `l${i}`)}
       </p>
     );
   });
 }
 
+function LoginGate({ returnPath = "/" }: { returnPath?: string }) {
+  const href = `/connexion?redirect=${encodeURIComponent(returnPath)}`;
+  return (
+    <div className="mt-2 overflow-hidden rounded-xl border border-accent/30 bg-accent/5">
+      <div className="border-b border-accent/20 px-3 py-2">
+        <p className="text-[11px] font-bold uppercase tracking-wide text-accent">Compte requis</p>
+      </div>
+      <div className="space-y-2 p-3">
+        <p className="text-xs leading-relaxed text-muted-foreground">
+          Suivi de commande, SAV et validation panier nécessitent une connexion.
+        </p>
+        <a
+          href={href}
+          className="flex w-full items-center justify-center rounded-lg bg-accent px-3 py-2.5 text-sm font-bold text-accent-foreground transition hover:opacity-90"
+        >
+          Se connecter
+        </a>
+        <p className="text-center text-[10px] text-muted-foreground">
+          Démo : client@test.fr / client123
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function ProductCards({
+  products: list,
+  onAdd,
+  addedSku,
+}: {
+  products: RagMetaProduct[];
+  onAdd: (sku: string) => void;
+  addedSku?: string | null;
+}) {
+  if (!list.length) return null;
+  return (
+    <div className="mt-2 space-y-2">
+      {list.slice(0, 3).map((p) => {
+        const catalog = products.find((x) => x.id === p.sku);
+        const img =
+          (p.imageUrl && p.imageUrl.trim()) ||
+          (catalog ? productImage(catalog) : "") ||
+          "";
+        const inStock = p.stock > 0;
+        const justAdded = addedSku === p.sku;
+        return (
+          <div
+            key={p.sku}
+            className="overflow-hidden rounded-xl border bg-background transition hover:border-accent/40"
+          >
+            <div className="flex gap-3 p-2.5">
+              <div className="h-16 w-16 shrink-0 overflow-hidden rounded-lg bg-muted">
+                {img ? (
+                  <img
+                    src={img}
+                    alt={p.name}
+                    className="h-full w-full object-cover"
+                    loading="lazy"
+                    onError={(e) => {
+                      (e.currentTarget as HTMLImageElement).style.display = "none";
+                    }}
+                  />
+                ) : (
+                  <div className="grid h-full place-items-center text-[10px] text-muted-foreground">
+                    —
+                  </div>
+                )}
+              </div>
+              <div className="min-w-0 flex-1">
+                <p className="line-clamp-2 text-xs font-semibold leading-snug">{p.name}</p>
+                <p className="mt-1 text-sm font-bold text-primary">{formatEuro(p.priceCents)}</p>
+                <span
+                  className={
+                    inStock
+                      ? "mt-1 inline-block rounded-full bg-emerald-500/15 px-2 py-0.5 text-[10px] font-semibold text-emerald-700 dark:text-emerald-400"
+                      : "mt-1 inline-block rounded-full bg-destructive/10 px-2 py-0.5 text-[10px] font-semibold text-destructive"
+                  }
+                >
+                  {inStock ? `${p.stock} en stock` : "Rupture"}
+                </span>
+              </div>
+            </div>
+            <div className="flex border-t">
+              <a
+                href={`/produit/${p.sku}`}
+                className="flex-1 py-2 text-center text-xs font-semibold text-muted-foreground transition hover:bg-muted hover:text-foreground"
+              >
+                Voir la fiche
+              </a>
+              <button
+                type="button"
+                disabled={!inStock}
+                onClick={() => onAdd(p.sku)}
+                className="flex-1 border-l py-2 text-center text-xs font-bold text-accent transition hover:bg-accent/10 disabled:cursor-not-allowed disabled:opacity-40"
+              >
+                {justAdded ? "Ajouté" : "Ajouter au panier"}
+              </button>
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
+function ActionRow({
+  actions,
+  busy,
+  onAction,
+}: {
+  actions: MsgAction[];
+  busy: boolean;
+  onAction: (id: string) => void;
+}) {
+  return (
+    <div className="mt-2 flex flex-wrap gap-1.5">
+      {actions.map((a) => (
+        <button
+          key={a.id}
+          type="button"
+          disabled={busy}
+          onClick={() => onAction(a.id)}
+          className={
+            a.primary
+              ? "rounded-lg bg-accent px-3 py-1.5 text-xs font-bold text-accent-foreground disabled:opacity-50"
+              : "rounded-lg border border-border bg-background px-3 py-1.5 text-xs font-semibold text-foreground hover:border-accent hover:text-accent disabled:opacity-50"
+          }
+        >
+          {a.label}
+        </button>
+      ))}
+    </div>
+  );
+}
+
+function TypingDots() {
+  return (
+    <div className="mr-4 flex items-center gap-1 rounded-2xl rounded-bl-md bg-muted px-3 py-2.5">
+      <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-muted-foreground/60 [animation-delay:0ms]" />
+      <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-muted-foreground/60 [animation-delay:150ms]" />
+      <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-muted-foreground/60 [animation-delay:300ms]" />
+    </div>
+  );
+}
+
 export function ChatWidget() {
-  const { user } = useStore();
+  const {
+    user,
+    orders,
+    tickets,
+    cart,
+    addToCart,
+    addTicket,
+    placeOrder,
+    profile,
+  } = useStore();
   const [open, setOpen] = useState(false);
   const [msgs, setMsgs] = useState<Msg[]>([]);
   const [input, setInput] = useState("");
   const [busy, setBusy] = useState(false);
+  const [misses, setMisses] = useState(0);
+  const [checkout, setCheckout] = useState<CheckoutDraft | null>(null);
+  const [pendingSav, setPendingSav] = useState<string | null>(null);
+  const [addedSku, setAddedSku] = useState<string | null>(null);
   const end = useRef<HTMLDivElement>(null);
   const abortRef = useRef<AbortController | null>(null);
+
+  const cartCount = useMemo(
+    () => Object.values(cart).reduce((s, q) => s + q, 0),
+    [cart],
+  );
+
+  const session = useMemo(() => {
+    if (!user) return { authenticated: false as const };
+    return {
+      authenticated: true as const,
+      userName: user.name,
+      email: user.email,
+      orders: ordersToSession(orders, user.email),
+      tickets: ticketsToSession(tickets, user.email),
+    };
+  }, [user, orders, tickets]);
 
   useEffect(() => {
     end.current?.scrollIntoView({ behavior: "smooth" });
   }, [msgs, busy]);
 
   useEffect(() => {
-    return () => {
-      abortRef.current?.abort();
-    };
+    return () => abortRef.current?.abort();
   }, []);
+
+  useEffect(() => {
+    if (!addedSku) return;
+    const t = window.setTimeout(() => setAddedSku(null), 1800);
+    return () => window.clearTimeout(t);
+  }, [addedSku]);
+
+  const pushAssistant = (
+    next: Msg[],
+    content: string,
+    extra?: { products?: RagMetaProduct[]; actions?: MsgAction[]; kind?: MsgKind },
+  ) => {
+    const msg: Msg = {
+      role: "assistant",
+      content,
+      kind: extra?.kind ?? "default",
+      ...(extra?.products?.length ? { products: extra.products } : {}),
+      ...(extra?.actions?.length ? { actions: extra.actions } : {}),
+    };
+    setMsgs([...next, msg]);
+  };
+
+  const pushLogin = (next: Msg[], reason?: string) => {
+    if (reason) logChatEvent("auth_blocked", { detail: reason });
+    else logChatEvent("auth_blocked");
+    pushAssistant(next, reason || LOGIN_REQUIRED_REPLY, { kind: "login" });
+  };
+
+  const handleAction = (id: string) => {
+    if (id === "create_sav_ticket") {
+      if (!user) {
+        pushLogin(msgs, LOGIN_REQUIRED_REPLY);
+        return;
+      }
+      const body = pendingSav || "Demande SAV depuis le chat";
+      const ticket = addTicket("Réclamation chat", body.slice(0, 2000));
+      setPendingSav(null);
+      if (ticket?.id) logChatEvent("ticket_created", { detail: ticket.id });
+      pushAssistant(
+        msgs,
+        ticket
+          ? `Ticket **${ticket.id}** créé (Ouvert). Aucun remboursement n'est promis — un conseiller traitera la demande.`
+          : "Impossible de créer le ticket. Réessayez depuis Mon compte.",
+        ticket
+          ? { kind: "success", actions: [{ id: "go_account", label: "Voir mon compte" }] }
+          : { kind: "success" },
+      );
+      return;
+    }
+    if (id === "go_account") {
+      window.location.href = "/compte";
+      return;
+    }
+    if (id === "go_login") {
+      window.location.href = "/connexion";
+      return;
+    }
+    if (id.startsWith("carrier:")) {
+      const name = id.slice("carrier:".length);
+      void ask(name);
+      return;
+    }
+    if (id === "view_cart") void ask("mon panier");
+    if (id === "start_checkout") void ask("commander");
+    if (id === "confirm_order") void ask("Je confirme");
+  };
 
   const ask = async (text: string) => {
     if (!text.trim() || busy) return;
@@ -58,132 +450,526 @@ export function ChatWidget() {
     const ac = new AbortController();
     abortRef.current = ac;
 
-    const next: Msg[] = [...msgs, { role: "user", content: text.trim() }];
+    const userText = text.trim();
+    const next: Msg[] = [...msgs, { role: "user", content: userText }];
     setMsgs(next);
     setInput("");
     setBusy(true);
 
-    // Placeholder assistant bubble for streaming tokens
+    const cartIntent = detectCartIntent(userText);
+    const intent = detectChatIntent(userText);
+    logChatEvent("message", { intent, detail: userText });
+
+    if (checkout) {
+      const carrierPick = parseCarrier(userText);
+      if (carrierPick) {
+        setCheckout({ carrier: carrierPick });
+        const addr = defaultShippingAddress(user?.name ?? "", profile.shipping);
+        pushAssistant(next, formatCheckoutPrompt(cart, carrierPick, addr), {
+          kind: "cart",
+          actions: [
+            ...CHAT_CARRIERS.filter((c) => c !== carrierPick).map((c) => ({
+              id: `carrier:${c}`,
+              label: c,
+            })),
+            { id: "confirm_order", label: "Je confirme", primary: true },
+          ],
+        });
+        setBusy(false);
+        return;
+      }
+      if (cartIntent === "confirm_order" || /^(oui|ok)\.?$/i.test(userText)) {
+        if (!user) {
+          pushLogin(next);
+          setCheckout(null);
+          setBusy(false);
+          return;
+        }
+        if (!Object.keys(cart).length) {
+          pushAssistant(next, "Votre panier est vide — impossible de commander.");
+          setCheckout(null);
+          setBusy(false);
+          return;
+        }
+        const addr = defaultShippingAddress(user.name, profile.shipping);
+        const order = placeOrder(checkout.carrier, addr);
+        setCheckout(null);
+        if (order?.id) logChatEvent("order_placed", { detail: order.id });
+        pushAssistant(
+          next,
+          order
+            ? `Commande **${order.id}** créée (paiement démo).\nStatut : **En préparation** · ${checkout.carrier}`
+            : "La commande n'a pas pu être créée. Réessayez via le panier.",
+          {
+            kind: "success",
+            actions: order
+              ? [
+                  { id: "go_account", label: "Suivre la commande", primary: true },
+                  { id: "view_cart", label: "Continuer mes achats" },
+                ]
+              : [{ id: "view_cart", label: "Voir le panier" }],
+          },
+        );
+        setBusy(false);
+        return;
+      }
+      if (cartIntent === "view_cart") {
+        setCheckout(null);
+        logChatEvent("view_cart");
+        pushAssistant(next, formatCartReply(cart), {
+          kind: "cart",
+          ...(Object.keys(cart).length
+            ? { actions: [{ id: "start_checkout", label: "Commander", primary: true }] }
+            : {}),
+        });
+        setBusy(false);
+        return;
+      }
+      setCheckout(null);
+    }
+
+    if (cartIntent === "view_cart") {
+      logChatEvent("view_cart");
+      pushAssistant(next, formatCartReply(cart), {
+        kind: "cart",
+        ...(Object.keys(cart).length
+          ? { actions: [{ id: "start_checkout", label: "Commander", primary: true }] }
+          : {}),
+      });
+      setBusy(false);
+      return;
+    }
+    if (cartIntent === "start_checkout") {
+      if (!user) {
+        pushLogin(next);
+        setBusy(false);
+        return;
+      }
+      if (!Object.keys(cart).length) {
+        pushAssistant(next, formatCartReply(cart));
+        setBusy(false);
+        return;
+      }
+      const carrier: ChatCarrier = "Colissimo";
+      setCheckout({ carrier });
+      logChatEvent("checkout_start");
+      const addr = defaultShippingAddress(user.name, profile.shipping);
+      pushAssistant(next, formatCheckoutPrompt(cart, carrier, addr), {
+        kind: "cart",
+        actions: [
+          ...CHAT_CARRIERS.filter((c) => c !== carrier).map((c) => ({
+            id: `carrier:${c}`,
+            label: c,
+          })),
+          { id: "confirm_order", label: "Je confirme", primary: true },
+        ],
+      });
+      setBusy(false);
+      return;
+    }
+
+    if (requiresAuth(intent) && !user) {
+      pushLogin(next);
+      setBusy(false);
+      return;
+    }
+
+    if (/^(je\s+cherche\s+un\s+produit|trouver\s+un\s+produit)\.?$/i.test(userText)) {
+      pushAssistant(
+        next,
+        "Que cherchez-vous ? Indiquez l'usage, la marque ou le budget — par exemple « masque snorkeling adulte autour de 30 € ».",
+      );
+      setBusy(false);
+      return;
+    }
+
+    if (intent === "handoff") {
+      const summary = next
+        .slice(-6)
+        .map((m) => `${m.role}: ${m.content.slice(0, 200)}`)
+        .join("\n");
+      const ticket = user ? addTicket("Demande conseiller (chat)", summary || userText) : null;
+      if (ticket?.id) logChatEvent("handoff", { detail: ticket.id });
+      else logChatEvent("handoff");
+      pushAssistant(
+        next,
+        HANDOFF_REPLY +
+          (ticket
+            ? `\n\nTicket **${ticket.id}** créé.`
+            : "\n\nConnectez-vous pour laisser un ticket suivi."),
+        {
+          kind: "success",
+          actions: ticket
+            ? [{ id: "go_account", label: "Voir mon compte", primary: true }]
+            : [{ id: "go_login", label: "Se connecter", primary: true }],
+        },
+      );
+      setMisses(0);
+      setBusy(false);
+      return;
+    }
+
+    if (intent === "order_tracking" && user) {
+      const reply = buildOrderTrackingReply(session.orders ?? [], userText);
+      pushAssistant(next, reply, {
+        actions: [{ id: "go_account", label: "Ouvrir mon compte" }],
+      });
+      setMisses(0);
+      setBusy(false);
+      return;
+    }
+
+    if (intent === "sav" && user) setPendingSav(userText);
+
     setMsgs([...next, { role: "assistant", content: "" }]);
 
     let assembled = "";
     let sawError = false;
+    let metaProducts: RagMetaProduct[] = [];
 
     try {
       await streamRagChat(next, {
         signal: ac.signal,
+        session,
+        onMeta: (plist) => {
+          metaProducts = plist;
+        },
         onToken: (chunk) => {
           assembled += chunk;
           const snapshot = assembled;
-          setMsgs([...next, { role: "assistant", content: snapshot }]);
+          const mid: Msg = metaProducts.length
+            ? {
+                role: "assistant",
+                content: stripTicketMarker(snapshot),
+                products: metaProducts,
+              }
+            : { role: "assistant", content: stripTicketMarker(snapshot) };
+          setMsgs([...next, mid]);
         },
         onError: (message) => {
           sawError = true;
-          setMsgs([...next, { role: "assistant", content: `⚠️ ${message}` }]);
+          setMsgs([...next, { role: "assistant", content: `Impossible de répondre : ${message}` }]);
         },
         onDone: () => {
-          if (!sawError && !assembled.trim()) {
-            setMsgs([...next, { role: "assistant", content: "Je ne sais pas" }]);
+          if (sawError) return;
+          if (!assembled.trim()) {
+            const n = misses + 1;
+            setMisses(n);
+            logChatEvent("dont_know");
+            const missMsg: Msg =
+              n >= 2
+                ? {
+                    role: "assistant",
+                    content:
+                      "Je n'ai pas bien compris. Reformulez, ou demandez à parler à un conseiller.",
+                    actions: [
+                      { id: "handoff_ask", label: "Parler à un conseiller", primary: true },
+                    ],
+                  }
+                : {
+                    role: "assistant",
+                    content:
+                      "Je ne trouve pas d'information utile. Reformulez ou choisissez un sujet.",
+                  };
+            setMsgs([...next, missMsg]);
+            return;
           }
+
+          setMisses(0);
+          const ticketSpec = parseCreateTicket(assembled);
+          let content = stripTicketMarker(assembled);
+          const actions: MsgAction[] = [];
+
+          if (ticketSpec && user) {
+            const ticket = addTicket(ticketSpec.subject, ticketSpec.message);
+            if (ticket) {
+              content += `\n\nTicket **${ticket.id}** créé (Ouvert).`;
+              setPendingSav(null);
+              logChatEvent("ticket_created", { detail: ticket.id });
+              actions.push({ id: "go_account", label: "Voir mon compte" });
+            }
+          } else if (intent === "sav" && user) {
+            actions.push({ id: "create_sav_ticket", label: "Créer un ticket SAV", primary: true });
+          }
+
+          if (metaProducts.length) {
+            actions.push({ id: "view_cart", label: "Voir mon panier" });
+          }
+
+          setMsgs([
+            ...next,
+            {
+              role: "assistant",
+              content,
+              ...(metaProducts.length ? { products: metaProducts } : {}),
+              ...(actions.length ? { actions } : {}),
+            },
+          ]);
         },
       });
     } catch (e) {
       if ((e as Error)?.name === "AbortError") return;
       const msg = e instanceof Error ? e.message : String(e);
-      setMsgs([
-        ...next,
-        {
-          role: "assistant",
-          content: `⚠️ Impossible de joindre l'assistant (${msg}). Ouvre http://localhost:8080/ puis Ctrl+Shift+R.`,
-        },
-      ]);
+      setMsgs([...next, { role: "assistant", content: `Impossible de joindre l'assistant (${msg}).` }]);
     } finally {
       setBusy(false);
     }
   };
 
+  // wire handoff_ask action
+  const onAction = (id: string) => {
+    if (id === "handoff_ask") {
+      void ask("Je veux parler à un conseiller");
+      return;
+    }
+    handleAction(id);
+  };
+
+  const onAddProduct = (sku: string, name: string) => {
+    addToCart(sku, 1);
+    setAddedSku(sku);
+    logChatEvent("add_to_cart", { detail: sku });
+    setMsgs((prev) => [
+      ...prev,
+      {
+        role: "assistant",
+        content: `**${name}** est dans votre panier.`,
+        kind: "success",
+        actions: [
+          { id: "view_cart", label: "Voir mon panier" },
+          { id: "start_checkout", label: "Commander", primary: true },
+        ],
+      },
+    ]);
+  };
+
+  const clearChat = () => {
+    abortRef.current?.abort();
+    setMsgs([]);
+    setCheckout(null);
+    setPendingSav(null);
+    setMisses(0);
+    setBusy(false);
+  };
+
   return (
     <>
       {open && (
-        <div className="fixed bottom-24 right-4 z-50 flex h-[560px] max-h-[75vh] w-[380px] max-w-[calc(100vw-2rem)] flex-col overflow-hidden rounded-xl border bg-card shadow-2xl">
-          <div className="flex items-center justify-between bg-primary px-4 py-3 text-primary-foreground">
-            <div>
-              <p className="font-display font-bold">Capitaine Marinéo</p>
-              <p className="text-xs opacity-80">
-                {user ? `Bonjour ${user.name.split(" ")[0]}` : "Assistant catalogue (RAG)"}
+        <div className="fixed bottom-24 right-4 z-50 flex h-[min(640px,78vh)] w-[min(400px,calc(100vw-1.5rem))] flex-col overflow-hidden rounded-2xl border bg-card shadow-2xl">
+          {/* Header */}
+          <div className="flex items-center gap-3 bg-primary px-4 py-3 text-primary-foreground">
+            <div className="grid h-9 w-9 place-items-center rounded-full bg-accent text-sm font-bold text-accent-foreground">
+              M
+            </div>
+            <div className="min-w-0 flex-1">
+              <p className="font-display text-sm font-bold leading-tight">Assistant Marinéo</p>
+              <p className="truncate text-[11px] opacity-80">
+                {user ? `${user.name.split(" ")[0]} · connecté` : "Invité · catalogue & infos"}
+                {checkout ? " · commande en cours" : ""}
               </p>
             </div>
-            <button onClick={() => setOpen(false)} aria-label="Fermer" className="text-xl">
+            {msgs.length > 0 && (
+              <button
+                type="button"
+                onClick={clearChat}
+                className="rounded-md px-2 py-1 text-[11px] font-semibold opacity-80 hover:bg-white/10 hover:opacity-100"
+              >
+                Effacer
+              </button>
+            )}
+            <button
+              type="button"
+              onClick={() => setOpen(false)}
+              aria-label="Fermer"
+              className="grid h-8 w-8 place-items-center rounded-md text-lg leading-none hover:bg-white/10"
+            >
               ×
             </button>
           </div>
-          <div className="flex-1 space-y-3 overflow-y-auto p-4 text-sm">
+
+          {/* Messages */}
+          <div className="flex-1 space-y-3 overflow-y-auto bg-muted/20 p-3 text-sm">
             {msgs.length === 0 && (
-              <div>
-                <p className="rounded-lg bg-muted p-3">
-                  Produits (prix/stock à jour), FAQ, livraison, retours, magasins… Sinon je réponds « Je ne sais
-                  pas ».
-                </p>
-                <div className="mt-3 flex flex-wrap gap-2">
-                  {quick.map((q) => (
-                    <button
-                      key={q}
-                      type="button"
-                      onClick={() => ask(q)}
-                      className="rounded-full border border-accent px-3 py-1 text-xs font-semibold text-accent hover:bg-accent hover:text-accent-foreground"
-                    >
-                      {q}
-                    </button>
-                  ))}
+              <div className="space-y-3">
+                <div className="rounded-2xl rounded-tl-md bg-card p-3.5 shadow-sm ring-1 ring-border">
+                  <p className="text-[11px] font-bold uppercase tracking-wide text-muted-foreground">
+                    Assistant virtuel
+                  </p>
+                  <p className="mt-1.5 leading-relaxed">
+                    Bonjour{user ? ` ${user.name.split(" ")[0]}` : ""} ! Je peux vous aider sur le
+                    catalogue, la livraison et les retours.
+                    {user
+                      ? " Votre compte permet aussi le suivi, le panier et le SAV."
+                      : ""}
+                  </p>
                 </div>
+
+                {!user && (
+                  <div className="rounded-xl border border-dashed border-accent/40 bg-accent/5 p-3">
+                    <p className="text-xs leading-relaxed text-muted-foreground">
+                      Connectez-vous pour suivre une commande ou ouvrir un ticket SAV.
+                    </p>
+                    <a
+                      href="/connexion"
+                      className="mt-2 inline-flex rounded-lg bg-accent px-3 py-2 text-xs font-bold text-accent-foreground"
+                    >
+                      Se connecter
+                    </a>
+                  </div>
+                )}
+
+                <div className="grid grid-cols-2 gap-2">
+                  {quickActions.map((q) => {
+                    const locked = Boolean(q.needsAuth && !user);
+                    return (
+                      <button
+                        key={q.label}
+                        type="button"
+                        onClick={() => void ask(q.prompt)}
+                        className="rounded-xl border bg-card px-3 py-2.5 text-left text-xs font-semibold leading-snug transition hover:border-accent hover:text-accent"
+                      >
+                        <span className="block">{q.label}</span>
+                        {locked && (
+                          <span className="mt-0.5 block text-[10px] font-medium text-muted-foreground">
+                            Connexion requise
+                          </span>
+                        )}
+                      </button>
+                    );
+                  })}
+                </div>
+
+                <button
+                  type="button"
+                  onClick={() => void ask("Je veux parler à un conseiller")}
+                  className="w-full rounded-lg py-2 text-xs font-semibold text-muted-foreground underline-offset-2 hover:text-foreground hover:underline"
+                >
+                  Parler à un conseiller
+                </button>
               </div>
             )}
-            {msgs.map((m, i) => (
-              <div
-                key={i}
-                className={
-                  m.role === "user"
-                    ? "ml-8 rounded-lg bg-primary p-3 text-primary-foreground"
-                    : "mr-4 space-y-1"
-                }
-              >
-                {m.role === "user" ? m.content : m.content ? render(m.content) : null}
-              </div>
-            ))}
-            {busy && <p className="animate-pulse text-muted-foreground">Recherche catalogue…</p>}
+
+            {msgs.map((m, i) => {
+              if (m.role === "user") {
+                return (
+                  <div
+                    key={i}
+                    className="ml-10 rounded-2xl rounded-br-md bg-primary px-3.5 py-2.5 text-primary-foreground"
+                  >
+                    {m.content}
+                  </div>
+                );
+              }
+              if (!m.content && !m.products?.length) return null;
+              return (
+                <div key={i} className="mr-6 max-w-[95%]">
+                  <div
+                    className={
+                      m.kind === "success"
+                        ? "rounded-2xl rounded-bl-md border border-emerald-500/25 bg-emerald-500/5 px-3.5 py-2.5"
+                        : m.kind === "cart"
+                          ? "rounded-2xl rounded-bl-md border border-accent/25 bg-accent/5 px-3.5 py-2.5"
+                          : m.kind === "login"
+                            ? "rounded-2xl rounded-bl-md border bg-card px-3.5 py-2.5"
+                            : "rounded-2xl rounded-bl-md bg-card px-3.5 py-2.5 shadow-sm ring-1 ring-border"
+                    }
+                  >
+                    {(() => {
+                      const hasCards = Boolean(m.products?.length);
+                      const body = render(m.content, hasCards);
+                      if (body) return body;
+                      if (hasCards) {
+                        const oos = m.products!.every((p) => p.stock <= 0);
+                        return (
+                          <p className="text-sm leading-relaxed">
+                            {oos
+                              ? "Voici les articles trouvés — actuellement en rupture de stock :"
+                              : "Voici les articles trouvés :"}
+                          </p>
+                        );
+                      }
+                      return null;
+                    })()}
+                    {m.kind === "login" && <LoginGate />}
+                    {m.products && m.products.length > 0 && (
+                      <ProductCards
+                        products={m.products}
+                        addedSku={addedSku}
+                        onAdd={(sku) => {
+                          const p = m.products?.find((x) => x.sku === sku);
+                          onAddProduct(sku, p?.name ?? sku);
+                        }}
+                      />
+                    )}
+                    {m.actions && m.actions.length > 0 && (
+                      <ActionRow actions={m.actions} busy={busy} onAction={onAction} />
+                    )}
+                  </div>
+                </div>
+              );
+            })}
+
+            {busy && <TypingDots />}
             <div ref={end} />
           </div>
+
+          {/* Composer */}
           <form
             onSubmit={(e) => {
               e.preventDefault();
               void ask(input);
             }}
-            className="flex gap-2 border-t p-3"
+            className="border-t bg-card p-3"
           >
-            <input
-              autoFocus
-              value={input}
-              onChange={(e) => setInput(e.target.value)}
-              placeholder="Ex. ordinateur plongée Mares…"
-              className="flex-1 rounded-full border bg-muted px-4 py-2 text-sm"
-            />
-            <button
-              disabled={busy}
-              type="submit"
-              className="rounded-full bg-accent px-4 text-sm font-bold text-accent-foreground disabled:opacity-50"
-            >
-              Envoyer
-            </button>
+            {checkout && (
+              <p className="mb-2 text-[10px] font-semibold uppercase tracking-wide text-accent">
+                Validation commande — confirmez ou changez le transporteur
+              </p>
+            )}
+            <div className="flex gap-2">
+              <input
+                autoFocus
+                value={input}
+                onChange={(e) => setInput(e.target.value)}
+                placeholder={
+                  checkout
+                    ? "Je confirme ou Chronopost…"
+                    : user
+                      ? "Produit, panier, commande, SAV…"
+                      : "Produit, livraison, magasin…"
+                }
+                className="min-w-0 flex-1 rounded-xl border bg-muted/50 px-3.5 py-2.5 text-sm outline-none ring-accent focus:ring-2"
+              />
+              <button
+                disabled={busy || !input.trim()}
+                type="submit"
+                className="rounded-xl bg-accent px-4 text-sm font-bold text-accent-foreground disabled:opacity-40"
+              >
+                Envoyer
+              </button>
+            </div>
           </form>
         </div>
       )}
+
       <button
         type="button"
         onClick={() => setOpen(!open)}
-        aria-label="Assistant"
-        className="fixed bottom-4 right-4 z-50 grid h-16 w-16 place-items-center rounded-full bg-accent text-2xl text-accent-foreground shadow-xl"
+        aria-label={open ? "Fermer l'assistant" : "Ouvrir l'assistant"}
+        className="fixed bottom-4 right-4 z-50 grid h-14 w-14 place-items-center rounded-full bg-accent text-accent-foreground shadow-xl transition hover:scale-105"
       >
-        {open ? "×" : "💬"}
+        {open ? (
+          <span className="text-2xl leading-none">×</span>
+        ) : (
+          <span className="relative">
+            <span className="font-display text-lg font-bold">M</span>
+            {cartCount > 0 && (
+              <span className="absolute -right-3 -top-2 grid h-5 min-w-5 place-items-center rounded-full bg-primary px-1 text-[10px] font-bold text-primary-foreground">
+                {cartCount > 9 ? "9+" : cartCount}
+              </span>
+            )}
+          </span>
+        )}
       </button>
     </>
   );

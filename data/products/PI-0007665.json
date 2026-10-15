@@ -19,7 +19,7 @@
     "Accueil",
     "EASY POOLGOM TOUCAN"
   ],
-  "description": "Achetez EASY POOLGOM TOUCAN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Gomme Magique Easy Pool'Gom Toucan - Nettoyage Efficace et Pratique\nDécouvrez la solution idéale pour un nettoyage de piscine sans effort !\n\nLa gomme Easy Pool'Gom Toucan révolutionne le nettoyage de votre piscine grâce à sa mousse plastique brevetée qui durcit en surface lorsqu'humidifiée, tout en restant suffisamment souple pour un gommage efficace. Sa poignée ergonomique et son format original en goutte d'eau permettent un accès facile dans les angles et recoins de votre bassin, assurant une propreté impeccable sans l'utilisation de produits chimiques.\n\nCaractéristiques Gomme Magique Easy Pool'Gom Toucan\nNettoyage sans produits chimiques\nFormat ergonomique pour un usage facile\nMousse plastique brevetée unique\nIdéal pour la ligne d'eau et les surfaces variées\nDesign économique et écologique\nInformations techniques :\nRéférence\nPGES30\nDimensions\n8 x 10 cm\nComposition\nMousse plastique brevetée\nUtilisation\nLigne d'eau, couvertures, volets, etc.\nDurabilité\nLongue durée\nContenu du colis\n\nUne gomme Easy Pool'Gom et une poignée ergonomique.",
   "supplierRef": "PGES30",
   "price": {
     "amount": 12.8,
@@ -57,5 +57,8 @@
       "path": "data/images/PI-0007665/01-gomme-magique-easy-pool-gom-avec-poignee-toucan.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:15:00.092Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez EASY POOLGOM TOUCAN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

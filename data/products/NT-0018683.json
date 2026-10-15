@@ -23,7 +23,7 @@
     "Accueil",
     "Sac Genius Tool Bucket"
   ],
-  "description": "Achetez Sac Genius Tool Bucket chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Seau très résistant pour outillage. Ouverture et anse rigidifiée pour accéder aisément au contenu. Hauteur 40 cm.\n\nCapacité 20l.\n\nPoids 830 g.",
   "supplierRef": "BSAC.GTB",
   "price": {
     "amount": 72.52,
@@ -61,5 +61,8 @@
       "path": "data/images/NT-0018683/01-175m_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:48:57.957Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sac Genius Tool Bucket chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

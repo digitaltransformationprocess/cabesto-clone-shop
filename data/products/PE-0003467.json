@@ -27,7 +27,7 @@
     "Équipements",
     "Epuisette Alfeld 0.80M"
   ],
-  "description": "Achetez Epuisette Alfeld 0.80M chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Epuisette Water Queen Alfeld 80\nCompacte et pratique: une petite épuisette à l'excellent rapport qualité/prix.\n\nL'Epuisette Water Queen Alfeld 80 est un modèle compact et très pratique grâce à sa tête repliable. Son manche télescopique en aluminium offre une grande maniabilité. Voici une description détaillée :\n\nCaractéristiques de l'Epuisette Water Queen Alfeld 80\nLongueur : De 45 à 80 cm\nManche en 2 éléments\nMailles de 5 mm\nTête de 40 x 40 cm\nProfondeur du filet : 30 cm\nInformations techniques :\nPoids\n350 g\nContenu du colis\n\nL'Epuisette Water Queen Alfeld 80 est livrée avec son manche télescopique et sa tête repliable.",
   "supplierRef": "087000200",
   "price": {
     "amount": 11.99,
@@ -65,5 +65,8 @@
       "path": "data/images/PE-0003467/01-epuisette-ragot-alfeld-z-733-73374_k84jlzyv42mv33me.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:25:10.945Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Epuisette Alfeld 0.80M chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

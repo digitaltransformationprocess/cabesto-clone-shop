@@ -23,7 +23,7 @@
     "Accueil",
     "CREVETTES COCO CITRON SEL DE GUÉRANDE 100G"
   ],
-  "description": "Achetez CREVETTES COCO CITRON SEL DE GUÉRANDE 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Produit à tartiner conditionné en verrine. Il est stérilisé et se conserve à température ambiante.",
   "supplierRef": "3385.",
   "price": {
     "amount": 3.89,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0004218/01-6041961-6041961-picture_1-6041961_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:39:07.180Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez CREVETTES COCO CITRON SEL DE GUÉRANDE 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

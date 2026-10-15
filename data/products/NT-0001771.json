@@ -19,7 +19,7 @@
     "Accueil",
     "Risotto des Balkans au boeuf - TREK'N EAT"
   ],
-  "description": "Achetez Risotto des Balkans au boeuf - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Risotto des Balkans au boeuf -TREK'N EAT\nRepas lyophilisé de Risotto des Balkans au boeuf adapté au trekking, randonnée avec bivouac et tous les séjours en montagne où manger chaud permet de retrouver énergie et récupération.\nPoids net : 190g.\nEau ajoutée : 460ml.\nPoids total : 650g.\n\nIngrédients : riz long 42%, viande de boeuf, poivrons, oignons, huile de tournesol (contient du lait, E551), poireaux, tomates, condiment (contient du céleri), amidon modifié, fécule de pommes de terre, maltodextrine, sel, poivre, extrait de levure, poudre de paprika, poudre d'ail, cumin, extrait de romarin.\n\nPoids en viande: Viande déshydratee 10,5 g soit env. 42 g de viande fraîche.\nAllergènes : lait, céleri.\nPréparation : Verser de l'eau bouillante jusqu'au trait 8,5 cm de l'échelle (460 ml) directement dans le sachet, puis remuer délicatement, refermer le sachet et laisser infuser 10 à 12 minutes.\nValeur nutritive moyenne pour 100 g de produit sec :\nkJ/kcal : 1519/363.\nLipides : 8,9 g dont acides gras saturés : 2,2 g.\nGlucides : 54,5 g dont sucres : 9,6 g.\nFibres alimentaires : 3,9 g.\nProtéines : 15,3 g.\nSel : 2,3 g.\nA consommer de préférence : 60 mois après la date de production.",
   "supplierRef": "TE30202009",
   "price": {
     "amount": 11.95,
@@ -81,5 +81,8 @@
       "path": "data/images/NT-0001771/05-3049_1-risotto-des-balkans-au-boeuf-trek_n-eat_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:05.215Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Risotto des Balkans au boeuf - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

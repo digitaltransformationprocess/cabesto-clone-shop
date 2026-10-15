@@ -21,7 +21,7 @@
     "Accueil",
     "Sac à corde Folio - BEAL"
   ],
-  "description": "Achetez Sac à corde Folio - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sac à corde Folio - BEAL\n Le sac à corde Folio Beal est conçu pour le transport de votre corde d'escalade, il protège cette dernière de la poussière, des coups et du piétinement, diminue le vrillage en rendant le lovage inutile et supprime les risques de noeuds en situation d'assurage en falaise.\n\nUn sac simple, efficace d'un très bon rapport qualité/prix qui prolongera la durée de vie de votre corde.\n\nCARACTERISTIQUES TECHNIQUES :\n Déplié 110 x 85 cm.\n Deux attaches pour repérer les deux extrémités.\n Bandoulière en sangle.\n Poids : 480 g.",
   "supplierRef": null,
   "price": {
     "amount": 23.67,
@@ -83,5 +83,8 @@
       "path": "data/images/PCNT-0018416/05-be96_1_j-sac-a-corde-folio-beal.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:14:06.146Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sac à corde Folio - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

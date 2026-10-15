@@ -25,7 +25,7 @@
     "Accueil",
     "Boucle de remplacement 50 mm classique - SeaToSummit"
   ],
-  "description": "Achetez Boucle de remplacement 50 mm classique - SeaToSummit chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Boucle de remplacement 50 mm classique - SeaToSummit\nBoucle de remplacement de 50mm pour sac à dos, taille généralement utilisée pour la ceinture ventrale.\n\nDouble passant de chaque côté.",
   "supplierRef": "DDRYZBOU9",
   "price": {
     "amount": 3.96,
@@ -75,5 +75,8 @@
       "path": "data/images/NT-0002692/03-ss21_1-boucle-de-remplacement-50-mm-classique-sea-to-summit_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:39.165Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Boucle de remplacement 50 mm classique - SeaToSummit chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

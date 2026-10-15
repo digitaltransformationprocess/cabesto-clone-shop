@@ -43,3 +43,6 @@ dist-ssr
 # Product photos live in Supabase Storage (product-media)
 data/images/
 
+# Scraper resume state
+data/.enrich-descriptions-state.json
+

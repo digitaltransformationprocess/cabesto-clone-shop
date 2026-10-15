@@ -25,7 +25,7 @@
     "Accueil",
     "Lot de 2 paires de Chaussettes TRAVEL - RYWAN"
   ],
-  "description": "Achetez Lot de 2 paires de Chaussettes TRAVEL - RYWAN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Lot de 2 paires de Chaussettes TRAVEL - RYWAN\n Les chaussettes Travel de randonnée par Rywan vous procureront un effet 'seconde peau'.\n Elles protègeront vos pieds tout en vous apportant fraîcheur et respirabilité.\n AVANTAGES TECHNIQUES :\n Composition : 32% Dryarn® Polypropylène, 68% Polyamide.\n Effet 'seconde peau'.\n Renforts aux endroits de friction.\n Pieds au sec et au frais.\n Tailles : 35/37 à 44/46.",
   "supplierRef": null,
   "price": {
     "amount": 17.99,
@@ -117,5 +117,8 @@
       "path": "data/images/PCNT-0022201/10-yw06_1_af-lot-de-2-paires-de-chaussettes-travel-rywan_3.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:16:15.185Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Lot de 2 paires de Chaussettes TRAVEL - RYWAN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

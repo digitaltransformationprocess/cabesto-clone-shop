@@ -23,7 +23,7 @@
     "Accueil",
     "CONCHIGLIONI 3 COULEURS 500G"
   ],
-  "description": "Achetez CONCHIGLIONI 3 COULEURS 500G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Pâtes de ble dur 3 couleurs de qualité supérieure",
   "supplierRef": "A1926AR",
   "price": {
     "amount": 2.79,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001181/01-0352835-0352835-picture_1-0352835_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:26:30.384Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez CONCHIGLIONI 3 COULEURS 500G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -25,7 +25,7 @@
     "Accueil",
     "POMPE PADDLE HAUTE PRESSION ABSTRACT"
   ],
-  "description": "Achetez POMPE PADDLE HAUTE PRESSION ABSTRACT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Cette pompe manuelle haute pression est capable de gonfler jusqu’à 22 PSI (1 Bar) votre planche de Stand Up Paddle Board.\n\nÉquipée d’un manomètre résistant et précis, vous pouvez optimiser la glisse de votre SUP en quelques minutes.\n\nVous pourrez gonfler votre planche 2 fois plus rapidement grâce à la technologie double action permettant de gonfler dans les deux sens du piston.",
   "supplierRef": "OZ PU 8014 BL",
   "price": {
     "amount": 29.99,
@@ -63,5 +63,8 @@
       "path": "data/images/GL-0010727/01-jaws_e_23_12_2020_16_56_13.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:40:38.112Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez POMPE PADDLE HAUTE PRESSION ABSTRACT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

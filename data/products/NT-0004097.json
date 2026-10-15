@@ -19,7 +19,7 @@
     "Accueil",
     "Chaufferette Mains PocketHeat - FRENDO"
   ],
-  "description": "Achetez Chaufferette Mains PocketHeat - FRENDO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Chaufferette Mains PocketHeat - FRENDO\nPaire de chaufferettes pour les mains pouvant se placer à l'intérieur des gants, des poches, etc.\nPrêt à l'emploi, elles s'activent automatiquement au simple contact de l'air.\nDiffusent une chaleur agréable jusqu'à 8 heures.",
   "supplierRef": "610000",
   "price": {
     "amount": 2,
@@ -63,5 +63,8 @@
       "path": "data/images/NT-0004097/02-fr55_1-chaufferette-mains-pocketheat-frendo_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:44:05.778Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Chaufferette Mains PocketHeat - FRENDO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

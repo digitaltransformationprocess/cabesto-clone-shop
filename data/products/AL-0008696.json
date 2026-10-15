@@ -23,7 +23,7 @@
     "Accueil",
     "BOITE RETOUR DE PECHE GALETTES 130G"
   ],
-  "description": "Achetez BOITE RETOUR DE PECHE GALETTES 130G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "BOITE RETOUR DE PECHE GALETTES 130G\n\nGalettes bretonnes au beurre dans une belle boite en métal décorée.",
   "supplierRef": "80203503896",
   "price": {
     "amount": 6.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0008696/01-al-0008696.png",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:40:01.252Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BOITE RETOUR DE PECHE GALETTES 130G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

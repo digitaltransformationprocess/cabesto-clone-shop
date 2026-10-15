@@ -21,7 +21,7 @@
     "Accueil",
     "T-shirt Xplore"
   ],
-  "description": "Achetez T-shirt Xplore chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Le tee-shirt Xplore d'Expé est parfait pour toutes vos activités sportives, telles que randonnée en montagne, trekking au long cours, voyage touristique. Il pourra également faire partie de vos tenues décontractées à porter au quotidien grâce à son aspect gaufré.\n\nCol rond et coutures plates lui apportent look et confort.\n\nLéger et respirant, il évacue la transpiration et séche très rapidement.\n\nMatière: 100% Polyester.\n\nTaille: XS à XL.",
   "supplierRef": null,
   "price": {
     "amount": 0,
@@ -59,5 +59,8 @@
       "path": "data/images/PCNT-0023089/01-xp16_1_q-t-shirt-xplore-expe_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:16:17.808Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez T-shirt Xplore chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

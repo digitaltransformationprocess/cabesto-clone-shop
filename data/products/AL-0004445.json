@@ -23,7 +23,7 @@
     "Accueil",
     "SACHET CHOUCHOUS 300G"
   ],
-  "description": "Achetez SACHET CHOUCHOUS 300G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "SACHET CHOUCHOUS 300G\n\ndélicieuses arachides enrobées de sucre caramélisé\n\nTrace éventuelles de gluten, oeuf, soja, lait, fruits à coque, sesame.",
   "supplierRef": "80203100794",
   "price": {
     "amount": 4.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0004445/01-al-0004445.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:39:36.772Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez SACHET CHOUCHOUS 300G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

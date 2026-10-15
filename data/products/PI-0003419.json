@@ -25,7 +25,7 @@
     "Accueil",
     "PANIER SKIMME CERTIKIN SPC424"
   ],
-  "description": "Achetez PANIER SKIMME CERTIKIN SPC424 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Testeur électronique digital de salinité\n\nLe stylo électronique testeur de salinité est la solution idéale pour déterminer rapidement et précisément le taux de salinité dans l'eau du bassin. \n\nContrairement aux bandelettes et aux réactifs aux résultats approximatifs, le testeur digital permet d'obtenir des résultats précis facilement.\n\nImportant : Le niveau d'immersion dans l'eau du testeur ne doit pas dépasser la bande noire.\n\nType de testeur\tTesteur de salinité\nUnité de mesure\tg/L\nPlage de mesure\t0 - 5 g/L\nPrécision\t0.2 g/L\nTolérance\t+/- 0.2 g/L\nT°C fonctionnement\t0 - 50 °C\nDimensions\t150 x 32 x 15 mm\nCalibration\tPar potentiomètre\nPile\t4 x 1.5 V LR44 (200h)",
   "supplierRef": "SPC424",
   "price": {
     "amount": 12,
@@ -69,5 +69,8 @@
       "path": "data/images/PI-0003419/02-certikin_dimensions.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:12:21.486Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PANIER SKIMME CERTIKIN SPC424 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

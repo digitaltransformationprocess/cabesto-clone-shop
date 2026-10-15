@@ -23,7 +23,7 @@
     "Accueil",
     "BARQUETTE DE 2 KOUIGN AMANN NATURE"
   ],
-  "description": "Achetez BARQUETTE DE 2 KOUIGN AMANN NATURE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Ellaboré, selon la recette traditionnelle et avec les meilleurs ingrédients,notre Kouign Amann nature vous fera retrouver le goût de l’authentique grâce à son délicieux feuilletage caramélisé.",
   "supplierRef": "3353630000306.",
   "price": {
     "amount": 3.79,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000430/01-6069490-6069490-picture_1-6069490_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:23:54.992Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BARQUETTE DE 2 KOUIGN AMANN NATURE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

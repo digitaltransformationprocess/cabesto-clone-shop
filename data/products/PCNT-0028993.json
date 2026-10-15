@@ -27,7 +27,7 @@
     "Chaussures hautes de randonnée",
     "CHAUSSURE RANDONNÉE HOMME MOAB 3 MID GTX PECAN MERRELL"
   ],
-  "description": "La chaussure randonnée Mid référence en matière de polyvalence et de confort.",
+  "description": "CHAUSSURE RANDONNÉE HOMME MOAB 3 MID GTX PECAN MERRELL\nLa chaussure randonnée Mid référence en matière de polyvalence et de confort.\n\nGrande sœur de la célèbre Moad 3 Basse MERRELL, la version MID conserve son confort moelleux et apporte un maintien de chevilles sans gêne nécessaire pour augmenter les dénivelés.\n\nSur cette version responsable, les lacets, le Mesh et la toile proviennent de matériaux 100 % recyclés.\n\nVous serez efficacement protégé de l'humidité grâce à sa membrane GORE-TEX imperméable et respirante.\n\nL'amorti a également été retravaillé pour en faire une chaussure Outdoor capable d'absorber sans crainte les kilomètres sur tous les chemins.\n\nTout dans cette chaussure a été pensé pour améliorer le confort à la marche et la polyvalence chemins, sentiers, marche quotidienne sur sols durs...\n\nLa semelle vibram de gomme tendre vous permettra d'avoir une excellente adhérence sur les roches sèches ou humides.\n\nCaractéristiques :\nCuir suédé de porc et Mesh respirant\nMembrane GORE-TEX® imperméable et respirante\nDoublure en mesh 100 % recyclé avec traitement anti-bactérien.\nPare-pierre\nSemelle intérieure profilée et amovible Kinetic Fit™ ADVANCED avec amorti renforcé au talon\nCambrion de voûte plantaire en nylon pour plus de stabilité\nMerrell air cushion au talon pour un amorti moelleux et efficace\nSemelle Vibram® TC5+ pour le confort et la stabilité\nInformations techniques :\nTige :\nMID cuir suédé et Mesh respirant\nChaussant :\nLarge et confortable\nAmorti :\nMerrell air cushion\nSemelle :\nVibram® TC5+\nPoids :\n980 g",
   "supplierRef": null,
   "price": {
     "amount": 139.9,
@@ -137,5 +137,8 @@
       "path": "data/images/PCNT-0028993/13-2_moab3_pecan_1_5.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:04:17.444Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "La chaussure randonnée Mid référence en matière de polyvalence et de confort."
 }

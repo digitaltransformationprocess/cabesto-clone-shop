@@ -23,7 +23,7 @@
     "Accueil",
     "TAPAS DE PALOURDES ROSES 100G"
   ],
-  "description": "Achetez TAPAS DE PALOURDES ROSES 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Ce coquillage est très apprécié des gastronomes pour sa chair fine et iodée. Nous le cuisinons aux petits oignons et tomates mi-séchées…un concentré de saveurs \"ensoleillées\" pour l'apéro.",
   "supplierRef": "TDP~100G",
   "price": {
     "amount": 4.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0004127/01-6049856-6049856-picture_1-6049856_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:38:51.756Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez TAPAS DE PALOURDES ROSES 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

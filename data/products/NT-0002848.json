@@ -19,7 +19,7 @@
     "Accueil",
     "Brosse à corde"
   ],
-  "description": "Achetez Brosse à corde chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Visser la broche sur la corde grâce à sa souplesse, puis faire coulisser la corde en tenant fermement la brosse dans l'eau. Convient pour tous les diamètres classiques et des cordes moyennement sales.",
   "supplierRef": "BRB",
   "price": {
     "amount": 18.9,
@@ -63,5 +63,8 @@
       "path": "data/images/NT-0002848/02-1018_2_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:41.500Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Brosse à corde chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

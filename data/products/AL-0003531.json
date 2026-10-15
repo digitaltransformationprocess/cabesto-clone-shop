@@ -23,7 +23,7 @@
     "Accueil",
     "ROUILLE FRAICHE DU PECHEUR 250 GR"
   ],
-  "description": "Achetez ROUILLE FRAICHE DU PECHEUR 250 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "ROUILLE DU PECHEUR 250G. Fabrication Artisanale. Sans conservateur, ni colorant, ni liant. A base de Safran pur, d'ail et de piments. Fabriqué en Provence.",
   "supplierRef": "0020040",
   "price": {
     "amount": 5.19,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0003531/01-0032185-0032185-picture_1-0032185_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:36:31.548Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ROUILLE FRAICHE DU PECHEUR 250 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

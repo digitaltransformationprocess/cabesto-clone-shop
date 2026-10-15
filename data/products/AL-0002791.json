@@ -23,7 +23,7 @@
     "Accueil",
     "PAIN D'ÉPICES AVEC 50% DE MIEL"
   ],
-  "description": "Achetez PAIN D'ÉPICES AVEC 50% DE MIEL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Découvrez notre Pain d’épices au miel, si gourmand avec sa couleur chaude. Ce pain d’épices au miel régalera les plus gourmands grâce à son moelleux et son bon goût de miel.",
   "supplierRef": "3335440210168",
   "price": {
     "amount": 6.59,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002791/01-6069478-6069478-picture_1-6069478_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:33:29.578Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PAIN D'ÉPICES AVEC 50% DE MIEL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

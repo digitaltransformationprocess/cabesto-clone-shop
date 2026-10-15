@@ -23,7 +23,7 @@
     "Accueil",
     "PERNICI LIMONCELLO 22° 70CL PERNICI"
   ],
-  "description": "Achetez PERNICI LIMONCELLO 22° 70CL PERNICI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Liqueur à base d'infusion de zeste,de citron. Issue d'une très vieille tradition Italienne, le limoncello Vallerini est préparé avec des citrons cueillis à pleine maturité, ce qui en fait une liqueur à la saveur parfaitement acidulée et très parfumée. Le limoncello Vallerini se boit très frais comme digestif en fin de repas. Pour une meilleure dégistation, n'hésiter pas à le mettre au congélateur.",
   "supplierRef": "A0020PE",
   "price": {
     "amount": 12.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002200/01-0352826-0352826-picture_1-0352826_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:31:03.565Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PERNICI LIMONCELLO 22° 70CL PERNICI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

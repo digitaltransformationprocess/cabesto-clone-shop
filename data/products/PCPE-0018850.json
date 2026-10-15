@@ -21,7 +21,7 @@
     "Accueil",
     "Cannes de pêche aux leurres Starling | Yuki"
   ],
-  "description": "Achetez Cannes de pêche aux leurres Starling | Yuki chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "CANNES DE PÊCHE AUX LEURRES STARLING | YUKI",
   "supplierRef": null,
   "price": {
     "amount": 0,
@@ -71,5 +71,8 @@
       "path": "data/images/PCPE-0018850/03-fishus-starling-2-40m-15-40g-p-art-cfst80m2-3_lyjm32hvissbbrw2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:19:09.082Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Cannes de pêche aux leurres Starling | Yuki chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

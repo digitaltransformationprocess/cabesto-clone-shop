@@ -23,7 +23,7 @@
     "Accueil",
     "MELANGE RHUM BOIS BANDE 25G"
   ],
-  "description": "Achetez MELANGE RHUM BOIS BANDE 25G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "MÉLANGE BOIS BANDÉ pour Rhum Sachet 25 g– dose pour 70 cL",
   "supplierRef": "1RHBOBAS",
   "price": {
     "amount": 5.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002383/01-0358427-0358427-picture_1-0358427_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:31:39.387Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez MELANGE RHUM BOIS BANDE 25G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

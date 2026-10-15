@@ -21,7 +21,7 @@
     "Accueil",
     "Sac à corde Combi - BEAL"
   ],
-  "description": "Achetez Sac à corde Combi - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sac à corde Combi - BEAL\n\n Le sac à corde Combi Beal se porte comme un sac à dos ou un sac de voyage ce qui se révèle bien pratique pour l'approche des falaises.\n Tapis à corde incorporé avec poignées pour transporter la corde de voie en voie.\n\nEt repères de couleurs pour extrémités de corde.\n CARACTERISTIQUES TECHNIQUES :\n Bretelles ergonomiques.\n 2 poches latérales extérieures.\n Très bonne contenance.\n Dimensions du tapis : 70 x 140 cm.\n Poids : 620g.",
   "supplierRef": null,
   "price": {
     "amount": 30.45,
@@ -95,5 +95,8 @@
       "path": "data/images/PCNT-0018411/07-be98_1_u-sac-a-corde-combi-beal.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:13:54.820Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sac à corde Combi - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

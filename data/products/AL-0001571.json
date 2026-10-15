@@ -23,7 +23,7 @@
     "Accueil",
     "ETUI FLORENTIN CHOC LAIT 70G"
   ],
-  "description": "Achetez ETUI FLORENTIN CHOC LAIT 70G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Biscuit d'amandes effilées enrobé de chocolat au lait",
   "supplierRef": "SFLOLAITBOITE.",
   "price": {
     "amount": 3.99,
@@ -73,5 +73,8 @@
       "path": "data/images/AL-0001571/03-0354829-0354829-picture_1-0354829_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:27:51.907Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ETUI FLORENTIN CHOC LAIT 70G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

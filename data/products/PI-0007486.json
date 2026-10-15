@@ -25,7 +25,7 @@
     "Accueil",
     "ASPIRATEUR AUTOMATIQUE VEKTRO RECHARGEABLE POUR PISCINE A FOND PLAT"
   ],
-  "description": "Achetez ASPIRATEUR AUTOMATIQUE VEKTRO RECHARGEABLE POUR PISCINE A FOND PLAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Robot Vektro Auto rechargeable sans fil - Version Plus pour piscine\nUn robot autonome et sans fil pour un nettoyage efficace et sans effort.\n\nLe robot Vektro Auto rechargeable sans fil - Version Plus est conçu pour simplifier l’entretien des piscines à fond plat ou légèrement incliné. Grâce à sa batterie lithium-ion intégrée, il offre une autonomie de 90 minutes et élimine les contraintes liées aux câbles et branchements. Ce modèle est équipé d’une brosse avant, d’un aileron et d’une raclette à débris pour un nettoyage renforcé, ainsi que d’un tamis filtrant en acier inoxydable durable. Son système directionnel breveté et sa tête pivotante à 180° assurent une couverture complète du bassin. Facile à utiliser, il s’active automatiquement à l’immersion et s’arrête à la sortie de l’eau. Léger et compact, il est compatible avec tous types de piscines jusqu’à 45 m², quel que soit le revêtement. Sa conception robuste et ses dispositifs de sécurité avancés garantissent une longévité maximale. Le Vektro Auto Plus est la solution idéale pour un nettoyage performant, pratique et écologique.\n\nCaractéristiques Robot Vektro Auto rechargeable sans fil - Version Plus pour piscine\nAutonomie de 90 minutes avec batterie lithium-ion\nActivation automatique à l’immersion et arrêt à la sortie\nBrosse avant et raclette pour débris tenaces\nTamis filtrant en acier inoxydable durable\nCompatible avec piscines jusqu’à 45 m²\nInformations techniques :\nAutonomie\n90 minutes\nTemps de charge\n5 heures\nDébit d’aspiration\n45 L/min (2,7 m³/h)\nType de filtre\nTamis inox accessible par le dessus\nCompatibilité piscine\nFond plat ou pente ≤ 10°, jusqu’à 45 m²\nContenu du colis\n\n1 robot rechargeable Vektro Auto Plus, 1 câble de chargement, 1 tamis filtrant inox, 1 flotteur avec crochet, 1 raclette arrière, 1 brosse picots avant, 2 pare-chocs amovibles, 4 nervures guide-débris.",
   "supplierRef": "RC32CBX/SCP/22/EU",
   "price": {
     "amount": 169,
@@ -63,5 +63,8 @@
       "path": "data/images/PI-0007486/01-robot-vektro-auto-version-plus.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:14:54.871Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ASPIRATEUR AUTOMATIQUE VEKTRO RECHARGEABLE POUR PISCINE A FOND PLAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

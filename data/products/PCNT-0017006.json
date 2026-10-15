@@ -21,7 +21,7 @@
     "Accueil",
     "Pont d'attache - PETZL"
   ],
-  "description": "Achetez Pont d'attache - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Pont d'attache - PETZL\n Pont d'attache à connecter sur les deux points d'attache ouvrables des harnais cuissards d'élagage, Sequoia et Sequoia SRT, pour apporter une mobilité latérale optimale.\n\nPermet une mobilité latérale optimale.\n\nInstallation sur les deux points d'attache ouvrables des harnais Sequoia et Sequoia SRT.\n\nDisponible en trois longueurs pour ajuster la position des appareils de progression installés sur le pont, 25, 30 et 35 cm.\n\n Poids : 46 g en taille 35 cm.\n Matière(s): polyamide.",
   "supplierRef": null,
   "price": {
     "amount": 19.95,
@@ -83,5 +83,8 @@
       "path": "data/images/PCNT-0017006/05-px47_1_d-pont-d-attache-petzl_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:13:08.448Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Pont d'attache - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

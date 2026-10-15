@@ -19,7 +19,7 @@
     "Accueil",
     "RECHARGE EASY POOLGOM TOUCAN"
   ],
-  "description": "Achetez RECHARGE EASY POOLGOM TOUCAN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Recharge Nettoyante Easy Pool'Gom Toucan pour Piscine\nUne solution innovante pour une piscine impeccable\n\nLa recharge Easy Pool'Gom Toucan est l'accessoire indispensable pour maintenir votre piscine propre et accueillante. Conçue spécifiquement pour éliminer les taches et salissures incrustées, cette recharge en forme de goutte d'eau permet un nettoyage précis même dans les angles. Sa composition de mousse plastique spécifique durcit en surface lorsqu'humidifiée, offrant une efficacité redoutable sans nécessiter de produits détergents. Dimensions : 18 x 10 cm.\n\nCaractéristiques Recharge Nettoyante Easy Pool'Gom Toucan pour Piscine\nNettoyage efficace sans produits chimiques\nForme ergonomique pour un usage simplifié\nÉconomique et écologique\nCompatible avec divers revêtements de piscine\nQualité supérieure garantissant une longue durée de vie\nInformations techniques :\nRéférence\nPGESR60\nEAN\n3760015881649\nDimensions\n18 x 10 cm\nForme\nGoutte d'eau\nComposition\nMousse plastique spécifique\nContenu du colis\n\n1 x Recharge Easy Pool'Gom Toucan",
   "supplierRef": "PGESR60",
   "price": {
     "amount": 6.35,
@@ -63,5 +63,8 @@
       "path": "data/images/PI-0007745/02-recharge_easy.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:15:10.618Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez RECHARGE EASY POOLGOM TOUCAN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

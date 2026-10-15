@@ -25,7 +25,7 @@
     "Accueil",
     "Goujon INOX 12 x 100 mm Double Expansion - RAUMER"
   ],
-  "description": "Achetez Goujon INOX 12 x 100 mm Double Expansion - RAUMER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Goujon INOX 12 x 100 mm Double Expansion - RAUMER\nLa bague inox de ces goujons leur assure une durée de vie bien supérieure à celle de leurs concurrents.\nDiamètre 12 mm.\nLongueur 100 mm.\nDouble expansion.\nEn acier inox.\nRésistance à la traction 40 kN, au cisallement 40 kN.\nChevilles mâles dont le gros avantage est que le perçage s'effectue au diamètre nominal.\nOn diminue ainsi de 40% l'énergie nécessaire pour une cheville femelle de même filetage, donc la décharge de l'accu.\nFourni avec écrous et rondelles.\nVendu à l'unité.",
   "supplierRef": "114",
   "price": {
     "amount": 4.1,
@@ -75,5 +75,8 @@
       "path": "data/images/NT-0001971/03-3783_1-goujon-inox-12-x-100-mm-double-expansion-raumer_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:18.074Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Goujon INOX 12 x 100 mm Double Expansion - RAUMER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

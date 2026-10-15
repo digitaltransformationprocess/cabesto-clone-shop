@@ -23,7 +23,7 @@
     "Robot électrique",
     "ROBOT DE PISCINE SANS FIL WYBOT S2"
   ],
-  "description": "ROBOT PISCINE WYBOT S2",
+  "description": "Robot piscine sans fil S2 Wybot\nPuissance décuplée et filtration haute précision pour les bassins de taille moyenne.\n\nLe Wybot S2 est l'évolution \"Performance\" de la gamme. Il justifie son positionnement par une autonomie étendue à 3h30 et une puissance moteur de 90W (contre 65W pour le C1). Ce modèle est spécifiquement conçu pour les piscines plus vastes ou plus exigeantes en termes de propreté. Il ne se contente pas d'aspirer : il purifie. Grâce à son système de double filtration, il capture les débris que les autres robots rejettent. Un robot robuste, endurant et intelligent, capable de s'attaquer aux zones les plus complexes comme les escaliers et les pointes de diamant. Il propose 7 programmes différents pour s'adapter exactement à l'état de votre piscine. Sa grande force ? Il attrape les poussières très fines grâce à sa double filtration.\n\nLe produit en vidéo\nDouble Filtration Ultra-Fine\n\nLa grande force du S2 réside dans son système hybride : un panier de 180µm pour les feuilles et une mousse de coton de 25µm pour les micro-poussières. Résultat : une eau d'une clarté incomparable.\n\nAutonomie Étendue 3h30\n\nÉquipé d'une batterie haute capacité de 7800 mAh, le S2 est capable de nettoyer des bassins jusqu'à 300 m² en un seul cycle, soit 1 heure de travail supplémentaire par rapport au modèle C1.\n\nNavigation Multi-Capteurs\n\nL'ajout de capteurs infrarouges et de profondeur permet au S2 d'analyser son environnement avec précision. Il détecte les parois avant l'impact et gère les marches d'escalier avec une agilité bluffante.\n\nPuissance d'Aspiration 14 m³/h\n\nAvec ses 3 moteurs et sa puissance de 90W, il génère un flux d'aspiration supérieur pour décoller et emprisonner les saletés les plus tenaces sur tous types de revêtements.\n\nCaractéristiques Robot piscine sans fil S2 Wybot\nType de nettoyage: Fond parois ligne d'eau\nTaille max de la piscine: 10x5 mètres\nConnectivité: Oui\nFiltration: 180/25µ\nPoids: 8.5Kg\nTemps de fonctionnement: 3h30\nRecharge: 3h00\nPuissance de la batterie: 7800mAh\nAide à sortie de l'eau: Non\nNombre de cycle: 7 cycles\nSélection de cycle sur le robot: Oui\nBrosse active: Non\nDouble brosse avant arrière: Non\nInformations techniques :\nPuissance\n90W\nDébit d'aspiration\n14 m³/h\nFiltration\nDouble : panier 3.8L 180µm et 2 mousses : 1 usage quotidien labyrinthe 3D et 1mMousse de coton 25µm idéale sable du sahara\nCapteurs\nGyroscope, Infrarouge & Profondeur\nPoids & Taille\n8.5kg - 40(L)x39(l)x25(H) cm\nMoteurs\nTrois moteurs\nChemins de nettoyage fond\n3\nChemins de nettoyage mur\n3\nModes de nettoyage\nFond - Parois - Ligne d’eau, Mur puis sol - Piscine complète, Mode Eco - Mode Fond Turbo - Mode Expert\nContenu du colis\n\nVotre robot est fourni avec:\n1 Robot Wybot S2\n1 Chargeur\n1 Kit double filtration\n1 Crochet\n1 Manuel",
   "supplierRef": "WYEU-S2",
   "price": {
     "amount": 799,
@@ -169,5 +169,8 @@
       "path": "data/images/PI-0012612/19-image_4_.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:17:47.149Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "ROBOT PISCINE WYBOT S2"
 }

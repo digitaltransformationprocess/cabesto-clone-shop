@@ -19,7 +19,7 @@
     "Accueil",
     "Taquet pour Pantin III - PETZL"
   ],
-  "description": "Achetez Taquet pour Pantin III - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Taquet pour Pantin III - PETZL\n Taquet de rechange pour bloqueur de pied Pantin, existe en version droit ou gauche. Il permet de maintenir la corde dans l'appareil lors des remontées.\n Matière(s) : polyamide, acier inoxydable.\n Poids : 25 g.",
   "supplierRef": null,
   "price": {
     "amount": 6.45,
@@ -81,5 +81,8 @@
       "path": "data/images/PCNT-0021166/05-cb12_1_d-taquet-pour-pantin-iii-petzl_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:16:07.355Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Taquet pour Pantin III - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

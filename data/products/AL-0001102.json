@@ -23,7 +23,7 @@
     "Accueil",
     "COFFRET COOKIES ECLATS DE CHOCOLAT 400G"
   ],
-  "description": "Achetez COFFRET COOKIES ECLATS DE CHOCOLAT 400G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "COFFRET COOKIES ECLATS DE CHOCOLAT 400G\n\nLes cookies ronds et aérés aux délicieuses pépites de chocolat plairont aux petits et grands gourmands. Ce coffret est idéal pour faire plaisir à ses proches. Ce coffret contient 10 sachets de 2 biscuits.",
   "supplierRef": "40569",
   "price": {
     "amount": 12.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001102/01-coffret-mythique-cookie-1_1.png",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:26:15.872Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez COFFRET COOKIES ECLATS DE CHOCOLAT 400G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -23,7 +23,7 @@
     "Accueil",
     "FILET D'ANCHOIS 80G"
   ],
-  "description": "Achetez FILET D'ANCHOIS 80G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Découvrez les filets d'anchois à l'huile d'olive 80G.",
   "supplierRef": "TALFAMN080",
   "price": {
     "amount": 3.39,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001631/01-0349830-0349830-picture_1-0349830_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:28:38.816Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez FILET D'ANCHOIS 80G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -23,7 +23,7 @@
     "Accueil",
     "OSEILLE À LA CRÈME FRAÎCHE 200ML"
   ],
-  "description": "Achetez OSEILLE À LA CRÈME FRAÎCHE 200ML chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sauce à l'oseille élaborée à partir de crème fraîche et réhaussée avec une pointe de moutarde et de Vermouth, conditionnée en sachet doypack pour la vente au détail en rayons frais ou conserve.",
   "supplierRef": "1693",
   "price": {
     "amount": 2.49,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0003778/01-6041958-6041958-picture_1-oseille.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:38:11.044Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez OSEILLE À LA CRÈME FRAÎCHE 200ML chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

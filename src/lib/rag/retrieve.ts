@@ -39,6 +39,8 @@ export type RetrievedProduct = {
   sections: string[];
   snippets: string[];
   maxSimilarity: number;
+  /** Absolute cover URL when hydrated from products.cover_path */
+  imageUrl?: string;
 };
 
 export async function embedQuery(text: string): Promise<number[]> {
@@ -217,6 +219,30 @@ export async function retrieveAll(
     docs,
     siteIntent,
   };
+}
+
+/** Attach live cover URLs for chat product cards. */
+export async function hydrateProductImages(
+  products: RetrievedProduct[],
+): Promise<RetrievedProduct[]> {
+  if (!products.length) return products;
+  const sb = getSupabaseAdmin();
+  const skus = [...new Set(products.map((p) => p.sku))];
+  const { data, error } = await sb.from("products").select("sku, cover_path").in("sku", skus);
+  if (error) {
+    console.warn("[rag] hydrateProductImages:", error.message);
+    return products;
+  }
+  const bySku = new Map(
+    ((data ?? []) as Array<{ sku: string; cover_path: string | null }>).map((r) => [
+      r.sku,
+      r.cover_path || "",
+    ]),
+  );
+  return products.map((p) => {
+    const url = bySku.get(p.sku) || "";
+    return url ? { ...p, imageUrl: url } : p;
+  });
 }
 
 export function groupChunksByProduct(chunks: RetrievedProductChunk[]): RetrievedProduct[] {

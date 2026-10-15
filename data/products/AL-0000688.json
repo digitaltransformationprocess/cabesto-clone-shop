@@ -23,7 +23,7 @@
     "Accueil",
     "BRANDADE MORUE 125G"
   ],
-  "description": "Achetez BRANDADE MORUE 125G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "BRANDADE DE NIMES BOITE 125G. L'incontournable boîte rouge et blanche renferme la plus fameuse des brandades ! Appréciez juste l'instant de gourmandise et succombez à une saveur inimitable !G.",
   "supplierRef": "32309020",
   "price": {
     "amount": 3.29,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000688/01-0353727-0353727-picture_1-0353727_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:24:38.099Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BRANDADE MORUE 125G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

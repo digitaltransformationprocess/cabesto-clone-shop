@@ -23,7 +23,7 @@
     "Accueil",
     "CDR PRESTIGE LE SERRE BLANC 75CL"
   ],
-  "description": "Achetez CDR PRESTIGE LE SERRE BLANC 75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Côtes du Rhône blanc AOP  PRESTIGE LE SERRE 75CL\n\nSa couleur jaune pale, la robe est brillante avec quelques reflets verts\n\nSa trame aromatique fine et expressive aux notes de fruits à chairs blanches et d’ananas\n\nEn bouche, beaucoup de fruits. Une belle fraicheur et un joli gras donnent à ce vin un côté friandise\n\nVin idéal sur différents poissons, accompagne des plats épicés et relevés. Peut se boire en dehors des repas entre amis",
   "supplierRef": "910137",
   "price": {
     "amount": 8.49,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000871/01-cdr_blanc_prestige_le_serre.png",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:25:28.204Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez CDR PRESTIGE LE SERRE BLANC 75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

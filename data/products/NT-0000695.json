@@ -23,7 +23,7 @@
     "Accueil",
     "Kit de marquage bout de corde"
   ],
-  "description": "Achetez Kit de marquage bout de corde chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Marquage Professionnel pour Cordes PETZL - Sécurité et Traçabilité\nIdentifiez vos cordes avec facilité et précision grâce au kit PETZL.\n\nLe kit de marquage bout de corde PETZL est l'outil indispensable pour les professionnels nécessitant une identification claire et durable de leurs cordes. Avec des étiquettes pré-remplies et des gaines thermorétractables, ce kit assure une traçabilité fiable et résistante à l'abrasion pour des cordes de 10,5 à 13 mm de diamètre. La lisibilité des informations essentielles telles que la longueur, le diamètre, et la date de fabrication est garantie, contribuant ainsi à la sécurité et à l'organisation optimale de votre équipement.\n\nCaractéristiques Marquage Professionnel pour Cordes PETZL\nFacilité d'identification\nTraçabilité améliorée\nRésistance à l'abrasion\nCompatibilité étendue\nInstallation rapide\nInformations techniques :\nCompatibilité corde\n10,5 à 13 mm\nDimensions étiquette\n30 x 20 mm\nDimension gaine\n30 x 30 mm non rétractée\nPoids\n30 g\nRéférence\nR002AA00\nContenu du colis\n\n20 gaines thermorétractables resistantes à l'abrasion.",
   "supplierRef": "R002AA00",
   "price": {
     "amount": 17.95,
@@ -73,5 +73,8 @@
       "path": "data/images/NT-0000695/03-r002aa00-kit-marquage-bout-de-corde-focus-1_lowres_ccafqnqnuf4acqcg.jpeg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:20.020Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Kit de marquage bout de corde chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

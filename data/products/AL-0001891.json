@@ -23,7 +23,7 @@
     "Accueil",
     "GATEAU BRETON NATURE DEMI-LUNE 400g"
   ],
-  "description": "Achetez GATEAU BRETON NATURE DEMI-LUNE 400g chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Notre délicieux Gâteau Breton pur beurre, de fabrication artisanale, se présente en forme typique d’une demi-lune.",
   "supplierRef": "3353630000108.",
   "price": {
     "amount": 6.29,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001891/01-6069483-6069483-picture_1-6069483_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:29:48.202Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez GATEAU BRETON NATURE DEMI-LUNE 400g chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

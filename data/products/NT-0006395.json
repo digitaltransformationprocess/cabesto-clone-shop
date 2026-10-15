@@ -27,7 +27,7 @@
     "Montagne",
     "LAMPE FRONTALE DUO RL PETZL"
   ],
-  "description": "Achetez LAMPE FRONTALE DUO RL PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "LAMPE FRONTALE DUO RL - PETZL\nDestinée aux secours techniques et aux chantiers, la lampe frontale rechargeable DUO RL offre une puissance de 2800 lumens.\n\nDotée de la technologie REACTIVE LIGHTING®, un capteur évalue la luminosité ambiante et adapte automatiquement la puissance d’éclairage aux besoins de l'utilisateur. Les manipulations sont réduites au minimum et l'autonomie est optimisée pour rester concentré sur son activité. Étanche, DUO RL convient pour les utilisations en milieu humide.\n\nÉtanchéité: IP67 (étanche jusqu'à -1 mètre pendant 30 minutes en eau douce)\nLampe livrée avec batterie rechargeable Lithium-Ion R2 et chargeur 110/240 V\nTemps de charge : 4 h\nCertification(s): CE   \nPoids: 390 g\n\nDéclaration de conformité",
   "supplierRef": "E103AA00",
   "price": {
     "amount": 623.99,
@@ -83,5 +83,8 @@
       "path": "data/images/NT-0006395/04-e103aa00-duo-rl-focus-4_lowres.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:45:17.661Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez LAMPE FRONTALE DUO RL PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

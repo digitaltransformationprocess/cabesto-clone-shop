@@ -19,7 +19,7 @@
     "Accueil",
     "Combinaison Spéléo Rochas - Aventure Verticale"
   ],
-  "description": "Achetez Combinaison Spéléo Rochas - Aventure Verticale chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Combinaison Spéléo Rochas - Aventure Verticale\n Combinaison de spéléologie robuste et épurée, qui donnera entièrement satisfaction aux collectivités et aux pratiquants qui n'ont pas besoin d'une combinaison avec renforts ou qui souhaitent disposer d'une combinaison très respirante.\n Tissu : Cordura 500 faiblement enduit, montage cousu.\n Imperméabilité très faible, respirante.\n Col doublé polaire pour le confort.\n Capuche : non.\n Poche: 1 extérieure velcro.\n Taille élastiquée dans le dos.\n Réparations avec le Seam-Grip réf.3395.\n Fermeture : velcro 40 mm.\n Coloris: rouge.\n Poids : 620 g en M.\n Tailles: du XS au XL.",
   "supplierRef": null,
   "price": {
     "amount": 90.09,
@@ -99,5 +99,8 @@
       "path": "data/images/PCNT-0018159/08-0212_1_b-combinaison-rochas-aventure-verticale_4.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:13:31.391Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Combinaison Spéléo Rochas - Aventure Verticale chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

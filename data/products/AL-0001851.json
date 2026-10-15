@@ -23,7 +23,7 @@
     "Accueil",
     "GAMBAS CRUES SAUVAGES 16/20 PIECES 400 GR"
   ],
-  "description": "Achetez GAMBAS CRUES SAUVAGES 16/20 PIECES 400 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "GAMBAS CRUES SAUVAGES 16/20 PIECES 400 GR\n\nOffrez l’excellence de la mer avec nos gambas sauvages crues, soigneusement sélectionnées et surgelées pour préserver toute leur fraîcheur. D’une taille moyenne (16/20 pièces par boîte), elles garantissent une chair ferme, savoureuse et naturellement riche en goût.\n\nIdéales à griller, poêler ou cuisiner en sauce, elles sublimeront vos plats marins et vos recettes gourmandes. Un incontournable pour les amateurs de fruits de mer de qualité.",
   "supplierRef": "1HOS1620BROSIN14",
   "price": {
     "amount": 5.79,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001851/01-al-0001851.png",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:29:15.661Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez GAMBAS CRUES SAUVAGES 16/20 PIECES 400 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

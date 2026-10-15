@@ -25,7 +25,7 @@
     "Produits surgelés",
     "GAMBAS GEANTES CRUES SAUVAGES 4/7 PIECES 500GR"
   ],
-  "description": "Achetez GAMBAS GEANTES CRUES SAUVAGES 4/7 PIECES 500GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "GAMBAS GEANTES CRUES SAUVAGES 4/7 PIECES 500GR\n\nCes gambas exceptionnelles, pêchées dans leur habitat naturel, offrent une texture ferme et une saveur riche qui vous transportera au cœur de l'océan. Chaque boîte contient environ 4 à 7 pièces, sélectionnées pour leur taille généreuse et leur qualité irréprochable.\n\nCaractéristique :\n\nPêchées en mer,  Océan indien\n\nCrues et surgelées pour conserver toute leur fraîcheur.\n\n Idéales pour une cuisson rapide et facile, qu'il s'agisse d'une poêlée, d'un grill ou d'une recette en sauce plus élaborées.",
   "supplierRef": "1HOS0407BROSIN11",
   "price": {
     "amount": 14.99,
@@ -69,5 +69,8 @@
       "path": "data/images/AL-0001861/02-AL-0001861.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:29:29.881Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez GAMBAS GEANTES CRUES SAUVAGES 4/7 PIECES 500GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

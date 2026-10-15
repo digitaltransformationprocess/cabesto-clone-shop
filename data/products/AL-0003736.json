@@ -23,7 +23,7 @@
     "Accueil",
     "SAUCE BEURRE CITRON 150G"
   ],
-  "description": "Achetez SAUCE BEURRE CITRON 150G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sauce au beurre et citron élaborée à partir de beurre frais, conditionnée en sachet doypack pour la vente au détail en rayons frais ou conserve.",
   "supplierRef": "1694",
   "price": {
     "amount": 2.49,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0003736/02-6041960-6041960-picture_1-beurre.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:37:37.389Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez SAUCE BEURRE CITRON 150G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

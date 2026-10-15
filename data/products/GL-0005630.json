@@ -19,7 +19,7 @@
     "Accueil",
     "FLAMME ORANGE POUR WAKE. BOUÉE TRACTÉE. SKIS JOBE"
   ],
-  "description": "Achetez FLAMME ORANGE POUR WAKE. BOUÉE TRACTÉE. SKIS JOBE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Flamme Orange wake bouée skis\n\n \n\nLa flamme orange est indispensable et obligatoire en France lorsque vous tractez une bouée, un skieur, un wakeboarder,.... \n\nElle doit etre accroché à l'arrière du bateau tracteur en fonction d'etre bien visible par les autres navigateurs.\n\nCaractéristiques : Flamme Orange wake bouée skis",
   "supplierRef": "210305001-PCS.",
   "price": {
     "amount": 14.99,
@@ -57,5 +57,8 @@
       "path": "data/images/GL-0005630/01-657.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:40:19.874Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez FLAMME ORANGE POUR WAKE. BOUÉE TRACTÉE. SKIS JOBE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

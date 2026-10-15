@@ -21,7 +21,7 @@
     "Accueil",
     "Airline 60 m - PETZL"
   ],
-  "description": "Achetez Airline 60 m - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Airline 60 m - PETZL\nBobine de 60 m de cordelette de jet en Dynneema associant souplesse et rigidité pour garantir un lancer précis et éviter la formation de noeuds.\nTrès bonne résistance à l'abrasion.\nCoulissement parfait et durable dans l'arbre.\nSon poids métrique de 2.1 g ne nécessite pas l'utilisation de sac à lancer très lourd.",
   "supplierRef": "R02Y 060",
   "price": {
     "amount": 51.95,
@@ -65,5 +65,8 @@
       "path": "data/images/NT-0001027/02-5200_1-airline-60-m-petzl_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:23.273Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Airline 60 m - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

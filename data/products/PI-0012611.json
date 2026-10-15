@@ -19,7 +19,7 @@
     "Accueil",
     "ROBOT DE PISCINE SANS FIL C2 VISION WYBOT"
   ],
-  "description": "ROBOT PISCINE SANS FIL WYBOT C2 VISION",
+  "description": "Robot piscine sans fil C2 Vision Wybot\nL’intelligence visuelle au service d’un nettoyage express et ciblé.\n\nLe Wybot C2 Vision introduit une rupture technologique majeure : la Vision Artificielle. Ce robot \"voit\" ce qu'il fait. Équipé d'une caméra IA, il ne suit plus un schéma aléatoire mais repère visuellement les débris au fond de la piscine pour se diriger directement vers eux. C'est l'outil idéal pour ceux qui veulent une piscine propre en un temps record (15 min pour le fond). Malgré sa compacité, il embarque une filtration de type ultra fine pour bloquer les particules les plus fines, offrant un nettoyage intelligent et chirurgical.\n\nLe produit en vidéo\nTechnologie VISION IA\n\nLa caméra embarquée analyse le fond du bassin en temps réel. Le robot détecte les zones sales (amas de feuilles, sable) et adapte sa trajectoire pour les traiter en priorité, évitant les passages inutiles sur les zones propres.\n\nNettoyage Ciblé Ultra-Rapide\n\nGrâce au mode \"Chasse aux débris\", le C2 Vision peut rendre le fond de votre piscine impeccable en seulement 10 à 15 minutes, là où un robot classique mettrait plus d'une heure.\n\nFiltration ultra fine Haute Efficacité\n\nLe C2 Vision est équipé d'un filtre haute performance (50µm) capable de capturer les algues microscopiques et le pollen, garantissant une hygiène parfaite de l'eau. Le positionnement de la mousse avant sa turbine, emp^che l'obstruction de celle ci.\n\nAuto-Apprentissage Adaptatif\n\nSes algorithmes d'IA lui permettent d'apprendre de chaque cycle. Plus il travaille dans votre piscine, plus il devient rapide et efficace en optimisant ses chemins de navigation.\n\nCaractéristiques Robot piscine sans fil C2 Vision Wybot\nType de nettoyage: Fond parois ligne d'eau\nTaille max de la piscine: 9x4 mètres\nConnectivité: Oui\nFiltration: 180/3µ\nPoids: 8Kg\nTemps de fonctionnement: 2h00\nRecharge: 3h00\nPuissance de la batterie: 4600mAh\nAide à sortie de l'eau: Non\nNombre de cycle: 8 cycles\nSélection de cycle sur le robot: Non\nBrosse active: Non\nDouble brosse avant arrière: Non\nInformations techniques :\nPuissance\n65W\nDébit d'aspiration\n11.5 m³/h\nFiltration\nDouble : Panier 180µm + HEPA (50µm)\nCapteurs\nGyroscope & Caméra\nPoids & Taille\n8kg - 36(L)x36(l)x24(H) cm\nMoteurs\nTrois moteurs\nChemins de nettoyage fond\n3\nChemins de nettoyage mur\n2\nModes de nettoyage\nFond - Parois, Piscine complète - Mur puis sol, Mode Eco, Vision (Fond), Mode Expert\nContenu du colis\n\nVotre robot est fourni avec:\n-1 Robot C2 Vision\n-1 Chargeur secteur\n-1 Filtre HEPA\n-1 Crochet\n-1 Manuel",
   "supplierRef": "WYEU-C2V",
   "price": {
     "amount": 749,
@@ -117,5 +117,8 @@
       "path": "data/images/PI-0012611/11-7.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:17:44.670Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "ROBOT PISCINE SANS FIL WYBOT C2 VISION"
 }

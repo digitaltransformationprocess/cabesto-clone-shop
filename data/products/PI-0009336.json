@@ -23,7 +23,7 @@
     "Accueil",
     "Fisher Price Brassards"
   ],
-  "description": "Achetez Fisher Price Brassards chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Fisher Price Display\n\nBrassards / Gilet tissu + Mousse Scratches ajustables 18-30 kg 3-6 ansref 95522",
   "supplierRef": "93522",
   "price": {
     "amount": 22.99,
@@ -61,5 +61,8 @@
       "path": "data/images/PI-0009336/01-81cc2pz92wl._ac_ss350_.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:16:21.255Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Fisher Price Brassards chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

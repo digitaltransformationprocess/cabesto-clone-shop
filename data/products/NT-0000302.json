@@ -23,7 +23,7 @@
     "Accueil",
     "Cuissard Spéléo Amazonia II MTDE"
   ],
-  "description": "Achetez Cuissard Spéléo Amazonia II MTDE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Cuissard Spéléo Amazonia II - MTDE\nTour de cuisses et sous fessières résistantes pour un harnais confort.\n\nLa sous-fessière est reliée aux tours de cuisse par des passants mobiles ce qui procure une excellente assise.\n\nPoint d'accroche très bas pour une plus grande efficacité en remontée aux bloqueurs.\n\nAccrochage: 2 boucles sangles.\nCeinture: réglable, appui 44mm.\nCuisses et sous-fessière: réglables, appui 26mm.\nPorte-accessoires: 4 fixes (en sangle avec coutures de sécurité: 2 par côté).\nPoids: 650g.\nTour de ceinture maxi: 112cm.\nCe produit a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme :  EN 12277",
   "supplierRef": "B6121",
   "price": {
     "amount": 94,
@@ -61,5 +61,8 @@
       "path": "data/images/NT-0000302/01-0129_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:17.650Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Cuissard Spéléo Amazonia II MTDE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

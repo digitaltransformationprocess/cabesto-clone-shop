@@ -23,7 +23,7 @@
     "Accueil",
     "TAPAS DE MOULES 100G"
   ],
-  "description": "Achetez TAPAS DE MOULES 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sa saveur à dominante sucrée est associée à une marinade quelque peu exotique, composée principalement de gingembre frais, de piment d'Espelette et de tomates. L'association de parfums bien équilibrée nous apporte une mise en bouche savoureuse et originale.",
   "supplierRef": "TDM~100G",
   "price": {
     "amount": 4.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0004126/01-6049859-6049859-picture_1-6049859_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:38:48.774Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez TAPAS DE MOULES 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

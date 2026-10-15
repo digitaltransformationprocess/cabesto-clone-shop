@@ -23,7 +23,7 @@
     "Accueil",
     "SAUCE BEURRE BLANC 150G"
   ],
-  "description": "Achetez SAUCE BEURRE BLANC 150G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sauce au beurre élaborée à partir d'une réduction d'échalote et de Muscadet, conditionnée en sachets.",
   "supplierRef": "1691",
   "price": {
     "amount": 2.49,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0003735/02-6041956-6041956-picture_1-sauce.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:37:33.536Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez SAUCE BEURRE BLANC 150G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

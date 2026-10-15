@@ -25,7 +25,7 @@
     "Accueil",
     "Chaine Snowline Pro"
   ],
-  "description": "Achetez Chaine Snowline Pro chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Chaine Snowline Pro\nChaines antiglisse idéales pour les randonnées hivernales, la luge, le trail ou la marche nordique dans la neige, ainsi que pour les professionnels.\n\nConstruction : chaine et pointes en acier inoxydable. Caoutchouc en élastomère haute technologie, testé jusqu'à -60°C.\n\nPointes en acier d'1 cm de long qui s'agrippent sur les sols verglacés et la neige tassée pour sécuriser la marche.\n\nStructure en élastomère pour une adaptation optimale sur les chaussures les plus diverses, des chaussures de sport aux après-skis volumineux.\n\nTailles :\n\nM (rouge) pour les tailles 36 à 40,\nL (bleu) pour les tailles 40 à 45\nXL (noir) pour les tailles 45 à 49.\nPoids : 320 g en taille M.",
   "supplierRef": null,
   "price": {
     "amount": 42.9,
@@ -81,5 +81,8 @@
       "path": "data/images/PCNT-0003936/04-nt_0003936_1.jpg.png",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:57:26.806Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Chaine Snowline Pro chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

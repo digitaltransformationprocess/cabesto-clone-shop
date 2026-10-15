@@ -19,7 +19,7 @@
     "Accueil",
     "EAU GAZEUSE DIDIER NATURE 50 CL DIDIER"
   ],
-  "description": "Achetez EAU GAZEUSE DIDIER NATURE 50 CL DIDIER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Eau gazeuse naturelle Située sur les hauteurs de Fort-de-France en Martinique, dans un parc tropical, la fontaine Didier comme on la surnomme fournit une eau gazeuse de grande qualité.",
   "supplierRef": "3329120001061.",
   "price": {
     "amount": 1.19,
@@ -57,5 +57,8 @@
       "path": "data/images/AL-0001481/01-eau_minerale_didier_50_cl.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:27:11.253Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez EAU GAZEUSE DIDIER NATURE 50 CL DIDIER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

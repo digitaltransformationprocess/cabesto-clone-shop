@@ -23,7 +23,7 @@
     "Accueil",
     "ROSE DE SAIGNEE 75CL"
   ],
-  "description": "Achetez ROSE DE SAIGNEE 75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Au nez discret, floral et fruité, répond une bouche vive et plus intense de petits fruits rouges, d'agrumes et de fleur d'oranger.",
   "supplierRef": "ROSESAIGNEE",
   "price": {
     "amount": 7.59,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0003507/01-6031483-6031483-picture_1-6031483_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:36:05.591Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ROSE DE SAIGNEE 75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

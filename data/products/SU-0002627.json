@@ -9,7 +9,7 @@
     "Accueil",
     "Flexible moyenne pression de plongée pour détendeur OCTOPUS jaune 1 m AQUATYS"
   ],
-  "description": "FLEXIBLE MOYENNE PRESSION OCTOPUS JAUNE 1 M AQUATYSFlexible octopus AQUATYS, longueur 1 mètre, s'adapte sur la majorité des premiers étages de détendeurs de plongée.",
+  "description": "FLEXIBLE MOYENNE PRESSION OCTOPUS JAUNE 1 M AQUATYS\n\nFlexible octopus AQUATYS, longueur 1 mètre, s'adapte sur la majorité des premiers étages de détendeurs de plongée.",
   "supplierRef": "A30804",
   "price": {
     "amount": 20.99,
@@ -63,5 +63,8 @@
   "categories": [
     "plongee",
     "1er-prix-club-association"
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:19:02.792Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "FLEXIBLE MOYENNE PRESSION OCTOPUS JAUNE 1 M AQUATYSFlexible octopus AQUATYS, longueur 1 mètre, s'adapte sur la majorité des premiers étages de détendeurs de plongée."
 }

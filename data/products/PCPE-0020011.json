@@ -21,7 +21,7 @@
     "Accueil",
     "Leurres de pêche dans les chasses Cast Hacker | SAVAGEAR"
   ],
-  "description": "Achetez Leurres de pêche dans les chasses Cast Hacker | SAVAGEAR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Leurre Cast Hacker | Savage Gear\nCompact et puissant, conçu pour les lancers extrêmes en mer\n\nLe Cast Hacker de Savage Gear est un leurre dur de type Thru-Wired, pensé pour offrir une compacité maximale tout en conservant une robustesse à toute épreuve. Il permet des lancers ultra-longs, jusqu’à 120 mètres, idéal pour prospecter efficacement depuis la côte ou le bateau.\n\nProposé en déclinaisons Fast Sinking (FS) pour des descentes vives avec possibilité de skipping en récupération rapide, ou Extra Sinking (XS) pour un effet \"poisson mort\" en chute — très efficace même dans les courants soutenus. Son comportement est renforcé par un système VMS, un lest en tungstène et un rattle interne pour une attractivité maximale.\n\nParfaitement armé pour affronter des poissons puissants, il est excellent pour la chasse en mer dans toutes les couches d’eau.\n\nLe produit en vidéo\nInformations techniques :\nModèle - ref\tTaille\tPoids\tAction\tConditionnement\nCast Hacker – 32 g · FS/XS (réf. 77248 etc.)\t9,5 cm\t32 g\tFS ou XS\tÀ l’unité\nCast Hacker – 44 g · FS (réf. 77240, 77241)\t11,5 cm\t44 g\tFS\tÀ l’unité\nCast Hacker – 73 g · FS (réf. 77244)\t13 cm\t73 g\tFS\tÀ l’unité\nContenu du colis\n\nUn leurre Cast Hacker Savage Gear (taille et poids selon référence sélectionnée : 32 g, 44 g ou 73 g)",
   "supplierRef": null,
   "price": {
     "amount": 13.99,
@@ -113,5 +113,8 @@
       "path": "data/images/PCPE-0020011/10-cast_hacker_73g_gs_savagear_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:19:14.582Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Leurres de pêche dans les chasses Cast Hacker | SAVAGEAR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -19,7 +19,7 @@
     "Accueil",
     "OXYGENE ACTIF CHOC 5KG"
   ],
-  "description": "Achetez OXYGENE ACTIF CHOC 5KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Traitement choc sans chlore 5kg - \nUn produit efficace et respectueux de l’environnement pour désinfecter votre piscine\n\nLe traitement choc sans chlore 5kg Cabesto est un produit à base d’oxygène actif qui permet de désinfecter l’eau de votre piscine sans utiliser de chlore. Ce produit élimine les bactéries, les algues, les champignons et les virus présents dans l’eau, tout en préservant la qualité de l’eau et la santé des baigneurs. Le traitement choc sans chlore 5kg est compatible avec tous les types de piscines, de revêtements et de traitement (chlore, brome, oxygène actif, sel), il ne modifie pas le pH de l’eau. Il est également respectueux de l’environnement, car il se dégrade en eau et en oxygène après son utilisation. Pour utiliser le traitement choc sans chlore 5kg, il suffit de verser la dose recommandée dans le skimmer ou directement dans le bassin, en fonction de la taille et du volume de votre piscine. Il est conseillé d’effectuer un traitement choc au moins une fois par mois, ou plus souvent en cas de forte fréquentation ou de conditions climatiques défavorables. Le traitement choc sans chlore 5kg vous garantit une eau limpide et saine, sans odeur ni irritation.\n\nCaractéristiques Traitement choc sans chlore 5kg - Aqualux\nDésinfecte l’eau sans chlore\nCompatible avec tous les types de piscines et de revêtements\nNe modifie pas le pH de l’eau\nRespectueux de l’environnement\nFacile à utiliser\nInformations techniques :\nMarque\nCabesto\nRéférence\nPI-0002215\nEAN\n4029156058136\nContenance\n5 kg\nComposition\nMonopersulfate de sodium\nContenu du colis\n\nLe colis contient un seau de 5 kg de traitement choc sans chlore.",
   "supplierRef": "FVU017901",
   "price": {
     "amount": 69.9,
@@ -57,5 +57,8 @@
       "path": "data/images/PI-0002215/01-6832775-traitement-choc-sans-chlore-5kg.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:10:41.023Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez OXYGENE ACTIF CHOC 5KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

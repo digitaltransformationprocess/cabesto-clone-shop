@@ -21,7 +21,7 @@
     "Accueil",
     "Trigrest - PETZL"
   ],
-  "description": "Achetez Trigrest - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Trigrest - PETZL\nCale d'appui amovible, le Trigrest améliore la préhension d'un piolet sans poignée.\n\nPositionnée sur le manche, son réglage en hauteur s'effectue rapidement et sans outil.\nLe rangement en partie haute permet d'utiliser sans gêne le piolet en position de marche.\n\nCompatible avec les piolets : Ride, Glacier, Glacier Literide, Summit, Sum'Tec, Gully.\n\nMatière(s): polyamide, acier.\nPoids : 15 g.",
   "supplierRef": "U016AA00",
   "price": {
     "amount": 16.95,
@@ -65,5 +65,8 @@
       "path": "data/images/NT-0022401/02-pl07_1-trigrest-petzl_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:49:17.995Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Trigrest - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

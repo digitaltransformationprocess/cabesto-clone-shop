@@ -19,7 +19,7 @@
     "Accueil",
     "Torse Garma - MTDE"
   ],
-  "description": "Achetez Torse Garma - MTDE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Torse Garma - MTDE\n\n \n\nUn torse anti-retournement, entièrement réglable et confortable.\nSangle 26mm,\nbretelles protégées réglables par boucle,\nserrage rapide sur sangle mixte Dyneema/Polyamide 50cm avec boucle inox,\n2 boucles sangle,\n3 boucles porte-matériel, 2 à droite et 1 à gauche.\nPoids 300g.",
   "supplierRef": "B6320",
   "price": {
     "amount": 66.9,
@@ -57,5 +57,8 @@
       "path": "data/images/NT-0000186/01-2025-01-28_11_17_04-garma_boutique_mtde_-_travail_microsoft_edge.png",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:41:52.354Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Torse Garma - MTDE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

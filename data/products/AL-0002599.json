@@ -23,7 +23,7 @@
     "Accueil",
     "NECTAR DE MANGUE 1L"
   ],
-  "description": "Achetez NECTAR DE MANGUE 1L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Nectar de mangue 1l\n\nMont Pelé est une marque de jus de fruits emblématique en Martinique depuis plusieurs générations. Son nom est celui du plus haut relief de l’île, au pied duquel se trouvent les plus belles cultures de fruits de l’île.",
   "supplierRef": "3278422003504.",
   "price": {
     "amount": 3.99,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0002599/02-0353348-0353348-picture_1-0353348_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:32:32.198Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez NECTAR DE MANGUE 1L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

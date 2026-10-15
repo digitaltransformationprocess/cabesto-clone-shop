@@ -23,7 +23,7 @@
     "Accueil",
     "Veste Homme KAMET LIGHT GTX - MILLET"
   ],
-  "description": "Achetez Veste Homme KAMET LIGHT GTX - MILLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Veste Homme KAMET LIGHT GTX - MILLET\n La KAMET LIGHT GTX est une veste de protection technique en Gore-Tex 3L pensée pour l'alpinisme 4 saisons.\n Minimalisme, légèreté et performance au programme de ce rempart ergonomique imper-respirant qui permet une grand mobilité en pratique extrême.\n CARACTERISTIQUES TECHNIQUES :\n Capuche alpinisme compatible casque, visière protectrice, vision panoramique.\n Poches mains utilisables avec un baudrier.\n Ventilations sous bras zippées.\n Fermeture zippée, ajustement bas et poignets.\n Poids : 450g.",
   "supplierRef": null,
   "price": {
     "amount": 0,
@@ -61,5 +61,8 @@
       "path": "data/images/PCNT-0028639/01-miv7739_8083_0_kamet_light_gtx_jkt_m_1280_1280.jpeg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:17:58.563Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Veste Homme KAMET LIGHT GTX - MILLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

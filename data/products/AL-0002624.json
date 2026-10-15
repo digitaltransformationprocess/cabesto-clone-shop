@@ -23,7 +23,7 @@
     "Accueil",
     "NOIX PETONCLE PIMENT ESPELETTE 80-90G"
   ],
-  "description": "Achetez NOIX PETONCLE PIMENT ESPELETTE 80-90G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Agrémenté du fameux piment d’Espelette, modérement piquant mais très parfumé du fait d’avoir lentement séché au soleil, nous avons ici une excellente recette à gratiner, pour de délicieux toasts chauds légèrement épicés.",
   "supplierRef": "ATC-PET",
   "price": {
     "amount": 4.39,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002624/01-petoncles.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:32:51.201Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez NOIX PETONCLE PIMENT ESPELETTE 80-90G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

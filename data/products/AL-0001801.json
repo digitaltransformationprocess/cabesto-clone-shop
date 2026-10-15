@@ -23,7 +23,7 @@
     "Accueil",
     "FOIE DE LOTTE FR DE SEL 105G"
   ],
-  "description": "Achetez FOIE DE LOTTE FR DE SEL 105G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Découvrez le foie de lotte à la fleur de sel d'Algoplus, un véritable délice marin élaboré avec amour dans la conserverie artisanale de Roscoff. Ce produit est le fruit d'une tradition culinaire bretonne qui allie saveurs et savoir-faire.\n\nComposition :\n\nFoie de lotte pêché en Manche et Mer Celtiques\n\nHuile d'olive\n\nFleur de sel de Guérande\n\nSel\n\nPiment d'Espelette\n\nCaractéristiques :\n\nTexture souple et onctueuse, similaire au foie gras\n\nSaveur marine riche et délicate\n\nParfait pour l'apéritif ou en entrée sur des toasts chauds\n\nProduit artisanal, respectant les traditions bretonnes\n\nValeurs nutritionnelles (pour 100g) :\n\nÉnergie : 507 kcal / 2091 kJ\n\nMatières grasses : 52g dont acides gras saturés 13g\n\nGlucides : 0,9g dont sucres traces\n\nProtéines : 8,5g\n\nSel : 3,1g\n\n \n\nAlgoplus, votre partenaire pour une expérience culinaire authentique et marine. Découvrez nos créations artisanales qui mettent en valeur les richesses de la mer bretonne.",
   "supplierRef": "2502",
   "price": {
     "amount": 5.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001801/01-0343997-0343997-picture_1-0343997_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:28:52.865Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez FOIE DE LOTTE FR DE SEL 105G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

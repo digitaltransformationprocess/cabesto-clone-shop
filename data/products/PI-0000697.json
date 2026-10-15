@@ -19,7 +19,7 @@
     "Accueil",
     "CHLORE LIQUIDE 20L"
   ],
-  "description": "Achetez CHLORE LIQUIDE 20L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "CHLORE LIQUIDE 20L\nDésinfectant puissant pour piscines\n\nLe CHLORE LIQUIDE 20L est un désinfectant avec séquestrant calcaire spécialement conçu pour l'entretien de votre piscine. Voici ses principaux avantages :\n\nConcentration élevée en chlore\nProduit conditionné en France\nUtilisation manuelle\nStabilisation recommandée pour réduire la volatilité\nIdéal pour les piscines fréquentées par le grand public\nInformations techniques :\nDosage :\n1 L par 50 m³ par jour pour 1 mg/L de chlore libre\nStabilisation :\n35 mg/L recommandés, limités à 75 mg/L\nEmballage :\nBidon de 20 L\nContenu du colis :\n\nLe contenu du colis comprend le bidon de CHLORE LIQUIDE 20L.",
   "supplierRef": "FVU052703",
   "price": {
     "amount": 29.9,
@@ -57,5 +57,8 @@
       "path": "data/images/PI-0000697/01-chlor_eliquide_purissimeau.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:08:31.047Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez CHLORE LIQUIDE 20L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

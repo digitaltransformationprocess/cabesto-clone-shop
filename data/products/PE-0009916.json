@@ -29,7 +29,7 @@
     "Destockage Pêche",
     "SACOCHE BERKLEY SYSTEM BAG 4 BOÎTES PM"
   ],
-  "description": "Achetez SACOCHE BERKLEY SYSTEM BAG 4 BOÎTES PM chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "SACCOCHE BERKLEY SYSTEM BAG 4 BOÎTES PM\nRobuste sac en nylon 600D fiable avec des boîtes à leurres incluses.\n\nLes sangles rembourrées robustes facilitent le transport.\n\nCaractéristiques\nTissu nylon 600D robuste\nSangle confort réglable\nPartie type glacière\n4 boîtes à accessoire\nDimensions: 28x19.5x18.5cm",
   "supplierRef": "1152869",
   "price": {
     "amount": 26.99,
@@ -67,5 +67,8 @@
       "path": "data/images/PE-0009916/01-sacoche-berkley-system-bag-4-boites-pm_01.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:25:56.401Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez SACOCHE BERKLEY SYSTEM BAG 4 BOÎTES PM chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

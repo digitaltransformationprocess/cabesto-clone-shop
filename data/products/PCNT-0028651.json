@@ -21,7 +21,7 @@
     "Accueil",
     "Veste Femme MILLET FITZ ROY III - MILLET"
   ],
-  "description": "Achetez Veste Femme MILLET FITZ ROY III - MILLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Veste Femme MILLET FITZ ROY III - MILLET\n La veste de protection Femme 2,5L FITZ ROY III est imperméable et respirante grace à l'utilisation d'une matière ripstop haut de gamme qui augmente sa durabilité.\n Sa conception ergonomique et ses détails fonctionnels la rendent idéale pour la randonnée.\n CARACTERISTIQUES TECHNIQUES :\n Coupe confortable et protectrice.\n Capuche attenante.\n 2 poches mains zippées.\n Ventilations sous bras zippées.\n Bas de vêtement et capuche ajustable par cordon élastique.\n Serrage poignets par bande auto-agrippante.",
   "supplierRef": null,
   "price": {
     "amount": 0,
@@ -89,5 +89,8 @@
       "path": "data/images/PCNT-0028651/06-mu22_2_ah-veste-femme-fitz-roy-iii-millet.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:18:11.780Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Veste Femme MILLET FITZ ROY III - MILLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

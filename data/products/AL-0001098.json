@@ -23,7 +23,7 @@
     "Accueil",
     "COFFRET COLLECTOR PALETS 500G"
   ],
-  "description": "Achetez COFFRET COLLECTOR PALETS 500G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Coffret collector de Palets. Fabrication artisanale bretonne. Parfait pour offrir ou pour dégustez lors de grandes occasions.",
   "supplierRef": "3472860001492.",
   "price": {
     "amount": 12.99,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0001098/02-6018937-6018937-picture_2-6018937_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:26:06.625Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez COFFRET COLLECTOR PALETS 500G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

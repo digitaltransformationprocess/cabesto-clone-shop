@@ -23,7 +23,7 @@
     "Accueil",
     "FOIE DE MORUE PENMARCH 121G"
   ],
-  "description": "Achetez FOIE DE MORUE PENMARCH 121G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Un foie de morue paré manuellement et très soigneusement emboîté frais dans la journée qui suit sa débarque.\n\nLe foie est fumé au bois de hêtre grâce à une fumaison naturelle. Les morues sont pêchées en Islande.",
   "supplierRef": "MPO000183",
   "price": {
     "amount": 2.95,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001804/01-0348782-0348782-picture_1-0348782_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:28:57.556Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez FOIE DE MORUE PENMARCH 121G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

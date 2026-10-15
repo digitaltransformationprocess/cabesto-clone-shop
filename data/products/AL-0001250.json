@@ -21,7 +21,7 @@
     "Accueil",
     "CRACKERS AUX OLIVES SACHET 250 GR"
   ],
-  "description": "Achetez CRACKERS AUX OLIVES SACHET 250 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Véritable crackers artisanaux aux olives. Le Père Gourmand est une entreprise qui a été crée en 2007, situé à Gèmenos, à 10 km de Marseille.",
   "supplierRef": "3760168450853.",
   "price": {
     "amount": 2.69,
@@ -59,5 +59,8 @@
       "path": "data/images/AL-0001250/01-0367332-0367332-picture_1-0367332_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:26:43.806Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez CRACKERS AUX OLIVES SACHET 250 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

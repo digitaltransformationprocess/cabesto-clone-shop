@@ -9,7 +9,7 @@
     "Accueil",
     "Sac de plongée CRUISE CLASSIC 79 litres MARES"
   ],
-  "description": "Dimension : 76X29X36 cmPoids : 2 kgVolume : 79 litresPoignée et bretellesPoche externe pour les palmes avec bouclePoche zipée pour vos effets personnelsFond renforcé",
+  "description": "Dimension : 76X29X36 cm\nPoids : 2 kg\nVolume : 79 litres\nPoignée et bretelles\nPoche externe pour les palmes avec boucle\nPoche zipée pour vos effets personnels\nFond renforcé",
   "supplierRef": "415473",
   "price": {
     "amount": 69.99,
@@ -61,5 +61,8 @@
     "surgeles",
     "viandes",
     "veau"
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:20:30.113Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Dimension : 76X29X36 cmPoids : 2 kgVolume : 79 litresPoignée et bretellesPoche externe pour les palmes avec bouclePoche zipée pour vos effets personnelsFond renforcé"
 }

@@ -25,7 +25,7 @@
     "Accueil",
     "Corde Parallel 10.5mm Jaune - 100m - PETZL"
   ],
-  "description": "Achetez Corde Parallel 10.5mm Jaune - 100m - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Corde Parallel 10,5mm Jaune - 100m - PETZL\nLa corde semi-statique Parallel 10,5 mm Jaune en bobine de 100 mètres est destinée à l'accès difficile. Le diamètre fin assure de très bonnes performances en souplesse et légèreté.\n\nElle offre un faible allongement lors de la mise en tension de la corde, ce qui permet d'accroître l'efficacité au départ de la remontée sur corde.\n\nLa construction EverFlex lui garantit une grande souplesse et des performances constantes dans le temps, quelles que soient les conditions (eau, poussière, boue...), ce qui permet de conserver une excellente maniabilité dans la durée et un fonctionnement optimal avec les appareils.\n\nDiamètre : 10,5 mm.\nMatière(s): polyester, polyamide.\nCertification(s): CE EN 1891 type A, EAC, NFPA 1983 Technical Use.\nRésistance avec un noeud en huit: 15 kN.\nRésistance avec terminaison cousue: 22 kN.\nForce de choc (facteur 0,3): 5,2 kN.\nNombre de chutes facteur 1: 10.\nConstruction: 32 fuseaux.\nPourcentage de la gaine: 45 %.\nAllongement statique: 3,4 %.\nPoids au mètre: 75 g.",
   "supplierRef": "R077AA10",
   "price": {
     "amount": 234.95,
@@ -75,5 +75,8 @@
       "path": "data/images/NT-0000031-CB0C/03-pc56_1-corde-parallel-105-mm-jaune---100-m-petzl_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:40:56.306Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Corde Parallel 10.5mm Jaune - 100m - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

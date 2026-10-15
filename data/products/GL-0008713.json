@@ -23,7 +23,7 @@
     "Accueil",
     "MOUSQUETON LARGAGE RAPIDE JOBE"
   ],
-  "description": "Achetez MOUSQUETON LARGAGE RAPIDE JOBE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Le Quick Release Jobe avec attache au poignet, est un accessoire indispensable qui permet de décrocher automatiquement la bouée du bateau en cas d’envol trop important.\n\nIl s'adapte aux boucles de connecteurs rapides Jobe \"Quick connector\".\nConçu avec de l'acier inoxydabe pour encaisser toutes les situations.",
   "supplierRef": "210017033-PCS.",
   "price": {
     "amount": 34.99,
@@ -61,5 +61,8 @@
       "path": "data/images/GL-0008713/01-gl-147-gl-147-picture_1-gl-147_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:40:31.249Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez MOUSQUETON LARGAGE RAPIDE JOBE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

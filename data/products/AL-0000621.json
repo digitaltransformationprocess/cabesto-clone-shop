@@ -23,7 +23,7 @@
     "Accueil",
     "BOITE SE SERRER LES COUDES PALETS GALETTES 210G"
   ],
-  "description": "Achetez BOITE SE SERRER LES COUDES PALETS GALETTES 210G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "La Boite métal décorative + 180g de palets bretons\n\n Vous pourrez l’offrir ou la garder pour vous !\n\nPalets Bretons Pur Beurre \n\nIngrédients : Farine de blé, sucre, beurre 21%, oeufs entiers, amidon de blé, poudre à lever (carbonate de sodium, tartrate de potassium, amidon de blé, farine de blé, fleur de sel (0,44%), dextrose.",
   "supplierRef": "80203503989",
   "price": {
     "amount": 7.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000621/01-boite-se-serrer-les-coudes-leplaisirdugouthe_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:24:19.950Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BOITE SE SERRER LES COUDES PALETS GALETTES 210G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

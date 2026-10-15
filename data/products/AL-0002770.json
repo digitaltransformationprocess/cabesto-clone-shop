@@ -23,7 +23,7 @@
     "Accueil",
     "PACK 6 CANNETTES BOURBON 6*33CL"
   ],
-  "description": "Achetez PACK 6 CANNETTES BOURBON 6*33CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Bière blonde typique des îles en canettes.\n\nCet oiseau disparu, le dodo, symbole de la Réunion, est l'emblême de la Brasserie de Bourbon, fondée en 1962. La bière Bourbon, ou plus communément, la bière Dodo, est blonde et légère, adaptée à la chaleur des tropiques.",
   "supplierRef": "3119789827795.",
   "price": {
     "amount": 12.49,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0002770/02-6018825-6018825-picture_1-6018825_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:33:16.116Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PACK 6 CANNETTES BOURBON 6*33CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

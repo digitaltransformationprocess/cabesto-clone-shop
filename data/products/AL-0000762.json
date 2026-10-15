@@ -23,7 +23,7 @@
     "Accueil",
     "BISCUITS CROUSTILLANT CARAMELISE 200G"
   ],
-  "description": "Achetez BISCUITS CROUSTILLANT CARAMELISE 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Vous ne pourrez résister à nos Ty Crousti ! Élu meilleure nouveauté 2022 par Produit en Bretagne, ce biscuit caramélisé et croustillant est une déclinaison innovante du Kouign Amann. Sa pâte feuilletée pur beurre, légère et aérée, affirme l’identité bretonne de cette recette gourmande. Ces biscuits, compagnons incontournables des plus gourmands se grignotent à tout moment de la journée !",
   "supplierRef": "313....",
   "price": {
     "amount": 5.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000762/01-d39708_8acc48bcf8b84953bf9ab3119f5fc300_mv2.png",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:25:09.614Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BISCUITS CROUSTILLANT CARAMELISE 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

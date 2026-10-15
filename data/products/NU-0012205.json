@@ -23,7 +23,7 @@
     "Accueil",
     "TARGETTE 57 MM X 40 MM X 17 MM - CABESTO"
   ],
-  "description": "Achetez TARGETTE 57 MM X 40 MM X 17 MM - CABESTO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "TARGETTE 57 MM X 40 MM X 17 MM - CABESTO\nTargette en acier inoxydable moulé sous pression, AISI 316.\nCaractéristiques :\nLongueur :57 mm\nLargeur : 40 mm\nHauteur : 17 mm",
   "supplierRef": "SM1825",
   "price": {
     "amount": 12.99,
@@ -61,5 +61,8 @@
       "path": "data/images/NU-0012205/01-targette-57-mm-x-40-mm-x-17-mm-cabesto_01.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:53:26.832Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez TARGETTE 57 MM X 40 MM X 17 MM - CABESTO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

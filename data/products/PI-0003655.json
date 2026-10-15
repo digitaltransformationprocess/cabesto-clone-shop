@@ -23,7 +23,7 @@
     "Accueil",
     "Volley ball géant"
   ],
-  "description": "Achetez Volley ball géant chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Filet de Volley-Ball Géant pour Piscine - Kerlis\nTransformez votre piscine en terrain de jeu avec notre filet de volley-ball géant !\n\nNotre filet de volley-ball géant Kerlis est l'accessoire idéal pour animer vos journées d'été. Facile à installer, il s'étend jusqu'à 7 mètres de longueur et possède une hauteur de 82 cm, offrant un terrain de jeu spacieux pour toute la famille. Les poteaux lestés assurent une stabilité parfaite, même lors des matchs les plus animés. Profitez d'un divertissement aquatique sans égal et créez des souvenirs inoubliables avec vos proches.\n\nCaractéristiques Filet de Volley-Ball Géant pour Piscine - Kerlis\nInstallation facile et rapide\nConçu pour la stabilité et la durabilité\nAdaptable à diverses tailles de piscine\nMatériel résistant aux intempéries\nExpérience de jeu améliorée\nInformations techniques :\nRéférence\n802\nEAN\n3760119009888\nLongueur maximale\n7 mètres\nHauteur\n82 cm\nPoids\n4 kg (sans lestage)\nContenu du colis\n\nLe colis inclut un filet de volley-ball extensible, deux poteaux lestés, et un manuel d'instructions. Ballon non inclus.",
   "supplierRef": "802",
   "price": {
     "amount": 109,
@@ -79,5 +79,8 @@
       "path": "data/images/PI-0003655/04-802-pack-600x600_okz8klbutgltuak4.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:12:13.955Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Volley ball géant chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

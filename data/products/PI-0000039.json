@@ -19,7 +19,7 @@
     "Accueil",
     "ALCALINITE+ 5KG"
   ],
-  "description": "Achetez ALCALINITE+ 5KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "ALCALINITE+ 5KG : le produit idéal pour stabiliser le pH de votre piscine\nALCALINITE+ 5KG est un produit à base de bicarbonate de sodium qui augmente et maintient l’alcalinité de l’eau de votre piscine, évitant ainsi les variations de pH.\n\nL’alcalinité de l’eau est un paramètre essentiel pour le bon équilibre de votre piscine. Elle correspond à la capacité de l’eau à résister aux variations de pH. Si l’alcalinité est trop faible, le pH peut fluctuer facilement et provoquer des désagréments comme une eau trouble, une corrosion des équipements, une irritation des yeux et de la peau, ou encore une inefficacité des produits de traitement. Si l’alcalinité est trop élevée, le pH peut être difficile à ajuster et entraîner des dépôts de calcaire, une eau laiteuse, ou une consommation excessive de produits de désinfection.\n\nPour éviter ces problèmes, il est recommandé de maintenir l’alcalinité de l’eau entre 80 et 120 mg/L. Pour cela, vous pouvez utiliser ALCALINITE+ 5KG, un produit à base de bicarbonate de sodium qui augmente et stabilise l’alcalinité de l’eau. ALCALINITE+ 5KG se dissout facilement et agit rapidement, sans modifier le pH de l’eau. Il suffit de verser la quantité nécessaire de produit directement dans le bassin, en respectant les doses indiquées sur l’emballage. ALCALINITE+ 5KG est compatible avec tous les types de traitement de l’eau (chlore, brome, oxygène actif, etc.) et tous les types de filtration (sable, cartouche, etc.). Il est conseillé de vérifier régulièrement l’alcalinité de l’eau avec un testeur adapté et d’ajuster la dose de produit si nécessaire.\n\nCaractéristiques ALCALINITE+ 5KG\nAugmente et maintient l’alcalinité de l’eau\nStabilise le pH et évite les variations\nAméliore la qualité de l’eau et le confort de la baignade\nCompatible avec tous les types de traitement et de filtration\nFacile à utiliser et à doser\nInformations techniques :\nMarqueCabesto\nRéférencePI-0000039\nEAN\n3760095630861\nComposition\nBicarbonate de sodium\nConditionnement\nSeau de 5 kg\nContenu du colis\n\nLe colis contient un seau de 5 kg de ALCALINITE+ 5KG.\n\nATTENTION : Utilisez les produits biocides avec précaution. Avant toute utilisation, lisez l'étiquette et les informations concernant le produit.",
   "supplierRef": "108407",
   "price": {
     "amount": 16.5,
@@ -69,5 +69,8 @@
       "path": "data/images/PI-0000039/03-sgh05_corrosion_6.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:26:53.089Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ALCALINITE+ 5KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -21,7 +21,7 @@
     "Accueil",
     "Corde Escalade Presles - 10mm au mètre - EXPE"
   ],
-  "description": "Achetez Corde Escalade Presles - 10mm au mètre - EXPE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Corde Escalade Presles - 10mm au mètre - EXPE\n Corde à simple éco-responsable conçue pour une pratique polyvalente de l'escalade.\n Corde à simple\n Diamètre : 10 mm.\n Poids 63 g/m.\n 6 chutes tenues.\n Force-choc 800 daN.\n Allongement dynamique 37 %.\n Allongement statique 9,5 %.\n Construction 48 fuseaux.\n Corde à simple\n Corde Escalade\n Vendue au mètre.\n\nChoisissez le nombre de mètre de corde que vous souhaitez lors du choix de quantité\n Ce produit a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme : EN892:2016 Simple",
   "supplierRef": null,
   "price": {
     "amount": 1.75,
@@ -83,5 +83,8 @@
       "path": "data/images/PCNT-0017220/05-xp09_1_o-corde-presles-10-mm-au-metre-expe.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:13:13.678Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Corde Escalade Presles - 10mm au mètre - EXPE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

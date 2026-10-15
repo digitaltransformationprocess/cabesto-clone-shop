@@ -19,7 +19,7 @@
     "Accueil",
     "Boeuf Stroganoff au riz - TREK'N EAT"
   ],
-  "description": "Achetez Boeuf Stroganoff au riz - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Boeuf Stroganoff au riz - TREK'N EAT\nRepas lyophilisé de Boeuf Stroganoff au riz adapté au trekking, randonnée avec bivouac et tous les séjours en montagne où manger chaud permet de retrouver énergie et récupération.\nPoids net : 160g.\nEau ajoutée : 380ml.\nPoids total : 540g.\n\nIngrédients : riz long 46%, jus de viande, huile de tournesol (contient du lait, E551), viande de boeuf 10%, maltodextrine, champignons, fécule de pommes de terre, amidon modifié, concentré protéique de lactosérum, poivrons, tomates, sel, persil, poivre, acidifiant: acide citrique, extrait de romarin, arôme naturel.\n\nPoids en viande: Viande déshydratee 17,6 g soit env. 63 g de viande fraîche.\nAllergènes : lait.\nPréparation : Verser de l'eau bouillante jusqu'au trait 8 cm de l'échelle (380 ml) directement dans le sachet, puis remuer délicatement, refermer le sachet et laisser infuser 10 minutes.\nValeur nutritive moyenne pour 100 g de produit sec :\nkJ/kcal : 1751/419.\nLipides : 14,1 g dont acides gras saturés : 2,2 g.\nGlucides : 57,9 g dont sucres : 3,6 g.\nFibres alimentaires : 0,3 g.\nProtéines : 14,4 g\nSel : 3,3 g\nA consommer de préférence : 60 mois après la date de production.",
   "supplierRef": "TE30202001",
   "price": {
     "amount": 10.95,
@@ -81,5 +81,8 @@
       "path": "data/images/NT-0001749/05-3034_1-boeuf-stroganoff-au-riz-trek_n-eat_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:57.159Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Boeuf Stroganoff au riz - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

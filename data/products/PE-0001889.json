@@ -23,7 +23,7 @@
     "Accueil",
     "ATTRACTANT MARUKYU EBISHAKI"
   ],
-  "description": "Achetez ATTRACTANT MARUKYU EBISHAKI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Booster EBISHAKI 400 ML | MARUKYU\n\nLe Booster Ebishaki est un liquide attractant hautement concentré, spécialement conçu pour renforcer l’efficacité de vos appâts en mer.\n\nRecommandé pour crustacés — en particulier la gambas — ainsi que pour les céphalopodes, il agit en amplifiant l'attrait naturel de vos esches grâce à une formulation exclusive.\n\nEnrichi en acides aminés essentiels et en extraits naturels d'ail, l’Ebishaki émet des signaux chimiques puissants dans l'eau, stimulant l'appétit et l'agressivité des poissons, même les plus difficiles.\n\nSa texture fluide permet une application facile directement sur l’appât, assurant une diffusion rapide et durable des attractants.\n\nLe produit en vidéo\nInformations techniques :\nContenance\n400ml\nFormule\nliquide, à diluer ou non\n \nContenu du colis\n\nUn flacon de 400ml",
   "supplierRef": "M-508",
   "price": {
     "amount": 12.99,
@@ -61,5 +61,8 @@
       "path": "data/images/PE-0001889/01-m-508x1200_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:24:47.367Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ATTRACTANT MARUKYU EBISHAKI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -19,7 +19,7 @@
     "Accueil",
     "Piton Universel - 6mm épaisseur - PETZL CHARLET"
   ],
-  "description": "Achetez Piton Universel - 6mm épaisseur - PETZL CHARLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Piton Universel (6mm épaisseur) - PETZL CHARLET\n Piton pour fissures évasées en calcaire et granit.\n Se déforme pour épouser la fissure (acier mi-dur, pas de traitement thermique).\n Épaisseur 6 mm,\n Trois longueurs de lame : 50, 70 et 90 mm.\n Poids: 85 g, 95 g, 120 g.\n Ce produit a été fabriqué conformément aux exigences du règlement CE 2016/425 type : P suivant la norme EN 569 : 2007",
   "supplierRef": null,
   "price": {
     "amount": 17,
@@ -81,5 +81,8 @@
       "path": "data/images/PCNT-0016266/05-1701_1_m-piton-universel-petzl-charlet_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:12:56.752Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Piton Universel - 6mm épaisseur - PETZL CHARLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

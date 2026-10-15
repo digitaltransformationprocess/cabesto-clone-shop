@@ -23,7 +23,7 @@
     "Accueil",
     "Personal II 45 L"
   ],
-  "description": "Achetez Personal II 45 L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "SAC PERSONAL II 45 L - MTDE\nSac d’exploration, de volume moyen il se destine à la collectivité.\nCaractéristiques :\nPortage: 2 bretelles réglables, une poignée latérale, une longe de portage.\nFermeture : par cordelette.\nRenforts : coutures doublées, fond doté d’une bande anti-usure en caoutchouc renforcé\nDimensions : 27x18x65 cm\nColoris : orange.\nPoids: 750 g.",
   "supplierRef": "5028 SOUDE",
   "price": {
     "amount": 49.95,
@@ -61,5 +61,8 @@
       "path": "data/images/NT-0000290/01-91_personal_mtde.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:15.463Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Personal II 45 L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

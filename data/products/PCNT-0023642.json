@@ -25,7 +25,7 @@
     "Accueil",
     "Casque Venus Plus - Climbing Technology"
   ],
-  "description": "Achetez Casque Venus Plus - Climbing Technology chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Casque Venus Plus - Climbing Technology\n\n Casque polyvalent, idéal pour la pratique de la via ferrata, parc aventure, et dans les écoles d'escalade.\n Coque externe: Résine ABS.\n Coque interne: Polystyrène expansé.\n Mousse intérieure amovible ne retenant pas la transpiration, lavable très facilement.\n Tour de tête ajustable entre 50 et 61cm.\n Poids: 350g.\n Ce produit a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 2) suivant la norme :  EN 12492:2012\n Notice d'utilisation dont liste des accessoires utilisables avec cet EPI cliquez ICI",
   "supplierRef": null,
   "price": {
     "amount": 44.95,
@@ -75,5 +75,8 @@
       "path": "data/images/PCNT-0023642/03-ct04_1_d-casque-venus-plus-climbing-technology.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:16:23.108Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Casque Venus Plus - Climbing Technology chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

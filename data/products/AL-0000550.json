@@ -23,7 +23,7 @@
     "Accueil",
     "BLANC MANGER COCO 70G"
   ],
-  "description": "Achetez BLANC MANGER COCO 70G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Préparation pour flan à la noix de coco.\n\nRecette :\n\nINGREDIENTS\n\n● Un sachet en poudre pour Blanc Manger Coco Chaleur Créole\n● 500 ml de lait\n● Noix de coco râpée\n● Coulis de framboise\n\nPRÉPARATION\n1 Dans une casserole, verser le contenu du sachet dans 500 ml de lait.\n2 Gratter la gousse de vanille et mettre les grains dans la casserole.\nCuire à feu doux. Remuer constamment\nMaintenir à feu doux.\n3 Dès les premiers bouillons, sortir du feu\nVerser dans un moule, laisser refroidir à température ambiante et placer au réfrigérateur\n4 Une fois refroidi, démouler et saupoudrer de noix de coco râpée et de coulis...",
   "supplierRef": "3486411000049.",
   "price": {
     "amount": 2.99,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0000550/02-blanc_manger_coco_chaleur_cr_ole.png",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:24:11.228Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BLANC MANGER COCO 70G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

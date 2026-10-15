@@ -25,7 +25,7 @@
     "Accueil",
     "POMPE À CHALEUR PISCINE HOT WATER 3,50 KW BESTWAY"
   ],
-  "description": "Achetez POMPE À CHALEUR PISCINE HOT WATER 3,50 KW BESTWAY chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Pompe à chaleur Hot Water 3,50 KW\n\nPour piscine hors sol jusqu'à 20 m3 COP de 6 AIR à 27°C\n\nCOP de 5,1 AIR à 15°C\n\nEchangeur Titane Gaz\n\nR32 Connection diamètre 32 mm\n\nDébit pompe minimum 2 m3/h",
   "supplierRef": null,
   "price": {
     "amount": 269,
@@ -69,5 +69,8 @@
       "path": "data/images/PCPI-000023/02-15428908843038.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:05:07.206Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez POMPE À CHALEUR PISCINE HOT WATER 3,50 KW BESTWAY chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

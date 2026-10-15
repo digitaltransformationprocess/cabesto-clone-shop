@@ -19,7 +19,7 @@
     "Accueil",
     "Couscous végétarien - TREK'N EAT"
   ],
-  "description": "Achetez Couscous végétarien - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Couscous végétarien - TREK'N EAT \nRepas lyophilisé végétarien de Semoule de blé dur aux légumes adapté au trekking, randonnée avec bivouac et tous les séjours en montagne où manger chaud permet de retrouver énergie et récupération.\nPoids net : 160g.\nEau ajoutée : 300ml.\nPoids total : 460g.\n\nIngrédients : couscous 58% (semoule de blé complet), huile de tournesol (contient du lait, E551), mélange de légumes en proportions variables 16,5% (petits pois, carottes, poivrons, céleri, oignons, tomates), mélange de condiments (contient du céleri), maltodextrine, champignons, amidon modifié, sel, persil, extrait de romarin, arôme naturel.\nAllergènes : gluten, lait, céleri.\nPréparation : Verser de l'eau bouillante jusqu'au trait 7 cm de l'échelle (300 ml) directement dans le sachet, puis remuer délicatement, refermer le sachet et laisser infuser 5 minutes.\n\nValeur nutritive moyenne pour 100 g de produit sec :\n\nkJ/kcal : 1469/349.\nLipides : 7,8 g dont acides gras saturés : 0,6 g.\nGlucides : 53,5 g dont sucres : 7,2 g.\nFibres alimentaires : 2,8 g.\nProtéines : 11,8 g\nSel : 4,3 g\n\nA consommer de préférence : 60 mois après la date de production.",
   "supplierRef": "TE30411002",
   "price": {
     "amount": 7.95,
@@ -81,5 +81,8 @@
       "path": "data/images/NT-0001773/05-3051_1-couscous-vegetarien-trek_n-eat_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:09.866Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Couscous végétarien - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

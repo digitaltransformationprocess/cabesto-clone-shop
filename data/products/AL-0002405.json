@@ -23,7 +23,7 @@
     "Accueil",
     "MELANGE RHUM LA REUNION (VANILLE BANANE) 40G"
   ],
-  "description": "Achetez MELANGE RHUM LA REUNION (VANILLE BANANE) 40G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "MÉLANGE RHUM RÉUNION (notes coco, banane) Sachet 40 g – dose pour 70 cL",
   "supplierRef": "1RREUNS",
   "price": {
     "amount": 5.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002405/01-0352003-0352003-picture_1-0352003_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:31:43.747Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez MELANGE RHUM LA REUNION (VANILLE BANANE) 40G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

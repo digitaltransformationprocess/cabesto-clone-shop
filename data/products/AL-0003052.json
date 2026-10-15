@@ -19,7 +19,7 @@
     "Accueil",
     "PLANTEUR PAPYZOUK BTL 20CL"
   ],
-  "description": "Achetez PLANTEUR PAPYZOUK BTL 20CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Recette secrète et familiale, ce cocktail au savoureux mélange de rhum, sirop de canne, jus de fruits et épices des Antilles est l’ingrédient indispensable à tous vos événements en famille, entre amis ou collaborateurs... Son goût unique et traditionnel vous fera vite oublier tous les autres \"punchs\" proposés actuellement sur le marché et vous transportera aux Antilles le temps d'un apéritif !",
   "supplierRef": "3770003015369.",
   "price": {
     "amount": 13.99,
@@ -57,5 +57,8 @@
       "path": "data/images/AL-0003052/01-6016489-6016489-picture_1-6016489_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:34:16.768Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PLANTEUR PAPYZOUK BTL 20CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

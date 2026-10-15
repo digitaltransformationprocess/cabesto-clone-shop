@@ -21,7 +21,7 @@
     "Accueil",
     "PORTE-CANNE A PECHE FIXE A PAROI EN PLASTIQUE | OSCULATI"
   ],
-  "description": "Achetez PORTE-CANNE A PECHE FIXE A PAROI EN PLASTIQUE | OSCULATI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Porte cannes deux ou trois montants, en plastique renforcé.\n\nIl sera idéal pour tout pecheur désirant avoir un porte canne léger et robuste.\n\nRéférence\tNombre de cannes à pêche\tMeusures\tDiamètre intérieur\n41.170.93\t2 Cannes\t270x220 mm\t44 mm\n41.170.94\t3 Cannes\t270x315 mm\t44 mm",
   "supplierRef": null,
   "price": {
     "amount": 9.99,
@@ -65,5 +65,8 @@
       "path": "data/images/PCNU-0002791/02-41.170.93_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:04:20.880Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PORTE-CANNE A PECHE FIXE A PAROI EN PLASTIQUE | OSCULATI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

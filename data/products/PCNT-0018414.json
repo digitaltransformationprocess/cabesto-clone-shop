@@ -21,7 +21,7 @@
     "Accueil",
     "Sac à corde Combi Cliff - BEAL"
   ],
-  "description": "Achetez Sac à corde Combi Cliff - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sac à corde Combi Cliff - BEAL\n\n Le sac à corde combi cliff Beal est un sac à corde très évolué et bien pensé pour le transport de la corde et de tout le matériel d'escalade lors des approches de falaises.\n Son originalité une grande ouverture côté dos pour éviter de se salir.\n\nCette fonctionnalité lui permettra également de rendre vos affaires inaccessibles si vous l'utilisez en sac voyage tourisme.\n\nCARACTERISTIQUES TECHNIQUES :\n Bretelles ergonomiques.\n Dos renforcé et aéré par de la maille 3D.\n A l'intérieur : 2 porte matériel, 2 poches filet, 1 poche zippée, 1 bâche à corde de 1,4 m².\n 2 poches filet externe pour les chaussons.\n 1 poignée de portage frontale.\n 2 poignées de portage dos pour le déplacement de voie à voie.\n Poids : 1,100 kg.",
   "supplierRef": null,
   "price": {
     "amount": 44.08,
@@ -83,5 +83,8 @@
       "path": "data/images/PCNT-0018414/05-be99_1_j-sac-a-corde-combi-cliff-beal.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:14:00.779Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sac à corde Combi Cliff - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

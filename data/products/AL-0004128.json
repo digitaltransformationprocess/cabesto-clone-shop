@@ -23,7 +23,7 @@
     "Accueil",
     "TAPAS DE PETITS BULOTS 100G"
   ],
-  "description": "Achetez TAPAS DE PETITS BULOTS 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Agrémenté de poivrons rouges grillés, oignons et citrons frais… ce gastéropode marin, ainsi mariné, apporte à vos papilles une belle fraicheur acidulée.",
   "supplierRef": "TDB~100G",
   "price": {
     "amount": 5.49,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0004128/01-6049857-6049857-picture_1-6049857_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:38:55.414Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez TAPAS DE PETITS BULOTS 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -23,7 +23,7 @@
     "Accueil",
     "Sac Spéléo Exploration Medium II 30 L - MTDE"
   ],
-  "description": "Achetez Sac Spéléo Exploration Medium II 30 L - MTDE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Le sac de spéléologie Exploration Medium II 30 L version thermosoudée est un sac d'exploration réalisés en PVC souple de haute ténacité 500D, confortable par sa forme ovalisée.\n\nCARACTERISTIQUES TECHNIQUES DU SAC EXPLORATION MEDIUM II 30 L :\nConfort de portage soigné : bretelles matelassées, équipées d'anneaux cousus porte-accessoires.\nFacilité de saisie et de transport accrue, avec 4 poignées : 1 en tête, 2 latérales, 1 en fond, une longe de portage.\nRenforts : partie basse et fond de sac, réalisé en PVC tramé, 1000D.\nMatière : Partie tubulaire du sac réalisée en PVC tramé, 500D.\nFermeture : oeillets et cordelette.\nAssemblage PVC : par procédé de thermosoudure.\nDimensions : 63 x 27 x 15 cm.\nCapacité : 30 L.\nPoids : 570g.",
   "supplierRef": "5020 SOUDE",
   "price": {
     "amount": 58.9,
@@ -79,5 +79,8 @@
       "path": "data/images/NT-0000066/04-0105_4.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:41:11.816Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sac Spéléo Exploration Medium II 30 L - MTDE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

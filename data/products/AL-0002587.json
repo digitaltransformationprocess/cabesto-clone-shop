@@ -23,7 +23,7 @@
     "Accueil",
     "MUSCAT SEC 75CL BLANC"
   ],
-  "description": "Achetez MUSCAT SEC 75CL BLANC chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Vin de Pays des Côtes Catalanes. Sa bouche fraîche est très agréable en apéritif, avec des fromages de caractères (comté, roquefort) ou en accompagnement de desserts au chocolat.",
   "supplierRef": "102023",
   "price": {
     "amount": 6.59,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002587/01-6019644-6019644-picture_1-6019644_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:22:34.752Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez MUSCAT SEC 75CL BLANC chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

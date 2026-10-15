@@ -23,7 +23,7 @@
     "Accueil",
     "TAPENADE D OLIVES NOIRES 190G"
   ],
-  "description": "Achetez TAPENADE D OLIVES NOIRES 190G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Tapenade d'olives noires. Retrouvez tout l'arôme fin des olives noires dans cette tapenade onctueuse et savoureuse. Elle apportera fraicheur à tous vos plats, en toast ou en accompagnement de crudités",
   "supplierRef": "A2183FL",
   "price": {
     "amount": 3.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0004136/01-6016417-6016417-picture_1-6016417_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:38:59.160Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez TAPENADE D OLIVES NOIRES 190G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -23,7 +23,7 @@
     "Accueil",
     "CRABE WAKAME ET CONDIMENTS D'ORIENT 80-90G"
   ],
-  "description": "Achetez CRABE WAKAME ET CONDIMENTS D'ORIENT 80-90G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sortons de nos contrées pour découvrir la chair du crabe de l'Artique à travers des saveurs d'Extrême Orient, “eau de poisson”, gingembre, citron pour un cocktail exotique tout en finesse.",
   "supplierRef": "ATC-RCB",
   "price": {
     "amount": 4.69,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001243/01-6048329-6048329-picture_1-6048329_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:26:35.208Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez CRABE WAKAME ET CONDIMENTS D'ORIENT 80-90G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -19,7 +19,7 @@
     "Accueil",
     "Sauté de champignons et soja aux pâtes - TREK'N EAT"
   ],
-  "description": "Achetez Sauté de champignons et soja aux pâtes - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sauté de champignons et soja aux pâtes - TREK'N EAT\nRepas lyophilisé végétarien Sauté de champignons et soja aux pâtes adapté au trekking, randonnée avec bivouac et tous les séjours en montagne où manger chaud permet de retrouver énergie et récupération.\nPoids net : 160g.\nEau ajoutée : 520ml.\nPoids total : 680g.\n\nIngrédients : pâtes 50% (semoule de blé dur, oeuf, sel), fèves, huile de tournesol (contient du lait, E551), crème en poudre, amidon modifié, fécule de pommes de terre, champignons 3%, concentré protéique de lactosérum, mélange de condiments (contient du céleri), cèpes 2%, carottes, tomates, oignons, sel, extrait de levure, poivre.\n\nAllergènes : oeufs, gluten, lait, céleri.\nPréparation : Verser de l'eau bouillante jusqu'au trait 8,5 cm de l'échelle (520 ml) directement dans le sachet, puis remuer délicatement, refermer le sachet et laisser infuser 8 minutes.\nValeur nutritive moyenne pour 100 g de produit sec :\nkJ/kcal : 1607/384.\nLipides : 10,0 g dont acides gras saturés : 2,8 g.\nGlucides : 57,1 g dont sucres : 6,7 g.\nFibres alimentaires : 3,1 g.\nProtéines : 14,1 g\nSel : 1,4 g\nA consommer de préférence : 60 mois après la date de production.",
   "supplierRef": "TE30404030",
   "price": {
     "amount": 7.95,
@@ -81,5 +81,8 @@
       "path": "data/images/NT-0001712/05-3001_1-saute-de-champignons-et-soja-aux-pates-trek_n-eat_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:52.552Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sauté de champignons et soja aux pâtes - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

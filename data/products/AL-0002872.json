@@ -23,7 +23,7 @@
     "Accueil",
     "PATE A COLOMBO CHALEUR CREOLE 200G"
   ],
-  "description": "Achetez PATE A COLOMBO CHALEUR CREOLE 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Le Colombo est un mélange d'épices généralement composé de coriandre, de piment, d'ail et de curcuma. Il est un élément traditionnel de la cuisine antillaise, notamment indispensable à l’élaboration du célèbre plat national des Antilles qu’est le colombo, qu’il soit de porc ou de poulet. La pâte à Colombo de Chaleur Créole, relève également vos plats de légumes, de viande et de poisson.",
   "supplierRef": "3486411000223.",
   "price": {
     "amount": 4.69,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002872/01-pate_colombo-chaleur-creole.png",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:33:47.604Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PATE A COLOMBO CHALEUR CREOLE 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

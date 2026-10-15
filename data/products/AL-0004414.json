@@ -21,7 +21,7 @@
     "Accueil",
     "VELOUTE DE ST JACQUES 780G"
   ],
-  "description": "Achetez VELOUTE DE ST JACQUES 780G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Velouté de coquilles Saint-Jacques 780 g – Crustarmor\n\nDécouvrez toute la finesse du velouté de Saint-Jacques signé Crustarmor. Préparé à partir de noix de Saint-Jacques soigneusement sélectionnées, ce velouté révèle une texture onctueuse et une saveur délicatement iodée qui évoque les plus belles tables bretonnes.\n\nIdéal en entrée chaude ou en repas léger, il se réchauffe simplement au bain-marie ou à la casserole, pour un moment de dégustation raffiné et authentique.\n\nCe grand format de 780 g est parfait pour 2 à 3 personnes, idéal pour partager un instant gourmand autour des saveurs marines.\n\nConseil de dégustation : servez bien chaud, accompagné de croûtons dorés ou d’un filet de crème fraîche.",
   "supplierRef": "353539",
   "price": {
     "amount": 6.79,
@@ -59,5 +59,8 @@
       "path": "data/images/AL-0004414/01-0353539-0353539-picture_1-0353539_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:39:24.337Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez VELOUTE DE ST JACQUES 780G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

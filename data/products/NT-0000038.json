@@ -23,7 +23,7 @@
     "Accueil",
     "100 m Reactiv 10.5 mm"
   ],
-  "description": "Achetez 100 m Reactiv 10.5 mm chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "CORDE REACTIV 100 M 10. 5 MM - BEAL\nCorde de secours nocturne avec fil réfléchissant.\nCaractéristiques :\nDiamètre : 10.5mm\nMatière : Polyamide\nForce de choc : 5.30 kN\nLongueur : 200m\nProduit Pro : oui\nMatière de la gaine : Polyamide (PA)\nMatière de l'âme : Polyamide (PA)\nGlissement de gaine : 0 %\nFamille Reactive : 10.5mm\nCouleur : JAUNE\nCharge à la rupture : 3000 daN (kg)\nAllongement statique : 2.6 %\nPourcentage de la gaine : 37 %\nPourcentage de l'âme :63 %\nRésistance nœud : 1800 daN (kg)",
   "supplierRef": "BCSRR105.100",
   "price": {
     "amount": 135,
@@ -61,5 +61,8 @@
       "path": "data/images/NT-0000038/01-84_safety_beal_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:41:03.329Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez 100 m Reactiv 10.5 mm chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

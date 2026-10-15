@@ -23,7 +23,7 @@
     "Accueil",
     "BROCHETTES DOUCES PLAZA DEL SOL 165G"
   ],
-  "description": "Achetez BROCHETTES DOUCES PLAZA DEL SOL 165G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Idéal en Tapas pour vos apéritifs, produit prêt à l'emploi.\n\nBrochettes douces. \"Banderillas\" Plaza del Sol\n\nIngrédients: Eau, petits cornichons (sulfites), petits oignons (sulfites) olives vertes, poivron rouge, vinaigre d'alcool, sel, exhausteurs de goût (E-621, E635), acidifiant (E-330), antioxydant (E-300).\n\nPeut contenir des traces de poisson et d'amande. \n\nEn bocal d'un poids de 350g, poids net égoutté 165g.",
   "supplierRef": "1C5828",
   "price": {
     "amount": 3.39,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000722/01-al-0000722.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:25:04.441Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BROCHETTES DOUCES PLAZA DEL SOL 165G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

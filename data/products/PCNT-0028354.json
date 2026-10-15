@@ -21,7 +21,7 @@
     "Accueil",
     "T-shirt Femme MILLET Tana"
   ],
-  "description": "Achetez T-shirt Femme MILLET Tana chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "T-shirt Femme MILLET Tana\n Le Tana est un t-shirt technique pour femme, destiné à la randonnée, au trekking et à la marche d'approche, tout comme au quotidien, pour le confort simplement.\n La maille chinée, 100% Polyester, ultra légère et douce, évacue l'humidité pour garder au sec malgré l'augmentation de le température lors d'activités physiques.\n CARACTERISTIQUES TECHNIQUES DU T-SHIRT FEMME TANA :\n Maille ultra légère et respirante pour une évacuation efficace de la transpiration et un séchage plus rapide.\n Coupe confortable et féminine.\n Encolure arrondie et dégagée.\n Manches courtes.\n Graphisme exclusif Millet.\n Matière principale : DRYNAMIC STRETCH // 88 % Polyamide; 12 % Elasthanne // Wicking.\n Poids : 90g.\n Collection 2021",
   "supplierRef": null,
   "price": {
     "amount": 0,
@@ -65,5 +65,8 @@
       "path": "data/images/PCNT-0028354/02-ml06_1_ah-t-shirt-femme-tana-millet_5.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:17:34.558Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez T-shirt Femme MILLET Tana chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

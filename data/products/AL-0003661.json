@@ -21,7 +21,7 @@
     "Accueil",
     "SARDINES A L'HUILE D'OLIVE BIO JG"
   ],
-  "description": "Achetez SARDINES A L'HUILE D'OLIVE BIO JG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "BIO SARDINES OLIVE. Découvrez cette incomparable saveur \"bio\" aux vertues reconnues.",
   "supplierRef": "JGSO6B",
   "price": {
     "amount": 4.39,
@@ -65,5 +65,8 @@
       "path": "data/images/AL-0003661/02-6067273-6067273-picture_2-6067273_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:37:10.771Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez SARDINES A L'HUILE D'OLIVE BIO JG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

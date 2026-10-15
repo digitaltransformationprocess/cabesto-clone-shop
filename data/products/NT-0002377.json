@@ -25,7 +25,7 @@
     "Accueil",
     "Fixation Bike Adapt - PETZL"
   ],
-  "description": "Achetez Fixation Bike Adapt - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Fixation Bike Adapt - PETZL\nPlatine pour la fixation d'une lampe frontale Petzl sur un guidon de vélo ou une tige de selle.\n\nCompatible avec les lampes frontales TIKKINA,TIKKA, BINDI, ACTIK, ACTIK CORE,TACTIKKA,TACTIKKA + et TACTIKKA +RGB.\n\nDispositif d'éclairage secondaire : ne convient pas à une utilisation dans une zone réglementée par le code de la route.\n\nPoids : 40 g",
   "supplierRef": "E000AA00",
   "price": {
     "amount": 7.98,
@@ -81,5 +81,8 @@
       "path": "data/images/NT-0002377/04-pz88_1-fixation-bike-adapt-petzl_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:24.203Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Fixation Bike Adapt - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

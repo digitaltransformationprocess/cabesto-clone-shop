@@ -21,7 +21,7 @@
     "Accueil",
     "Piolet Summit - PETZL"
   ],
-  "description": "Achetez Piolet Summit - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Piolet Summit - PETZL\n Piolet léger au profil galbé, destiné à la pratique de l'alpinisme classique et aux randonnées glacières.\n\n Matières : panne et lame en acier trempé, manche en aluminium 7075 avec finition anodisée et pointe en acier inoxydable trempé.\n Manche galbé dans sa partie haute offrant une bonne résistance de dégagement en escalade.\n Partie basse droite garantissant une pénétration efficace dans la neige.\n Lame de 3 mm dentée en pointe, assurant une bonne qualité d'ancrage en neige dure et glace.\n Lame plus épaisse au centre pour favoriser l'accroche en neige molle.\n Dents en partie supérieure de la lame renforçant la tenue du piolet en utilisation piolet-rampe.\n Pointe robuste.\n Panne résistante offrant une surface d'appui confortable et permettant de tailler des marches efficacement.\n Panne inclinée pour guider correctement le piolet dans la neige.\n Tête et pointe équipées de trous pour mousqueton ou sangle.\n Manche usiné dans la masse offrant une meilleure tenue en main.\n Piolet compatible avec la dragonne Linkin.\n Poids : 380 g en 59 cm.\n Longueurs disponibles : 52, 59 et 66 cm.\n Ce produit a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme :EN 13089 : 2011 + A1 : 2015 UIAA 152 : 2013",
   "supplierRef": null,
   "price": {
     "amount": 104.9,
@@ -83,5 +83,8 @@
       "path": "data/images/PCNT-0020808/05-pv33_1_d-piolet-summit-petzl_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:16:04.703Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Piolet Summit - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

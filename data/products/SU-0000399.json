@@ -9,7 +9,7 @@
     "Accueil",
     "Etrier de plongée tranformation DIN vers ETRIER BESTDIVERS"
   ],
-  "description": "ETRIER DE TRANSFORMATION DIN/INT EN LAITON CHROMEAdaptateur DIN/INT en laiton chromé , par best Divers, pour votre détendeur de plongée.",
+  "description": "ETRIER DE TRANSFORMATION DIN/INT EN LAITON CHROME\nAdaptateur DIN/INT en laiton chromé , par best Divers, pour votre détendeur de plongée.",
   "supplierRef": "A30916",
   "price": {
     "amount": 35.99,
@@ -61,5 +61,8 @@
     "plongee-sous-marine",
     "detendeurs-et-octopus",
     "accessoires-detendeurs-plongee-et-octopus"
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:18:31.935Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "ETRIER DE TRANSFORMATION DIN/INT EN LAITON CHROMEAdaptateur DIN/INT en laiton chromé , par best Divers, pour votre détendeur de plongée."
 }

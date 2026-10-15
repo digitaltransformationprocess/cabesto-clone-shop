@@ -23,7 +23,7 @@
     "Accueil",
     "NECTAR GOYAVE 1L"
   ],
-  "description": "Achetez NECTAR GOYAVE 1L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Nectar de goyave 1l\n\nMont Pelé est une marque de jus de fruits emblématique en Martinique depuis plusieurs générations. Son nom est celui du plus haut relief de l’île, au pied duquel se trouvent les plus belles cultures de fruits de l’île.",
   "supplierRef": "3278422003207.",
   "price": {
     "amount": 3.99,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0002601/02-al-0002601.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:32:41.619Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez NECTAR GOYAVE 1L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

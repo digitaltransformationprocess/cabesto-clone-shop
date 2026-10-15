@@ -23,7 +23,7 @@
     "Accueil",
     "AIOLI PROVENCAL AUX OEUFS FRAIS 85 GR"
   ],
-  "description": "Achetez AIOLI PROVENCAL AUX OEUFS FRAIS 85 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sauce typiquement méridionale, l'Aïoli Provençal, à depuis toujours eu sa place parmi les produits les plus renommés de notre terroir.Cette émulsion est une des rares sur le marché à être encore fabriquée avec des Oeufs frais ce qui vous offre tout le plaisir de retrouver les Saveurs d'une sauce traditionnelle. Notre Aïoli est un produit artisanal, vous allez être séduit par son goût aillé et sa texture légère.",
   "supplierRef": "111",
   "price": {
     "amount": 3.69,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000229/01-0339202-0339202-picture_1-0339202_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:22:47.996Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez AIOLI PROVENCAL AUX OEUFS FRAIS 85 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

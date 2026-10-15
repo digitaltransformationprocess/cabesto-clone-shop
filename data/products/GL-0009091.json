@@ -23,7 +23,7 @@
     "Accueil",
     "PALONNIER SKI NAUTIQUE JOBE"
   ],
-  "description": "Ce palonnier est conçu selon les normes de la compétition",
+  "description": "PALONNIER SKI NAUTIQUE JOBE\n\nCe palonnier est conçu selon les normes de la compétition.\n\nAvec 8 sections détachables et une poignée en caoutchouc souple et confortable, cette corde tranchante est le véritable favori des pros.",
   "supplierRef": "211117026-PCS.",
   "price": {
     "amount": 39.99,
@@ -67,5 +67,8 @@
       "path": "data/images/GL-0009091/02-gl-148-gl-148-picture_2-gl-148_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:40:34.773Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Ce palonnier est conçu selon les normes de la compétition"
 }

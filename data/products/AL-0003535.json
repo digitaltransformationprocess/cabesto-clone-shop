@@ -19,7 +19,7 @@
     "Accueil",
     "ROUILLE SETOISE AUX OEUFS FRAIS 85 GR"
   ],
-  "description": "Achetez ROUILLE SETOISE AUX OEUFS FRAIS 85 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Issue de la tradition gastronomique Sétoise,\n\nnotre Rouille Sétoise élaborée uniquement avec des oeufs frais,\n\nLa Rouille Sétoise d'Azais Polito est une véritable tradition gastronomique sétoise, élaborée exclusivement avec des œufs frais. \n\nElle représente l'accompagnement par excellence des produits de la mer et tout particulièrement des Soupes de Poisson.\n\n \n\nConseils d'utilisation\n\nSoupes de Poisson, poissons, coquillages et crustacés.\n\nliste des ingrédients :\n\nHuile de colza, œuf, ail, sel ,vinaigre, colorants d'origine naturelle: carotène, curcumin, paprika, acidifiants :  E330. Piments, poivre et safran",
   "supplierRef": "21",
   "price": {
     "amount": 3.19,
@@ -57,5 +57,8 @@
       "path": "data/images/AL-0003535/01-0339200-0339200-picture_1-0339200_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:36:35.563Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ROUILLE SETOISE AUX OEUFS FRAIS 85 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

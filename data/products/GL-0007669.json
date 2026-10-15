@@ -19,7 +19,7 @@
     "Accueil",
     "LUNETTE FLOTTANTE JOBE"
   ],
-  "description": "Ces lunettes constituent une protection idéale contre les rayons UV (UV-400).",
+  "description": "LUNETTE FLOTTANTE JOBE\n\nCes lunettes constituent une protection idéale contre les rayons UV (UV-400).\n\nElles flottent et sont très confortables, un strap permet de les maintenir ajustées sur votre visage. Leur look sympa vous permettent de rider avec style !\n\nCette lunette a été fabriquée conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 1).",
   "supplierRef": "420810001-PCS.",
   "price": {
     "amount": 34.99,
@@ -57,5 +57,8 @@
       "path": "data/images/GL-0007669/01-gl-150-gl-150-picture_1-gl-150_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:40:27.817Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Ces lunettes constituent une protection idéale contre les rayons UV (UV-400)."
 }

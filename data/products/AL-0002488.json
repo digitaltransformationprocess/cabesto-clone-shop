@@ -25,7 +25,7 @@
     "Produits surgelés",
     "MOULE 1/2 COQUILLE 1KG"
   ],
-  "description": "Achetez MOULE 1/2 COQUILLE 1KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Moules 1/2 coquilles  – 1 kg\n\nRedécouvrez le plaisir des moules avec notre barquette de grosses moules demi-coquilles prêtes à farcir. Sélectionnées avec soin pour leur taille et leur saveur, elles sont nettoyées, ouvertes et présentées sur demi-coquille pour une préparation rapide et gourmande.\n\nIdéales pour réaliser des moules farcies maison : beurre persillé, chapelure, ail, ou autres recettes créatives. Une fois garnies, il suffit de les passer quelques minutes au four pour obtenir un résultat parfumé et fondant.\n\nElles peuvent également être utilisée pour la décoration d'une paëlla ou un rizotto.\n\nProduit surgelé pour préserver toute la fraîcheur et la texture du mollusque. Parfait pour les amateurs de fruits de mer souhaitant combiner praticité et raffinement.",
   "supplierRef": "2441",
   "price": {
     "amount": 14.99,
@@ -63,5 +63,8 @@
       "path": "data/images/AL-0002488/01-AL-0002488.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:32:12.791Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez MOULE 1/2 COQUILLE 1KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

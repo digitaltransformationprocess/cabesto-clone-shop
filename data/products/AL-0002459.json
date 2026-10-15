@@ -19,7 +19,7 @@
     "Accueil",
     "MINI TOASTS AUX CEREALES 150 GR"
   ],
-  "description": "Achetez MINI TOASTS AUX CEREALES 150 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "LE MINI TOAST AUX CEREALES 150GR\n\nVous cherchiez le véritable croûton Provençal ? Élaboré dans la pure tradition boulangère qui fait la réputation de la maison Roger depuis 1945, ce croûton est 100% gourmand et croustillant !\n\nIdéal pour accompagner vos soupes de poissons et bisques de crustacés. Peuvent également être tartinés de tapenades ou tartinables.\n\nFabriquées en France, à Aix en Provence et les matières premières sont issues des terroirs français. La marque Roger est certifée RSE++.\n\nIngrédients :\n\nFarine de BLE, (GLUTEN, acide ascorbique), huile de tournesol, mélange de céréales 3,6% (SEIGLE, maïs, SESAME, ORGE, AVOINE, millet), sucre inverti, extrait de malt d’ORGE, sel, émulsifiant : lécithine de SOJA, levure boulangère, graines de lin, farine de soja, antioxydant : vitamine E.\n\nValeurs nutritionnelles théoriques moyennes pour 100g\n\nValeur énergétique\t1724 kJ soit 410 kcal\nMatières grasses\ndont acides gras saturés\t8g\n0,9g\nGlucides\ndont sucres\t72g\n4g\nFibres Alimentaires\t5,1g\nProtéines\t13g\nSel\t1,7g\n\nFabriqué dans un atelier qui utilise des œufs et des produits laitiers.",
   "supplierRef": "BMTMCC box",
   "price": {
     "amount": 2.49,
@@ -57,5 +57,8 @@
       "path": "data/images/AL-0002459/01-0369300-0369300-picture_1-0369300_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:32:04.853Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez MINI TOASTS AUX CEREALES 150 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

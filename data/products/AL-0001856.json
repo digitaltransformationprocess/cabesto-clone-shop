@@ -23,7 +23,7 @@
     "Accueil",
     "GAMBAS CRUES SAUVAGES MADA 12/16 PIECES 400G"
   ],
-  "description": "Achetez GAMBAS CRUES SAUVAGES MADA 12/16 PIECES 400G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "GAMBAS CRUES SAUVAGES MADAGASCAR 12/16 PIECES 400G\n\nDécouvrez nos gambas crues sauvages de Madagascar, calibre 12/16 pièces, conditionnées en boîte de 400g et surgelées juste après la pêche pour préserver toute leur fraîcheur. Issues des eaux préservées au large de Madagascar, ces gambas se distinguent par leur chair ferme, juteuse et savoureuse, ainsi que par leur délicat parfum iodé, typique des gambas sauvages de cette région.\n\nRiches en protéines et pauvres en matières grasses, elles sont idéales pour une alimentation saine et gourmande. Parfaites pour vos grillades, planchas ou recettes exotiques, elles sublimeront vos plats avec une touche d’exception et d’authenticité.\n\nOffrez-vous le meilleur de la mer avec nos gambas sauvages de Madagascar : un produit premium, pratique et facile à cuisiner, pour des moments conviviaux et gourmands garantis !",
   "supplierRef": "1HOS3040SPPSMG11",
   "price": {
     "amount": 8.99,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0001856/02-AL-0001856.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:29:25.597Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez GAMBAS CRUES SAUVAGES MADA 12/16 PIECES 400G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

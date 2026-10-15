@@ -23,7 +23,7 @@
     "Accueil",
     "HOLLANDAISE RICHE EN BEURRE FRAIS 200ML"
   ],
-  "description": "Achetez HOLLANDAISE RICHE EN BEURRE FRAIS 200ML chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sauce au beurre élaborée à partir de beurre frais, conditionnée en sachet.",
   "supplierRef": "1692",
   "price": {
     "amount": 2.49,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0003767/01-6041957-6041957-picture_1-hollandaise.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:38:01.482Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez HOLLANDAISE RICHE EN BEURRE FRAIS 200ML chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -19,7 +19,7 @@
     "Accueil",
     "Aquachek Blanc test taux de sel"
   ],
-  "description": "Achetez Aquachek Blanc test taux de sel chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Testeur de Salinité AquaChek Blanc - Précision et Facilité\nOptimisez la qualité de votre eau de piscine avec facilité.\n\nLe testeur de salinité AquaChek Blanc est l'outil indispensable pour maintenir une eau de piscine parfaite. Avec sa capacité à mesurer des taux de sel de 400 à 7000 ppm, ce kit complet vous permet d'obtenir des résultats rapides et fiables. Utilisez les bandelettes d'analyse pour un contrôle précis et ajustez le niveau de sel pour une eau limpide et saine. Chaque pack contient 10 bandelettes, assurant une surveillance efficace de votre piscine ou spa.\n\nCaractéristiques Testeur de Salinité AquaChek Blanc - Précision et Facilité\nFacilité d'utilisation\nRésultats rapides\nPrécision des mesures\nKit complet\nSurveillance efficace\nInformations techniques :\nPlage de mesure\n400 - 7000 ppm\nContenu\n10 bandelettes\nRéférence\n561141AEU\nEAN\n637395456411\nCompatibilité\nPiscines et spas\nContenu du colis\n\nLe kit AquaChek Blanc SEL contient 10 bandelettes d'analyse pour tester le taux de sel de votre piscine ou spa.",
   "supplierRef": "561141AEU",
   "price": {
     "amount": 13.99,
@@ -57,5 +57,8 @@
       "path": "data/images/PI-0000073/01-aquachek-blanc-test-taux-de-sel-12186.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:27:31.172Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Aquachek Blanc test taux de sel chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -25,7 +25,7 @@
     "Accueil",
     "Chaussons Escalade Tarantula - La Sportiva"
   ],
-  "description": "Achetez Chaussons Escalade Tarantula - La Sportiva chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Chaussons Escalade | Tarantula - La Sportiva\n\n Le chausson Tarentula est un modèle polyvalent idéal pour débuter en escalade ou pour une utilisation en salle.\n\nFermeture en velcro rapide et fonctionnelle, forme neutre adaptée à tout type de pied.\nVelcro croisé qui contribue à la structure du chausson.\nLanguette anti-transpiration réalisée en deux parties superposées qui facilite le chaussant et évite la formation de plis.\n CARACTERISTIQUES TECHNIQUES :\n - Inter Semelle LaSpoFlex 1,8 mm.\n - Semelle FriXion 4mm pour une durée maximale.\n - Pointures du 35 au 45.\n - Poids : 540 g.",
   "supplierRef": null,
   "price": {
     "amount": 0,
@@ -69,5 +69,8 @@
       "path": "data/images/PCNT-0021175/02-ls30_1_bc-chaussons-tarantula-la-sportiva_14.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:16:09.975Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Chaussons Escalade Tarantula - La Sportiva chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

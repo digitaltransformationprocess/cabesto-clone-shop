@@ -23,7 +23,7 @@
     "Accueil",
     "BOUILLABAISSE A LA MARSEILLAISE 850ML"
   ],
-  "description": "Achetez BOUILLABAISSE A LA MARSEILLAISE 850ML chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "A l'origine, plat rustique et familial, la Bouillabaisse est devenue dans notre région un met noble et raffiné. Elle représente aujourd'hui la spécialité des meilleurs restaurants de poisson. Vous retrouverez tout le meilleur de la Mer Méditerranée dans notre authentique Bouillabaisse.Sa composition traditionnelle ainsi que les méthodes de fabrication confèrent à ce produit un positionnement haut de gamme affirmé pour le plaisir des gourmets les plus avertis.",
   "supplierRef": "58",
   "price": {
     "amount": 12.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000641/01-0339195-0339195-picture_1-0339195_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:24:28.852Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BOUILLABAISSE A LA MARSEILLAISE 850ML chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

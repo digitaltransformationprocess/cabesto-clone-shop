@@ -9,7 +9,7 @@
     "Accueil",
     "Ardoise de plongée format A4 avec crayon et clip d'accrochage IMERSION"
   ],
-  "description": "Dimensions : 21x29.7 cm.Livrée avec un crayon + clip d'accrochage.",
+  "description": "Dimensions : 21x29.7 cm.\nLivrée avec un crayon + clip d'accrochage.",
   "supplierRef": "B710",
   "price": {
     "amount": 14.99,
@@ -57,5 +57,8 @@
   "categories": [
     "plongee",
     "1er-prix-club-association"
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:18:45.236Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Dimensions : 21x29.7 cm.Livrée avec un crayon + clip d'accrochage."
 }

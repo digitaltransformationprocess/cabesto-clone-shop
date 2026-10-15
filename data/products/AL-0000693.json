@@ -23,7 +23,7 @@
     "Accueil",
     "BRANDADE MORUE GRAND CHEF 200G"
   ],
-  "description": "Achetez BRANDADE MORUE GRAND CHEF 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "BRANDADE DE NIMES GRAND CHEF 50% DE MORUE VERRINE 200G. Fleuron du marché, la Grand Chef a été créée à l'occasion du 3ème millénaire et des 120 ans de la marque. Avec 50% de filets de morue et 10% d'huile d'olive, elle fait figure de produit haut de gamme à la saveur authentique et inégalée !",
   "supplierRef": "23767012",
   "price": {
     "amount": 7.69,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000693/01-0353732-0353732-picture_1-0353732_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:24:55.751Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BRANDADE MORUE GRAND CHEF 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

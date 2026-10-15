@@ -19,7 +19,7 @@
     "Accueil",
     "Poulet tikka massala - TREK'N EAT"
   ],
-  "description": "Achetez Poulet tikka massala - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Poulet tikka massala - TREK'N EAT\nRepas lyophilisé au Poulet tikka massala adapté au trekking, randonnée avec bivouac et tous les séjours en montagne où manger chaud permet de retrouver énergie et récupération.\nPoids net : 150g.\nEau ajoutée : 320ml.\nPoids total : 470g.\n\nIngrédients : riz long, poulet 15%, huile de tournesol (contient du lait, E551), tomates en poudre, mélange de condiments (contient du céleri), concentré protéique de lactosérum, amidon modifié, fécule de pommes de terre, maltodextrine, oignons, tomates, extrait de levure, persil, gingembre, poivrons, sel, chili en poudre, poudre d'ail, poivre, arôme naturel\n\nPoids en viande: Viande déshydratee 21 g soit env. 73 g de viande fraîche.\nAllergènes : lait, céleri.\nPréparation : Verser de l'eau bouillante jusqu'au trait 8 cm de l'échelle (320 ml) directement dans le sachet, puis remuer délicatement, refermer le sachet et laisser infuser 8 minutes.\nValeur nutritive moyenne pour 100 g de produit sec :\nkJ/kcal : 1581/377.\nLipides : 8,0 g dont acides gras saturés : 0,7 g.\nGlucides : 58,4 g dont sucres : 7,9 g.\nFibres alimentaires : 1,8 g.\nProtéines : 17,2 g\nSel : 2,6 g\nA consommer de préférence : 60 mois après la date de production.",
   "supplierRef": "TE30202011",
   "price": {
     "amount": 10.95,
@@ -81,5 +81,8 @@
       "path": "data/images/NT-0001734/05-3022_1-poulet-tikka-massala-trek_n-eat_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:54.821Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Poulet tikka massala - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

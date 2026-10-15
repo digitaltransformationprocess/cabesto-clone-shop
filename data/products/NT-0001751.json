@@ -19,7 +19,7 @@
     "Accueil",
     "Sauté de boeuf aux pommes de terre et aux haricots verts - TREK'N EAT"
   ],
-  "description": "Achetez Sauté de boeuf aux pommes de terre et aux haricots verts - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sauté de boeuf aux pommes de terre et aux haricots verts - TREK'N EAT\nRepas lyophilisé de Sauté de boeuf aux pommes de terre et aux haricots verts adapté au trekking, randonnée avec bivouac et tous les séjours en montagne où manger chaud permet de retrouver énergie et récupération.\nPoids net : 170g.\nEau ajoutée : 550ml.\nPoids total : 720g.\n\nIngrédients : pommes de terre 28%, haricots plats 15%, boeuf 9%, huile de tournesol (contient du lait, E551), fèves, amidon modifié, fécule de pommes de terre, carottes, jus de viande, mélange de condiments (contient du céleri), sel, poivre, cumin, gingembre, arôme naturel.\n\nPoids en viande: Viande déshydratee 13,6 g soit env. 54 g de viande fraîche.\nAllergènes : lait, céleri.\nPréparation : Verser de l'eau bouillante jusqu'au trait 9 cm de l'échelle (550 ml) directement dans le sachet, puis remuer délicatement, refermer le sachet et laisser infuser 10 minutes.\nValeur nutritive moyenne pour 100 g de produit sec :\nkJ/kcal : 1427/340.\nLipides : 10,9 g dont acides gras saturés : 2,0 g.\nGlucides : 45,4 g dont sucres : 3,8 g.\nFibres alimentaires : 0,4 g.\nProtéines : 12,1 g\nSel : 1,6 g\nA consommer de préférence : 60 mois après la date de production.",
   "supplierRef": "TE30202002",
   "price": {
     "amount": 11.95,
@@ -81,5 +81,8 @@
       "path": "data/images/NT-0001751/05-3035_1-saute-de-boeuf-aux-pommes-de-terre-et-aux-haricots-trek_n-eat_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:59.784Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sauté de boeuf aux pommes de terre et aux haricots verts - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -25,7 +25,7 @@
     "Accueil",
     "Anneau Dyneema 10mm 180cm BEAL"
   ],
-  "description": "Léger, souple et résistant cet anneau de sangle est idéal pour l'alpinisme, les grandes voies le T.a....",
+  "description": "Anneau Dyneema 10mm 180cm BEAL\nLéger, souple et résistant cet anneau de sangle est idéal pour l'alpinisme, les grandes voies le T.a....\n\nÉtroite, elle fait travailler les mousquetons dans d'excellentes conditions.\n\nCe produit a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme : EN566:2017/EN795:2012 B/EN354:2010\n\nInformations techniques :\nMatériaux :\nDyneema\nLargeur :\n10 mm\nLongueur :\n180 cm\nRésistance :\n22 kN",
   "supplierRef": "BSAD10.180 à l'unitée",
   "price": {
     "amount": 17.9,
@@ -99,5 +99,8 @@
       "path": null,
       "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0001697\\07-2975_1-anneau-dyneema-10-mm-180-cm-beal_1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0001697\\07-2975_1-anneau-dyneema-10-mm-180-cm-beal_1.jpg'"
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:49.871Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Léger, souple et résistant cet anneau de sangle est idéal pour l'alpinisme, les grandes voies le T.a...."
 }

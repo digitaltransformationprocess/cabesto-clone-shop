@@ -19,7 +19,7 @@
     "Accueil",
     "PROSECCO SPUMANTE 75cl"
   ],
-  "description": "Achetez PROSECCO SPUMANTE 75cl chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Vin blanc pétillant DOC: Vénétie. Le Prosecco est un vin de table léger, simple et équilibré, il est le parfait compagnon des moments festifs. Il se déguste tout au long du repas dans sa version brut, et accompagnera à merveille un « primi piatti » de pâtes à la crème.",
   "supplierRef": "A6174AB",
   "price": {
     "amount": 9.99,
@@ -57,5 +57,8 @@
       "path": "data/images/AL-0003172/01-6019460-6019460-picture_1-6019460_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:34:42.212Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PROSECCO SPUMANTE 75cl chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

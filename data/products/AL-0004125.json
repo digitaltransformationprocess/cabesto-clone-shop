@@ -23,7 +23,7 @@
     "Accueil",
     "TAPAS DE CALMARS 100G"
   ],
-  "description": "Achetez TAPAS DE CALMARS 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "La saveur douce du calmar est ici relevée avec une compotée de piquillos ( poivrons d'amérique du sud), une pointe de curry et un piment fort dosé avec parcimonie. Nous obtenons ainsi une note légèrement piquante.",
   "supplierRef": "TDC~100G",
   "price": {
     "amount": 4.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0004125/01-6049858-6049858-picture_1-6049858_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:38:45.655Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez TAPAS DE CALMARS 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

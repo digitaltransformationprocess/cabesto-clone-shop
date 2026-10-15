@@ -21,7 +21,7 @@
     "Accueil",
     "ROBOT HYDRAULIQUE GO VAC"
   ],
-  "description": "Achetez ROBOT HYDRAULIQUE GO VAC chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "ROBOT HYDRAULIQUE GO VAC\n\nGo Vac est destiné au nettoyage des piscines hors-sol d'une longueur maximale de 4.50m, il se branche sur la buse d'aspiration et utilise le flux d'eau pour se déplacer c'est pourquoi il nécessite un débit de filtration minimum de 3,8m³/h. Le diaphragme d'aspiration qui dote ce robot hydraulique, assure une aspiration est un déplacement plus silencieux qu'avec les anciens aspirateurs. Un pré-filtre intégré dans la tête du robot permet de récolter les débris avant qu'ils ne partent dans le système de filtration. Ainsi, votre filtre à sable ou à cartouche s'encrasseront moins vite en ne récoltant que les débris les plus fins, maintenance et nettoyage sont facilités.\n\nModèle\t\n\nAspirateur Go vac\nInstallation\tPar l’utilisateur, sur la prise balai ou le skimmer\nTaille de piscine\tPiscine hors sol jusque 4.5 m de longueur\nTechnologie\tHydraulique à aspiration et technologie diaphragme\nSource d´énergie\tFiltration de la piscine\nDéplacement\tAléatoire, fond\nAnti-obstacle\tOui (disque)\nLongueur de tuyau\t5.85 m\nSurface filtrante\tselon filtration de la piscine\nPuissance minimum de la pompe de filtration\t3.8 m3/h (1/2 cv)\nDébit d'aspiration\t3.5 M3/H\nAccessoires inclus\t5.85m de tuyaux\nGarantie\t2 ans",
   "supplierRef": "AC55CBX",
   "price": {
     "amount": 49,
@@ -65,5 +65,8 @@
       "path": "data/images/PI-0009392/02-aspirateur-automatique-go-vac.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:17:08.825Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ROBOT HYDRAULIQUE GO VAC chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

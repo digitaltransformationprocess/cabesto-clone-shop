@@ -23,7 +23,7 @@
     "Accueil",
     "COFFRET FISH MOI LA PECHE 3*80G ATELIER DU CUISINIER"
   ],
-  "description": "Achetez COFFRET FISH MOI LA PECHE 3*80G ATELIER DU CUISINIER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "COFFRET FISH MOI LA PECHE 3*80G\n\nTrés beau coffret composé de 3 tartinables :\n\nSt-Jacques confites & persillées Noix de Saint-Jacques* (mollusques) 33%, crème (lait), oignon, beurre demi-sel (lait), vin blanc, ail, chapelure (farine de blé, eau, sel, levure), persil 2,6%, sel de Millac, poivre.\n\nTourteau & tomates séchées Chair de tourteau 39% (crustacés), huile d'olive, aiglefin (poisson), purée de gingembre, tomate séchée 4,7%, oignon, jus de citron à base de concentré, curcuma, sel, poivre, épaississant : carraghénane (extrait d'algues).\n\nAlgues fraîches & saumon Chair de saumon sauvage 44% (poisson), algues fraîches [dulse, kombu royal, laitue de mer, haricot de mer] 16%, purée de yuzu (yuzu, huile de tournesol, jus de citron, sel, vinaigre d'alcool), huile d'olive, brisure d'olive noire, ail, câpre de capucine au vinaigre, jus de citron concentré, curcuma, poivre, thym, épaississant : agar-agar (extrait d'algues). Peut contenir traces de lait, poissons, mollusques, crustacés et soja. Les informations en gras sont destinées aux personnes allergiques.",
   "supplierRef": "ATC-COF~FMLP",
   "price": {
     "amount": 19.99,
@@ -73,5 +73,8 @@
       "path": "data/images/AL-0009096/03-coffret-fish-moi-la-peche_2_.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:40:04.445Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez COFFRET FISH MOI LA PECHE 3*80G ATELIER DU CUISINIER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

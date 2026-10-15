@@ -19,7 +19,7 @@
     "Accueil",
     "Sac Canyon - Water Grille 35 L - Aventure Verticale"
   ],
-  "description": "Achetez Sac Canyon - Water Grille 35 L - Aventure Verticale chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sac Canyon - Water Grille 35 L - Aventure Verticale\n Sac canyon en bâche 1000 deniers laqué, très robuste, avec évacuation d'eau par grande grille dorsale (tout l'avant).\n Fond ovale 22 x 28cm, avec jonc de protection de couture.\n 2 boucles à l'intérieur pour attacher la corde.\n Poignées: 1 au fond, 1 latérale, 1 hissage.\n Bretelles: tubulaires moussées réglables.\n Poids: 862g.",
   "supplierRef": null,
   "price": {
     "amount": 83.6,
@@ -69,5 +69,8 @@
       "path": "data/images/PCNT-0024674/03-2332_1_b-water-grille-35-l-aventure-verticale.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:16:46.917Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sac Canyon - Water Grille 35 L - Aventure Verticale chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

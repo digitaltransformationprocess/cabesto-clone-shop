@@ -25,7 +25,7 @@
     "Accueil",
     "Chaine Snowline City"
   ],
-  "description": "Achetez Chaine Snowline City chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Chaine Snowline City\nChaines antiglisses citadines simplifiées au possible et ultralégères, pour ceux qui recherchent de l'adhérence par temps hivernal.\n\nModèle de poche à emmener partout.\n\n6 pointes reliées par une chaine, avec strucure en élastomère.\n\nTailles :\n\nM (rouge) pour les tailles 36 à 40,\nL (gris) pour les tailles 40 à 45\nXL (noir) pour les tailles 45 à 49.\nPoids : 64 g en taille M.",
   "supplierRef": null,
   "price": {
     "amount": 19.2,
@@ -81,5 +81,8 @@
       "path": "data/images/PCNT-0003933/04-1855_1_b-chaine-snowline-city--_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:57:24.237Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Chaine Snowline City chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

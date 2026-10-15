@@ -23,7 +23,7 @@
     "Accueil",
     "Pains grillés ail et persil PLAZA DEL SOL sachet 150g"
   ],
-  "description": "Achetez Pains grillés ail et persil PLAZA DEL SOL sachet 150g chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Pain grillé à l'ail et au persil. \n\n \n\nIngrédients: Farine de blé, assaisonnement huile de tournesol raffiné riche en acide oleique (22%), ail, sel,\n\nhuile de tournesol riche en acide oleique (8%), levure, sel et persil.\n\nPeut contenir des traces de cacahuètes, soja, dérivés laitiers et sésame.\n\nAfin de conserver intactes toutes ses propriétés, il est conseillé de consommer le produit dans les 5 jours suivants l'ouverture du paquet. \n\nEn sachet de 150g.",
   "supplierRef": "1C6346",
   "price": {
     "amount": 2.39,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002797/01-al-0002797.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:33:33.825Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Pains grillés ail et persil PLAZA DEL SOL sachet 150g chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -23,7 +23,7 @@
     "Accueil",
     "GALETTE BRETONNE PUR BEURRE"
   ],
-  "description": "Achetez GALETTE BRETONNE PUR BEURRE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "De délicieuses galettes pur beurre, fines et croquantes pour accompagner vos pauses gourmandes.",
   "supplierRef": "3700754717502.",
   "price": {
     "amount": 5.49,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0001837/02-al-0001837_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:29:06.497Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez GALETTE BRETONNE PUR BEURRE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

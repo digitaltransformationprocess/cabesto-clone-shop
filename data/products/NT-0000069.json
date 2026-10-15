@@ -19,7 +19,7 @@
     "Accueil",
     "Sac Spéléo Sherpa II 60 L - MTDE"
   ],
-  "description": "Achetez Sac Spéléo Sherpa II 60 L - MTDE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sac Spéléo Sherpa II 60 L - MTDE\nLe sac de spéléologie Sherpa II 60 litres version thermosoudée est un sac de transport de grand volume et confortable en PVC tramé 840D.\n\nIl présente les avantages d'un sac à dos adapté au milieu souterrain et aux conditions d'expéditions difficiles\n\nCARACTERISTIQUES TECHNIQUES DU SAC SHERPA II 60 L :\nTransport : 2 bretelles matelassées réglables (munies d'anneaux porte-accessoires), une longe de portage, 3 poignées pour les déplacements délicats (1 supérieure, 2 latérales).\nDos : matelassé.\nCeinture : matelassée, amovible par boucle adaptée.\nPoche : à fermeture par zip sous le rabat.\nPorte-matériel : intérieur.\nRenforts : partie basse et fond de sac, réalisé en PVC tramé, 840D.\nFond : ovale.\nAssemblage PVC : par procédé de thermosoudure.\nCapacité : 60 litres.\nDimension : 64 x 38 x 24,5 cm.\nColoris : Jaune et orange.\nPoids : 1600 g.",
   "supplierRef": "5030 SOUDE",
   "price": {
     "amount": 119.9,
@@ -87,5 +87,8 @@
       "path": "data/images/NT-0000069/06-0113_1-sac-speleo-sherpa-ii-60-l-mtde_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:41:15.147Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sac Spéléo Sherpa II 60 L - MTDE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

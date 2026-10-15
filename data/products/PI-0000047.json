@@ -21,7 +21,7 @@
     "Accueil",
     "ANALYSE DE L'EAU POUR PISCINE CABESTO"
   ],
-  "description": "Achetez ANALYSE DE L'EAU POUR PISCINE CABESTO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Analyse de l'Eau : Une analyse complète en magasin pour suivre la qualité de votre eau\nUn outil fiable pour un contrôle optimal des paramètres de l’eau\n\nL'analyse de l'eau se réalise par l'utilisation d'un disque photométrique permettant de mesurer avec précision les paramètres chimiques de votre eau de piscine ou de spa. Grâce à sa technologie photométrique avancée, il permet de détecter rapidement des valeurs telles que le pH, le chlore libre, chlore total, brome, alcalinité, le phosphate, les métaux, le stabilisant. Sa facilité d'utilisation et sa précision font de cet appareil un allié indispensable pour garantir un équilibre parfait de l’eau. Conçu avec des matériaux robustes et des filtres optiques hautes qualités, il assure des résultats complets permettant d’ajuster efficacement le traitement de l’eau.\n\nRepartez avec une ordonnance de traitement d'eau personnalisé\n\nNos équipes vous réalise le test et vous accompagne sur les traitements à apporter afin de rétablir les paramètres en défauts et vous permettre de récupérer facilement votre piscine et profiter ainsi d'une eau saine et cristaline.\n\n \n\n \n\nCaractéristiques du Disque Photométrique d'Analyse de l'Eau\nMesure des principaux paramètres chimiques de votre eau de piscine\nTechnologie photométrique\nFacilité d’utilisation et lecture rapide des résultats\nInformations techniques :\nAnalyse photométrique en magasin\nParamètres mesurés\npH, chlore/brome, alcalinité, phosphates, métaux, stabilisant, dureté de l'eau ou TH\nContenu du colis\n\nService en magasin",
   "supplierRef": "287033",
   "price": {
     "amount": 3,
@@ -59,5 +59,8 @@
       "path": "data/images/PI-0000047/01-analyse_de_l_eau_web.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:27:01.012Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ANALYSE DE L'EAU POUR PISCINE CABESTO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

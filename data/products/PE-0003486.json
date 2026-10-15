@@ -23,7 +23,7 @@
     "Accueil",
     "Epuisette Charmes Eco"
   ],
-  "description": "Achetez Epuisette Charmes Eco chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Épuisette Charmes Eco\nManche télescopique en aluminium\n\nLa **Charmes Eco** est une épuisette de la marque **Water Queen**. Son manche télescopique en aluminium offre un confort optimal. La tête est démontable, ce qui facilite son utilisation.\n\nCaractéristiques :\nLongueur : De 1m53 à 2m25\nManche en 2 éléments\nTête de 55x40 cm\nProfondeur du filet : 55 cm\nPoids : 350 g\nInformations techniques :\nLongueur minimale :\n153 cm\nLongueur maximale :\n225 cm\nMailles :\n5 mm\nContenu du colis :\n\nLe contenu du colis n'est pas spécifié dans la fiche produit. Pour plus de détails, veuillez consulter la fiche article sur le site du fournisseur : lien vers la fiche",
   "supplierRef": "AWQ180041",
   "price": {
     "amount": 19.99,
@@ -67,5 +67,8 @@
       "path": "data/images/PE-0003486/02-PE-12197-1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:25:22.748Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Epuisette Charmes Eco chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

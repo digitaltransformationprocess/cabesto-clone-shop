@@ -23,7 +23,7 @@
     "Accueil",
     "CHIPS BANANE PIMENTEES 75G samai"
   ],
-  "description": "Achetez CHIPS BANANE PIMENTEES 75G samai chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Chips de banane plantain. Idéale pour l'apéritif. Chips originale, goutteuse et relevé.",
   "supplierRef": "0832697000571.",
   "price": {
     "amount": 1.49,
@@ -73,5 +73,8 @@
       "path": "data/images/AL-0000958/03-banner-samai-2560x888px.png",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:25:43.278Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez CHIPS BANANE PIMENTEES 75G samai chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

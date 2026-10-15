@@ -19,7 +19,7 @@
     "Accueil",
     "Bouchon femelle D50 - 16 bars"
   ],
-  "description": "Achetez Bouchon femelle D50 - 16 bars chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "BOUCHON FEMELLE D50\nBouchon PVC pour système de filtration\n\nLe bouchon femelle D50 est un élément essentiel pour votre système de filtration de piscine.\n\nCaractéristiques du bouchon femelle D50 :\nConçu en PVC-U (polychlorure de vinyle non plastifié)\nRésistant, non toxique et non corrosif\nPression nominale : PN 16 bar\nFacile à installer grâce à son filetage femelle\nConforme aux normes EN 1452-3 et DIN 8063\nInformations techniques :\nDiamètre :\n50 mm\nPoids net :\n0.1 kg\nMatériau :\nPVC-U\nClasse de feu :\nB s1 d0\nVolume :\n0.0001548 m³\nContenu du colis :\n\nLe bouchon femelle D50 est livré individuellement dans un emballage sécurisé.",
   "supplierRef": "SCA1050",
   "price": {
     "amount": 2.5,
@@ -57,5 +57,8 @@
       "path": "data/images/PI-0000354/01-bouchon-fem-d50-16-bars-16656.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:29:10.678Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Bouchon femelle D50 - 16 bars chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

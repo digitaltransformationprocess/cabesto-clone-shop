@@ -23,7 +23,7 @@
     "Accueil",
     "TETE DE BALAI FORME ARRONDI HARICOT BLUE LINE"
   ],
-  "description": "Achetez TETE DE BALAI FORME ARRONDI HARICOT BLUE LINE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "TETE DE BALAI PREMIUM PISCINE - GRE\nTête de nettoyeur de fond ovale rotatif.\n\nContient des brosses inférieures et latérales permettant un meilleur nettoyage dans les angles Résistant et efficace dans les tâches quotidiennes d'entretien.\n\nCaractéristiques :\nAide à nettoyer le fond et la hauteur moyenne de la piscine.\nRaccordement au tuyau d'aspiration de Ø 32 mm - Ø 38 mm\nApte pour tout type de piscines et de revêtements\nBase giratoire permettant d'éviter l'emmêlement du tuyau d'aspiration\nLe tuyau relié au skimmer ou à la prise d'aspiration permet d'aspirer les résidus jusqu'au filtre d'épuration\nS'adapte à tout manche télescopique avec système de raccordement à clip\nMesures: 37 x 18 x 185 cm",
   "supplierRef": "69664",
   "price": {
     "amount": 19.9,
@@ -61,5 +61,8 @@
       "path": "data/images/PI-0009394/01-balai-ovale-rotatif-avec-brosses-laterales-premium.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:17:14.794Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez TETE DE BALAI FORME ARRONDI HARICOT BLUE LINE chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

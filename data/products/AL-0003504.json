@@ -23,7 +23,7 @@
     "Accueil",
     "ROSE BIO EMBRUN GRIS SAUVAGE 75CL"
   ],
-  "description": "Achetez ROSE BIO EMBRUN GRIS SAUVAGE 75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Grenache gris, Cinsault, Merlot, Cabernet Sauvignon, Syrah. Les Embruns sont le fruit d’un terroir unique : la Camargue, authentique, sauvage et pleine de caractère.",
   "supplierRef": "3186127815967.",
   "price": {
     "amount": 7.39,
@@ -73,5 +73,8 @@
       "path": "data/images/AL-0003504/03-6016349-6016349-picture_2-6016349_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:36:01.771Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ROSE BIO EMBRUN GRIS SAUVAGE 75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -23,7 +23,7 @@
     "Accueil",
     "EAU DE COCO PULPE 31CL"
   ],
-  "description": "Achetez EAU DE COCO PULPE 31CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Eau de coco à 100 %De l’eau de coco, tout simplement. Rien n’y est ajouté, rien n’y est retiré pour un goût rafraîchissant et entièrement naturel. Aucun sucre ajouté, aucun agent de conservation ou d’eau. Le « sucre » que vous apercevez sur le tableau de la valeur nutritive? Ce n’est pas du sucre ajouté c’est simplement le sucre naturel qu’on retrouve dans toutes les noix de coco.",
   "supplierRef": "5035139207254.",
   "price": {
     "amount": 1.59,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0001473/02-grace_coconut_water_with_pieces_slim_can_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:27:03.575Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez EAU DE COCO PULPE 31CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

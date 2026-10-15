@@ -23,7 +23,7 @@
     "Accueil",
     "KOUIGN AMANN PUR BEURRE 600G"
   ],
-  "description": "Achetez KOUIGN AMANN PUR BEURRE 600G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Né à Douarnenez au XIXe siècle, le kouign-amann (« gâteau au beurre » en breton) est une pâtisserie bretonne réputée absolument incontournable en Bretagne : croustillant et caramélisé sur le dessus et fondant à l'intérieur, ce gâteau est élaboré à partir de pâte à pain feuilletée, beurrée et sucrée.",
   "supplierRef": "3294510006004.",
   "price": {
     "amount": 9.99,
@@ -73,5 +73,8 @@
       "path": "data/images/AL-0002095/03-6007667-6007667-picture_1-6007667_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:30:39.633Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez KOUIGN AMANN PUR BEURRE 600G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

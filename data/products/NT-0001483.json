@@ -19,7 +19,7 @@
     "Accueil",
     "Antibruit Optime III 36 dB"
   ],
-  "description": "Achetez Antibruit Optime III 36 dB chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "ANTIBRUIT OPTIME III 36 dB - 3M PELTOR\nLes casques antibruit PELTOR™ Optime™ III 3M™ ont été conçus pour servir dans des environnements très bruyants, en particulier ceux dominés par des sons de basse fréquence.\n\nLe produit utilise une technologie à double conception de coque pour minimiser l'effet de résonance, ce qui entraîne une excellente atténuation des hautes fréquences. En outre, une combinaison d'entretoise et de coque spécialement conçues permet d'assurer une excellente protection contre les sons de basse fréquence.\n\nCaractéristiques :\nAtténuation : 34 Decibel, 35 Decibel\nPression constante\nTechnologie de double paroi pour une performance optimale\nFixation facile sur le casque\nBagues d'étanchéité remplies de liquide\nProfil bas\n\nSecteur d’activité recommandé Agricole, Construction, Extraction minière, Transport",
   "supplierRef": "ID10H10P3E",
   "price": {
     "amount": 47.5,
@@ -57,5 +57,8 @@
       "path": "data/images/NT-0001483/01-101_casque_3m.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:36.998Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Antibruit Optime III 36 dB chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

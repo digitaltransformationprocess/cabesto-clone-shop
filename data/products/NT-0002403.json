@@ -19,7 +19,7 @@
     "Accueil",
     "Blister Cordelette 3mm x 10m - BEAL"
   ],
-  "description": "Achetez Blister Cordelette 3mm x 10m - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Blister Cordelette 3mm x 10m - BEAL\nBlister cordelette Beal.\nDiamètre : 3 mm.\nPoids au mètre : 6.5 g.\nCharge de rupture : 180 daN(KG).\nMatière : Nylon\nPack de 10 m.\nColoris assortis.",
   "supplierRef": "BC03.10 unitée",
   "price": {
     "amount": 6.51,
@@ -75,5 +75,8 @@
       "path": "data/images/NT-0002403/04-bla5_1-blister-cordelette-3-mm-x-10-m-beal_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:26.909Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Blister Cordelette 3mm x 10m - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

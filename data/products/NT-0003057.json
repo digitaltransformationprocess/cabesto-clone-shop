@@ -23,7 +23,7 @@
     "Accueil",
     "Camalot C4 3"
   ],
-  "description": "Achetez Camalot C4 3 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Le coinceur mécanique camalot Black Diamond le plus vendu et le plus reconnu de la planète a été amélioré.\n\nRedessiné, le nouveau Camalot C4 place la barre haut... et offre un poids allégé de 10 % tout en étant aussi résistant qu'avant : bien mieux pour les très grandes voies.\n\nIl est également doté d'un design moderne qui apporte une touche supplémentaire aux Camalots Black Diamond si appréciés.\n\nLes têtes de cames sont plus légères et plus travaillées afin d'optimiser le rapport poids/résistance tandis que le graphisme des sangles a été actualisé pour un meilleur repérage sur le baudrier d'escalade.\n\nCARACTERISTIQUES TECHNIQUES :\n\n- Nouveau design 10 % plus léger.\n\n- Têtes de cames plus légères retravaillées pour optimiser le rapport poids/résistance.\n\n- Le graphisme des sangles est actualisé pour un meilleur repérage sur le baudrier.\n\n- Design à axe double couvrant la plus grande variété dutilisations pour chaque camalot.\n\n- Design de tige/câble continu en forme de C assurant solidité et résistance à l'usure.\n\n- Code couleur pour un repérage facile et grande variété de tailles.\n\n- Neutrino Rackpack disponible pour faciliter le rangement (Voir Catégorie Mousquetons).\n\nRésistance : 14 kN.\n\nPlage d'utilisation : 50.7-87.9 mm.\n\nPoids : 181.1 g.\n\nCe produit a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme : EN 12276:2013,\n\nNotice d'utilisation dont liste des accessoires utilisables avec cet EPI cliquez ICI",
   "supplierRef": "BD2623130000ALL1",
   "price": {
     "amount": 81.9,
@@ -61,5 +61,8 @@
       "path": "data/images/NT-0003057/01-bdb5_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:51.753Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Camalot C4 3 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

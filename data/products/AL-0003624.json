@@ -23,7 +23,7 @@
     "Accueil",
     "SALICORNE EN MARINADE 75G"
   ],
-  "description": "Achetez SALICORNE EN MARINADE 75G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Plante de marais salant marinée au vinaigre et aromates",
   "supplierRef": "241",
   "price": {
     "amount": 4.79,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0003624/01-0344023-0344023-picture_1-0344023_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:36:52.942Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez SALICORNE EN MARINADE 75G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

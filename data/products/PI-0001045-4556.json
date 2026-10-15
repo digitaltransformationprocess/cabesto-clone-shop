@@ -23,7 +23,7 @@
     "Accueil",
     "DESALGINE JET 3L BAYROL"
   ],
-  "description": "Achetez DESALGINE JET 3L BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Desalgine® Jet est un anti-algues concentré non moussant qui empêche le développement et la prolifération des algues.\n\nL’effet clarifiant intégré permet d’obtenir une eau plus claire. Desalgine® Jet est idéal pour les piscines équipées de nage à contre-courant et les eaux fortement brassées. Versez 50 ml pour 10 m3 une fois par semaine.",
   "supplierRef": "1141502",
   "price": {
     "amount": 45,
@@ -61,5 +61,8 @@
       "path": "data/images/PI-0001045-4556/01-385x385_420280_desalgine_jet_6l_bayrol.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:31:33.234Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez DESALGINE JET 3L BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

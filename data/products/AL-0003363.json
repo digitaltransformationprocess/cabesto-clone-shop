@@ -23,7 +23,7 @@
     "Accueil",
     "RHUM ARRANGE BREIZ'ILE MANGUE ANANAS 70 CL 23°"
   ],
-  "description": "Achetez RHUM ARRANGE BREIZ'ILE MANGUE ANANAS 70 CL 23° chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "RHUM ARRANGE BREIZ'ILE MANGUE ANANAS 70CL\n\nDes parfums résolument exotiques pour ce rhum arrangé Mangue Ananas – Breiz’île Tradition. Confectionné de manière artisanale et dans le respect de la tradition des Antilles, ce rhum aux fruits des tropiques dégage de très jolis arômes d’ananas frais légèrement acidulés avec un parfum suave de mangue. Le sirop de sucre de canne donne un léger aspect sucré et permet aux fruits macérés de libérer leurs parfums des caraïbes et donner à cet ensemble rondeur et structure. Une invitation sous les tropiques !\n\nIngrédients : rhum agricole des Antilles, eau, sirop, fruits (10%), épices\n\nDegré d’alcool : 23%",
   "supplierRef": "3760127531425.",
   "price": {
     "amount": 27.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0003363/01-rhum-arrange-mangue-ananas-tradition-artisanal.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:34:57.145Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez RHUM ARRANGE BREIZ'ILE MANGUE ANANAS 70 CL 23° chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

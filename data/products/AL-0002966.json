@@ -19,7 +19,7 @@
     "Accueil",
     "PETIT CROUTON AIXOIS AIL HO 75 GR"
   ],
-  "description": "Achetez PETIT CROUTON AIXOIS AIL HO 75 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Petits Croûtons Aixois Ail et Huile d’Olive 75g\n\nLa pâte de ces petits croûtons croustillants est façonnée, les longs pains sont cuits puis découpés en petites tranches et finement grillés. Ces croûtons au parfum méditerranéen d’huile d’olive et d’ail sont délicieux dans une soupe accompagnés de rouille ou mêlés à une salade, ou bien nappés d’un tartinable.\n\nIngrédients :\n\nFarine de blé, (gluten, acide ascorbique), mélange de céréales (seigle, orge, maïs, avoine, blé, riz, millet), arôme naturel d’ail (3.8%), huile d’olive (3%), levure boulangère, extrait de malt d’orge, sel, soja, lin, émulsifiant : lécithine de soja.\n\nFabriqué dans un atelier qui utilise du sésame, des oeufs et des produits laitiers.\n\nValeurs nutritionnelles théoriques moyennes pour 100g\n\nValeur énergétique\t1741 kJ soit 413 kcal\nMatières grasses\n\n \n\ndont acides gras saturés\n\n\t9,2g\n\n \n\n1,3g\n\nGlucides\n\n \n\ndont sucres\n\n\t68g\n\n \n\n3,1g\n\nFibres Alimentaires\t4,3g\nProtéines\t12,4g\nSel\t2,7g",
   "supplierRef": "PC07/14",
   "price": {
     "amount": 2.15,
@@ -63,5 +63,8 @@
       "path": "data/images/AL-0002966/02-0369295-0369295-picture_1-0369295_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:34:07.672Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PETIT CROUTON AIXOIS AIL HO 75 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

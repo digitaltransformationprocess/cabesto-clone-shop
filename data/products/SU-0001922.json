@@ -9,7 +9,7 @@
     "Accueil",
     "Compas poignet de plongée sous-marine SK8 SUUNTO"
   ],
-  "description": "Angle d'inclinaison : +/-30°Chiffres faciles à lireFenêtre de visée très largeLunette de cap crantéeParfaite prise en main",
+  "description": "Angle d'inclinaison : +/-30°\n\nChiffres faciles à lire\n\nFenêtre de visée très large\n\nLunette de cap crantée\n\nParfaite prise en main",
   "supplierRef": "SS051086000",
   "price": {
     "amount": 73,
@@ -67,5 +67,8 @@
     "plongee-sous-marine",
     "instruments-de-plongee",
     "compas-et-boussoles-sous-marines"
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:19:00.316Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Angle d'inclinaison : +/-30°Chiffres faciles à lireFenêtre de visée très largeLunette de cap crantéeParfaite prise en main"
 }

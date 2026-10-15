@@ -23,7 +23,7 @@
     "Accueil",
     "KOUIGN AMANN POMME 400 GR"
   ],
-  "description": "Achetez KOUIGN AMANN POMME 400 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Né à Douarnenez au XIXe siècle, le kouign-amann (« gâteau au beurre » en breton) est une pâtisserie bretonne réputée absolument incontournable en Bretagne : croustillant et caramélisé sur le dessus et fondant à l'intérieur, ce gâteau est élaboré à partir de pâte à pain feuilletée, beurrée et sucrée.",
   "supplierRef": "3294512004008.",
   "price": {
     "amount": 7.99,
@@ -73,5 +73,8 @@
       "path": "data/images/AL-0002093/03-0351156-0351156-picture_1-0351156_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:30:30.518Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez KOUIGN AMANN POMME 400 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

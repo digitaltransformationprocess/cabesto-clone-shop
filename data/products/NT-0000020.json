@@ -25,7 +25,7 @@
     "Accueil",
     "10 Goujons 10 x 95 mm bague inox - MUNGO"
   ],
-  "description": "Achetez 10 Goujons 10 x 95 mm bague inox - MUNGO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "10 Goujons 10 x 95 mm bague inox - MUNGO\n10 goujons bague inox\nDiamètre : 10 mm.\nLongueur : 95 mm.\nSimple expansion.\nEn acier avec bague inox.\nRésistance à la traction 16 kN, au cisallement 14 kN.\nChevilles mâles dont le gros avantage est que le perçage s'effectue au diamètre nominal.\nOn diminue ainsi de 40% l'énergie nécessaire pour une cheville femelle de même filetage, donc la décharge de l'accu.\nLa bague inox de ces goujons leur assure une durée de vie bien supérieure à celle de leurs concurrents.\nFourni avec écrous et rondelles.\nVendu par lot de 10.",
   "supplierRef": "M21095S10",
   "price": {
     "amount": 3.9,
@@ -69,5 +69,8 @@
       "path": null,
       "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0000020\\02-qa14_1-10-goujons-10-x-95-mm-bague-inox-mungo_1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0000020\\02-qa14_1-10-goujons-10-x-95-mm-bague-inox-mungo_1.jpg'"
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:40:53.319Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez 10 Goujons 10 x 95 mm bague inox - MUNGO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

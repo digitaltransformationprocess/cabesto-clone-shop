@@ -19,7 +19,7 @@
     "Accueil",
     "Blister Cordelette 6mm x 5.5m - BEAL"
   ],
-  "description": "Achetez Blister Cordelette 6mm x 5.5m - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Blister Cordelette 6mm x 5.5m - BEAL\nBlister cordelette Beal.\nDiamètre : 6 mm.\nPoids au mètre : 23 g.\nCharge de rupture : 810 daN(KG).\nMatière : Nylon\nPack de 5,5 m.\nColoris assortis.\nCe produit a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme : EN 564:2014",
   "supplierRef": "BC06.5 unitée",
   "price": {
     "amount": 8.63,
@@ -69,5 +69,8 @@
       "path": "data/images/NT-0002406/03-bla8_1-blister-cordelette-6-mm-x-5-5-m-beal_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:33.006Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Blister Cordelette 6mm x 5.5m - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

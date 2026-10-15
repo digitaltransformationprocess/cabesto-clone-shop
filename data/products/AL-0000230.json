@@ -23,7 +23,7 @@
     "Accueil",
     "AIOLI PROVENCAL FRAIS 250G"
   ],
-  "description": "Achetez AIOLI PROVENCAL FRAIS 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "AÏOLI 250G. Spécialité typiquement provençale élaborée à partir d'ail frais.",
   "supplierRef": "AIO250",
   "price": {
     "amount": 4.19,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000230/01-6057437-6057437-picture_1-6057437_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:22:52.748Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez AIOLI PROVENCAL FRAIS 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

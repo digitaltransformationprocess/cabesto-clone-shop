@@ -23,7 +23,7 @@
     "Accueil",
     "ST JACQUES À LA FINE BRETAGNE 80-90G"
   ],
-  "description": "Achetez ST JACQUES À LA FINE BRETAGNE 80-90G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Pèlerine de nos côtes bretonnes, sa recette est inspirée de la cuisine traditionnelle française. Petits oignons, champignons, vin blanc et une pointe d’ail pour exhauster son parfum et sa saveur délicate. Mise en bouche bien équilibrée et tout particulièrement une fois gratinée !",
   "supplierRef": "ATC-RSJ",
   "price": {
     "amount": 5.49,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0004074/01-6002959-6002959-picture_1-6002959_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:38:34.341Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ST JACQUES À LA FINE BRETAGNE 80-90G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

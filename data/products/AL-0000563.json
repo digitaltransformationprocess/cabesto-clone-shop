@@ -21,7 +21,7 @@
     "Accueil",
     "BIERE AROMATISEE RHUM BREIZ'ILE 3*33 CL"
   ],
-  "description": "Achetez BIERE AROMATISEE RHUM BREIZ'ILE 3*33 CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Fraîchement brassée, cette nouvelle bière aromatisée au rhum a été imaginée et développée pour nos client, amateurs des rhums arrangés Breiz’île, ainsi que pour tous nos amis festifs amateurs de bières aromatisées. Avec son gout très équilibré, cette bière aromatisée au rhum des Antilles suit la tendance actuelle du monde de la nuit pour des bières riches en goûts et aux saveurs originales et attractives. Bière blonde au malte d’orge, brassée en France, avec sa touche de rhum des Caraïbes, la bière Breiz’île marie à la fois finesse et légèreté avec juste ce qu’il faut d’amertume, d’acidité et de saveur de rhum. Découvrez cette bière aux reflets dorés, aux arômes subtils et envoutants, et aux saveurs équilibrées avec un résultat doux et rafraîchissant parfait pour l’été !",
   "supplierRef": "3425230001011.",
   "price": {
     "amount": 2.49,
@@ -59,5 +59,8 @@
       "path": "data/images/AL-0000563/01-6063645-6063645-picture_1-6063645_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:24:15.642Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BIERE AROMATISEE RHUM BREIZ'ILE 3*33 CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

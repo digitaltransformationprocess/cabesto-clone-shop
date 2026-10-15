@@ -21,7 +21,7 @@
     "Accueil",
     "CHARIOT DE TRANSPORT POLYVALENT KAYAK/PADDLE AQUADESIGN"
   ],
-  "description": "Achetez CHARIOT DE TRANSPORT POLYVALENT KAYAK/PADDLE AQUADESIGN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Chariot de transport STANDARD à béquille double pliable qui convient pour transporter les kayaks gonflables, rigides et autres embarcations légères jusqu’à 40 kgs.\n\nDes sangles sont attachées au chariot pour maintenir le bateau en place.\n\nLes roues en PU anti-crevaison sont facilement démontables pour gagner de la place, et le chariot est livré avec un sac de rangement, ce qui le rend très pratique à déplacer et évite de salir le coffre de votre voiture après usage.\n\nLes barres ont été recouvertes de caoutchouc dur de protection afin de ne pas abîmer votre embarcation.\n\nDimensions -\n\nCharge maximum 40 kg -\n\nPoids 3,0 kg - Ø Roues 25 cm -\n\nRangement 80 x 30 cm",
   "supplierRef": "AK9000",
   "price": {
     "amount": 64.99,
@@ -71,5 +71,8 @@
       "path": "data/images/GL-0003272/03-gl-160-gl-160-picture_3-gl-160_3.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:40:15.490Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez CHARIOT DE TRANSPORT POLYVALENT KAYAK/PADDLE AQUADESIGN chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

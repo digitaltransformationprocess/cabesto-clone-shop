@@ -23,7 +23,7 @@
     "Accueil",
     "COFFRET COLLECTOR SABLES 500G"
   ],
-  "description": "Achetez COFFRET COLLECTOR SABLES 500G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Coffret collector de sablés. Parfait pour offrir ou pour dégustez aux grandes occasions.",
   "supplierRef": "40083",
   "price": {
     "amount": 12.99,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0001101/02-0348942-0348942-picture_2-0348942_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:26:11.193Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez COFFRET COLLECTOR SABLES 500G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

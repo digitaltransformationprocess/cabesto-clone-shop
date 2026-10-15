@@ -19,7 +19,7 @@
     "Accueil",
     "Jumelles Tasco Essentials 10x25"
   ],
-  "description": "Achetez Jumelles Tasco Essentials 10x25 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Jumelles Tasco Essentials 10x25\nLe grossissement puissant x10 fait de ces jumelles compactes Tasco Essentials, un excellent choix pour chasser en montagne ou pour partir en randonnée.\nCARACTERISTIQUES TECHNIQUES DES JUMELLES TASCO ESSENTIALS 10X25 :\nGrossissement: 10x\nType d'oeilletons: Rabattables\nDiamètre objectif (mm): 25\nType de prisme: En toit\nDiamètre de la pupille de sortie (mm): 2,5\nChamps de vision a 1000m (m): 100\nDégagement oculaire (mm): 10\nPoids (g): 240",
   "supplierRef": "TS168125",
   "price": {
     "amount": 29,
@@ -63,5 +63,8 @@
       "path": "data/images/NT-0000047/02-ia08_1-jumelles-tasco-essentials-10x25-tasco_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:41:07.376Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Jumelles Tasco Essentials 10x25 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

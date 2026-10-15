@@ -21,7 +21,7 @@
     "Accueil",
     "Sac à lancer JET - PETZL"
   ],
-  "description": "Achetez Sac à lancer JET - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sac à lancer JET - PETZL\n Sac à lancer profilé pour éviter tout coincement.\n Construction double épaisseur pour une grande résistance.\n\nDisponible en 250, 300 et 350 g.",
   "supplierRef": null,
   "price": {
     "amount": 25.95,
@@ -83,5 +83,8 @@
       "path": "data/images/PCNT-0018493/05-5223_1_g-sac-a-lancer-jet-petzl_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:14:28.822Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sac à lancer JET - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

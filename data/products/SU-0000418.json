@@ -25,7 +25,7 @@
     "Accueil",
     "Montre ordinateur de plongée ALADIN A1 SCUBAPRO"
   ],
-  "description": "Plongez avec la nouvelle montre ordinateur de plongé air & nitrox, profondimètre, apnée et natation ALADIN A1 SCUBAPRO.",
+  "description": "Montre ordinateur de plongée sous-marine ALADIN A1 SCUBAPRO\n\nLe retour de l'ALADIN, en version montre cette fois, par Scubapro...\n\nL'ordinateur montre ALADIN A1 SCUBAPRO est un instrument simple à utiliser, lisible avec son écran matriciel haute résolution et résolument moderne, donc connecté en BlueTooth...Les chiffres sont affichés très gros, donc très lisiblement y compris par faible visibilité. Les 4 boutons permettent une navigation simple et intuitive dans les menus de la montre ALADIN A1 : 3 modes de plongée sont disponibles (air/nitrox, profondimètre et apneé) + 1  compteur de battements pour la natation. La montre ALADIN A1 SCUBAPRO possède un réglage personnalisé des microbulles (d'azote) permettant de personnaliser la prudence de l'algorithme (buhlmann ZH L16 bien sûr...) en fonction de votre forme physique? ainsi qu'un palier profond réglable (PDIS). L'ALADIN A1 est étanche à - 120 mètres.\n\nLa boite contient...\n\n1 montre ordinateur ALADIN A1\n1 Prolongateur de bracelet\n1 Film de protection pour l'écran\n1 Aide mémoire\nLa notice complète en Français est téléchargeable gratuitement sur le site SCUBAPRO.COM\n\nCaractéristiques techniques :\n\nAltitude de fonctionnement :Du niveau de la mer à environ 4000 m (13 330 pieds).\nProfondeur limite d'utilisation :Jusqu’à 120 m (394 pieds) ; résolution 0,1 m jusqu'à 99,9 mètres, et 1 mètre à des profondeurs supérieures à 100 mètres.\nLa résolution en pieds est toujours de 1 pied.La précision est conforme aux normes EN13319 et ISO 6425.\nPlage de calcul de décompression :De 0,8 m à 120 m (3 pieds à 394 pieds).\nMontre :Horloge à quartz, affichage de l'heure, de la date, de la durée de la plongée jusqu'à 99 minutes et 59 secondes, puis par incréments d'une minute jusqu'à 999 minutes.\nProportion d'oxygène :Réglable entre 21 % et 100 %.\nTempérature de fonctionnement :De -10 °C à +50 °C (14 °F à 122 °F).\nAlimentation :Pile au lithium type CR2450.Autonomie avec une pile entièrement chargée :Jusqu'à 2 ans.\nLa véritable autonomie dépend principalement de la température de fonctionnement et des réglages du rétroéclairage mais elle dépend aussi de nombreux autres facteurs.\nÉmetteur-récepteur Bluetooth®Fréquence de fonctionnement 2402-2478 MHz, puissance maximale < 3 dBm, distance de fonctionnement 2 m.\n\nTous nos ordinateurs de plongée sont couverts par la garantie légale de deux ans du fabricant, hors usure de piles. Toutefois, CABESTO prend à sa charge toute éventuelle usure prématurée de la pile dans les six mois suivant l'achat, après contrôle de la mémoire et de l'état de l'ordinateur de plongée.",
   "supplierRef": "05.064.101",
   "price": {
     "amount": 284,
@@ -105,5 +105,8 @@
       "path": "data/images/SU-0000418/08-a1_front_planner_3.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:18:34.468Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Plongez avec la nouvelle montre ordinateur de plongé air & nitrox, profondimètre, apnée et natation ALADIN A1 SCUBAPRO."
 }

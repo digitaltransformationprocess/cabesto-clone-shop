@@ -23,7 +23,7 @@
     "Accueil",
     "GAMBAS SAUVAGES 7/10 PIECES 500GR"
   ],
-  "description": "Achetez GAMBAS SAUVAGES 7/10 PIECES 500GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "GAMBAS SAUVAGES 7/10 PIECES 500GR\n\nCes gambas exceptionnelles, pêchées dans leur habitat naturel, offrent une texture ferme et une saveur riche qui vous transportera au cœur de l'océan. Chaque boîte contient environ 7 à 10 pièces, sélectionnées pour leur taille généreuse et leur qualité irréprochable.\n\nCaractéristique :\n\nPêchées en mer,  Océan indien\n\nCrues et surgelées pour conserver toute leur fraîcheur.\n\n Idéales pour une cuisson rapide et facile, qu'il s'agisse d'une poêlée, d'un grill ou d'une recette en sauce plus élaborées",
   "supplierRef": "1HOS0710BROSIN11",
   "price": {
     "amount": 14.39,
@@ -73,5 +73,8 @@
       "path": "data/images/AL-0001854/03-AL-0001854.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:29:20.261Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez GAMBAS SAUVAGES 7/10 PIECES 500GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

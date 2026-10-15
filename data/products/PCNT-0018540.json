@@ -19,7 +19,7 @@
     "Accueil",
     "Sac de ceinture - Aventure Verticale"
   ],
-  "description": "Achetez Sac de ceinture - Aventure Verticale chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sac de ceinture - Aventure Verticale\n Modèle en polyester enduit PVC laqué 1100 dTex 700 g/m², avec fond diamètre 14cm.\n Hauteur 30cm (45 cm avec la jupette), jupette de fermeture intérieure serrage par tanka.\n Anneau d'accrochage nylon.\n Très simple, pour le transport de petits effets personnels.\n Fond ovale 11 x 15 cm.\n Capacité: 5 litres (7 avec la jupette).\n Poids 200g.",
   "supplierRef": null,
   "price": {
     "amount": 38.5,
@@ -69,5 +69,8 @@
       "path": "data/images/PCNT-0018540/03-0452_1_b-sac-de-ceinture-aventure-verticale.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:14:45.108Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sac de ceinture - Aventure Verticale chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

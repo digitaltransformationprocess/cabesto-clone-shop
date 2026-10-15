@@ -19,7 +19,7 @@
     "Accueil",
     "Civet de boeuf forestier - TREK'N EAT"
   ],
-  "description": "Achetez Civet de boeuf forestier - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Civet de boeuf forestier - TREK'N EAT\nRepas lyophilisé de Risotto des Balkans au boeuf adapté au trekking, randonnée avec bivouac et tous les séjours en montagne où manger chaud permet de retrouver énergie et récupération.\nPoids net : 170g.\nEau ajoutée : 320ml.\nPoids total : 490g.\n\nIngrédients : pâtes 50% (semoule de blé dur, oeuf, sel), sauce forestière (contient du soja, du lait et du blé), viande de boeuf 7%, carottes, poivrons, tomates, champignons, oignons, huile de tournesol (contient du lait, E551), myrtilles, cèpe.\n\nPoids en viande: Viande déshydratee 11 g soit env. 55 g de viande fraîche.\nAllergènes : oeufs, gluten, lait, soja.\nPréparation : Verser de l'eau bouillante jusqu'au trait 8 cm de l'échelle (320 ml) directement dans le sachet, puis remuer délicatement, refermer le sachet et laisser infuser 5 minutes.\nValeur nutritive moyenne pour 100 g de produit sec :\nkJ/kcal : 1331/318.\nLipides : 4,6 g dont acides gras saturés : 1,6 g.\nGlucides : 53,8 g dont sucres : 6,0 g.\nFibres alimentaires : 1,8 g.\nProtéines : 12,8 g.\nSel : 0,3 g.\nA consommer de préférence : 60 mois après la date de production.",
   "supplierRef": "TE30202013",
   "price": {
     "amount": 11.95,
@@ -81,5 +81,8 @@
       "path": "data/images/NT-0001772/05-3050_1-civet-de-boeuf-forestier-trek_n-eat_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:07.411Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Civet de boeuf forestier - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

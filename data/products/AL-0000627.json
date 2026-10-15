@@ -23,7 +23,7 @@
     "Accueil",
     "BONORI RISOTTO AU SAFRAN 250G"
   ],
-  "description": "Achetez BONORI RISOTTO AU SAFRAN 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Préparation complète pour risotto. Elaboré à partir de grains de riz Carnaroli soignesement cultivés et récoltés, BONORI met à votre disposition dans ce sachet, tous les ingrédients sélectionnés et pré-dosés, qui vous permettront de réaliser très facilement de délicieux risottos 100% natur",
   "supplierRef": "A3487FL",
   "price": {
     "amount": 3.59,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000627/01-6007429-6007429-picture_1-6007429_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:24:24.130Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BONORI RISOTTO AU SAFRAN 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

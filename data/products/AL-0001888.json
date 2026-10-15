@@ -23,7 +23,7 @@
     "Accueil",
     "GATEAU BRETON FRAMBOISE 100G * 2"
   ],
-  "description": "Achetez GATEAU BRETON FRAMBOISE 100G * 2 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Gâteau breton au bon goût de beurre et de blé, découvrez le véritable gâteau breton pur beurre fourré aux fruits !",
   "supplierRef": "3294517000234.",
   "price": {
     "amount": 4.49,
@@ -73,5 +73,8 @@
       "path": "data/images/AL-0001888/03-6016546-6016546-picture_1-6016546_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:29:39.003Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez GATEAU BRETON FRAMBOISE 100G * 2 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

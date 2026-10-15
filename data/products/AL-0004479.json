@@ -23,7 +23,7 @@
     "Accueil",
     "ADIMANT MOELLEUX IGP COTE THAU BLANC 75CL"
   ],
-  "description": "Achetez ADIMANT MOELLEUX IGP COTE THAU BLANC 75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "ADIMANT MOELLEUX IGP COTE THAU BLANC 75CL",
   "supplierRef": "3186128119330.",
   "price": {
     "amount": 7.49,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0004479/01-adimant_moelleux_1.png",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:39:47.293Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ADIMANT MOELLEUX IGP COTE THAU BLANC 75CL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

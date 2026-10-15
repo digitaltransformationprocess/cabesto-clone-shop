@@ -23,7 +23,7 @@
     "Accueil",
     "SALICORNE NATUREL 140G"
   ],
-  "description": "Achetez SALICORNE NATUREL 140G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Plante de marais salant conservée dans une solution d’eau salée.",
   "supplierRef": "240",
   "price": {
     "amount": 5.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0003625/01-0344022-0344022-picture_1-0344022_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:36:56.668Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez SALICORNE NATUREL 140G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

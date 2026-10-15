@@ -23,7 +23,7 @@
     "Accueil",
     "Minikit TPU mini sac Spéléo"
   ],
-  "description": "Achetez Minikit TPU mini sac Spéléo chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Le MiniKit II version thermosoudée est une pochette de ceinture à usage polyvalent, elle dispose d'une poche intérieure à fermeture par velcro pour le transport de petits accessoires.\n\nCARACTERISTIQUES TECHNIQUES DU MINI-KIT :\nFond: forme rectangulaire aux angles arrondis pour limiter l'usure lors des frottements répétés.\nFermeture: coulisse, oeillets, cordon et bloqueur Tanka. \nTransport: en ceinture par anneau de sangle cousu renforcé. \nAssemblage PVC : par procédé de thermosoudure.\nDimensions: 28 x 14 x 9 cm, pochette intérieure : 20 x 14 cm.\nColoris: orange.\nPoids : 200 g.",
   "supplierRef": "5100 THERMOSOUDE",
   "price": {
     "amount": 23.3,
@@ -79,5 +79,8 @@
       "path": "data/images/NT-0000143/04-image2_1.png",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:41:18.938Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Minikit TPU mini sac Spéléo chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

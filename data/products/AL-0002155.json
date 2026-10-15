@@ -23,7 +23,7 @@
     "Accueil",
     "LANGOUSTINES BRISURES TRUFFES 80-90G"
   ],
-  "description": "Achetez LANGOUSTINES BRISURES TRUFFES 80-90G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Cette “demoiselle” à la chair délicate, agrémentée d’un fumet de carapaces et du “Diamant noir” du Périgord, pour un plein d’arômes à faire “chavirer” les papilles de plaisir!",
   "supplierRef": "ATC-RLA",
   "price": {
     "amount": 5.49,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002155/01-6002961-6002961-picture_1-6002961_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:30:48.482Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez LANGOUSTINES BRISURES TRUFFES 80-90G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

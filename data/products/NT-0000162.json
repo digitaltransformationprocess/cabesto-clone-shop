@@ -19,7 +19,7 @@
     "Accueil",
     "20 Amarrages Coeur Bolt Acier 10mm - PETZL"
   ],
-  "description": "Achetez 20 Amarrages Coeur Bolt Acier 10mm - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "20 Amarrages Coeur Bolt Acier 10mm - PETZL\nEnsemble en acier constitué d'une plaquette Coeur, d'un goujon et d'un écrou.\n\nFacilité de mousquetonnage : Trou de connexion large et ergonomique facilitant le clippage du mousqueton, la largeur du trou permet d'installer deux mousquetons simultanément.\n\nPrévention de l'usure des connecteurs : l'épaisseur de matière élevée de la plaquette, ainsi que les bords arrondis du trou de connexion, limitent l'usure des connecteurs.\n\nSystème anti-rotation de la plaquette : reliefs sur la face arrière empêchant la plaquette de tourner lors de la mise en place de l\u0019amarrage, mais aussi à l'usage, lors des fortes sollicitations latérales.\n\nDiamètre 10 mm.\nLongueur de perçage : 85 mm.\nRésistance au cisaillement béton 50 MPa : 23 kN.\nRésistance à l'arrachement béton 50 MPa : 15 kN.\nPoids : 110 g pièce.\nVendu en lot de 20.\nCe produit a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme :  CE EN 959 : 2018\n\nDéclaration de conformité",
   "supplierRef": "P36BA 10 boite 20",
   "price": {
     "amount": 69.95,
@@ -63,5 +63,8 @@
       "path": null,
       "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0000162\\02-pzb1_1-20-amarrages-coeur-bolt-acier-10-mm-petzl_1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0000162\\02-pzb1_1-20-amarrages-coeur-bolt-acier-10-mm-petzl_1.jpg'"
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:41:23.069Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez 20 Amarrages Coeur Bolt Acier 10mm - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

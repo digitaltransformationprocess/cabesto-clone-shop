@@ -7,7 +7,7 @@
   "breadcrumbs": [
     "Accueil"
   ],
-  "description": "DescriptionPréparation tartinable prête à l’emploi. Le produit est à consommer froid sur des toasts lors de l’apéritif.",
+  "description": "Préparation tartinable prête à l’emploi. Le produit est à consommer froid sur des toasts lors de l’apéritif.",
   "price": {
     "amount": 3.19,
     "currency": "EUR",
@@ -57,5 +57,8 @@
   ],
   "categories": [
     "alimentation"
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:23:14.498Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "DescriptionPréparation tartinable prête à l’emploi. Le produit est à consommer froid sur des toasts lors de l’apéritif."
 }

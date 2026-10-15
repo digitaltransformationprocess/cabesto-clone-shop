@@ -19,7 +19,7 @@
     "Accueil",
     "RHUM ARRANGE BREIZ'ILE NOEL 70 CL 23°"
   ],
-  "description": "Achetez RHUM ARRANGE BREIZ'ILE NOEL 70 CL 23° chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "De Camaret en Bretagne à St François en Guadeloupe, ce punch vous emportera vers de nouveaux horizons. Le punch de Noël Breiz'île est préparé artisanalement à partir de rhum agricole des Antilles dans lequel macèrent de l'orange, de l'ananas et des grains de café. C’est un cocktail festif de fruits exotiques et d’épices douces où les arômes de cannelle se marient avec celles de l’orange confite et des notes torréfiées. A déguster en apéritif ou en digestif.",
   "supplierRef": "1109",
   "price": {
     "amount": 27.99,
@@ -57,5 +57,8 @@
       "path": "data/images/AL-0003195/01-0025875-0025875-picture_1-0025875_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:34:52.207Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez RHUM ARRANGE BREIZ'ILE NOEL 70 CL 23° chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

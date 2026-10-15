@@ -19,7 +19,7 @@
     "Accueil",
     "Sac Canyon - Water Bag 35 L - Aventure Verticale"
   ],
-  "description": "Achetez Sac Canyon - Water Bag 35 L - Aventure Verticale chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sac Canyon - Water Bag 35 L - Aventure Verticale\n Sac Canyon d'un volume de 35 litres en polyester 1000 dTex 900 g/m² enduit PVC avec vernis anti-usure.\n Fond ovale avec jonc de protection couture en Hypalon®.\n 2 poignées latérales et 1 poignée de fond.\n 2 bretelles réglables moussées.\n Longe, fermeture par oeillets, cordelette.\n Porte-matériel et rabat intérieurs.\n Capacité: 35 litres.\n Dimensions : hauteur 62 cm, fond: 22 x 28 cm.\n Poids: 920 g.",
   "supplierRef": null,
   "price": {
     "amount": 75.9,
@@ -63,5 +63,8 @@
       "path": "data/images/PCNT-0024669/02-2304_1_b-water-bag-35-l-aventure-verticale.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:16:44.259Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sac Canyon - Water Bag 35 L - Aventure Verticale chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

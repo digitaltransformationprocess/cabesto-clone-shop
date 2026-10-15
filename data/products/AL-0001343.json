@@ -23,7 +23,7 @@
     "Accueil",
     "CROUTON AIL ET PERSIL 100G"
   ],
-  "description": "Achetez CROUTON AIL ET PERSIL 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "MINI bruschette ail et persil grillées frottées à l'huile d'olive. Délicieux petits croûtons de pain délicatment grillés, frottés à l'huile d'olive, croustillants et non gras. Légers et goûteux, ils sont parfais pour réaliser des toats originaux en apéritif, mais s'apprécieront également nature, dans toutes vos salades ou en accompagnement d'une assiette de charcutterie ou de frommage.",
   "supplierRef": "A7362FL",
   "price": {
     "amount": 2.39,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001343/01-0360668-0360668-picture_1-0360668_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:26:48.311Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez CROUTON AIL ET PERSIL 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

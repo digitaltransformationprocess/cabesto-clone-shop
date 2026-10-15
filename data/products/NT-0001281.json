@@ -25,7 +25,7 @@
     "Accueil",
     "Amarrage Souple"
   ],
-  "description": "Achetez Amarrage Souple chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Amarrage spéléo, avec tête en dural prévue pour recevoir un anneau en cordelette Dyneema Ø 5mm (vendue au mètre sous la réf. NT-0005169), à commander séparément.\n\nL'ensemble constitue un amarrage léger et universel sans mousqueton (amarrage classique, en Y, sur point naturel, en plafond), ou une déviation.\n\nLes bonnes longueurs des anneaux à prévoir sont 35 et 60cm à plat une fois fermés et noués avec un noeud de pêcheur double (ce qui demande respectivement 100 et 150cm de cordelette).\n\nSe pose sur spit (avec une vis inox imperdable fournie) ou sur goujon (8mm dans les 2 cas).\n\nRésistance traction: 16 kN en plafond.\n\nRésistance cisaillement: 11 kN en paroi.\n\nPoids : 23g (et 36g pour l'amarrage AS complet monté en 35 cm).\n\nCe produit n'est pas un EPI.",
   "supplierRef": "AVXP3660",
   "price": {
     "amount": 6.6,
@@ -69,5 +69,8 @@
       "path": "data/images/NT-0001281/02-0920_1-cordelette-dyneema-5-mm-au-metre-beal.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:26.136Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Amarrage Souple chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

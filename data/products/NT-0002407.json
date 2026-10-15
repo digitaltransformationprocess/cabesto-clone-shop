@@ -19,7 +19,7 @@
     "Accueil",
     "Blister Cordelette 7mm x 4m - BEAL"
   ],
-  "description": "Achetez Blister Cordelette 7mm x 4m - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Blister Cordelette 7mm x 4m - BEAL\nBlister cordelette Beal.\nDiamètre : 7 mm.\nPoids au mètre : 31 g.\nCharge de rupture : 1170 daN(KG).\nMatière : Nylon\nPack de 4 m.\nColoris assortis.Ce produit a été fabriqué conformément aux exigences du règlement CE 2016/425 pour les EPI (catégorie 3) suivant la norme : EN 564:2014",
   "supplierRef": "BC07.4 unitée",
   "price": {
     "amount": 8.4,
@@ -69,5 +69,8 @@
       "path": "data/images/NT-0002407/03-bla9_1-blister-cordelette-7-mm-x-4-m-beal_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:36.164Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Blister Cordelette 7mm x 4m - BEAL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

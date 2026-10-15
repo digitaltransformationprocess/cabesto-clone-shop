@@ -9,7 +9,7 @@
     "Accueil",
     "Sifflet de plongée de sécurité 2 tons SEAC SUB"
   ],
-  "description": "SIFFLET 2 TONS SEAC SUBSifflet de sécurité à deux tons Seac Sub en plastique homologué CE.Pour les plongeurs qui veulent attirer l'attention en surface",
+  "description": "SIFFLET 2 TONS SEAC SUB\nSifflet de sécurité à deux tons Seac Sub en plastique homologué CE.\n\nPour les plongeurs qui veulent attirer l'attention en surface",
   "supplierRef": "1110056520000A",
   "price": {
     "amount": 5.99,
@@ -61,5 +61,8 @@
     "plongee-sous-marine",
     "accessoires-de-plongee",
     "securite"
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:19:59.389Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "SIFFLET 2 TONS SEAC SUBSifflet de sécurité à deux tons Seac Sub en plastique homologué CE.Pour les plongeurs qui veulent attirer l'attention en surface"
 }

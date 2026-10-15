@@ -23,7 +23,7 @@
     "Accueil",
     "BRANDADE MORUE 775G"
   ],
-  "description": "Achetez BRANDADE MORUE 775G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "BRANDADE DE NIMES BOITE 775G. L'incontournable boîte rouge et blanche renferme la plus fameuse des brandades ! Appréciez juste l'instant de gourmandise et succombez à une saveur inimitable !",
   "supplierRef": "22330012",
   "price": {
     "amount": 13.49,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000691/01-0353730-0353730-picture_1-0353730_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:24:51.472Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BRANDADE MORUE 775G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

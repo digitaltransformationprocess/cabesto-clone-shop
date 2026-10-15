@@ -23,7 +23,7 @@
     "Accueil",
     "Veste Homme FITZ ROY III - MILLET"
   ],
-  "description": "Achetez Veste Homme FITZ ROY III - MILLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Veste Homme FITZ ROY III - MILLET\n La FITZ ROY III est une veste de protection 2,5L imperméable et respirante utilisant une matière ripstop haut de gamme qui augmente sa durabilité.\n Sa conception ergonomique et ses détails fonctionnels la rendent idéale pour la randonnée.\n CARACTERISTIQUES TECHNIQUES :\n Coupe confortable et protectrice.\n Capuche attenante.\n 2 poches mains zippées.\n Ventilations sous bras zippées.\n Bas de vêtement et capuche ajustable par cordon élastique.\n Serrage poignets par bande auto-agrippante.\n Poids : 360 g.",
   "supplierRef": null,
   "price": {
     "amount": 0,
@@ -85,5 +85,8 @@
       "path": "data/images/PCNT-0028650/05-miv8628_8083_c1h_4_1280_1280.jpeg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:18:09.165Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Veste Homme FITZ ROY III - MILLET chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

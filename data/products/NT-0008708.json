@@ -21,7 +21,7 @@
     "Accueil",
     "Housse Octo - PETZL"
   ],
-  "description": "Achetez Housse Octo - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Housse Octo - PETZL\nLa pochette à broches OCTO PETZL est conçue pour ranger, protéger et transporter les broches à glace.\n\nElle dispose de huit compartiments pour un set complet jusqu'à douze broches et d'une poche en filet pour les accessoires (lime, lame de rechange...).\nGrâce à son ouverture par pliage, l'accès au matériel est simplifié.\nPratique, la pochette peut être suspendue pour laisser sécher le matériel, sans le sortir.\n\nCARACTERISTIQUES TECHNIQUES :\nGrande capacité de rangement permettant de stocker jusqu'à douze broches,\nCompatible avec des broches de 9 à 21 cm de longueur et jusqu'à 18 mm de diamètre,\nPatte de maintien pour retenir les broches,\nPoche en filet pour les accessoires : lime, lames de rechange...,\nPliage portefeuille pour accéder facilement au matériel,\nPochette compacte pour s'insérer facilement dans le sac à dos et limiter l'encombrement,\nLégère, seulement 160 g.\nConstruction en filet permettant d'aérer le matériel,\nPochette pouvant être suspendue pour un séchage efficace et pratique, sans sortir le matériel.\nPoids: 160g.\nMatière(s): polyester et TPU.",
   "supplierRef": "U010AA00",
   "price": {
     "amount": 29.95,
@@ -71,5 +71,8 @@
       "path": "data/images/NT-0008708/03-pza6_1-housse-octo-petzl_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:46:41.620Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Housse Octo - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

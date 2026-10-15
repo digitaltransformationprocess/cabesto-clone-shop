@@ -23,7 +23,7 @@
     "Accueil",
     "PAIN EPICES FIGUES SPECIAL FOIE GRAS 250G"
   ],
-  "description": "Achetez PAIN EPICES FIGUES SPECIAL FOIE GRAS 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Découvrez de délicieux croquants, si légers et croustillants au caramel avec des éclats de noisettes.",
   "supplierRef": "3335440210564.",
   "price": {
     "amount": 6.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0003571/01-6069480-6069480-picture_1-6069480_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:36:43.267Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PAIN EPICES FIGUES SPECIAL FOIE GRAS 250G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

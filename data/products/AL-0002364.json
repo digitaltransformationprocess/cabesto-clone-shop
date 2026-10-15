@@ -23,7 +23,7 @@
     "Accueil",
     "MARMITE DU PECHEUR TTORO 1.5 KG"
   ],
-  "description": "Achetez MARMITE DU PECHEUR TTORO 1.5 KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "MARMITE DU PECHEUR TTORO 1.5 KG\n\nMarmite du Pêcheur basque. Sauce tomaté lègérement relevée accompagnée de filets de poisson, de moules et de langoustines\n\nIngrédients :\n\n65% Fond de Sauce : eau, poissons, crustacés, tomates, vin blanc, farine de blé, matières grasse (huile et graisse végétale, émulsifiant : lécithine (SOJA), acide gras, acidifiant : acide citrique, conservateur : sorbate de potassium), crème fraîche ( lait) aromates (herbes de Provence, thym, laurier, ail, oignon, girofle), poivre (noir et rouge).35% Garniture : Poissons blancs, moules avec coquilles, Langoustines. \n\nMarmite du Pêcheur basque. Sauce tomaté lègérement relevée accompagnée de filets de poisson, de moules et de langoustines",
   "supplierRef": "00015",
   "price": {
     "amount": 8.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002364/01-bat_22_-_ttoro_1.5kg_mars_2023_v5...jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:31:34.973Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez MARMITE DU PECHEUR TTORO 1.5 KG chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

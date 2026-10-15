@@ -23,7 +23,7 @@
     "Accueil",
     "EFFERVESCENT 250g"
   ],
-  "description": "Achetez EFFERVESCENT 250g chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Citrate efferfescent - digestif rafraîchissant et désaltérant",
   "supplierRef": "A6075BE",
   "price": {
     "amount": 4.49,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0001501/02-6128413-6128413-picture_1-6128413_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:27:20.647Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez EFFERVESCENT 250g chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

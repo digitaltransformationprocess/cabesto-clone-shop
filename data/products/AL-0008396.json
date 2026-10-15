@@ -23,7 +23,7 @@
     "Accueil",
     "TOURTE DU PECHEUR 2*110G CABESTO"
   ],
-  "description": "Achetez TOURTE DU PECHEUR 2*110G CABESTO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "TOURTE DU PECHEUR 2*100G\n\nCette nouveauté est une tourte ronde, renfermant une généreuse farce à base de moules, crevettes et poulpes, agrémentée d’une sauce tomate cuisinée et relevée au safran.\n\nUn des secrets de cette tourte se trouve dans sa pâte moelleuse au centre et croustillante sur les bords, imprégnée de saveurs méditerranéennes ; de quoi réjouir les amateurs de fruits de mer !",
   "supplierRef": "18911006",
   "price": {
     "amount": 3.49,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0008396/02-al-0008396_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:39:57.703Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez TOURTE DU PECHEUR 2*110G CABESTO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

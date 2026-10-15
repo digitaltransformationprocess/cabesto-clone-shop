@@ -23,7 +23,7 @@
     "Accueil",
     "ETUI PALETS ST MICHEL 125 G"
   ],
-  "description": "Achetez ETUI PALETS ST MICHEL 125 G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Palets Saint Michel. Fabrication artisanale bretonne.",
   "supplierRef": "5401",
   "price": {
     "amount": 2.29,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001580/01-0358239-0358239-picture_1-0358239_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:28:01.916Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ETUI PALETS ST MICHEL 125 G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

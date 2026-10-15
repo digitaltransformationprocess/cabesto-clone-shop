@@ -23,7 +23,7 @@
     "Accueil",
     "BARQUETTE DE 2 KOUIGN AMANN CARAMEL"
   ],
-  "description": "Achetez BARQUETTE DE 2 KOUIGN AMANN CARAMEL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Découvrez notre Kouign Amann délicieusement garni d’une succulente crème de caramel au beurre salé.",
   "supplierRef": "3353630000054",
   "price": {
     "amount": 3.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0000428/01-6069482-6069482-picture_1-6069482_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:23:50.454Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez BARQUETTE DE 2 KOUIGN AMANN CARAMEL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

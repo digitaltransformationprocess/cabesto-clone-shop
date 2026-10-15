@@ -19,7 +19,7 @@
     "Accueil",
     "LE CROUTON DU POISSONNIER 75G"
   ],
-  "description": "Achetez LE CROUTON DU POISSONNIER 75G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "LES MINI CROUTONS DU POISSONIER 75GR\n\nPour agrémenter toutes vos soupes, froides ou chaudes.\n\nIngrédients :\n\nFarine de blé, (gluten, acide ascorbique), mélange de céréales 3,5% (seigle, orge, maïs, avoine, blé, riz, millet), huile de tournesol, extrait de malt d’orge, levure boulangère, sel, soja, lin, émulsifiant : lécithine de soja , antioxydants :  vitamine E.\n\nValeurs nutritionnelles théoriques moyennes pour 100g\n\nValeur énergétique\t1648 kJ soit 390 kcal\nMatières grasses\ndont acides gras saturés\t5,3g\n0,8g\nGlucides\ndont sucres\t72,6g\n3,2g\nFibres Alimentaires\t4,4g\nProtéines\t12,8g\nSel\t1,8g\n\nFabriqué dans un atelier qui utilise du sésame, des oeufs et des produits laitiers.",
   "supplierRef": "LCP75",
   "price": {
     "amount": 1.89,
@@ -63,5 +63,8 @@
       "path": "data/images/AL-0002189/02-0369296-0369296-picture_1-0369296_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:30:59.006Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez LE CROUTON DU POISSONNIER 75G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

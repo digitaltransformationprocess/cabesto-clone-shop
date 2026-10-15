@@ -19,7 +19,7 @@
     "Accueil",
     "Boeuf à la hongroise et aux pâtes - TREK'N EAT"
   ],
-  "description": "Achetez Boeuf à la hongroise et aux pâtes - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Boeuf à la hongroise et aux pâtes - TREK'N EAT\nRepas lyophilisé au Boeuf à la hongroise et aux pâtes adapté au trekking, randonnée avec bivouac et tous les séjours en montagne où manger chaud permet de retrouver énergie et récupération.\nPoids net : 160g.\nEau ajoutée : 320ml.\nPoids total : 480g.\n\nIngrédients : pâtes 50% (semoule de blé dur, oeuf, sel), jus de viande (contient du soja), liant pour sauce, viande de boeuf 8%, poivrons, tomates, chili en poudre, poivre de Cayenne.\n\nPoids en viande: Viande déshydratee 12,8 g soit env. 51 g de viande fraîche.\nAllergènes : oeufs, gluten, soja.\nPréparation : Verser de l'eau bouillante jusqu'au trait 8 cm de l'échelle (320 ml) directement dans le sachet, puis remuer délicatement, refermer le sachet et laisser infuser 5 minutes.\nValeur nutritive moyenne pour 100 g de produit sec :\nkJ/kcal : 1521/364.\nLipides : 6,0 g dont acides gras saturés : 2,9 g.\nGlucides : 59,5 g dont sucres : 9,9 g.\nFibres alimentaires : 2,6 g.\nProtéines : 15,3 g.\nSel : 1,7 g.\nA consommer de préférence : 60 mois après la date de production.",
   "supplierRef": "TE30202004",
   "price": {
     "amount": 9.95,
@@ -81,5 +81,8 @@
       "path": "data/images/NT-0001764/05-3036_1-boeuf-a-la-hongroise-et-aux-pates-trek_n-eat_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:43:02.653Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Boeuf à la hongroise et aux pâtes - TREK'N EAT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -23,7 +23,7 @@
     "Accueil",
     "200 m Corde Parallel 10.5 mm Blanche"
   ],
-  "description": "Achetez 200 m Corde Parallel 10.5 mm Blanche chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "La corde semi-statique Parallel 10,5 mm Blanche en bobine de 200 mètres est destinée à l'accès difficile. Le diamètre fin assure de très bonnes performances en souplesse et légèreté. Elle offre un faible allongement lors de la mise en tension de la corde, ce qui permet d'accroître l'efficacité au départ de la remontée sur corde.\n\nLa construction EverFlex lui garantit une grande souplesse et des performances constantes dans le temps, quelles que soient les conditions (eau, poussière, boue...), ce qui permet de conserver une excellente maniabilité dans la durée et un fonctionnement optimal avec les appareils.\n\nDiamètre : 10,5 mm.\n\nMatière(s): polyester, polyamide.\n\nCertification(s): CE EN 1891 type A, EAC, NFPA 1983 Technical Use.\n\nRésistance avec un noeud en huit: 15 kN.\n\nRésistance avec terminaison cousue: 22 kN.\n\nForce de choc (facteur 0,3): 5,2 kN.\n\nNombre de chutes facteur 1: 10.\n\nConstruction: 32 fuseaux.\n\nPourcentage de la gaine: 45 %.\n\nAllongement statique: 3,4 %.\n\nPoids au mètre: 75 g.",
   "supplierRef": "R077AA21",
   "price": {
     "amount": 429.95,
@@ -61,5 +61,8 @@
       "path": "data/images/NT-0000171/01-pc38_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:41:36.309Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez 200 m Corde Parallel 10.5 mm Blanche chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

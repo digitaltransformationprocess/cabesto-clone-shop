@@ -21,7 +21,7 @@
     "Accueil",
     "Canne Daiwa Sensor Bombette 39 TMHF"
   ],
-  "description": "Achetez Canne Daiwa Sensor Bombette 39 TMHF chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Canne Sensor Bombette 39 TMHF - Daiwa\n Idéale pour la pêche à la bombette et les lancers longue distance\n La canne télescopique Daiwa Sensor Bombette 39 TMHF a été spécialement conçue pour les pêcheurs, notamment ceux en phase d'initiation, désireux d'un produit performant et sensible. Son blank en carbone et composite assure à la fois légèreté et robustesse, permettant des lancers à longue distance tout en conservant une excellente détection des touches.\n Avec son action de pointe progressive, cette canne de 3,90 mètres offre un confort d'utilisation remarquable pour la pêche à la bombette, notamment de la truite. Ses anneaux monopattes en oxyde d'aluminium et son porte-moulinet à crémaillère garantissent une grande fiabilité et une bonne tenue de votre moulinet, faisant de la Sensor Bombette un allié de choix pour vos sessions.\n Informations techniques :\n Modèle Sensor Bombette 39 TMHF",
   "supplierRef": "SE BB 39 TMHF AF",
   "price": {
     "amount": 53.99,
@@ -59,5 +59,8 @@
       "path": "data/images/PE-0010429/01-daiwa-sensor-bombette.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:26:07.699Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Canne Daiwa Sensor Bombette 39 TMHF chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

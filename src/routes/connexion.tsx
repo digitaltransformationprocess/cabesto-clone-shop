@@ -18,7 +18,14 @@ function Login() {
   const [email, setEmail] = useState(""); const [pw, setPw] = useState(""); const [err, setErr] = useState("");
   const go = (e: string, p: string) => {
     if (!login(e, p)) return setErr("Identifiants incorrects");
-    nav({ to: testUsers.find((u) => u.email === e)!.role === "client" ? "/compte" : "/admin" });
+    const role = testUsers.find((u) => u.email === e)!.role;
+    const params = new URLSearchParams(typeof window !== "undefined" ? window.location.search : "");
+    const redirect = params.get("redirect");
+    if (redirect && redirect.startsWith("/") && !redirect.startsWith("//")) {
+      window.location.assign(redirect);
+      return;
+    }
+    nav({ to: role === "client" ? "/compte" : "/admin" });
   };
   return (
     <Layout>

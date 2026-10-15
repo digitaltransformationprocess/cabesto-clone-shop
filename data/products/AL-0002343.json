@@ -21,7 +21,7 @@
     "Accueil",
     "MAQUEREAUX FILETS 2 MOUTARDES 169G"
   ],
-  "description": "Achetez MAQUEREAUX FILETS 2 MOUTARDES 169G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Les filets de maquereaux issus de pêche responsable sont levés à la main, aux ciseaux, pour une qualité exceptionnelle du poisson.\n\nMis en boîtes à la main à Douarnenez, ils sont préparés dans une sauce aux deux moutardes.\n\nLa douceur de la moutarde à l'ancienne et la puissance de la moutarde de Dijon pour une association raffinée et savoureuse.",
   "supplierRef": "MPO000521",
   "price": {
     "amount": 5.49,
@@ -59,5 +59,8 @@
       "path": "data/images/AL-0002343/01-al-0002343.png",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:31:25.822Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez MAQUEREAUX FILETS 2 MOUTARDES 169G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

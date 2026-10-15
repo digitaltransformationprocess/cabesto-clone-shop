@@ -23,7 +23,7 @@
     "Accueil",
     "ENCORNETS FARCIS A LA MAIN 640 GR"
   ],
-  "description": "Achetez ENCORNETS FARCIS A LA MAIN 640 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Plat typiquement Sétois, Nos Encornets Farcis sont fabriqués dans le respect du Savoir-Faire et des recettes d'Antan. Le travail est entièrement artisanal et manuel. Les Encornets sont farcis à la main avec de la farce pur porc parfumée aux aromates du Midi. Cette spécialité sétoise par excellence est fabriquée avec des matières premières de premier choix, en particulier avec de gros encornets. Nos Encornets Farcis sont garantis sans colorant.",
   "supplierRef": "17",
   "price": {
     "amount": 14.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001533/01-0339194-0339194-picture_1-0339194_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:27:47.307Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ENCORNETS FARCIS A LA MAIN 640 GR chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -31,7 +31,7 @@
     "Lampe flash",
     "LAMPE FLASH AUTOMATIQUE POUR GILET GONFLABLE - OSCULATI"
   ],
-  "description": "Achetez LAMPE FLASH AUTOMATIQUE POUR GILET GONFLABLE - OSCULATI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Lampe-Flash automatique - Osculati\n\nFeu clignotant activé automatiquement par capteur d'eau et avec interrupteur manuel marche/arrêt.\n\nLa lampe est livrée avec une pince pour la fixation au gilet de sauvetage.\n\nRésistant au feu, Résistant à l'huile, Anti-moisissure, Anti-corrosion. Imperméable;\n\nFonctions:\n\n- Clignotement rapide\n\n- éclairage fixe\n\n- SOS\n\n- OFF\n\nInformations techniques :\nDimensions de la lampe\n62 x 28 x 31,5 mm\nDimensions de la boucle\n61,2 x 9,5 x 11,7 mm\nPoids total\n30 g (y compris la boucle)\nCadence des flashs\nenviron 50 à 70 flashs par minute\nIntensité lumineuse\n0,75 cd\nDurée de fonctionnement\n>8 h sur 0,75 cd\nTempérature ambiante\n-30° / +65°\nBatterie\n1 x 3,0 V, z750 mAh, modèle CR2 au lithium\nHomologations\nMED 178515WS/003, MED 171115WS/002",
   "supplierRef": "22.409.23",
   "price": {
     "amount": 9.39,
@@ -69,5 +69,8 @@
       "path": "data/images/NU-0003258/01-sans_titre_20_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:52:08.212Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez LAMPE FLASH AUTOMATIQUE POUR GILET GONFLABLE - OSCULATI chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

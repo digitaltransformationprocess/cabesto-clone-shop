@@ -23,7 +23,7 @@
     "Accueil",
     "ROUILLE SETOISE BIO 95G"
   ],
-  "description": "Achetez ROUILLE SETOISE BIO 95G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Issue de la tradition gastronomique Sétoise, cette rouille élaborée uniquement avec des ingrédients BIO représente l'accompagnement par excellence des produits de la mer et tout particulièrement des soupes de poisson.",
   "supplierRef": "621",
   "price": {
     "amount": 3.99,
@@ -73,5 +73,8 @@
       "path": "data/images/AL-0003536/03-0362771-0362771-picture_1-0362771_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:36:39.547Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ROUILLE SETOISE BIO 95G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

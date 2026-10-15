@@ -23,7 +23,7 @@
     "Accueil",
     "GATEAU BRETON CARAMEL 100G * 2"
   ],
-  "description": "Achetez GATEAU BRETON CARAMEL 100G * 2 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Gâteau breton au bon goût de beurre et de blé, découvrez le véritable gâteau breton pur beurre fourré au caramel !",
   "supplierRef": "3294517000227.",
   "price": {
     "amount": 4.59,
@@ -73,5 +73,8 @@
       "path": "data/images/AL-0001885/03-gateau_caramel.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:29:34.450Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez GATEAU BRETON CARAMEL 100G * 2 chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

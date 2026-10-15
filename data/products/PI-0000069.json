@@ -21,7 +21,7 @@
     "Accueil",
     "AQUABROME BAYROL"
   ],
-  "description": "Achetez AQUABROME BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "AQUABROME BAYROL : Pastilles de Brome pour Piscine\nDésinfectant puissant pour une eau cristalline\n\nLes pastilles d'Aquabrome® sont spécialement conçues pour une désinfection permanente de votre piscine. Voici pourquoi elles sont idéales :\n\nEfficace à pH et températures élevés\nTraitement longue durée grâce au doseur de brome\nDissolution lente et complète\nPeu d'odeur\nConvient à tout type de filtres et tout volume d'eau\nInformations techniques :\nComposition :\nPastilles de 20 g\nDosage :\nUtilisez 100 g pour 10 m³\nConcentration optimale de brome :\nEntre 1 et 3 mg/L\nUtilisation :\nAvec un doseur de brome\nContenu du colis :\nSeau de 5 kg (pastilles de 20 g)\nContenu du colis\n\nLe seau de 5 kg contient des pastilles d'Aquabrome® pour une désinfection efficace et sans odeur de votre piscine.",
   "supplierRef": "2139338",
   "price": {
     "amount": 77,
@@ -59,5 +59,8 @@
       "path": "data/images/PI-0000069/01-brome-permanent-5kg-aquabrome-bayrol.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:27:20.822Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez AQUABROME BAYROL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -23,7 +23,7 @@
     "Accueil",
     "COFFRET BOITE DU PECHEUR PENMARCH"
   ],
-  "description": "Achetez COFFRET BOITE DU PECHEUR PENMARCH chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "COFFRET BOITE DU PECHEUR \n\nUne jolie boîte à offrir et à conserver ensuite avec les recettes les plus plébiscitées de Pointe de Penmarc’h fabriquées en Bretagne : le velouté de langoustines, les sardines à l’ancienne aux échalotes de Bretagne, les rillettes de thon blanc au basilic, les rillettes de sardines, les rillettes aux deux saumons, le toastig de sardines au piment (une boîte fabriquée en France).",
   "supplierRef": "pcp000758",
   "price": {
     "amount": 29.99,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001088/01-la_boite_du_pecheur_pcp685.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:26:02.091Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez COFFRET BOITE DU PECHEUR PENMARCH chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

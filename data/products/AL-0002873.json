@@ -23,7 +23,7 @@
     "Accueil",
     "PATE A MASSALE CHALEUR CREOLE 200G"
   ],
-  "description": "Achetez PATE A MASSALE CHALEUR CREOLE 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Se présentant sous forme de pâte de riz, il s'agit d'un condiment relevé composé de graines de moutarde, curcuma, coriandre, cumin, vinaigre... Vous pourrez l'utiliser pour relever vos plats mijotés de viandes et e poissons.",
   "supplierRef": "3486411000377.",
   "price": {
     "amount": 4.69,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002873/01-p_te-a-massale-chaleur-cr_ole.png",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:33:52.181Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PATE A MASSALE CHALEUR CREOLE 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

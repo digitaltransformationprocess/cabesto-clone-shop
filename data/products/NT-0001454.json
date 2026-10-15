@@ -23,7 +23,7 @@
     "Accueil",
     "Anneau Ring L - PETZL"
   ],
-  "description": "Achetez Anneau Ring L - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Anneau Ring L - PETZL\nL'anneau de connexion Ring permet de réaliser des amarrages multiples ou d'être installé directement sur le pont d'attache des harnais Sequoia et SequoiaA SRT pour améliorer la mobilité latérale de l'élagueur.\n\nConçu pour :\n\nRéaliser des amarrages multiples : la forme circulaire assure un fonctionnement optimal dans toutes les directions.\nEtre installé directement sur le pont d'attache des harnais SEQUOIA et SEQUOIA SRT pour améliorer la mobilité latérale de l'élagueur : la forme circulaire assure une butée franche sur les anneaux ouvrables.\nCharge de rupture: 23 kN.\nCertification(s): CE.\nMatière(s): aluminium.\nTaille L\nPoids : 70 g.",
   "supplierRef": "C04630",
   "price": {
     "amount": 14.95,
@@ -73,5 +73,8 @@
       "path": null,
       "error": "ENOENT: no such file or directory, rename 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0001454\\03-pp37_1-anneau-ring-l-petzl_1.jpg.part' -> 'C:\\Users\\bilal\\Desktop\\the new app\\data\\images\\NT-0001454\\03-pp37_1-anneau-ring-l-petzl_1.jpg'"
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:33.965Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Anneau Ring L - PETZL chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

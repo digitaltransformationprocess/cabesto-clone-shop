@@ -9,7 +9,7 @@
     "Accueil",
     "PROTECTEUR ECRAN POUR QUAD MARES"
   ],
-  "description": "Facile à installerProtège des rayuresSouple et résistantUltra transparent",
+  "description": "Facile à installer\nProtège des rayures\nSouple et résistant\nUltra transparent",
   "supplierRef": "415182",
   "price": {
     "amount": 13.99,
@@ -61,5 +61,8 @@
     "plongee-sous-marine",
     "ordinateurs-de-plongee",
     "accessoires-ordinateurs-de-plongee"
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:19:31.243Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Facile à installerProtège des rayuresSouple et résistantUltra transparent"
 }

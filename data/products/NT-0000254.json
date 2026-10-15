@@ -19,7 +19,7 @@
     "Accueil",
     "40 m corde Ergo SP 12.5 mm"
   ],
-  "description": "Achetez 40 m corde Ergo SP 12.5 mm chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "La corde statique 12,5 mm des lots de sauvetage.\n\nConforme à la NIT et à la norme EN 1891, elle supporte plus de 20 chutes de facteur 1.\n\nGaine renforcée pour une meilleure résistance à l'abrasion pour des interventions en milieux agressifs.\n\nRésistance : 38 kN.\n\nAllongement : 2,9 %.\n\nPoids au mètre : 101 g.\n\nLongueur : 40 m.",
   "supplierRef": "BCS125.40",
   "price": {
     "amount": 79.9,
@@ -57,5 +57,8 @@
       "path": "data/images/NT-0000254/01-as40_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:42:01.533Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez 40 m corde Ergo SP 12.5 mm chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -19,7 +19,7 @@
     "Accueil",
     "COFFRET ENTRE TERRE ET MER"
   ],
-  "description": "Achetez COFFRET ENTRE TERRE ET MER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Coffret « Entre Terre et Mer » – 4 Tartinables Bernard Marot\n\nLaissez-vous séduire par le savoir-faire authentique de la maison Bernard Marot avec ce coffret gourmand « Entre Terre et Mer ». Un assortiment raffiné de 4 tartinables artisanaux qui marie à la perfection les saveurs du terroir et celles de l’océan.\n\nParfait pour un apéritif convivial ou une idée cadeau pleine de goût, ce coffret propose une palette de textures et d’arômes délicats : des recettes inspirées des produits de la mer et des spécialités régionales, élaborées avec des ingrédients soigneusement sélectionnés.\n\nPrésenté dans un élégant coffret, cet assortiment met à l’honneur la tradition culinaire française tout en apportant une touche moderne et festive à vos tables.\n\n- Rillette courgette, chèvre, miel 100g\n\n- Rillette saumon crème et citron vert 100g\n\n- Rillette langoustines foie gras 100g\n\n- Rillette crevettes coco citron sel de Guérande 100g",
   "supplierRef": "1589",
   "price": {
     "amount": 14.99,
@@ -57,5 +57,8 @@
       "path": "data/images/AL-0001114/01-6033194-6033194-picture_1-6033194_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:26:25.996Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez COFFRET ENTRE TERRE ET MER chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

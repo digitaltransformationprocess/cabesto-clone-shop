@@ -23,7 +23,7 @@
     "Accueil",
     "KIT À LIGATURER PAFEX FIL + VERNIS"
   ],
-  "description": "Achetez KIT À LIGATURER PAFEX FIL + VERNIS chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "KIT À LIGATURER PAFEX FIL + VERNIS\nKit de vernis époxy 2 composants : seringue doseuse de 25g.\n\nVernis à ligaturer est le seul qui permet d'obtenir un glaçage parfait. A conserver dans un endroit tempéré, sinon le produit perd ses qualités et jaunit.",
   "supplierRef": "KIT-VL-LC",
   "price": {
     "amount": 9.99,
@@ -61,5 +61,8 @@
       "path": "data/images/PE-0006028/01-kit-a-ligaturer-pafex-fil-vernis_01.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:25:43.076Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez KIT À LIGATURER PAFEX FIL + VERNIS chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -25,7 +25,7 @@
     "Accueil",
     "ROBOT DE PISCINE SANS FIL S2 SOLAR WYBOT"
   ],
-  "description": "Achetez ROBOT DE PISCINE SANS FIL S2 SOLAR WYBOT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Robot piscine sans fil S2 Solar Wybot\nL’indépendance énergétique : le robot qui ne sort plus jamais de l'eau pour être chargé.\n\nLe Wybot S2 Solar révolutionne l’usage du robot de piscine en introduisant la recharge solaire. Grâce à sa station sur margelle, ce robot devient totalement autonome : il se recharge directement dans le bassin grâce aux rayons du soleil. Fini la corvée de sortir le robot tous les deux jours pour le brancher à une prise murale. C'est la solution la plus écologique et la plus pratique pour ceux qui souhaitent un entretien constant et automatisé, sans aucun impact sur leur facture d'électricité.\n\nLe produit en vidéo\nStation de Recharge Solaire\n\nLe robot est couplé à une station sur margelle équipée de panneaux solaires. En fin de cycle ou si sa batterie est faible, il retourne s'amarrer seul à sa station pour se recharger. Une autonomie énergétique totale et durable.\n\nNavigation intelligente multi-capteurs\n\nContrairement aux modèles classiques, le S2 Solar utilise la technologie intelligente multi-capteurs. Grâce à son Infrarouge, son gyroscope, son capteur de profondeur et sonar, il détecte les obstacles, évitant les chocs et assurant une navigation d'une fluidité exceptionnelle.\n\nEntretien Zéro Contrainte\n\nPuisqu'il se recharge seul dans l'eau, vous n'intervenez que pour vider le panier filtrant. Le robot reste disponible 24h/24 dans votre bassin, prêt à démarrer son cycle programmé.\n\nTélécommande Sous-Marine\n\nLe S2 Solar est pilotable à distance via une technologie de communication sous-marine unique. Vous pouvez diriger le robot vers une zone précise ou changer de mode sans même le sortir de l'eau.\n\nCaractéristiques Robot piscine sans fil S2 Solar Wybot\nType de nettoyage: Fond parois ligne d'eau\nTaille max de la piscine: 10x5 mètres\nConnectivité: Oui\nFiltration: 180/25µ\nPoids: 8.5Kg\nTemps de fonctionnement: 3h00\nRecharge: 3h00\nPuissance de la batterie: 5600mAh\nAide à sortie de l'eau: Oui\nNombre de cycle: 8 cycles\nSélection de cycle sur le robot: Oui\nBrosse active: Non\nDouble brosse avant arrière: Non\nInformations techniques :\nPuissance\n90W\nDébit d'aspiration\n14 m³/h\nFiltration\nDouble : panier 180µm + Mousse de coton 25µm\nCapteurs\nGyroscope, Infrarouge, Profondeur & Sonar\nPoids & Taille\n8.5kg - 40(L)x39(l)x25(H) cm\nMoteurs\nTrois moteurs\nChemins de nettoyage fond\n3\nChemins de nettoyage mur\n3\nModes de nettoyage\nFond - Parois - Ligne d’eau, Mur puis sol - Piscine complète, Mode Eco - Mode Fond Turbo - Mode Expert\nContenu du colis\n\nVotre robot est fourni avec:\n-1 Robot S2 Solar\n-1 Station de charge solaire flottante\n-1 Chargeur secteur\n-1 Télécommande\n-1 Manuel.",
   "supplierRef": "WYEU-S2S",
   "price": {
     "amount": 999,
@@ -87,5 +87,8 @@
       "path": "data/images/PI-0012614/05-redimensionne__550x545_solar_s2_wybot_station_de_charge_solaire_2.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T14:17:52.749Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez ROBOT DE PISCINE SANS FIL S2 SOLAR WYBOT chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

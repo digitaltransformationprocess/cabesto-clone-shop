@@ -23,7 +23,7 @@
     "Accueil",
     "HARICOTS VERTS MARINS 200G"
   ],
-  "description": "Achetez HARICOTS VERTS MARINS 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Algue brune (Himanthalia elongata) récoltée à la main sur les côtes bretonnes.",
   "supplierRef": "201",
   "price": {
     "amount": 3.69,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0001992/01-0344021-0344021-picture_1-0344021_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:30:16.942Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez HARICOTS VERTS MARINS 200G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -19,7 +19,7 @@
     "Accueil",
     "PLANTEUR PAPYZOUK CUBI 2L"
   ],
-  "description": "Achetez PLANTEUR PAPYZOUK CUBI 2L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Recette secrète et familiale, ce cocktail au savoureux mélange de rhum, sirop de canne, jus de fruits et épices des Antilles est l’ingrédient indispensable à tous vos événements en famille, entre amis ou collaborateurs... Son goût unique et traditionnel vous fera vite oublier tous les autres \"punchs\" proposés actuellement sur le marché et vous transportera aux Antilles le temps d'un apéritif !",
   "supplierRef": "3770003015048.",
   "price": {
     "amount": 29.99,
@@ -57,5 +57,8 @@
       "path": "data/images/AL-0003054/01-6016490-6016490-picture_1-41v3kjcpfrl._ac_us200_.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:34:26.148Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PLANTEUR PAPYZOUK CUBI 2L chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

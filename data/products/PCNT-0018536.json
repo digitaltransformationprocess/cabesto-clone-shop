@@ -23,7 +23,7 @@
     "Accueil",
     "Sac Cross Pro"
   ],
-  "description": "Achetez Sac Cross Pro chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Sac de transport destiné aux professionnels avec des compartiments permettant de ranger chaque équipement.\n\nRobuste bâche 1620 deniers.\n\nStructure et coutures renforcées pour une utilisation tout terrain.\n\nDos moussé confortable.\n\nSystème de fixation intérieur universel par grip élastique.\n\nPochette d'identification renforcée.\n\nBoucles de fixation extérieure.\n\nAnneau de treuillage.\n\nFixation du casque par grip élastique.\n\nModularité du volume des poches intérieures par bouton pression.\n\nSangles daisychain pour mousquetons.\n\nPoche hermétique pour vêtement.\n\nSangles de positionnement permettant de fixer une corde ou un harnais à l'intérieur du sac.\n\nVolume 54 l.",
   "supplierRef": null,
   "price": {
     "amount": 154.9,
@@ -103,5 +103,8 @@
       "path": "data/images/PCNT-0018536/08-ad17_1_h-sac-cross-pro-courant.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:02:09.857Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Sac Cross Pro chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

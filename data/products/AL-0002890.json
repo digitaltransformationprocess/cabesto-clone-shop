@@ -23,7 +23,7 @@
     "Accueil",
     "PATE DE PIMENT MANGUE 100G"
   ],
-  "description": "Achetez PATE DE PIMENT MANGUE 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Une délicieuse pâte de piment mangue pour relever tous vos plats tout en ajoutant une note sucrée à votre préparation.",
   "supplierRef": "3760033990040.",
   "price": {
     "amount": 5.99,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0002890/02-0353477-0353477-picture_1-0353477_1.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:34:01.658Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez PATE DE PIMENT MANGUE 100G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

@@ -23,7 +23,7 @@
     "Accueil",
     "Epuisette Settons"
   ],
-  "description": "Achetez Epuisette Settons chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Épuisette Settons\nÉpuisette adaptée à de nombreuses techniques de pêche. Elle est idéale pour mettre au sec vos poissons en bateau ou du bord grâce à son manche de 280cm.\n\nManche télescopique en aluminium et tête ronde.\n\nCaractéristiques :\nManche télescopique en aluminium\nTête ronde\nTaille : 145 - 280 cm\nTête : 40x40 cm\nProfondeur : 40 cm\nInformations techniques :\nMaille:\n6 mm\nPoids\n580 g\nContenu du colis :\n\nL'épuisette Settons est livrée avec le manche et la tête adaptée.",
   "supplierRef": "AWQ180001",
   "price": {
     "amount": 26.99,
@@ -73,5 +73,8 @@
       "path": "data/images/PE-0003473/03-epuisette-coup-ragot-tete-ronde-z-915-91530_ppsdvcvb3ow6qwwt.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T13:25:17.122Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez Epuisette Settons chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

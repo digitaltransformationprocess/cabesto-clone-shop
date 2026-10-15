@@ -23,7 +23,7 @@
     "Accueil",
     "KOUIGN AMANN 350 G"
   ],
-  "description": "Achetez KOUIGN AMANN 350 G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "Le véritable Kouign Amann , spécialité bretonne pur beurre, grand classique de la pâtisserie bretonne, dégustez ce gâteau croustillant, caramélisé à l’extérieur, et fondant à coeur.",
   "supplierRef": "3353630000177",
   "price": {
     "amount": 5.94,
@@ -61,5 +61,8 @@
       "path": "data/images/AL-0002090/01-6069486-6069486-picture_1-6069486_1.jpg",
       "skipped": true
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:30:25.887Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez KOUIGN AMANN 350 G chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }

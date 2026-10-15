@@ -23,7 +23,7 @@
     "Accueil",
     "LOT TAPAS 3X111G SPANICO"
   ],
-  "description": "Achetez LOT TAPAS 3X111G SPANICO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j.",
+  "description": "LOT TAPAS 3X111G SPANICO\n\nLot de 3 tapas :\n\npoulpe\ncalamar\nmoule",
   "supplierRef": "565114",
   "price": {
     "amount": 6.79,
@@ -67,5 +67,8 @@
       "path": "data/images/AL-0002292/02-lot-3-tapas-moules-2c-poulpes-et-calamars-3x111g22418.jpg",
       "skipped": false
     }
-  ]
+  ],
+  "descriptionEnrichedAt": "2026-10-15T12:31:21.430Z",
+  "descriptionSource": "fiche",
+  "descriptionPrevious": "Achetez LOT TAPAS 3X111G SPANICO chez Cabesto : livraison express, paiement en 3 ou 4 fois sans frais et retour sous 30 j."
 }
