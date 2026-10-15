@@ -84,13 +84,8 @@ export function buildOrderTrackingReply(
     return "Je ne trouve aucune commande sur votre compte. Vous pouvez passer commande depuis le catalogue, ou [voir mon compte](/compte).";
   }
 
-  const idMatch = userMessage.match(/\b(CMD-?\d+)\b/i);
-  const rawId = idMatch?.[1];
-  const normalized = rawId
-    ? rawId.toUpperCase().startsWith("CMD-")
-      ? rawId.toUpperCase()
-      : rawId.toUpperCase().replace(/^CMD/, "CMD-")
-    : null;
+  const idMatch = userMessage.match(/\bCMD\s*-?\s*(\d+)\b/i);
+  const normalized = idMatch?.[1] ? `CMD-${idMatch[1]}` : null;
 
   const pick =
     (normalized && orders.find((o) => o.id.toUpperCase() === normalized)) || null;

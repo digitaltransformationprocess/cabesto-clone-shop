@@ -14,7 +14,7 @@ export type ChatIntent =
   | "general";
 
 const ORDER_RE =
-  /\b(mes\s+commandes|suivre\s+(ma\s+)?commande|suivi\s+de\s+commande|où\s+en\s+est\s+ma\s+commande|ou\s+en\s+est\s+ma\s+commande|tracking|num[eé]ro\s+de\s+commande|CMD-?\d+|statut\s+de\s+(ma\s+)?commande|colis\s+(en\s+retard|bloqu[eé]|perdu))\b/i;
+  /\b(mes\s+commandes|suivre\s+(ma\s+)?commande|suivi\s+de\s+commande|où\s+en\s+est\s+ma\s+commande|ou\s+en\s+est\s+ma\s+commande|tracking|num[eé]ro\s+de\s+commande|CMD\s*-?\s*\d+|statut\s+de\s+(ma\s+)?commande|colis\s+(en\s+retard|bloqu[eé]|perdu))\b/i;
 
 const SAV_RE =
   /\b(r[eé]clamation|sav|garantie|endommag[eé]|cass[eé]|remboursement|ouvrir\s+un\s+ticket|cr[eé]er\s+un\s+ticket|probl[eè]me\s+avec\s+(ma|mon|une|la)|pas\s+re[cç]u|article\s+manqu(?:ant|e))\b/i;

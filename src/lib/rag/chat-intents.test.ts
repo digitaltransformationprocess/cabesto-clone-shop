@@ -18,6 +18,11 @@ describe("detectChatIntent", () => {
     expect(requiresAuth("sav")).toBe(true);
   });
 
+  it("detects spaced order ids as tracking", () => {
+    expect(detectChatIntent("CMD 1098")).toBe("order_tracking");
+    expect(detectChatIntent("CMD-1101")).toBe("order_tracking");
+  });
+
   it("does not treat bare suivre as order", () => {
     expect(detectChatIntent("comment suivre ce guide plongée")).toBe("product");
   });

@@ -19,6 +19,19 @@ import {
   LOGIN_REQUIRED_REPLY,
   requiresAuth,
 } from "@/lib/rag/chat-intents";
+import {
+  buildTicketDraft,
+  detectSavIssue,
+  emptyMemory,
+  findOrder,
+  formatSavOrderCard,
+  isMostlyOrderId,
+  issueLabel,
+  parseOrderId,
+  SAV_ISSUE_OPTIONS,
+  type ConversationMemory,
+  type SavIssue,
+} from "@/lib/rag/chat-flow";
 import { streamRagChat, type RagMetaProduct } from "@/lib/rag/client-chat";
 import { logChatEvent } from "@/lib/rag/chat-log";
 import { productImage, products } from "@/lib/data";
@@ -349,10 +362,12 @@ export function ChatWidget() {
   const [busy, setBusy] = useState(false);
   const [misses, setMisses] = useState(0);
   const [checkout, setCheckout] = useState<CheckoutDraft | null>(null);
-  const [pendingSav, setPendingSav] = useState<string | null>(null);
+  const [memory, setMemory] = useState<ConversationMemory>(() => emptyMemory());
   const [addedSku, setAddedSku] = useState<string | null>(null);
   const end = useRef<HTMLDivElement>(null);
   const abortRef = useRef<AbortController | null>(null);
+  const memoryRef = useRef(memory);
+  memoryRef.current = memory;
 
   const cartCount = useMemo(
     () => Object.values(cart).reduce((s, q) => s + q, 0),
@@ -405,24 +420,46 @@ export function ChatWidget() {
     pushAssistant(next, reason || LOGIN_REQUIRED_REPLY, { kind: "login" });
   };
 
+  const createSavTicket = (fromMsgs: Msg[], flow = memoryRef.current.sav) => {
+    if (!user) {
+      pushLogin(fromMsgs, LOGIN_REQUIRED_REPLY);
+      return;
+    }
+    const draft = buildTicketDraft(flow, user.name);
+    const ticket = addTicket(draft.subject, draft.message);
+    setMemory(emptyMemory());
+    if (ticket?.id) logChatEvent("ticket_created", { detail: ticket.id });
+    pushAssistant(
+      fromMsgs,
+      ticket
+        ? `Ticket **${ticket.id}** créé (Ouvert).\n\nRécapitulatif :\n${draft.message}\n\nAucun remboursement n'est promis — un conseiller traitera la demande.`
+        : "Impossible de créer le ticket. Réessayez depuis Mon compte.",
+      ticket
+        ? { kind: "success", actions: [{ id: "go_account", label: "Voir mon compte" }] }
+        : { kind: "success" },
+    );
+  };
+
   const handleAction = (id: string) => {
-    if (id === "create_sav_ticket") {
-      if (!user) {
-        pushLogin(msgs, LOGIN_REQUIRED_REPLY);
-        return;
-      }
-      const body = pendingSav || "Demande SAV depuis le chat";
-      const ticket = addTicket("Réclamation chat", body.slice(0, 2000));
-      setPendingSav(null);
-      if (ticket?.id) logChatEvent("ticket_created", { detail: ticket.id });
-      pushAssistant(
-        msgs,
-        ticket
-          ? `Ticket **${ticket.id}** créé (Ouvert). Aucun remboursement n'est promis — un conseiller traitera la demande.`
-          : "Impossible de créer le ticket. Réessayez depuis Mon compte.",
-        ticket
-          ? { kind: "success", actions: [{ id: "go_account", label: "Voir mon compte" }] }
-          : { kind: "success" },
+    if (id === "create_sav_ticket" || id === "sav_confirm_ticket") {
+      createSavTicket(msgs);
+      return;
+    }
+    if (id.startsWith("sav_order:")) {
+      void ask(id.slice("sav_order:".length));
+      return;
+    }
+    if (id.startsWith("sav_issue:")) {
+      const issue = id.slice("sav_issue:".length) as SavIssue;
+      void ask(issueLabel(issue));
+      return;
+    }
+    if (id === "sav_start_with_last") {
+      const oid = memoryRef.current.lastOrderId;
+      void ask(
+        oid
+          ? `J'ai un problème avec la commande ${oid}`
+          : "J'ai un problème avec une commande",
       );
       return;
     }
@@ -591,6 +628,7 @@ export function ChatWidget() {
       const ticket = user ? addTicket("Demande conseiller (chat)", summary || userText) : null;
       if (ticket?.id) logChatEvent("handoff", { detail: ticket.id });
       else logChatEvent("handoff");
+      setMemory(emptyMemory());
       pushAssistant(
         next,
         HANDOFF_REPLY +
@@ -609,17 +647,241 @@ export function ChatWidget() {
       return;
     }
 
-    if (intent === "order_tracking" && user) {
-      const reply = buildOrderTrackingReply(session.orders ?? [], userText);
-      pushAssistant(next, reply, {
-        actions: [{ id: "go_account", label: "Ouvrir mon compte" }],
-      });
+    const userOrders = session.authenticated ? (session.orders ?? []) : [];
+    let mem = memoryRef.current;
+
+    const promptSavIssue = (orderId: string, orderStatus: string, knownIssue?: SavIssue) => {
+      if (knownIssue) {
+        const nextSav = {
+          step: (knownIssue === "autre" ? "need_details" : "ready") as ConversationMemory["sav"]["step"],
+          orderId,
+          orderStatus,
+          issue: knownIssue,
+        };
+        mem = { activeFlow: "sav", lastOrderId: orderId, sav: nextSav };
+        setMemory(mem);
+        if (knownIssue === "autre") {
+          pushAssistant(
+            next,
+            `Commande **${orderId}** — décrivez brièvement le problème, puis je crée le ticket.`,
+          );
+        } else {
+          const draft = buildTicketDraft(nextSav, user!.name);
+          pushAssistant(
+            next,
+            `Motif retenu : **${issueLabel(knownIssue)}** pour **${orderId}**.\n\nSouhaitez-vous ajouter un détail, ou créer le ticket maintenant ?\n\n_Aperçu_ : ${draft.subject}`,
+            {
+              actions: [
+                { id: "sav_confirm_ticket", label: "Créer le ticket SAV", primary: true },
+                { id: "go_account", label: "Voir mon compte" },
+              ],
+            },
+          );
+        }
+        setMisses(0);
+        setBusy(false);
+        return;
+      }
+      mem = {
+        activeFlow: "sav",
+        lastOrderId: orderId,
+        sav: { step: "need_issue", orderId, orderStatus },
+      };
+      setMemory(mem);
+      const order = findOrder(userOrders, orderId);
+      pushAssistant(
+        next,
+        `${order ? formatSavOrderCard(order) + "\n\n" : ""}Quel est le problème avec cette commande ?`,
+        {
+          actions: SAV_ISSUE_OPTIONS.map((o) => ({
+            id: `sav_issue:${o.id}`,
+            label: o.label,
+            primary: o.id === "endommagé",
+          })),
+        },
+      );
+      setMisses(0);
+      setBusy(false);
+    };
+
+    const advanceSavToIssue = (orderId: string, knownIssue?: SavIssue) => {
+      const order = findOrder(userOrders, orderId);
+      if (!order) {
+        pushAssistant(
+          next,
+          `Je ne trouve pas **${orderId}** sur votre compte. Vérifiez le numéro ou choisissez une commande ci-dessous.`,
+          {
+            actions: userOrders.slice(0, 5).map((o) => ({
+              id: `sav_order:${o.id}`,
+              label: o.id,
+            })),
+          },
+        );
+        setBusy(false);
+        return false;
+      }
+      promptSavIssue(order.id, order.status, knownIssue ?? mem.sav.issue);
+      return true;
+    };
+
+    /** Multi-turn SAV — keep context until ticket or Effacer */
+    if (mem.activeFlow === "sav" && user) {
+      const oid = parseOrderId(userText);
+      const issue = detectSavIssue(userText);
+      const wantsTicket =
+        /^(cr[eé]er(\s+le)?\s+ticket|je\s+confirme|confirmer|ok\s+ticket)\.?$/i.test(
+          userText,
+        );
+
+      if (oid && mem.sav.step !== "idle") {
+        advanceSavToIssue(oid, issue ?? undefined);
+        return;
+      }
+
+      if (mem.sav.step === "need_order") {
+        if (issue) {
+          mem = { ...mem, sav: { ...mem.sav, issue } };
+          setMemory(mem);
+          pushAssistant(
+            next,
+            `Motif noté : **${issueLabel(issue)}**. Indiquez maintenant le **numéro de commande** (ex. CMD-1101) :`,
+            {
+              actions: userOrders.slice(0, 5).map((o) => ({
+                id: `sav_order:${o.id}`,
+                label: `${o.id} · ${o.status}`,
+              })),
+            },
+          );
+          setBusy(false);
+          return;
+        }
+        pushAssistant(
+          next,
+          "Indiquez le **numéro de commande** (ex. CMD-1101) ou choisissez parmi vos commandes récentes :",
+          {
+            actions: userOrders.slice(0, 5).map((o) => ({
+              id: `sav_order:${o.id}`,
+              label: `${o.id} · ${o.status}`,
+            })),
+          },
+        );
+        setBusy(false);
+        return;
+      }
+
+      if (mem.sav.step === "need_issue") {
+        if (issue && mem.sav.orderId && mem.sav.orderStatus) {
+          promptSavIssue(mem.sav.orderId, mem.sav.orderStatus, issue);
+          return;
+        }
+        pushAssistant(
+          next,
+          "Précisez le motif ou choisissez une option :",
+          {
+            actions: SAV_ISSUE_OPTIONS.map((o) => ({
+              id: `sav_issue:${o.id}`,
+              label: o.label,
+            })),
+          },
+        );
+        setBusy(false);
+        return;
+      }
+
+      if (mem.sav.step === "need_details" || mem.sav.step === "ready") {
+        if (wantsTicket) {
+          createSavTicket(next, mem.sav);
+          setBusy(false);
+          return;
+        }
+        const withDetails = {
+          ...mem.sav,
+          details: userText.slice(0, 1500),
+          step: "ready" as const,
+          ...(issue ? { issue } : {}),
+        };
+        mem = { ...mem, sav: withDetails };
+        setMemory(mem);
+        const draft = buildTicketDraft(withDetails, user.name);
+        pushAssistant(
+          next,
+          `Merci, j'ai noté votre message.\n\n${draft.message}\n\nJe crée le ticket ?`,
+          {
+            actions: [
+              { id: "sav_confirm_ticket", label: "Créer le ticket SAV", primary: true },
+            ],
+          },
+        );
+        setMisses(0);
+        setBusy(false);
+        return;
+      }
+    }
+
+    /** Start guided SAV */
+    if (intent === "sav" && user) {
+      const prefill = parseOrderId(userText);
+      if (prefill && findOrder(userOrders, prefill)) {
+        advanceSavToIssue(prefill);
+        return;
+      }
+      mem = {
+        activeFlow: "sav",
+        lastOrderId: mem.lastOrderId,
+        sav: { step: "need_order" },
+      };
+      setMemory(mem);
+      const list =
+        userOrders.length > 0
+          ? userOrders
+              .slice(0, 5)
+              .map((o) => `- **${o.id}** (${o.date}) — ${o.status}`)
+              .join("\n")
+          : "_Aucune commande récente sur ce compte._";
+      const example = userOrders[0]?.id ?? "CMD-1101";
+      pushAssistant(
+        next,
+        `Bonjour ${user.name.split(" ")[0]}, je vous guide pour le SAV.\n\n**Étape 1/3** — Quelle commande est concernée ?\n\n${list}\n\nDonnez le numéro (ex. ${example}) ou touchez une commande :`,
+        {
+          actions: [
+            ...userOrders.slice(0, 4).map((o) => ({
+              id: `sav_order:${o.id}`,
+              label: o.id,
+              primary: o === userOrders[0],
+            })),
+          ],
+        },
+      );
       setMisses(0);
       setBusy(false);
       return;
     }
 
-    if (intent === "sav" && user) setPendingSav(userText);
+    /** Bare order id keeps context (tracking, not FAQ) */
+    if (user && (intent === "order_tracking" || isMostlyOrderId(userText))) {
+      const oid = parseOrderId(userText);
+      if (oid) {
+        setMemory({
+          ...mem,
+          lastOrderId: oid,
+          activeFlow: "tracking",
+          sav: { step: "idle" },
+        });
+      }
+      const reply = buildOrderTrackingReply(userOrders, userText);
+      const actions: MsgAction[] = [{ id: "go_account", label: "Ouvrir mon compte" }];
+      if (oid && findOrder(userOrders, oid)) {
+        actions.unshift({
+          id: "sav_start_with_last",
+          label: "Problème avec cette commande",
+          primary: true,
+        });
+      }
+      pushAssistant(next, reply, { actions });
+      setMisses(0);
+      setBusy(false);
+      return;
+    }
 
     setMsgs([...next, { role: "assistant", content: "" }]);
 
@@ -684,12 +946,10 @@ export function ChatWidget() {
             const ticket = addTicket(ticketSpec.subject, ticketSpec.message);
             if (ticket) {
               content += `\n\nTicket **${ticket.id}** créé (Ouvert).`;
-              setPendingSav(null);
+              setMemory(emptyMemory());
               logChatEvent("ticket_created", { detail: ticket.id });
               actions.push({ id: "go_account", label: "Voir mon compte" });
             }
-          } else if (intent === "sav" && user) {
-            actions.push({ id: "create_sav_ticket", label: "Créer un ticket SAV", primary: true });
           }
 
           if (metaProducts.length) {
@@ -747,7 +1007,7 @@ export function ChatWidget() {
     abortRef.current?.abort();
     setMsgs([]);
     setCheckout(null);
-    setPendingSav(null);
+    setMemory(emptyMemory());
     setMisses(0);
     setBusy(false);
   };
@@ -765,7 +1025,13 @@ export function ChatWidget() {
               <p className="font-display text-sm font-bold leading-tight">Assistant Marinéo</p>
               <p className="truncate text-[11px] opacity-80">
                 {user ? `${user.name.split(" ")[0]} · connecté` : "Invité · catalogue & infos"}
-                {checkout ? " · commande en cours" : ""}
+                {checkout
+                  ? " · commande en cours"
+                  : memory.activeFlow === "sav"
+                    ? " · SAV en cours"
+                    : memory.lastOrderId
+                      ? ` · ${memory.lastOrderId}`
+                      : ""}
               </p>
             </div>
             {msgs.length > 0 && (
@@ -926,6 +1192,17 @@ export function ChatWidget() {
                 Validation commande — confirmez ou changez le transporteur
               </p>
             )}
+            {memory.activeFlow === "sav" && !checkout && (
+              <p className="mb-2 text-[10px] font-semibold uppercase tracking-wide text-accent">
+                {memory.sav.step === "need_order"
+                  ? "SAV — indiquez le n° de commande"
+                  : memory.sav.step === "need_issue"
+                    ? `SAV — motif pour ${memory.sav.orderId}`
+                    : memory.sav.step === "need_details"
+                      ? "SAV — décrivez le problème"
+                      : "SAV — confirmez le ticket"}
+              </p>
+            )}
             <div className="flex gap-2">
               <input
                 autoFocus
@@ -934,9 +1211,15 @@ export function ChatWidget() {
                 placeholder={
                   checkout
                     ? "Je confirme ou Chronopost…"
-                    : user
-                      ? "Produit, panier, commande, SAV…"
-                      : "Produit, livraison, magasin…"
+                    : memory.activeFlow === "sav"
+                      ? memory.sav.step === "need_order"
+                        ? "Ex. CMD-1101…"
+                        : memory.sav.step === "need_issue"
+                          ? "Endommagé, pas reçu…"
+                          : "Détail ou « créer le ticket »…"
+                      : user
+                        ? "Produit, panier, commande, SAV…"
+                        : "Produit, livraison, magasin…"
                 }
                 className="min-w-0 flex-1 rounded-xl border bg-muted/50 px-3.5 py-2.5 text-sm outline-none ring-accent focus:ring-2"
               />
