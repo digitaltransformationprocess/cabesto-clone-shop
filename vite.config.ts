@@ -17,7 +17,12 @@ export default defineConfig({
     fs: { allow: [path.resolve(".")] },
     // data/ holds scraped JSON leftovers — watching them freezes Vite SSR
     watch: {
-      ignored: ["**/data/**", "**/src/lib/catalog.json"],
+      ignored: [
+        "**/data/**",
+        "**/src/lib/catalog.json",
+        "**/.tmp/**",
+        "**/.ai-runtime.json",
+      ],
     },
   },
   json: {

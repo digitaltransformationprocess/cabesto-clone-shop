@@ -124,7 +124,18 @@ function Account() {
                       <button className="rounded bg-primary py-2 font-bold text-primary-foreground">Envoyer</button>
                     </form>
                   </Card>
-                  {myTickets.map((x) => <Card key={x.id} className="p-4"><p className="font-semibold">{x.id} · {x.subject} <span className="text-sm text-muted-foreground">({x.status})</span></p><p className="text-sm">{x.message}</p></Card>)}
+                  {myTickets.map((x) => (
+                    <Card key={x.id} className="p-4">
+                      <p className="font-semibold">
+                        {x.id} · {x.subject}{" "}
+                        <span className="text-sm text-muted-foreground">({x.status})</span>
+                      </p>
+                      <p className="mt-1 text-xs text-muted-foreground">
+                        {[x.priority, x.targetSla, x.orderId, x.channel].filter(Boolean).join(" · ")}
+                      </p>
+                      <p className="mt-2 whitespace-pre-wrap text-sm">{x.message}</p>
+                    </Card>
+                  ))}
                 </>
               )}
             </section>

@@ -4,8 +4,26 @@ import type { AiConfig } from "./chat.functions";
 
 export const defaultModels = {
   google: "gemini-3.8-flash",
-  openrouter: "nemotron-3-ultra-550b-a55b:free",
+  openrouter: "nvidia/nemotron-3-super-120b-a12b:free",
 } as const;
+
+/** Runtime model override — NOT .env (writing .env restarts Vite and wipes the UI). */
+const MODEL_OVERRIDE_PATH = path.resolve(process.cwd(), ".tmp", "ai-model.override");
+
+function readModelOverride(): string {
+  try {
+    if (!fs.existsSync(MODEL_OVERRIDE_PATH)) return "";
+    return fs.readFileSync(MODEL_OVERRIDE_PATH, "utf8").trim();
+  } catch {
+    return "";
+  }
+}
+
+function writeModelOverride(model: string): void {
+  const dir = path.dirname(MODEL_OVERRIDE_PATH);
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(MODEL_OVERRIDE_PATH, `${model}\n`, "utf8");
+}
 
 /** Parse simple KEY=VALUE from .env (sans dépendance dotenv). */
 function readDotEnvFile(): Record<string, string> {
@@ -60,18 +78,38 @@ function normalizeApiKey(raw: string): string {
   return key;
 }
 
-/** Server-only: lit la config depuis `.env` (AI_PROVIDER, AI_API_KEY, AI_MODEL). */
+/** Server-only: lit la config depuis override runtime, puis `.env`. */
 export function getServerAiConfig(): AiConfig | null {
   const apiKey = normalizeApiKey(env("AI_API_KEY"));
   if (!apiKey) return null;
 
   const provider = normalizeProvider(env("AI_PROVIDER"), apiKey);
-  let model = env("AI_MODEL") || defaultModels[provider];
-
-  // OpenRouter attend souvent "org/model" — si l'utilisateur met juste le slug free, on laisse tel quel
-  if (provider === "openrouter" && model && !model.includes("/") && !model.includes(":")) {
-    // keep as-is; user may use short ids
-  }
+  // Override file first (admin switch), then env
+  const model = readModelOverride() || env("AI_MODEL") || defaultModels[provider];
 
   return { provider, apiKey, model };
+}
+
+/**
+ * Persist AI_MODEL for the running server without touching `.env`
+ * (editing `.env` triggers Vite full reload → page refresh + lost selection).
+ */
+export function setServerAiModel(modelRaw: string): { ok: true; model: string } | { ok: false; message: string } {
+  const model = modelRaw.trim();
+  if (!model || model.length > 200 || /[\r\n]/.test(model)) {
+    return { ok: false, message: "Identifiant de modèle invalide." };
+  }
+
+  try {
+    writeModelOverride(model);
+    process.env["AI_MODEL"] = model;
+  } catch (e) {
+    console.warn("[ai-config] could not write model override", e);
+    return {
+      ok: false,
+      message: e instanceof Error ? e.message : "Impossible d'enregistrer le modèle.",
+    };
+  }
+
+  return { ok: true, model };
 }

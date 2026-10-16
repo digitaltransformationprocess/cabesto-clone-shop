@@ -5,9 +5,37 @@ import { fetchOrdersFromSupabase } from "./orders";
 
 export type Address = { name: string; street: string; zip: string; city: string; phone: string };
 export type Profile = { newsletter: boolean; billing?: Address; shipping?: Address };
-export type Ticket = { id: string; email: string; subject: string; message: string; date: string; status: "Ouvert" | "Résolu" };
+export type TicketPriority = "P1" | "P2" | "P3" | "P4";
+export type Ticket = {
+  id: string;
+  email: string;
+  subject: string;
+  message: string;
+  date: string;
+  status: "Ouvert" | "Résolu";
+  /** POC fields (optional for legacy tickets) */
+  orderId?: string;
+  issueType?: string;
+  priority?: TicketPriority;
+  targetSla?: string;
+  channel?: string;
+  contactConsent?: boolean;
+};
+
+export type AddTicketInput = {
+  subject: string;
+  message: string;
+  orderId?: string;
+  issueType?: string;
+  priority?: TicketPriority;
+  targetSla?: string;
+  channel?: string;
+  contactConsent?: boolean;
+};
 
 type Ctx = {
+  /** True after first localStorage / orders hydrate (avoids resume-before-orders). */
+  ready: boolean;
   user: User | null;
   login: (email: string, password: string) => boolean;
   logout: () => void;
@@ -21,7 +49,7 @@ type Ctx = {
   profile: Profile;
   updateProfile: (p: Partial<Profile>) => void;
   tickets: Ticket[];
-  addTicket: (subject: string, message: string) => Ticket | null;
+  addTicket: (subjectOrInput: string | AddTicketInput, message?: string) => Ticket | null;
   setTicketStatus: (id: string, s: Ticket["status"]) => void;
 };
 const g = globalThis as unknown as { __storeCtx?: React.Context<Ctx | null> };
@@ -46,6 +74,7 @@ const write = (k: string, v: unknown) => {
 const cartKey = (u: User | null) => `demo-cart:${u?.email ?? "guest"}`;
 
 export function StoreProvider({ children }: { children: ReactNode }) {
+  const [ready, setReady] = useState(false);
   const [user, setUser] = useState<User | null>(null);
   const [cart, setCartState] = useState<Record<string, number>>({});
   const [orders, setOrders] = useState<Order[]>(() => initialOrders);
@@ -90,6 +119,8 @@ export function StoreProvider({ children }: { children: ReactNode }) {
         setOrders(merged.length ? merged : initialOrders);
       } catch (e) {
         console.error("[StoreProvider] init failed", e);
+      } finally {
+        if (!cancelled) setReady(true);
       }
     })();
     return () => {
@@ -150,19 +181,34 @@ export function StoreProvider({ children }: { children: ReactNode }) {
 
   return (
     <StoreCtx.Provider value={{
-      user, login, logout, cart, orders, profile, updateProfile, placeOrder, setQty, tickets,
+      ready, user, login, logout, cart, orders, profile, updateProfile, placeOrder, setQty, tickets,
       addToCart: (id, qty = 1) => setQty(id, (cart[id] ?? 0) + qty),
       clearCart: () => setCart(user, {}),
       setStatus: (id, s) => saveOrders(orders.map((o) => (o.id === id ? { ...o, status: s } : o))),
-      addTicket: (subject, message) => {
+      addTicket: (subjectOrInput, message) => {
         if (!user) return null;
+        const input: AddTicketInput =
+          typeof subjectOrInput === "string"
+            ? { subject: subjectOrInput, message: message ?? "" }
+            : subjectOrInput;
+        if (!input.subject.trim() || !input.message.trim()) return null;
+        const maxN = tickets.reduce((m, t) => {
+          const n = Number(/^SAV-TEST-(\d+)$/i.exec(t.id)?.[1] ?? 0);
+          return Number.isFinite(n) ? Math.max(m, n) : m;
+        }, 0);
         const ticket: Ticket = {
-          id: `T-${Date.now().toString().slice(-5)}`,
+          id: `SAV-TEST-${String(maxN + 1).padStart(4, "0")}`,
           email: user.email,
-          subject,
-          message,
+          subject: input.subject.trim().slice(0, 120),
+          message: input.message.trim().slice(0, 2000),
           date: new Date().toISOString().slice(0, 10),
           status: "Ouvert",
+          channel: input.channel ?? "Chatbot site web",
+          contactConsent: input.contactConsent ?? true,
+          priority: input.priority ?? "P3",
+          targetSla: input.targetSla ?? "2 jours ouvrés",
+          ...(input.orderId ? { orderId: input.orderId } : {}),
+          ...(input.issueType ? { issueType: input.issueType } : {}),
         };
         saveTickets([ticket, ...tickets]);
         return ticket;

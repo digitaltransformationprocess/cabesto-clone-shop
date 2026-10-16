@@ -3,16 +3,32 @@ import { useEffect, useState } from "react";
 import { Layout, StatusBadge, productName } from "@/components/Layout";
 import { categories, euro, orderTotal, products, statuses, testUsers, type Status } from "@/lib/data";
 import { useStore } from "@/lib/store";
-import { getAiStatus, testAiConnection, type AiPublicStatus } from "@/lib/chat.functions";
+import {
+  getAiStatus,
+  listOpenRouterFreeModels,
+  setAiModel,
+  testAiConnection,
+  type AiPublicStatus,
+  type FreeModelOption,
+} from "@/lib/chat.functions";
 
 function AiSettings() {
   const [status, setStatus] = useState<AiPublicStatus | null>(null);
+  const [models, setModels] = useState<FreeModelOption[]>([]);
+  const [modelsSource, setModelsSource] = useState<"live" | "fallback" | null>(null);
+  const [selected, setSelected] = useState("");
   const [res, setRes] = useState<{ ok: boolean; message: string } | null>(null);
+  const [switchMsg, setSwitchMsg] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
+  const [switching, setSwitching] = useState(false);
 
   const refresh = async () => {
     try {
-      setStatus(await getAiStatus());
+      const [st, list] = await Promise.all([getAiStatus(), listOpenRouterFreeModels()]);
+      setStatus(st);
+      setModels(list.models);
+      setModelsSource(list.source);
+      setSelected(list.current || st.model || list.models[0]?.id || "");
     } catch {
       setStatus({ configured: false, provider: null, model: null });
     }
@@ -22,35 +38,100 @@ function AiSettings() {
     void refresh();
   }, []);
 
+  const applyModel = async (modelId: string) => {
+    if (!modelId || modelId === status?.model) return;
+    setSwitching(true);
+    setSwitchMsg(null);
+    setRes(null);
+    try {
+      const out = await setAiModel({ data: { model: modelId } });
+      if (!out.ok) {
+        setSwitchMsg(out.message);
+      } else {
+        setSwitchMsg(`Modèle actif : ${out.model} (enregistré — effet immédiat, sans rechargement)`);
+        setStatus({
+          configured: true,
+          provider: out.provider,
+          model: out.model,
+        });
+        setSelected(out.model);
+      }
+    } catch (e) {
+      setSwitchMsg((e as Error).message);
+    }
+    setSwitching(false);
+  };
+
   return (
-    <div className="max-w-xl space-y-4 rounded-lg border bg-card p-6">
+    <div className="max-w-2xl space-y-4 rounded-lg border bg-card p-6">
       <h2 className="text-2xl font-bold">Assistant IA</h2>
       <p className="text-sm text-muted-foreground">
-        La clé API se configure en local dans le fichier <code className="rounded bg-muted px-1">.env</code> (voir{" "}
-        <code className="rounded bg-muted px-1">.env.example</code>). Redémarre <code className="rounded bg-muted px-1">npm run dev</code> après
-        modification.
+        Clé API dans <code className="rounded bg-muted px-1">.env</code> (
+        <code className="rounded bg-muted px-1">AI_API_KEY</code>). Le modèle choisi est sauvé dans{" "}
+        <code className="rounded bg-muted px-1">.tmp/ai-model.override</code> (pas dans{" "}
+        <code className="rounded bg-muted px-1">.env</code>, pour éviter le rechargement Vite).
       </p>
-      <ul className="rounded border bg-muted/40 p-3 font-mono text-xs leading-relaxed">
-        <li>AI_PROVIDER=google | openrouter</li>
-        <li>AI_API_KEY=…</li>
-        <li>AI_MODEL=gemini-2.5-flash</li>
-      </ul>
-      <p className={`rounded p-3 text-sm ${status?.configured ? "bg-success/15 text-success" : "bg-destructive/15 text-destructive"}`}>
+
+      <p
+        className={`rounded p-3 text-sm ${status?.configured ? "bg-success/15 text-success" : "bg-destructive/15 text-destructive"}`}
+      >
         {status == null
           ? "Vérification…"
           : status.configured
             ? `✓ Configuré — ${status.provider} · ${status.model}`
             : "✗ Non configuré — renseigne AI_API_KEY dans .env"}
       </p>
-      <div className="flex gap-2">
+
+      <div className="space-y-2">
+        <div className="flex flex-wrap items-end justify-between gap-2">
+          <label className="text-sm font-semibold" htmlFor="ai-model-select">
+            Modèles OpenRouter (free + gpt-oss)
+          </label>
+          <span className="text-[11px] text-muted-foreground">
+            {modelsSource === "live"
+              ? `${models.length} modèles (catalogue live)`
+              : modelsSource === "fallback"
+                ? `${models.length} modèles (liste locale)`
+                : "Chargement…"}
+          </span>
+        </div>
+        <select
+          id="ai-model-select"
+          disabled={!status?.configured || switching || !models.length}
+          value={selected}
+          onChange={(e) => {
+            const id = e.target.value;
+            setSelected(id);
+            void applyModel(id);
+          }}
+          className="w-full rounded-md border bg-background px-3 py-2.5 text-sm"
+        >
+          {models.map((m) => (
+            <option key={m.id} value={m.id}>
+              {m.name}
+              {m.contextLength ? ` · ${Math.round(m.contextLength / 1000)}k ctx` : ""}
+              {m.id === status?.model ? " · (actif)" : ""}
+            </option>
+          ))}
+        </select>
+        <p className="font-mono text-[11px] text-muted-foreground break-all">{selected}</p>
+        {switchMsg && (
+          <p className="rounded bg-muted/50 p-2 text-xs text-muted-foreground">{switchMsg}</p>
+        )}
+        {switching && <p className="text-xs text-accent">Changement de modèle…</p>}
+      </div>
+
+      <div className="flex flex-wrap gap-2">
         <button
+          type="button"
           onClick={() => void refresh()}
           className="rounded bg-primary px-4 py-2 text-sm font-bold text-primary-foreground"
         >
-          Rafraîchir
+          Rafraîchir la liste
         </button>
         <button
-          disabled={busy}
+          type="button"
+          disabled={busy || !status?.configured}
           onClick={async () => {
             setBusy(true);
             setRes(null);
@@ -68,10 +149,20 @@ function AiSettings() {
         </button>
       </div>
       {res && (
-        <p className={`rounded p-3 text-sm ${res.ok ? "bg-success/15 text-success" : "bg-destructive/15 text-destructive"}`}>
-          {res.ok ? `✓ Connecté — réponse du modèle : « ${res.message} »` : `✗ Échec : ${res.message}`}
+        <p
+          className={`rounded p-3 text-sm ${res.ok ? "bg-success/15 text-success" : "bg-destructive/15 text-destructive"}`}
+        >
+          {res.ok
+            ? `✓ Connecté — réponse du modèle : « ${res.message} »`
+            : `✗ Échec : ${res.message}`}
         </p>
       )}
+      <p className="text-[11px] leading-relaxed text-muted-foreground">
+        Astuce rate-limit : passe sur <code className="rounded bg-muted px-1">openrouter/free</code>,
+        un autre free, ou <code className="rounded bg-muted px-1">openai/gpt-oss-20b</code> /
+        <code className="rounded bg-muted px-1">openai/gpt-oss-120b</code> (low-cost, pas le tier
+        :free), puis reteste.
+      </p>
     </div>
   );
 }
@@ -153,7 +244,31 @@ function Admin() {
               <select value={f} onChange={(e) => setF(e.target.value as Status | "")} className="rounded-md border bg-card px-3 py-2"><option value="">Tous les statuts</option>{statuses.map((s) => <option key={s}>{s}</option>)}</select></div>
             {table(filtered)}
           </>)}
-          {tab === "Support" && (<div className="space-y-3">{tickets.length === 0 && <p className="text-muted-foreground">Aucun ticket.</p>}{tickets.map((t) => <div key={t.id} className="flex items-start justify-between gap-4 rounded-lg border bg-card p-4"><div><p className="font-semibold">{t.id} · {t.subject}</p><p className="text-xs text-muted-foreground">{t.email} · {t.date}</p><p className="mt-1 text-sm">{t.message}</p></div><button onClick={() => setTicketStatus(t.id, t.status === "Ouvert" ? "Résolu" : "Ouvert")} className={`rounded px-3 py-1 text-xs font-bold ${t.status === "Ouvert" ? "bg-accent text-accent-foreground" : "bg-muted"}`}>{t.status}</button></div>)}</div>)}
+          {tab === "Support" && (
+            <div className="space-y-3">
+              {tickets.length === 0 && <p className="text-muted-foreground">Aucun ticket.</p>}
+              {tickets.map((t) => (
+                <div key={t.id} className="flex items-start justify-between gap-4 rounded-lg border bg-card p-4">
+                  <div>
+                    <p className="font-semibold">{t.id} · {t.subject}</p>
+                    <p className="text-xs text-muted-foreground">
+                      {t.email} · {t.date}
+                      {t.priority ? ` · ${t.priority}` : ""}
+                      {t.targetSla ? ` · SLA ${t.targetSla}` : ""}
+                      {t.orderId ? ` · ${t.orderId}` : ""}
+                    </p>
+                    <p className="mt-1 whitespace-pre-wrap text-sm">{t.message}</p>
+                  </div>
+                  <button
+                    onClick={() => setTicketStatus(t.id, t.status === "Ouvert" ? "Résolu" : "Ouvert")}
+                    className={`rounded px-3 py-1 text-xs font-bold ${t.status === "Ouvert" ? "bg-accent text-accent-foreground" : "bg-muted"}`}
+                  >
+                    {t.status}
+                  </button>
+                </div>
+              ))}
+            </div>
+          )}
           {tab === "Stock" && isAdmin && (
             <ul className="divide-y rounded-lg border bg-card max-h-[70vh] overflow-y-auto">
               {[...products]

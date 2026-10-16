@@ -3,6 +3,7 @@ import {
   detectSavIssue,
   isMostlyOrderId,
   parseOrderId,
+  savPriorityForIssue,
 } from "./chat-flow";
 
 describe("parseOrderId", () => {
@@ -31,5 +32,16 @@ describe("detectSavIssue", () => {
     expect(detectSavIssue("Article endommagé")).toBe("endommagé");
     expect(detectSavIssue("pas reçu")).toBe("pas_reçu");
     expect(detectSavIssue("retard de livraison")).toBe("retard");
+  });
+});
+
+describe("savPriorityForIssue", () => {
+  it("assigns POC priorities", () => {
+    expect(savPriorityForIssue("endommagé")).toEqual({
+      priority: "P2",
+      targetSla: "1 jour ouvré",
+    });
+    expect(savPriorityForIssue("retour").priority).toBe("P3");
+    expect(savPriorityForIssue("autre").priority).toBe("P4");
   });
 });

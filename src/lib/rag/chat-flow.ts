@@ -83,18 +83,55 @@ export function formatSavOrderCard(order: SessionOrder): string {
   return `**Commande ${order.id}** trouvée\n- Date : ${order.date}\n- Statut : **${order.status}**\n- Transporteur : ${order.carrier}\n- Articles : ${order.itemCount}`;
 }
 
+export type TicketPriority = "P1" | "P2" | "P3" | "P4";
+
+/** Priority + SLA from motif (POC table). */
+export function savPriorityForIssue(issue?: SavIssue): {
+  priority: TicketPriority;
+  targetSla: string;
+} {
+  switch (issue) {
+    case "endommagé":
+    case "pas_reçu":
+      return { priority: "P2", targetSla: "1 jour ouvré" };
+    case "retard":
+      return { priority: "P2", targetSla: "1 jour ouvré" };
+    case "retour":
+      return { priority: "P3", targetSla: "2 jours ouvrés" };
+    case "autre":
+    default:
+      return { priority: "P4", targetSla: "3 jours ouvrés" };
+  }
+}
+
 export function buildTicketDraft(flow: SavFlow, userName: string): {
   subject: string;
   message: string;
+  priority: TicketPriority;
+  targetSla: string;
+  orderId?: string;
+  issueType: string;
 } {
   const issue = flow.issue ? issueLabel(flow.issue) : "Réclamation";
+  const { priority, targetSla } = savPriorityForIssue(flow.issue);
   const subject = flow.orderId ? `${issue} — ${flow.orderId}` : issue;
   const parts = [
     `Client : ${userName}`,
     flow.orderId ? `Commande : ${flow.orderId}` : null,
     flow.orderStatus ? `Statut commande : ${flow.orderStatus}` : null,
-    `Motif : ${issue}`,
-    flow.details ? `Détails : ${flow.details}` : null,
+    `Type de demande : ${issue}`,
+    `Motif / description : ${flow.details?.trim() || issue}`,
+    `Priorité : ${priority}`,
+    `Délai cible de première réponse : ${targetSla}`,
+    `Canal d'origine : Chatbot site web`,
+    `Consentement de contact : oui`,
   ].filter(Boolean);
-  return { subject: subject.slice(0, 120), message: parts.join("\n").slice(0, 2000) };
+  return {
+    subject: subject.slice(0, 120),
+    message: parts.join("\n").slice(0, 2000),
+    priority,
+    targetSla,
+    issueType: issue,
+    ...(flow.orderId ? { orderId: flow.orderId } : {}),
+  };
 }

@@ -1,5 +1,9 @@
 import { createServerFn } from "@tanstack/react-start";
-import { getServerAiConfig } from "./ai-config";
+import { getServerAiConfig, setServerAiModel } from "./ai-config";
+import {
+  fetchOpenRouterFreeModels,
+  type FreeModelOption,
+} from "./openrouter-free-models";
 
 export type AiConfig = { provider: "google" | "openrouter"; apiKey: string; model: string };
 export type AiPublicStatus = {
@@ -7,6 +11,7 @@ export type AiPublicStatus = {
   provider: AiConfig["provider"] | null;
   model: string | null;
 };
+export type { FreeModelOption };
 
 type Msg = { role: "user" | "assistant"; content: string };
 
@@ -74,6 +79,29 @@ export const getAiStatus = createServerFn({ method: "POST" }).handler(async (): 
   if (!cfg) return { configured: false, provider: null, model: null };
   return { configured: true, provider: cfg.provider, model: cfg.model };
 });
+
+export const listOpenRouterFreeModels = createServerFn({ method: "POST" }).handler(
+  async (): Promise<{ models: FreeModelOption[]; source: "live" | "fallback"; current: string | null }> => {
+    const cfg = getServerAiConfig();
+    const { models, source } = await fetchOpenRouterFreeModels(cfg?.apiKey);
+    return { models, source, current: cfg?.model ?? null };
+  },
+);
+
+export const setAiModel = createServerFn({ method: "POST" })
+  .validator((d: { model: string }) => ({
+    model: typeof d?.model === "string" ? d.model.trim() : "",
+  }))
+  .handler(async ({ data }) => {
+    const result = setServerAiModel(data.model);
+    if (!result.ok) return result;
+    const cfg = getServerAiConfig();
+    return {
+      ok: true as const,
+      model: result.model,
+      provider: cfg?.provider ?? null,
+    };
+  });
 
 export const testAiConnection = createServerFn({ method: "POST" }).handler(async () => {
   const cfg = getServerAiConfig();

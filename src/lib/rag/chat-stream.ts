@@ -140,14 +140,22 @@ async function completeOnce(
       messages,
       stream: false,
       temperature: 0.2,
+      // Reasoning free models spend many tokens before the visible answer
+      max_tokens: 2048,
     }),
   });
   const text = await res.text();
   if (!res.ok) throw new Error(`LLM ${res.status}: ${text.slice(0, 400)}`);
   const json = JSON.parse(text) as {
-    choices?: Array<{ message?: { content?: string } }>;
+    choices?: Array<{
+      message?: { content?: string | null; reasoning?: string | null };
+    }>;
   };
-  return (json.choices?.[0]?.message?.content ?? "").trim();
+  const msg = json.choices?.[0]?.message;
+  const content = (msg?.content ?? "").trim();
+  if (content) return content;
+  // Some free reasoning models return empty content + reasoning only
+  return (msg?.reasoning ?? "").trim();
 }
 
 async function openUpstreamStream(
@@ -167,6 +175,7 @@ async function openUpstreamStream(
       messages,
       stream: true,
       temperature: 0.2,
+      max_tokens: 2048,
     }),
   });
   if (!res.ok || !res.body) {

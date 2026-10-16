@@ -32,6 +32,11 @@ import {
   type ConversationMemory,
   type SavIssue,
 } from "@/lib/rag/chat-flow";
+import {
+  CHAT_RESUME_REDIRECT,
+  saveChatResume,
+  takeChatResume,
+} from "@/lib/rag/chat-resume";
 import { streamRagChat, type RagMetaProduct } from "@/lib/rag/client-chat";
 import { logChatEvent } from "@/lib/rag/chat-log";
 import { productImage, products } from "@/lib/data";
@@ -200,8 +205,8 @@ function render(text: string, hasProductCards = false) {
   });
 }
 
-function LoginGate({ returnPath = "/" }: { returnPath?: string }) {
-  const href = `/connexion?redirect=${encodeURIComponent(returnPath)}`;
+function LoginGate() {
+  const href = `/connexion?redirect=${encodeURIComponent(CHAT_RESUME_REDIRECT)}`;
   return (
     <div className="mt-2 overflow-hidden rounded-xl border border-accent/30 bg-accent/5">
       <div className="border-b border-accent/20 px-3 py-2">
@@ -209,7 +214,8 @@ function LoginGate({ returnPath = "/" }: { returnPath?: string }) {
       </div>
       <div className="space-y-2 p-3">
         <p className="text-xs leading-relaxed text-muted-foreground">
-          Suivi de commande, SAV et validation panier nécessitent une connexion.
+          Suivi de commande, SAV et validation panier nécessitent une connexion. Après connexion,
+          votre demande reprend automatiquement.
         </p>
         <a
           href={href}
@@ -347,6 +353,7 @@ function TypingDots() {
 
 export function ChatWidget() {
   const {
+    ready,
     user,
     orders,
     tickets,
@@ -368,6 +375,8 @@ export function ChatWidget() {
   const abortRef = useRef<AbortController | null>(null);
   const memoryRef = useRef(memory);
   memoryRef.current = memory;
+  const askRef = useRef<(text: string) => Promise<void>>(async () => {});
+  const resumeDoneRef = useRef(false);
 
   const cartCount = useMemo(
     () => Object.values(cart).reduce((s, q) => s + q, 0),
@@ -415,6 +424,8 @@ export function ChatWidget() {
   };
 
   const pushLogin = (next: Msg[], reason?: string) => {
+    const lastUser = [...next].reverse().find((m) => m.role === "user");
+    if (lastUser?.content) saveChatResume(lastUser.content);
     if (reason) logChatEvent("auth_blocked", { detail: reason });
     else logChatEvent("auth_blocked");
     pushAssistant(next, reason || LOGIN_REQUIRED_REPLY, { kind: "login" });
@@ -426,13 +437,22 @@ export function ChatWidget() {
       return;
     }
     const draft = buildTicketDraft(flow, user.name);
-    const ticket = addTicket(draft.subject, draft.message);
+    const ticket = addTicket({
+      subject: draft.subject,
+      message: draft.message,
+      priority: draft.priority,
+      targetSla: draft.targetSla,
+      issueType: draft.issueType,
+      ...(draft.orderId ? { orderId: draft.orderId } : {}),
+      channel: "Chatbot site web",
+      contactConsent: true,
+    });
     setMemory(emptyMemory());
     if (ticket?.id) logChatEvent("ticket_created", { detail: ticket.id });
     pushAssistant(
       fromMsgs,
       ticket
-        ? `Ticket **${ticket.id}** créé (Ouvert).\n\nRécapitulatif :\n${draft.message}\n\nAucun remboursement n'est promis — un conseiller traitera la demande.`
+        ? `Ticket **${ticket.id}** créé (Ouvert) — priorité **${ticket.priority ?? draft.priority}**.\n\nDélai cible de première réponse : **${ticket.targetSla ?? draft.targetSla}**.\nVous recevrez un suivi à chaque étape (démo).\n\nRécapitulatif :\n${draft.message}\n\nAucun remboursement n'est promis — un conseiller traitera la demande.`
         : "Impossible de créer le ticket. Réessayez depuis Mon compte.",
       ticket
         ? { kind: "success", actions: [{ id: "go_account", label: "Voir mon compte" }] }
@@ -468,7 +488,9 @@ export function ChatWidget() {
       return;
     }
     if (id === "go_login") {
-      window.location.href = "/connexion";
+      const lastUser = [...msgs].reverse().find((m) => m.role === "user");
+      if (lastUser?.content) saveChatResume(lastUser.content);
+      window.location.href = `/connexion?redirect=${encodeURIComponent(CHAT_RESUME_REDIRECT)}`;
       return;
     }
     if (id.startsWith("carrier:")) {
@@ -827,8 +849,8 @@ export function ChatWidget() {
       }
       mem = {
         activeFlow: "sav",
-        lastOrderId: mem.lastOrderId,
         sav: { step: "need_order" },
+        ...(mem.lastOrderId ? { lastOrderId: mem.lastOrderId } : {}),
       };
       setMemory(mem);
       const list =
@@ -943,9 +965,16 @@ export function ChatWidget() {
           const actions: MsgAction[] = [];
 
           if (ticketSpec && user) {
-            const ticket = addTicket(ticketSpec.subject, ticketSpec.message);
+            const ticket = addTicket({
+              subject: ticketSpec.subject,
+              message: ticketSpec.message,
+              priority: "P3",
+              targetSla: "2 jours ouvrés",
+              channel: "Chatbot site web",
+              contactConsent: true,
+            });
             if (ticket) {
-              content += `\n\nTicket **${ticket.id}** créé (Ouvert).`;
+              content += `\n\nTicket **${ticket.id}** créé (Ouvert) — priorité **${ticket.priority}**, délai cible **${ticket.targetSla}**.`;
               setMemory(emptyMemory());
               logChatEvent("ticket_created", { detail: ticket.id });
               actions.push({ id: "go_account", label: "Voir mon compte" });
@@ -975,6 +1004,35 @@ export function ChatWidget() {
       setBusy(false);
     }
   };
+
+  askRef.current = ask;
+
+  /** After login: reopen chat and replay the blocked request (wait for store hydrate) */
+  useEffect(() => {
+    if (!ready || !user || resumeDoneRef.current) return;
+    let fromRedirect = false;
+    try {
+      fromRedirect = new URLSearchParams(window.location.search).get("chat") === "resume";
+    } catch {
+      fromRedirect = false;
+    }
+    if (!fromRedirect) return;
+    resumeDoneRef.current = true;
+    setOpen(true);
+    try {
+      const url = new URL(window.location.href);
+      url.searchParams.delete("chat");
+      window.history.replaceState({}, "", `${url.pathname}${url.search}${url.hash}`);
+    } catch {
+      /* ignore */
+    }
+    const payload = takeChatResume();
+    if (!payload?.prompt) return;
+    const t = window.setTimeout(() => {
+      void askRef.current(payload.prompt);
+    }, 200);
+    return () => window.clearTimeout(t);
+  }, [ready, user]);
 
   // wire handoff_ask action
   const onAction = (id: string) => {
