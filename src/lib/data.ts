@@ -1,4 +1,9 @@
-import { ensureCatalog as fetchCatalogFromSupabase } from "./catalog";
+import { useEffect, useState } from "react";
+import {
+  ensureCatalog as fetchCatalogFromSupabase,
+  getCatalogCache,
+  type CatalogSnapshot,
+} from "./catalog";
 
 export type CategoryNode = {
   slug: string;
@@ -25,20 +30,82 @@ export type Product = {
 /** Top-level universes for nav / home (from category-tree). */
 export type Category = { slug: string; name: string; tagline: string; image: string; path: string[] };
 
-/** Filled by `ensureCatalog()` from Supabase (root beforeLoad). */
+/**
+ * Module mirrors (legacy helpers / non-React code).
+ * Do NOT read these directly in React UI — use `useCatalog()` (SSR + client
+ * can have different module instances when `sideEffects: false`).
+ */
 export const products: Product[] = [];
 export const categoryTree: CategoryNode[] = [];
 export const categories: Category[] = [];
 export let initialOrders: Order[] = [];
 
-/** Load catalogue from Supabase into the exported arrays (idempotent / cached). */
-export async function ensureCatalog() {
-  const snap = await fetchCatalogFromSupabase();
+let catalogVersion = 0;
+const catalogListeners = new Set<() => void>();
+
+function emitCatalog() {
+  catalogVersion += 1;
+  for (const l of catalogListeners) l();
+}
+
+function applySnapshot(snap: CatalogSnapshot) {
   products.splice(0, products.length, ...snap.products);
   categoryTree.splice(0, categoryTree.length, ...snap.categoryTree);
   categories.splice(0, categories.length, ...snap.categories);
   initialOrders = snap.initialOrders;
+  emitCatalog();
+}
+
+export function subscribeCatalog(onChange: () => void) {
+  const cached = getCatalogCache();
+  if (cached && categories.length === 0 && cached.categories.length > 0) {
+    applySnapshot(cached);
+  }
+  catalogListeners.add(onChange);
+  return () => {
+    catalogListeners.delete(onChange);
+  };
+}
+
+/** Load catalogue from Supabase into module mirrors + shared cache. */
+export async function ensureCatalog() {
+  const snap = await fetchCatalogFromSupabase();
+  applySnapshot(snap);
   return snap;
+}
+
+/**
+ * Reactive catalogue for UI. Reads the shared `catalog.ts` cache (stable across
+ * SSR/client), not the mutable `data.ts` arrays alone.
+ */
+export function useCatalog() {
+  const [snap, setSnap] = useState<CatalogSnapshot | null>(() => getCatalogCache());
+
+  useEffect(() => {
+    let cancelled = false;
+    const unsub = subscribeCatalog(() => {
+      const cached = getCatalogCache();
+      if (!cancelled && cached) setSnap(cached);
+    });
+    void ensureCatalog()
+      .then((s) => {
+        if (!cancelled) setSnap(s);
+      })
+      .catch((err) => {
+        console.warn("[useCatalog] ensureCatalog failed", err);
+      });
+    return () => {
+      cancelled = true;
+      unsub();
+    };
+  }, []);
+
+  return {
+    products: snap?.products ?? [],
+    categories: snap?.categories ?? [],
+    categoryTree: snap?.categoryTree ?? [],
+    ready: snap != null,
+  } as const;
 }
 
 const fallbackCover = (slug: string) => {

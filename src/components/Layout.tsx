@@ -1,6 +1,6 @@
-import { Link } from "@tanstack/react-router";
+import { Link, useRouteContext } from "@tanstack/react-router";
 import type { ReactNode } from "react";
-import { categories, products, euro, type Product, productImage, type Status } from "@/lib/data";
+import { euro, products, type Product, productImage, type Status, useCatalog } from "@/lib/data";
 import { useStore } from "@/lib/store";
 import { ChatWidget } from "./ChatWidget";
 
@@ -19,6 +19,10 @@ export function Logo() {
 
 export function Layout({ children }: { children: ReactNode }) {
   const { user, logout, cart } = useStore();
+  const { categories: liveCategories } = useCatalog();
+  // SSR/hydrate: root beforeLoad serializes navCategories; live cache fills after mount
+  const { navCategories = [] } = useRouteContext({ from: "__root__" });
+  const categories = liveCategories.length > 0 ? liveCategories : navCategories;
   const count = Object.values(cart).reduce((a, b) => a + b, 0);
   return (
     <div className="min-h-screen bg-background">
@@ -96,4 +100,6 @@ const statusTone: Record<Status, string> = {
   "Annulée": "bg-destructive/15 text-destructive",
 };
 export const StatusBadge = ({ s }: { s: Status }) => <span className={`rounded-full px-2.5 py-0.5 text-xs font-semibold ${statusTone[s]}`}>{s}</span>;
-export const productName = (id: string) => products.find((p) => p.id === id)?.name ?? id;
+export function productName(id: string) {
+  return products.find((p) => p.id === id)?.name ?? id;
+}

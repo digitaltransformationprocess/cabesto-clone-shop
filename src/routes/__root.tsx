@@ -11,8 +11,14 @@ import {
 import type { ReactNode } from "react";
 
 import appCss from "../styles.css?url";
-import { ensureCatalog } from "../lib/data";
+import { ensureCatalog, type Category } from "../lib/data";
 import { StoreProvider } from "../lib/store";
+
+export type RootRouterContext = {
+  queryClient: QueryClient;
+  /** Serialized to the client — avoids empty nav after SSR hydrate. */
+  navCategories: Category[];
+};
 
 function NotFoundComponent() {
   return (
@@ -94,9 +100,10 @@ function ErrorComponent({ error, reset }: ErrorComponentProps) {
   );
 }
 
-export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()({
+export const Route = createRootRouteWithContext<RootRouterContext>()({
   beforeLoad: async () => {
-    await ensureCatalog();
+    const snap = await ensureCatalog();
+    return { navCategories: snap.categories };
   },
   head: () => ({
     meta: [

@@ -7,7 +7,7 @@ export const getRouter = () => {
   const queryClient = new QueryClient();
   return createRouter({
     routeTree,
-    context: { queryClient },
+    context: { queryClient, navCategories: [] },
     scrollRestoration: true,
     defaultPreloadStaleTime: 0,
   });

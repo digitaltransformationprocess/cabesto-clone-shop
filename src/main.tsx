@@ -10,7 +10,7 @@ const queryClient = new QueryClient();
 
 const router = createRouter({
   routeTree,
-  context: { queryClient },
+  context: { queryClient, navCategories: [] },
   scrollRestoration: true,
   defaultPreloadStaleTime: 0,
 });

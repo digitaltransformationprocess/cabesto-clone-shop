@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Layout, ProductCard } from "@/components/Layout";
-import { categories, mediaUrl, products } from "@/lib/data";
+import { mediaUrl, useCatalog } from "@/lib/data";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -15,6 +15,7 @@ export const Route = createFileRoute("/")({
 });
 
 function Index() {
+  const { products, categories } = useCatalog();
   const featured = products.filter((p) => p.stock > 0).slice(0, 8);
   const hero =
     mediaUrl(categories.find((c) => c.slug === "nautisme")?.image || "") ||

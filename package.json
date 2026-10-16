@@ -1,7 +1,12 @@
 {
   "name": "tanstack_start_ts",
   "private": true,
-  "sideEffects": false,
+  "sideEffects": [
+    "**/*.css",
+    "./src/lib/data.ts",
+    "./src/lib/catalog.ts",
+    "./src/styles.css"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite dev",

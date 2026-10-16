@@ -2,19 +2,38 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Layout, ProductCard } from "@/components/Layout";
 import {
   categoryBreadcrumbs,
+  categoryPathMatches,
+  ensureCatalog,
   findCategoryByPath,
-  productsInCategory,
+  type CategoryNode,
+  type Product,
 } from "@/lib/data";
 
+function findInTree(tree: CategoryNode[], segments: string[]): CategoryNode | undefined {
+  if (!segments.length) return undefined;
+  let nodes = tree;
+  let found: CategoryNode | undefined;
+  for (const seg of segments) {
+    found = nodes.find((n) => n.slug === seg);
+    if (!found) return undefined;
+    nodes = found.children;
+  }
+  return found;
+}
+
 export const Route = createFileRoute("/categorie/$")({
-  loader: ({ params }) => {
+  loader: async ({ params }) => {
+    const snap = await ensureCatalog();
     const segments = (params._splat || "")
       .split("/")
       .map((s) => s.trim())
       .filter(Boolean);
-    const node = findCategoryByPath(segments);
+    const node =
+      findInTree(snap.categoryTree, segments) ?? findCategoryByPath(segments);
     if (!node) throw notFound();
-    const list = productsInCategory(node.path);
+    const list: Product[] = snap.products.filter((p) =>
+      categoryPathMatches(p.categoryPath, node.path),
+    );
     return { node, list, segments };
   },
   head: ({ loaderData }) => ({
