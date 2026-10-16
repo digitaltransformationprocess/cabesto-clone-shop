@@ -6,13 +6,15 @@ import { ChatWidget } from "./ChatWidget";
 
 export function Logo() {
   return (
-    <Link to="/" className="flex items-center gap-2">
-      <svg viewBox="0 0 40 40" className="h-9 w-9" aria-hidden>
+    <Link to="/" className="flex shrink-0 items-center gap-1.5 sm:gap-2">
+      <svg viewBox="0 0 40 40" className="h-8 w-8 sm:h-9 sm:w-9" aria-hidden>
         <circle cx="20" cy="20" r="19" className="fill-primary" />
         <path d="M6 24c4-4 8-4 12 0s8 4 12 0 6-3 6-3" className="stroke-accent" strokeWidth="3" fill="none" strokeLinecap="round" />
         <path d="M20 8v12M14 14h12" className="stroke-primary-foreground" strokeWidth="2.5" strokeLinecap="round" />
       </svg>
-      <span className="font-display text-2xl font-extrabold tracking-tight text-primary">Marinéo</span>
+      <span className="font-display text-xl font-extrabold tracking-tight text-primary sm:text-2xl">
+        Marinéo
+      </span>
     </Link>
   );
 }
@@ -26,34 +28,77 @@ export function Layout({ children }: { children: ReactNode }) {
   const count = Object.values(cart).reduce((a, b) => a + b, 0);
   return (
     <div className="min-h-screen bg-background">
-      <div className="bg-primary py-1.5 text-center text-xs font-medium text-primary-foreground">
-        Livraison offerte dès 69 € · Retours gratuits 30 jours · Site de démonstration
+      <div className="bg-primary px-2 py-1.5 text-center text-[11px] font-medium leading-snug text-primary-foreground sm:text-xs">
+        <span className="sm:hidden">Livraison offerte dès 69 € · Retours 30 j</span>
+        <span className="hidden sm:inline">
+          Livraison offerte dès 69 € · Retours gratuits 30 jours · Site de démonstration
+        </span>
       </div>
       <header className="sticky top-0 z-20 border-b bg-card">
-        <div className="mx-auto flex max-w-7xl items-center gap-6 px-4 py-3">
+        <div className="mx-auto flex max-w-7xl items-center gap-2 px-3 py-2.5 sm:gap-6 sm:px-4 sm:py-3">
           <Logo />
-          <input placeholder="Rechercher un produit, une marque…" className="hidden flex-1 rounded-full border bg-muted px-4 py-2 text-sm md:block" />
-          <div className="ml-auto flex items-center gap-4 text-sm font-medium">
+          <input
+            placeholder="Rechercher un produit, une marque…"
+            className="hidden flex-1 rounded-full border bg-muted px-4 py-2 text-sm md:block"
+          />
+          <div className="ml-auto flex items-center gap-2 text-sm font-medium sm:gap-4">
             {user ? (
               <>
-                <Link to={user.role === "client" ? "/compte" : "/admin"} className="hover:text-accent">{user.name} <span className="text-muted-foreground">({user.role})</span></Link>
-                <button onClick={logout} className="text-muted-foreground hover:text-destructive">Déconnexion</button>
+                <Link
+                  to={user.role === "client" ? "/compte" : "/admin"}
+                  className="max-w-[7.5rem] truncate hover:text-accent sm:max-w-none"
+                >
+                  <span className="sm:hidden">{user.name.split(" ")[0]}</span>
+                  <span className="hidden sm:inline">
+                    {user.name}{" "}
+                    <span className="text-muted-foreground">({user.role})</span>
+                  </span>
+                </Link>
+                <button
+                  onClick={logout}
+                  className="hidden text-muted-foreground hover:text-destructive sm:inline"
+                >
+                  Déconnexion
+                </button>
               </>
-            ) : <Link to="/connexion" className="hover:text-accent">Mon compte</Link>}
-            <Link to="/panier" className="rounded-full bg-accent px-3 py-1 text-accent-foreground hover:opacity-90">Panier · {count}</Link>
+            ) : (
+              <Link to="/connexion" className="hover:text-accent">
+                Compte
+              </Link>
+            )}
+            <Link
+              to="/panier"
+              className="rounded-full bg-accent px-2.5 py-1 text-xs text-accent-foreground hover:opacity-90 sm:px-3 sm:text-sm"
+            >
+              <span className="sm:hidden">Panier{count > 0 ? ` · ${count}` : ""}</span>
+              <span className="hidden sm:inline">Panier · {count}</span>
+            </Link>
           </div>
         </div>
         <nav className="border-t bg-secondary">
-          <div className="mx-auto flex max-w-7xl gap-6 overflow-x-auto px-4 py-2 text-sm font-semibold text-secondary-foreground">
+          <div className="mx-auto flex max-w-7xl gap-4 overflow-x-auto px-3 py-2.5 text-sm font-semibold text-secondary-foreground [-ms-overflow-style:none] [scrollbar-width:none] sm:gap-6 sm:px-4 sm:py-2 [&::-webkit-scrollbar]:hidden">
             {categories.map((c) => (
-              <Link key={c.slug} to="/categorie/$" params={{ _splat: c.slug }} className="whitespace-nowrap hover:text-accent" activeProps={{ className: "text-accent" }}>{c.name}</Link>
+              <Link
+                key={c.slug}
+                to="/categorie/$"
+                params={{ _splat: c.slug }}
+                className="shrink-0 whitespace-nowrap hover:text-accent"
+                activeProps={{ className: "text-accent" }}
+              >
+                {c.name}
+              </Link>
             ))}
-            <Link to="/magasins" className="ml-auto whitespace-nowrap hover:text-accent">Nos magasins</Link>
-            <Link to="/faq" className="whitespace-nowrap hover:text-accent">Aide</Link>
+            <Link to="/magasins" className="ml-auto shrink-0 whitespace-nowrap hover:text-accent">
+              <span className="sm:hidden">Magasins</span>
+              <span className="hidden sm:inline">Nos magasins</span>
+            </Link>
+            <Link to="/faq" className="shrink-0 whitespace-nowrap hover:text-accent">
+              Aide
+            </Link>
           </div>
         </nav>
       </header>
-      <main>{children}</main>
+      <main className="pb-20 md:pb-0">{children}</main>
       <footer className="mt-16 bg-primary text-primary-foreground">
         <div className="mx-auto grid max-w-7xl gap-8 px-4 py-10 text-sm md:grid-cols-4">
           <div><p className="font-display text-xl font-bold">Marinéo</p><p className="mt-2 opacity-75">L'équipement de la mer, pour la pêche, le bateau et la plongée.</p></div>

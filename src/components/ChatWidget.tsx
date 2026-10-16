@@ -256,8 +256,8 @@ function ProductCards({
             key={p.sku}
             className="overflow-hidden rounded-xl border bg-background transition hover:border-accent/40"
           >
-            <div className="flex gap-3 p-2.5">
-              <div className="h-16 w-16 shrink-0 overflow-hidden rounded-lg bg-muted">
+            <div className="flex gap-3 p-3 sm:p-2.5">
+              <div className="h-[4.5rem] w-[4.5rem] shrink-0 overflow-hidden rounded-lg bg-muted sm:h-16 sm:w-16">
                 {img ? (
                   <img
                     src={img}
@@ -291,17 +291,17 @@ function ProductCards({
             <div className="flex border-t">
               <a
                 href={`/produit/${p.sku}`}
-                className="flex-1 py-2 text-center text-xs font-semibold text-muted-foreground transition hover:bg-muted hover:text-foreground"
+                className="flex min-h-11 flex-1 items-center justify-center py-2.5 text-center text-xs font-semibold text-muted-foreground transition hover:bg-muted hover:text-foreground sm:min-h-0 sm:py-2"
               >
-                Voir la fiche
+                Voir
               </a>
               <button
                 type="button"
                 disabled={!inStock}
                 onClick={() => onAdd(p.sku)}
-                className="flex-1 border-l py-2 text-center text-xs font-bold text-accent transition hover:bg-accent/10 disabled:cursor-not-allowed disabled:opacity-40"
+                className="flex min-h-11 flex-1 items-center justify-center border-l py-2.5 text-center text-xs font-bold text-accent transition hover:bg-accent/10 disabled:cursor-not-allowed disabled:opacity-40 sm:min-h-0 sm:py-2"
               >
-                {justAdded ? "Ajouté" : "Ajouter au panier"}
+                {justAdded ? "Ajouté ✓" : "Ajouter"}
               </button>
             </div>
           </div>
@@ -321,7 +321,7 @@ function ActionRow({
   onAction: (id: string) => void;
 }) {
   return (
-    <div className="mt-2 flex flex-wrap gap-1.5">
+    <div className="mt-2 flex flex-wrap gap-2">
       {actions.map((a) => (
         <button
           key={a.id}
@@ -330,8 +330,8 @@ function ActionRow({
           onClick={() => onAction(a.id)}
           className={
             a.primary
-              ? "rounded-lg bg-accent px-3 py-1.5 text-xs font-bold text-accent-foreground disabled:opacity-50"
-              : "rounded-lg border border-border bg-background px-3 py-1.5 text-xs font-semibold text-foreground hover:border-accent hover:text-accent disabled:opacity-50"
+              ? "min-h-10 rounded-lg bg-accent px-3.5 py-2 text-xs font-bold text-accent-foreground disabled:opacity-50 sm:min-h-0 sm:py-1.5"
+              : "min-h-10 rounded-lg border border-border bg-background px-3.5 py-2 text-xs font-semibold text-foreground hover:border-accent hover:text-accent disabled:opacity-50 sm:min-h-0 sm:py-1.5"
           }
         >
           {a.label}
@@ -407,6 +407,38 @@ export function ChatWidget() {
     const t = window.setTimeout(() => setAddedSku(null), 1800);
     return () => window.clearTimeout(t);
   }, [addedSku]);
+
+  /** Lock page scroll while chat is open (mobile full-screen). */
+  useEffect(() => {
+    if (!open) return;
+    const prev = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.body.style.overflow = prev;
+    };
+  }, [open]);
+
+  /** Keep composer above the on-screen keyboard (iOS / Android). */
+  const [keyboardInset, setKeyboardInset] = useState(0);
+  useEffect(() => {
+    if (!open) {
+      setKeyboardInset(0);
+      return;
+    }
+    const vv = window.visualViewport;
+    if (!vv) return;
+    const sync = () => {
+      const inset = Math.max(0, window.innerHeight - vv.height - vv.offsetTop);
+      setKeyboardInset(inset);
+    };
+    vv.addEventListener("resize", sync);
+    vv.addEventListener("scroll", sync);
+    sync();
+    return () => {
+      vv.removeEventListener("resize", sync);
+      vv.removeEventListener("scroll", sync);
+    };
+  }, [open]);
 
   const pushAssistant = (
     next: Msg[],
@@ -1084,231 +1116,275 @@ export function ChatWidget() {
   return (
     <>
       {open && (
-        <div className="fixed bottom-24 right-4 z-50 flex h-[min(640px,78vh)] w-[min(400px,calc(100vw-1.5rem))] flex-col overflow-hidden rounded-2xl border bg-card shadow-2xl">
-          {/* Header */}
-          <div className="flex items-center gap-3 bg-primary px-4 py-3 text-primary-foreground">
-            <div className="grid h-9 w-9 place-items-center rounded-full bg-accent text-sm font-bold text-accent-foreground">
-              M
-            </div>
-            <div className="min-w-0 flex-1">
-              <p className="font-display text-sm font-bold leading-tight">Assistant Marinéo</p>
-              <p className="truncate text-[11px] opacity-80">
-                {user ? `${user.name.split(" ")[0]} · connecté` : "Invité · catalogue & infos"}
-                {checkout
-                  ? " · commande en cours"
-                  : memory.activeFlow === "sav"
-                    ? " · SAV en cours"
-                    : memory.lastOrderId
-                      ? ` · ${memory.lastOrderId}`
-                      : ""}
-              </p>
-            </div>
-            {msgs.length > 0 && (
-              <button
-                type="button"
-                onClick={clearChat}
-                className="rounded-md px-2 py-1 text-[11px] font-semibold opacity-80 hover:bg-white/10 hover:opacity-100"
-              >
-                Effacer
-              </button>
-            )}
-            <button
-              type="button"
-              onClick={() => setOpen(false)}
-              aria-label="Fermer"
-              className="grid h-8 w-8 place-items-center rounded-md text-lg leading-none hover:bg-white/10"
-            >
-              ×
-            </button>
-          </div>
+        <>
+          {/* Mobile dimmer — tap outside to close */}
+          <button
+            type="button"
+            aria-label="Fermer l'assistant"
+            className="fixed inset-0 z-40 bg-black/45 md:hidden"
+            onClick={() => setOpen(false)}
+          />
 
-          {/* Messages */}
-          <div className="flex-1 space-y-3 overflow-y-auto bg-muted/20 p-3 text-sm">
-            {msgs.length === 0 && (
-              <div className="space-y-3">
-                <div className="rounded-2xl rounded-tl-md bg-card p-3.5 shadow-sm ring-1 ring-border">
-                  <p className="text-[11px] font-bold uppercase tracking-wide text-muted-foreground">
-                    Assistant virtuel
-                  </p>
-                  <p className="mt-1.5 leading-relaxed">
-                    Bonjour{user ? ` ${user.name.split(" ")[0]}` : ""} ! Je peux vous aider sur le
-                    catalogue, la livraison et les retours.
-                    {user
-                      ? " Votre compte permet aussi le suivi, le panier et le SAV."
-                      : ""}
-                  </p>
-                </div>
-
-                {!user && (
-                  <div className="rounded-xl border border-dashed border-accent/40 bg-accent/5 p-3">
-                    <p className="text-xs leading-relaxed text-muted-foreground">
-                      Connectez-vous pour suivre une commande ou ouvrir un ticket SAV.
-                    </p>
-                    <a
-                      href="/connexion"
-                      className="mt-2 inline-flex rounded-lg bg-accent px-3 py-2 text-xs font-bold text-accent-foreground"
-                    >
-                      Se connecter
-                    </a>
-                  </div>
-                )}
-
-                <div className="grid grid-cols-2 gap-2">
-                  {quickActions.map((q) => {
-                    const locked = Boolean(q.needsAuth && !user);
-                    return (
-                      <button
-                        key={q.label}
-                        type="button"
-                        onClick={() => void ask(q.prompt)}
-                        className="rounded-xl border bg-card px-3 py-2.5 text-left text-xs font-semibold leading-snug transition hover:border-accent hover:text-accent"
-                      >
-                        <span className="block">{q.label}</span>
-                        {locked && (
-                          <span className="mt-0.5 block text-[10px] font-medium text-muted-foreground">
-                            Connexion requise
-                          </span>
-                        )}
-                      </button>
-                    );
-                  })}
-                </div>
-
+          <div
+            role="dialog"
+            aria-modal="true"
+            aria-label="Assistant Marinéo"
+            style={keyboardInset > 0 ? { paddingBottom: keyboardInset } : undefined}
+            className={[
+              "fixed z-50 flex flex-col overflow-hidden border bg-card shadow-2xl",
+              // Mobile: full viewport (dynamic height + safe areas)
+              "inset-0 rounded-none",
+              "pt-[env(safe-area-inset-top)]",
+              // Desktop: floating card above the launcher
+              "md:inset-auto md:bottom-24 md:right-4 md:h-[min(640px,78vh)] md:w-[min(400px,calc(100vw-2rem))] md:rounded-2xl md:pt-0",
+            ].join(" ")}
+          >
+            {/* Header */}
+            <div className="flex shrink-0 items-center gap-2.5 bg-primary px-3 py-3 text-primary-foreground sm:gap-3 sm:px-4">
+              <div className="grid h-10 w-10 shrink-0 place-items-center rounded-full bg-accent text-sm font-bold text-accent-foreground sm:h-9 sm:w-9">
+                M
+              </div>
+              <div className="min-w-0 flex-1">
+                <p className="font-display text-sm font-bold leading-tight sm:text-[15px]">
+                  Assistant Marinéo
+                </p>
+                <p className="truncate text-[11px] opacity-80">
+                  {user ? `${user.name.split(" ")[0]} · connecté` : "Invité · catalogue & infos"}
+                  {checkout
+                    ? " · commande"
+                    : memory.activeFlow === "sav"
+                      ? " · SAV"
+                      : memory.lastOrderId
+                        ? ` · ${memory.lastOrderId}`
+                        : ""}
+                </p>
+              </div>
+              {msgs.length > 0 && (
                 <button
                   type="button"
-                  onClick={() => void ask("Je veux parler à un conseiller")}
-                  className="w-full rounded-lg py-2 text-xs font-semibold text-muted-foreground underline-offset-2 hover:text-foreground hover:underline"
+                  onClick={clearChat}
+                  className="hidden rounded-md px-2 py-1.5 text-[11px] font-semibold opacity-80 hover:bg-white/10 hover:opacity-100 sm:inline"
                 >
-                  Parler à un conseiller
+                  Effacer
                 </button>
-              </div>
-            )}
-
-            {msgs.map((m, i) => {
-              if (m.role === "user") {
-                return (
-                  <div
-                    key={i}
-                    className="ml-10 rounded-2xl rounded-br-md bg-primary px-3.5 py-2.5 text-primary-foreground"
-                  >
-                    {m.content}
-                  </div>
-                );
-              }
-              if (!m.content && !m.products?.length) return null;
-              return (
-                <div key={i} className="mr-6 max-w-[95%]">
-                  <div
-                    className={
-                      m.kind === "success"
-                        ? "rounded-2xl rounded-bl-md border border-emerald-500/25 bg-emerald-500/5 px-3.5 py-2.5"
-                        : m.kind === "cart"
-                          ? "rounded-2xl rounded-bl-md border border-accent/25 bg-accent/5 px-3.5 py-2.5"
-                          : m.kind === "login"
-                            ? "rounded-2xl rounded-bl-md border bg-card px-3.5 py-2.5"
-                            : "rounded-2xl rounded-bl-md bg-card px-3.5 py-2.5 shadow-sm ring-1 ring-border"
-                    }
-                  >
-                    {(() => {
-                      const hasCards = Boolean(m.products?.length);
-                      const body = render(m.content, hasCards);
-                      if (body) return body;
-                      if (hasCards) {
-                        const oos = m.products!.every((p) => p.stock <= 0);
-                        return (
-                          <p className="text-sm leading-relaxed">
-                            {oos
-                              ? "Voici les articles trouvés — actuellement en rupture de stock :"
-                              : "Voici les articles trouvés :"}
-                          </p>
-                        );
-                      }
-                      return null;
-                    })()}
-                    {m.kind === "login" && <LoginGate />}
-                    {m.products && m.products.length > 0 && (
-                      <ProductCards
-                        products={m.products}
-                        addedSku={addedSku}
-                        onAdd={(sku) => {
-                          const p = m.products?.find((x) => x.sku === sku);
-                          onAddProduct(sku, p?.name ?? sku);
-                        }}
-                      />
-                    )}
-                    {m.actions && m.actions.length > 0 && (
-                      <ActionRow actions={m.actions} busy={busy} onAction={onAction} />
-                    )}
-                  </div>
-                </div>
-              );
-            })}
-
-            {busy && <TypingDots />}
-            <div ref={end} />
-          </div>
-
-          {/* Composer */}
-          <form
-            onSubmit={(e) => {
-              e.preventDefault();
-              void ask(input);
-            }}
-            className="border-t bg-card p-3"
-          >
-            {checkout && (
-              <p className="mb-2 text-[10px] font-semibold uppercase tracking-wide text-accent">
-                Validation commande — confirmez ou changez le transporteur
-              </p>
-            )}
-            {memory.activeFlow === "sav" && !checkout && (
-              <p className="mb-2 text-[10px] font-semibold uppercase tracking-wide text-accent">
-                {memory.sav.step === "need_order"
-                  ? "SAV — indiquez le n° de commande"
-                  : memory.sav.step === "need_issue"
-                    ? `SAV — motif pour ${memory.sav.orderId}`
-                    : memory.sav.step === "need_details"
-                      ? "SAV — décrivez le problème"
-                      : "SAV — confirmez le ticket"}
-              </p>
-            )}
-            <div className="flex gap-2">
-              <input
-                autoFocus
-                value={input}
-                onChange={(e) => setInput(e.target.value)}
-                placeholder={
-                  checkout
-                    ? "Je confirme ou Chronopost…"
-                    : memory.activeFlow === "sav"
-                      ? memory.sav.step === "need_order"
-                        ? "Ex. CMD-1101…"
-                        : memory.sav.step === "need_issue"
-                          ? "Endommagé, pas reçu…"
-                          : "Détail ou « créer le ticket »…"
-                      : user
-                        ? "Produit, panier, commande, SAV…"
-                        : "Produit, livraison, magasin…"
-                }
-                className="min-w-0 flex-1 rounded-xl border bg-muted/50 px-3.5 py-2.5 text-sm outline-none ring-accent focus:ring-2"
-              />
+              )}
               <button
-                disabled={busy || !input.trim()}
-                type="submit"
-                className="rounded-xl bg-accent px-4 text-sm font-bold text-accent-foreground disabled:opacity-40"
+                type="button"
+                onClick={() => setOpen(false)}
+                aria-label="Fermer"
+                className="grid h-11 w-11 shrink-0 place-items-center rounded-xl text-2xl leading-none hover:bg-white/10 sm:h-8 sm:w-8 sm:text-lg"
               >
-                Envoyer
+                ×
               </button>
             </div>
-          </form>
-        </div>
+
+            {/* Messages */}
+            <div className="min-h-0 flex-1 space-y-3 overflow-y-auto overscroll-contain bg-muted/20 p-3 text-sm [-webkit-overflow-scrolling:touch] sm:p-3.5">
+              {msgs.length === 0 && (
+                <div className="space-y-3">
+                  <div className="rounded-2xl rounded-tl-md bg-card p-3.5 shadow-sm ring-1 ring-border">
+                    <p className="text-[11px] font-bold uppercase tracking-wide text-muted-foreground">
+                      Assistant virtuel
+                    </p>
+                    <p className="mt-1.5 leading-relaxed">
+                      Bonjour{user ? ` ${user.name.split(" ")[0]}` : ""} ! Je peux vous aider sur le
+                      catalogue, la livraison et les retours.
+                      {user
+                        ? " Votre compte permet aussi le suivi, le panier et le SAV."
+                        : ""}
+                    </p>
+                  </div>
+
+                  {!user && (
+                    <div className="rounded-xl border border-dashed border-accent/40 bg-accent/5 p-3">
+                      <p className="text-xs leading-relaxed text-muted-foreground">
+                        Connectez-vous pour suivre une commande ou ouvrir un ticket SAV.
+                      </p>
+                      <a
+                        href="/connexion"
+                        className="mt-2 inline-flex min-h-11 items-center rounded-lg bg-accent px-4 text-sm font-bold text-accent-foreground sm:min-h-0 sm:px-3 sm:py-2 sm:text-xs"
+                      >
+                        Se connecter
+                      </a>
+                    </div>
+                  )}
+
+                  <div className="grid grid-cols-2 gap-2">
+                    {quickActions.map((q) => {
+                      const locked = Boolean(q.needsAuth && !user);
+                      return (
+                        <button
+                          key={q.label}
+                          type="button"
+                          onClick={() => void ask(q.prompt)}
+                          className="min-h-12 rounded-xl border bg-card px-3 py-3 text-left text-[13px] font-semibold leading-snug transition hover:border-accent hover:text-accent active:bg-muted sm:min-h-0 sm:px-3 sm:py-2.5 sm:text-xs"
+                        >
+                          <span className="block">{q.label}</span>
+                          {locked && (
+                            <span className="mt-0.5 block text-[10px] font-medium text-muted-foreground">
+                              Connexion requise
+                            </span>
+                          )}
+                        </button>
+                      );
+                    })}
+                  </div>
+
+                  <button
+                    type="button"
+                    onClick={() => void ask("Je veux parler à un conseiller")}
+                    className="min-h-11 w-full rounded-lg py-2.5 text-sm font-semibold text-muted-foreground underline-offset-2 hover:text-foreground hover:underline sm:min-h-0 sm:py-2 sm:text-xs"
+                  >
+                    Parler à un conseiller
+                  </button>
+                </div>
+              )}
+
+              {msgs.map((m, i) => {
+                if (m.role === "user") {
+                  return (
+                    <div
+                      key={i}
+                      className="ml-6 rounded-2xl rounded-br-md bg-primary px-3.5 py-2.5 text-primary-foreground sm:ml-10"
+                    >
+                      {m.content}
+                    </div>
+                  );
+                }
+                if (!m.content && !m.products?.length) return null;
+                return (
+                  <div key={i} className="mr-2 max-w-[100%] sm:mr-6 sm:max-w-[95%]">
+                    <div
+                      className={
+                        m.kind === "success"
+                          ? "rounded-2xl rounded-bl-md border border-emerald-500/25 bg-emerald-500/5 px-3.5 py-2.5"
+                          : m.kind === "cart"
+                            ? "rounded-2xl rounded-bl-md border border-accent/25 bg-accent/5 px-3.5 py-2.5"
+                            : m.kind === "login"
+                              ? "rounded-2xl rounded-bl-md border bg-card px-3.5 py-2.5"
+                              : "rounded-2xl rounded-bl-md bg-card px-3.5 py-2.5 shadow-sm ring-1 ring-border"
+                      }
+                    >
+                      {(() => {
+                        const hasCards = Boolean(m.products?.length);
+                        const body = render(m.content, hasCards);
+                        if (body) return body;
+                        if (hasCards) {
+                          const oos = m.products!.every((p) => p.stock <= 0);
+                          return (
+                            <p className="text-sm leading-relaxed">
+                              {oos
+                                ? "Voici les articles trouvés — actuellement en rupture de stock :"
+                                : "Voici les articles trouvés :"}
+                            </p>
+                          );
+                        }
+                        return null;
+                      })()}
+                      {m.kind === "login" && <LoginGate />}
+                      {m.products && m.products.length > 0 && (
+                        <ProductCards
+                          products={m.products}
+                          addedSku={addedSku}
+                          onAdd={(sku) => {
+                            const p = m.products?.find((x) => x.sku === sku);
+                            onAddProduct(sku, p?.name ?? sku);
+                          }}
+                        />
+                      )}
+                      {m.actions && m.actions.length > 0 && (
+                        <ActionRow actions={m.actions} busy={busy} onAction={onAction} />
+                      )}
+                    </div>
+                  </div>
+                );
+              })}
+
+              {busy && <TypingDots />}
+              <div ref={end} />
+            </div>
+
+            {/* Composer */}
+            <form
+              onSubmit={(e) => {
+                e.preventDefault();
+                void ask(input);
+              }}
+              className="shrink-0 border-t bg-card px-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] pt-3 sm:p-3 sm:pb-3"
+            >
+              {checkout && (
+                <p className="mb-2 text-[10px] font-semibold uppercase tracking-wide text-accent">
+                  Validation commande — confirmez ou changez le transporteur
+                </p>
+              )}
+              {memory.activeFlow === "sav" && !checkout && (
+                <p className="mb-2 text-[10px] font-semibold uppercase tracking-wide text-accent">
+                  {memory.sav.step === "need_order"
+                    ? "SAV — indiquez le n° de commande"
+                    : memory.sav.step === "need_issue"
+                      ? `SAV — motif pour ${memory.sav.orderId}`
+                      : memory.sav.step === "need_details"
+                        ? "SAV — décrivez le problème"
+                        : "SAV — confirmez le ticket"}
+                </p>
+              )}
+              {msgs.length > 0 && (
+                <button
+                  type="button"
+                  onClick={clearChat}
+                  className="mb-2 text-[11px] font-semibold text-muted-foreground underline-offset-2 hover:underline sm:hidden"
+                >
+                  Effacer la conversation
+                </button>
+              )}
+              <div className="flex items-end gap-2">
+                <input
+                  autoFocus
+                  value={input}
+                  onChange={(e) => setInput(e.target.value)}
+                  enterKeyHint="send"
+                  placeholder={
+                    checkout
+                      ? "Je confirme ou Chronopost…"
+                      : memory.activeFlow === "sav"
+                        ? memory.sav.step === "need_order"
+                          ? "Ex. CMD-1101…"
+                          : memory.sav.step === "need_issue"
+                            ? "Endommagé, pas reçu…"
+                            : "Détail ou « créer le ticket »…"
+                        : user
+                          ? "Produit, panier, commande…"
+                          : "Produit, livraison…"
+                  }
+                  className="min-h-12 min-w-0 flex-1 rounded-2xl border bg-muted/50 px-4 py-3 text-base outline-none ring-accent focus:ring-2 sm:min-h-0 sm:rounded-xl sm:px-3.5 sm:py-2.5 sm:text-sm"
+                />
+                <button
+                  disabled={busy || !input.trim()}
+                  type="submit"
+                  aria-label="Envoyer"
+                  className="grid h-12 w-12 shrink-0 place-items-center rounded-2xl bg-accent text-sm font-bold text-accent-foreground disabled:opacity-40 sm:h-auto sm:w-auto sm:rounded-xl sm:px-4 sm:py-2.5"
+                >
+                  <span className="sm:hidden" aria-hidden>
+                    ↑
+                  </span>
+                  <span className="hidden sm:inline">Envoyer</span>
+                </button>
+              </div>
+            </form>
+          </div>
+        </>
       )}
 
+      {/* Launcher — hidden on mobile while panel is open (header has close) */}
       <button
         type="button"
         onClick={() => setOpen(!open)}
         aria-label={open ? "Fermer l'assistant" : "Ouvrir l'assistant"}
-        className="fixed bottom-4 right-4 z-50 grid h-14 w-14 place-items-center rounded-full bg-accent text-accent-foreground shadow-xl transition hover:scale-105"
+        className={[
+          "fixed z-50 grid h-14 w-14 place-items-center rounded-full bg-accent text-accent-foreground shadow-xl transition hover:scale-105 active:scale-95",
+          "bottom-[max(1rem,env(safe-area-inset-bottom))] right-[max(1rem,env(safe-area-inset-right))]",
+          open ? "hidden md:grid" : "grid",
+        ].join(" ")}
       >
         {open ? (
           <span className="text-2xl leading-none">×</span>
