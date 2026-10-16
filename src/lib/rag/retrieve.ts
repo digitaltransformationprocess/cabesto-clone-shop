@@ -1,4 +1,10 @@
 import { getServerAiConfig } from "../ai-config";
+import {
+  filterNoiseSiteChunks,
+  normalizeSearchQuery,
+  trimToRelevantDocs,
+  trimToRelevantProducts,
+} from "./rag-guardrails";
 import { getSupabaseAdmin } from "./supabase-admin";
 
 export const EMBEDDING_DIM = 1536;
@@ -200,25 +206,36 @@ export async function retrieveAll(
   query: string,
   filters: MatchFilters = {},
 ): Promise<{ products: RetrievedProduct[]; docs: RetrievedSiteChunk[]; siteIntent: boolean }> {
-  const embedding = await embedQuery(query.trim());
-  const siteIntent = isSiteIntent(query);
-  const [productChunks, docs] = await Promise.all([
+  const cleaned = normalizeSearchQuery(query);
+  const embedding = await embedQuery(cleaned);
+  const siteIntent = isSiteIntent(cleaned);
+  const [productChunks, rawDocs] = await Promise.all([
     retrieveProductChunks(embedding, {
       ...filters,
       // Site questions: keep a light product signal only if clearly product-related.
       matchCount: siteIntent ? Math.min(filters.matchCount ?? 3, 3) : (filters.matchCount ?? 8),
-      minSimilarity: siteIntent ? Math.max(filters.minSimilarity ?? 0.35, 0.35) : (filters.minSimilarity ?? 0.25),
+      // Raised floors to avoid weak semantic matches (e.g. FAQ RH on product questions)
+      minSimilarity: siteIntent
+        ? Math.max(filters.minSimilarity ?? 0.38, 0.38)
+        : (filters.minSimilarity ?? 0.32),
     }),
     retrieveSiteChunks(embedding, {
-      matchCount: siteIntent ? 8 : 6,
-      minSimilarity: filters.minSimilarity ?? (siteIntent ? 0.18 : 0.22),
+      matchCount: siteIntent ? 8 : 4,
+      // Product asks: only keep very strong site hits (avoid weak FAQ bleed)
+      minSimilarity: filters.minSimilarity ?? (siteIntent ? 0.28 : 0.4),
     }),
   ]);
-  return {
-    products: siteIntent ? [] : groupChunksByProduct(productChunks),
-    docs,
-    siteIntent,
-  };
+
+  const docs = trimToRelevantDocs(
+    filterNoiseSiteChunks(rawDocs),
+    siteIntent ? 0.28 : 0.4,
+    siteIntent ? 4 : 2,
+  );
+  const products = siteIntent
+    ? []
+    : trimToRelevantProducts(groupChunksByProduct(productChunks), 0.34, 3);
+
+  return { products, docs, siteIntent };
 }
 
 /** Attach live cover URLs for chat product cards. */

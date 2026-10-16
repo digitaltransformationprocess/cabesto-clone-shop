@@ -14,6 +14,8 @@ export type RagMetaProduct = {
 export type StreamChatHandlers = {
   onMeta?: (products: RagMetaProduct[]) => void;
   onToken?: (text: string) => void;
+  /** Replace the whole assistant buffer (e.g. after "Je ne sais pas" → catalog reply). */
+  onReplace?: (text: string) => void;
   onDone?: () => void;
   onError?: (message: string) => void;
   signal?: AbortSignal;
@@ -23,6 +25,7 @@ export type StreamChatHandlers = {
 type SseEvent =
   | { type: "meta"; products: RagMetaProduct[] }
   | { type: "token"; text: string }
+  | { type: "replace"; text: string }
   | { type: "done" }
   | { type: "error"; message: string };
 
@@ -90,6 +93,7 @@ export async function streamRagChat(
       }
       if (evt.type === "meta") handlers.onMeta?.(evt.products ?? []);
       else if (evt.type === "token") handlers.onToken?.(evt.text ?? "");
+      else if (evt.type === "replace") handlers.onReplace?.(evt.text ?? "");
       else if (evt.type === "error") handlers.onError?.(evt.message || "Erreur assistant");
       else if (evt.type === "done") handlers.onDone?.();
     }

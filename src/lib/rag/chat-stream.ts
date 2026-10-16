@@ -11,6 +11,11 @@ import {
   requiresAuth,
 } from "./chat-intents";
 import {
+  hasUsefulSources,
+  isOutOfScopeQuery,
+  OUT_OF_CATALOG_REPLY,
+} from "./rag-guardrails";
+import {
   buildRagContext,
   buildSiteRagContext,
   hydrateProductImages,
@@ -34,7 +39,7 @@ const ENDPOINTS = {
   openrouter: "https://openrouter.ai/api/v1/chat/completions",
 } as const;
 
-const SYSTEM_RULES = `Tu es l'assistant de la boutique Marinéo (pêche, nautisme, plongée, montagne, piscine).
+const SYSTEM_RULES = `Tu es l'assistant de la boutique Marinéo (pêche, nautisme, plongée, montagne, piscine, alimentation).
 Réponds en français, concis.
 Tu es un assistant virtuel (pas un conseiller humain).
 
@@ -43,13 +48,13 @@ Règles STRICTES :
 2. PRODUITS : l'interface affiche déjà des cartes (photo, prix, stock, boutons). Ta réponse texte doit être UNIQUEMENT 1 ou 2 phrases d'intro (ex. « Voici 2 options adaptées : » ou « Ces articles sont en rupture pour le moment. »).
    - INTERDIT : tableaux markdown (| ... |), listes détaillées de produits, répétition prix/stock/liens.
    - Maximum 3 produits dans le contexte — ne parle que de ceux-là.
-3. Pour FAQ / livraison / retours / magasins : utilise « Pages du site », phrases courtes + un lien markdown [Titre](/chemin).
+3. Pour FAQ / livraison / retours / magasins : utilise « Pages du site » SEULEMENT si le extrait répond clairement à la question. Phrases courtes + un lien markdown [Titre](/chemin).
 4. Pour les commandes / tickets : utilise uniquement « Compte client ». N'invente aucun statut ni numéro.
 5. Ne promets jamais de remboursement. Pour le SAV, propose un ticket ; si tu as sujet + description, termine par une ligne :
 [CREER_TICKET] sujet court | description détaillée
-6. Si des sources utiles sont listées, réponds avec elles (ne dis pas « Je ne sais pas »).
-7. Réponds « Je ne sais pas » UNIQUEMENT si aucune source utile n'est fournie.
-8. N'invente rien hors contexte.
+6. N'utilise une source que si elle est pertinente pour la question. Une FAQ hors sujet (recrutement, RH, LinkedIn…) ne compte PAS.
+7. Si aucune source pertinente : réponds exactement « Je ne sais pas » (rien d'autre).
+8. N'invente rien hors contexte. Ne propose jamais de voitures, immobilier, high-tech hors catalogue.
 9. N'utilise JAMAIS de tableau markdown.`;
 
 function deterministicProductAnswer(products: RetrievedProduct[]): string {
@@ -80,7 +85,10 @@ function deterministicDocAnswer(docs: RetrievedSiteChunk[]): string {
 }
 
 function isDontKnow(text: string): boolean {
-  return /^je ne sais pas\.?$/i.test(text.trim());
+  const t = text.trim();
+  if (!t) return true;
+  // Exact or starts with "Je ne sais pas" (ignore trailing noise)
+  return /^je ne sais pas\b/i.test(t) && t.length < 80;
 }
 
 function lastUserMessage(messages: ChatMessage[]): string {
@@ -222,6 +230,23 @@ export async function createRagChatSseStream(body: ChatRequestBody): Promise<Res
           return;
         }
 
+        /** Clear out-of-catalog asks (cars, etc.) — skip noisy retrieve */
+        if (isOutOfScopeQuery(query) && intent === "product") {
+          send({
+            type: "meta",
+            products: [],
+            docs: [],
+            siteIntent: false,
+            intent,
+            authRequired: false,
+            outOfCatalog: true,
+          });
+          send({ type: "token", text: OUT_OF_CATALOG_REPLY });
+          send({ type: "done" });
+          controller.close();
+          return;
+        }
+
         const accountMode = authed && (intent === "order_tracking" || intent === "sav");
 
         const retrieved = accountMode
@@ -232,6 +257,29 @@ export async function createRagChatSseStream(body: ChatRequestBody): Promise<Res
           : await hydrateProductImages(retrieved.products);
         const docs = retrieved.docs;
         const siteIntent = retrieved.siteIntent;
+        const useful = accountMode || hasUsefulSources(products, docs);
+
+        const ordersCtx = formatOrdersForPrompt(session?.orders ?? []);
+        const ticketsCtx = formatTicketsForPrompt(session?.tickets ?? []);
+        const accountCtx = accountMode
+          ? `Client : ${session?.userName ?? "?"} (${session?.email ?? "?"})\nCommandes :\n${ordersCtx}\nTickets SAV :\n${ticketsCtx}`
+          : "";
+
+        if (!useful) {
+          send({
+            type: "meta",
+            products: [],
+            docs: [],
+            siteIntent,
+            intent,
+            authRequired: false,
+            outOfCatalog: true,
+          });
+          send({ type: "token", text: OUT_OF_CATALOG_REPLY });
+          send({ type: "done" });
+          controller.close();
+          return;
+        }
 
         const publicProducts = products.map((p) => ({
           sku: p.sku,
@@ -257,19 +305,6 @@ export async function createRagChatSseStream(body: ChatRequestBody): Promise<Res
           authRequired: false,
         });
 
-        const ordersCtx = formatOrdersForPrompt(session?.orders ?? []);
-        const ticketsCtx = formatTicketsForPrompt(session?.tickets ?? []);
-        const accountCtx = accountMode
-          ? `Client : ${session?.userName ?? "?"} (${session?.email ?? "?"})\nCommandes :\n${ordersCtx}\nTickets SAV :\n${ticketsCtx}`
-          : "";
-
-        if (!products.length && !docs.length && !accountMode) {
-          send({ type: "token", text: "Je ne sais pas" });
-          send({ type: "done" });
-          controller.close();
-          return;
-        }
-
         const productCtx = buildRagContext(products);
         const siteCtx = buildSiteRagContext(docs);
         const focus = accountMode
@@ -277,8 +312,8 @@ export async function createRagChatSseStream(body: ChatRequestBody): Promise<Res
             ? "Priorité: SAV — utilise « Compte client ». Pas de promesse de remboursement. Propose [CREER_TICKET] si assez d'info."
             : "Priorité: suivi de commande — utilise uniquement « Compte client »."
           : siteIntent
-            ? "Priorité: répondre avec « Pages du site » (FAQ, livraison, retours, magasins…)."
-            : "Priorité: répondre avec les produits si la question porte sur un article.";
+            ? "Priorité: répondre avec « Pages du site » (FAQ, livraison, retours, magasins…) si pertinent."
+            : "Priorité: produits. Si les produits/docs ne collent pas à la question → « Je ne sais pas ».";
         const system = `${SYSTEM_RULES}
 
 ${focus}
@@ -317,21 +352,36 @@ ${accountCtx || "(non connecté / non applicable)"}`;
           if (full) send({ type: "token", text: full });
         }
 
-        if (!assembled.trim() || isDontKnow(assembled)) {
+        /**
+         * Deterministic fallback ONLY with strong sources.
+         * Never append weak FAQ after "Je ne sais pas" (that caused recrutement spam).
+         */
+        const strongProducts = products.filter((p) => p.maxSimilarity >= 0.38);
+        const strongDocs = docs.filter((d) => d.similarity >= 0.36);
+        const strongParts = () => {
           const parts = siteIntent
             ? [
-                docs.length ? deterministicDocAnswer(docs) : "",
-                products.length ? deterministicProductAnswer(products) : "",
+                strongDocs.length ? deterministicDocAnswer(strongDocs) : "",
+                strongProducts.length ? deterministicProductAnswer(strongProducts) : "",
               ]
             : [
-                products.length ? deterministicProductAnswer(products) : "",
-                docs.length ? deterministicDocAnswer(docs) : "",
+                strongProducts.length ? deterministicProductAnswer(strongProducts) : "",
+                strongDocs.length ? deterministicDocAnswer(strongDocs) : "",
               ];
-          const safe = parts.filter(Boolean).join("\n\n") || "Je ne sais pas";
-          send({
-            type: "token",
-            text: assembled.trim() && isDontKnow(assembled) ? `\n\n${safe}` : safe,
-          });
+          return parts.filter(Boolean).join("\n\n");
+        };
+
+        if (!assembled.trim()) {
+          send({ type: "token", text: strongParts() || OUT_OF_CATALOG_REPLY });
+        } else if (isDontKnow(assembled)) {
+          const strong = strongParts();
+          if (strong) {
+            // LLM refused despite strong hits — replace streamed refuse
+            send({ type: "replace", text: strong });
+          } else if (intent === "product") {
+            send({ type: "replace", text: OUT_OF_CATALOG_REPLY });
+          }
+          // else: keep streamed "Je ne sais pas" as-is
         }
 
         send({ type: "done" });

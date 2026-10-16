@@ -930,6 +930,17 @@ export function ChatWidget() {
             : { role: "assistant", content: stripTicketMarker(snapshot) };
           setMsgs([...next, mid]);
         },
+        onReplace: (text) => {
+          assembled = text;
+          const mid: Msg = metaProducts.length
+            ? {
+                role: "assistant",
+                content: stripTicketMarker(text),
+                products: metaProducts,
+              }
+            : { role: "assistant", content: stripTicketMarker(text) };
+          setMsgs([...next, mid]);
+        },
         onError: (message) => {
           sawError = true;
           setMsgs([...next, { role: "assistant", content: `Impossible de répondre : ${message}` }]);

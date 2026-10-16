@@ -1,5 +1,6 @@
 import { createHash } from "node:crypto";
 import { estimateTokenCount, hashContent, splitLongBody } from "./chunk-product";
+import { stripRecruitmentFromMarkdown } from "./rag-guardrails";
 
 export type SiteDocInput = {
   docId: string;
@@ -55,7 +56,8 @@ function buildHeader(doc: SiteDocInput, section: string): string {
 }
 
 export function chunkSiteDoc(doc: SiteDocInput, maxChars = DEFAULT_MAX_CHARS): SiteChunkDraft[] {
-  const sections = splitMarkdownSections(doc.body);
+  const cleanedBody = stripRecruitmentFromMarkdown(doc.body);
+  const sections = splitMarkdownSections(cleanedBody);
   const drafts: SiteChunkDraft[] = [];
   let chunkIndex = 0;
 
